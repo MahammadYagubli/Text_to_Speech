@@ -2,12 +2,15 @@ from gtts import gTTS
 import os
 import pyglet
 import time
+inputtext = input ("Enter What ever you want to hear:")
+
 filename="good_morning.mp3"
 #convert text to speech and save it
-tts=gTTS(text="Səni çok çok çok seviyorum", lang='tr')
+tts=gTTS(text=inputtext, lang='tr')
 tts.save(filename)
 pyglet.options['audio']={'openal', 'pulse','directsound','silent'}
 audio=pyglet.media.load(filename,streaming=False)
 audio.play()
 #wait playing to completed
 time.sleep(audio.duration)
+
