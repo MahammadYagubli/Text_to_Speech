@@ -1,0 +1,10 @@
+import pygame
+import time
+
+def pygame(filename):
+    pygame.mixer.init()
+    pygame.mixer.music.load(filename)
+    pygame.mixer.music.play
+    time.sleep(10)
+if __name__=="__main__":
+    pygame('good_morning.mp3')
