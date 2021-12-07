@@ -1,0 +1,7749 @@
+Part D Investment appraisal
+w
+
+
+(b)
+
+Investment in working capital arises from the need to pay out money for resources (such as raw
+materials) before it can be recovered from sales of the finished product or service. The funds are
+therefore only committed for a short period of time.
+
+1.1.2 Investment by the commercial sector
+Investment by commercial organisations might include investment in:
+
+
+
+
+
+Plant and machinery
+Research and development
+Advertising
+Warehouse facilities
+
+The overriding feature of a commercial sector investment is that it is generally based on financial
+considerations alone. The various capital expenditure appraisal techniques that we will be looking at
+assess the financial aspects of capital investment.
+
+1.1.3 Investment by not for profit organisations
+Investment by not for profit organisations differs from investment by commercial organisations for several
+reasons.
+(a)
+
+Relatively few not for profit organisations' capital investments are made with the intention of
+earning a financial return.
+
+(b)
+
+When there are two or more ways of achieving the same objective (mutually exclusive investment
+opportunities), a commercial organisation might prefer the option with the lowest present value of
+cost.
+Not for profit organisations, however, rather than just considering financial cost and financial
+benefits, will often have regard to the social costs and social benefits of investments.
+
+(c)
+
+The cost of capital that is applied to project cash flows by the public sector will not be a
+'commercial' rate of return, but one that is determined by the government. Any targets that a
+public sector investment has to meet before being accepted will therefore not be based on the
+same criteria as those in the commercial sector.
+
+1.2 The capital budgeting process
+Knowledge brought forward from earlier studies
+
+You should be familiar with the capital budgeting process and the investment decision-making process.
+This section is included for revision only.
+
+1.2.1 Creation of capital budgets
+The capital budget will normally be prepared to cover a longer period than sales, production and resource
+budgets, say from three to five years, although it should be broken down into periods matching those of
+other budgets.
+It should indicate the expenditure required to cover capital projects already underway and those it is
+anticipated will start in the three- to five-year period (say) of the capital budget.
+The budget should therefore be based on the current production budget, future expected levels of
+production and the long-term development of the organisation, and industry, as a whole.
+Budget limits or constraints might be imposed internally or externally.
+(a)
+
+The imposition of internal constraints, which are often imposed when managerial resources are
+limited, is known as soft capital rationing.
+
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+147
+
+(b)
+
+Hard capital rationing occurs when external limits are set, perhaps because of scarcity of
+financing, high financing costs or restrictions on the amount of external financing an organisation
+can seek.
+
+Projects can arise from top management policy decisions or from sources such as mandatory government
+regulations (health, safety and welfare capital expenditure), or be appraised using the techniques covered in
+this chapter and the next.
+Overall responsibility for authorisation and monitoring of capital expenditure is, in most large
+organisations, the responsibility of a committee. For example:
+
+
+
+
+Expenditure up to $75,000 may be approved by individual divisional managers.
+Expenditure between $75,000 and $150,000 may be approved by divisional management.
+Expenditure over $150,000 may be approved by the board of directors.
+
+1.2.2 The investment decision-making process
+A typical model for investment decision-making has a number of distinct stages.
+
+
+
+
+
+Origination of proposals
+Project screening
+Analysis and acceptance
+Monitoring and review
+
+1.2.3 Origination of proposals
+Ideas for investment might come from those working in technical positions. A factory manager, for
+example, could be well placed to identify ways in which expanded capacity or new machinery could
+increase output or the efficiency of the manufacturing process.
+Innovative ideas, such as new product lines, are more likely to come from those in higher levels of
+management, given their strategic view of the organisation's direction and their knowledge of the
+competitive environment.
+The overriding feature of any proposal is that it should be consistent with the organisation's overall
+strategy to achieve its objectives.
+
+1.2.4 Project screening
+Each proposal must be subject to detailed screening. So that a qualitative evaluation of a proposal can be
+made, a number of key questions such as those below might be asked before any financial analysis is
+undertaken. Only if the project passes this initial screening will more detailed financial analysis begin.
+
+
+
+
+
+
+
+
+
+What is the purpose of the project?
+Does it 'fit' with the organisation's long-term objectives?
+Is it a mandatory investment, for example to conform with safety legislation?
+What resources are required and are they available, eg money, capacity, labour?
+Do we have the necessary management expertise to guide the project to completion?
+Does the project expose the organisation to unnecessary risk?
+How long will the project last and what factors are key to its success?
+Have all possible alternatives been considered?
+
+1.2.5 Analysis and acceptance
+The analysis stage can be broken down into a number of steps.
+
+148
+
+Step 1
+
+Complete and submit standard format financial information as a formal investment
+proposal.
+
+Step 2
+
+Classify the project by type (to separate projects into those that require more or less
+rigorous financial appraisal, and those that must achieve a greater or lesser rate of return in
+order to be deemed acceptable).
+
+7: Investment decisions
+
+Part D Investment appraisal
+w
+
+
+
+Step 3
+Step 4
+Step 5
+
+Carry out financial analysis of the project.
+
+Step 6
+
+Make the decision (go/no go).
+
+Step 7
+
+Monitor the progress of the project.
+
+Compare the outcome of the financial analysis to predetermined acceptance criteria.
+Consider the project in the light of the capital budget for the current and future operating
+periods.
+
+Financial analysis
+The financial analysis will involve the application of the organisation's preferred investment appraisal
+techniques.
+Here are examples of the type of question that will be addressed at this stage.
+
+
+
+
+
+What cash flows/profits will arise from the project and when?
+Has inflation been considered in the determination of the cash flows?
+What are the results of the financial appraisal?
+Has any allowance been made for risk and, if so, what was the outcome?
+
+Some types of project, for example a marketing investment decision, may give rise to cash inflows and
+returns which are so intangible and difficult to quantify that a full financial appraisal may not be
+possible. In this case, more weight may be given to a consideration of the qualitative issues.
+
+Qualitative issues
+Besides reviewing the project's 'fit' with the organisation's overall objectives and whether it is a mandatory
+investment, there is a very wide range of other qualitative issues that may be relevant to a particular
+project.
+(a)
+
+What are the implications of not undertaking the investment, eg adverse effect on staff morale, loss
+of market share?
+
+(b)
+
+Will acceptance of this project lead to the need for further investment activity in the future?
+
+(c)
+
+What will be the effect on the company's image?
+
+(d)
+
+Will the organisation be more flexible as a result of the investment, and better able to respond to
+market and technology changes?
+
+Go/no go decision
+Go/no go decisions on projects may be made at different levels within the organisational hierarchy,
+depending on three factors.
+
+
+
+
+The type of investment
+Its perceived riskiness
+The amount of expenditure required
+
+For example, a divisional manager may be authorised to make decisions up to $25,000, an area manager
+up to $150,000 and a group manager up to $300,000, with board approval for greater amounts.
+Once the go/no go (or accept/reject) decision has been made, the organisation is committed to the
+project, and the decision-maker must accept that the project's success or failure reflects on their ability to
+make sound decisions.
+
+1.2.6 Monitoring the progress of the project
+During the project's progress, project controls should be applied to ensure the following.
+
+
+
+
+Capital spending does not exceed the amount authorised.
+The implementation of the project is not delayed.
+The anticipated benefits are eventually obtained.
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+149
+
+2 Relevant cash flows
+FAST FORWARD
+
+Relevant costs of investment appraisal include opportunity costs, working capital costs and wider costs
+such as infrastructure and human development costs. Non-relevant costs include past costs and
+committed costs.
+
+2.1 Relevant cash flows in investment appraisals
+The cash flows that should be considered in investment appraisals are those which arise as a
+consequence of the investment decision under evaluation. This means that cash flows are only relevant if
+they are future incremental cash flows.
+Any costs incurred in the past, or any committed costs which will be incurred regardless of whether or
+not an investment is undertaken, are not relevant cash flows. They have occurred, or will occur, whatever
+investment decision is taken. For example, if a company has spent money on market research into the
+potential returns from an investment, the cost is a sunk cost and should not be taken into consideration
+when deciding about the future and whether or not the investment should go ahead.
+Any costs which do not represent an actual cash flow should also be ignored.
+Here are some examples of non-relevant costs.
+
+
+
+
+Exam focus
+point
+
+Centrally allocated overheads that are not a consequence of undertaking the project
+Management costs and marketing research expenditure already incurred
+Depreciation
+
+The ACCA examining team comments that students often include non-relevant costs in investment
+appraisals. Make sure you identify any non-relevant costs when answering questions in the exam.
+The annual cash profits from a project can be calculated as the incremental contribution earned minus
+any incremental fixed costs which are additional cash items of expenditure (that is, ignoring depreciation
+and so on).
+There are, however, other cash flows to consider. These might include the following.
+
+2.1.1 Opportunity costs
+These are the costs incurred or revenues lost from diverting existing resources from their best use.
+
+2.1.2 Example: Opportunity costs
+If a salesman, who is paid an annual salary of $30,000, is diverted to work on a new project and as a result
+existing sales of $50,000 are lost, the opportunity cost to the new project will be the $50,000 of lost sales.
+The salesman's salary of $30,000 is not an opportunity cost since it will be incurred however their time is
+spent.
+
+2.1.3 Tax
+This refers to the extra tax that will be payable on extra profits, or the reductions in tax arising from tax
+allowable depreciation or operating losses in any year. We shall consider the effect of taxation in Chapter 9.
+
+2.1.4 Residual value
+This refers to the residual value or disposal value of equipment at the end of its life, or its disposal cost.
+
+150
+
+7: Investment decisions
+
+Part D Investment appraisal
+w
+
+
+2.1.5 Working capital
+If a company invests $20,000 in working capital and earns cash profits of $50,000, the net cash receipts
+will be $30,000. This is because an increase in working capital reduces the net cash inflows below the
+amount that could be expected from the 'cash profits' for the period.
+Working capital will be released again at the end of a project's life, and so there will be a cash inflow
+arising out of the eventual realisation into cash of the project's inventory and receivables in the final year
+of the project. In other words, a reduction in working capital is included in a cash flow forecast as an
+increase in cash.
+Cash flow from profits in the period
+Minus working capital increase
+or Plus working capital reduction
+Equals adjusted cash flow for the period
+
+$
+X
+(X)
+X
+X
+
+In investment appraisal, an investment in working capital at the beginning of the investment period is
+treated as an outflow of cash, and a reduction in working capital to $0 at the end of the investment period
+is treated as an inflow of cash.
+
+2.2 Other relevant costs
+Costs that will often need to be considered include:
+
+
+Infrastructure costs such as additional information technology or communication systems
+
+
+
+Marketing costs may be substantial, particularly of course if the investment is in a new product or
+service. They will include the costs of market research, promotion and branding and the
+organisation of new distribution channels.
+
+
+
+Human resource costs including training costs and the costs of reorganisation arising from
+investments
+
+
+
+Additional specific fixed costs may need to be considered, while apportioned existing general
+overheads are ignored. Specific fixed costs include additional electricity costs incurred by the use
+of new machines.
+
+2.3 Timing of cash flows
+It is normally assumed that cash flows that arise evenly over a period of time arise at the end of that
+period. For example, revenues earned in Year 1 are assumed to occur at the end of Year 1.
+An exception to this general rule is that cash flows occurring at the beginning of a year (or time period)
+are assumed to occur at the end of the previous time period. So cash flows at the beginning of Year 1, for
+example, are assumed to occur at the end of Year 0 (which is 'now').
+
+2.4 Relevant benefits of investments
+FAST FORWARD
+
+Relevant benefits from investments include not only increased cash flows but also savings and better
+relationships with customers and employees.
+
+2.4.1 Types of benefit
+The benefits from a proposed investment must also be evaluated. These might consist of benefits of
+several types.
+(a)
+
+Savings because assets used currently will no longer be used. The savings should include:
+(i)
+(ii)
+
+Savings in staff costs
+Savings in other operating costs, such as consumable materials
+
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+151
+
+(b)
+
+Extra savings or revenue benefits because of the improvements or enhancements that the
+investment might bring:
+More sales revenue and so additional contribution
+More efficient system operation
+Further savings in staff time, resulting perhaps in reduced future staff growth
+
+(i)
+(ii)
+(iii)
+(c)
+
+Possibly, some one-off revenue benefits from the sale of assets that are currently in use, but
+which will no longer be required
+
+Some benefits might be intangible, or impossible to give a monetary value to.
+(a)
+
+Greater customer satisfaction, arising from a more prompt service (eg because of a computerised
+sales and delivery service)
+
+(b)
+
+Improved staff morale from working with higher-quality assets
+
+(c)
+
+Better decision-making may result from better information systems
+
+Qualitative factors may influence a decision, but cannot easily be brought into the financial analysis of a
+proposed investment.
+
+2.5 Example: Relevant cash flows
+Elsie is considering the manufacture of a new product which would involve the use of both a new machine
+(costing $150,000) and an existing machine, which cost $80,000 two years ago and has a current net
+book value of $60,000. There is sufficient capacity on this machine, which has so far been underutilised.
+Annual sales of the product would be 5,000 units, selling at $32 per unit. Unit costs would be as follows.
+Direct labour (4 hours at $2 per hour)
+Direct materials
+Fixed costs including depreciation
+
+$
+8
+7
+9
+24
+
+The project would have a five-year life, after which the new machine would have a net residual value of
+$10,000. Because direct labour is continually in short supply, labour resources would have to be diverted
+from other work which currently earns a contribution of $1.50 per direct labour hour. The fixed overhead
+absorption rate would be $2.25 per hour ($9 per unit) but actual expenditure on fixed overhead would not
+alter.
+Working capital requirements would be $10,000 in the first year, rising to $15,000 in the second year and
+remaining at this level until the end of the project, when it will all be recovered. The company's cost of
+capital is 20%. Ignore taxation.
+You are required to identify the relevant cash flows for the decision as to whether or not the project is
+worthwhile.
+
+Solution
+The timing of the investment in working capital should usually be attributed to the time period when the
+increase occurs. With an investment, the build-up of working capital is more likely to occur at the
+beginning of the period rather than gradually throughout the period. It is usually therefore normal
+convention to allocate changes in working capital to the beginning of the year rather than the end of the
+year. This means that the investment in working capital in the first year happens near the beginning of the
+first year (= Year 0) and the further increase in the second year happens at the beginning of Year 2
+(= Year 1).
+The relevant cash flows are as follows.
+
+152
+
+(a)
+
+Year 0
+
+Purchase of new machine: cash outflow
+
+(b)
+
+Year 0
+
+Initial investment in working capital: cash outflow
+
+$10,000
+
+(c)
+
+Year 1
+
+Additional investment in working capital in Year 2
+
+$5,000
+
+7: Investment decisions
+
+Part D Investment appraisal
+w
+
+$150,000
+
+
+(d)
+
+Years 1-5
+Contribution from new product (5,000 units
+Less contribution foregone
+(5,000 (4 $1.50))
+Residual value of new machine
+Net cash inflow
+
+(e)
+
+Year 5
+
+$
+85,000
+
+$(32 – 15))
+
+30,000
+10,000
+65,000
+
+Recovery of working capital investment: net cash inflow $15,000
+
+When the working capital tied up in the project is 'recovered' at the end of the project, it will
+provide an extra cash inflow (for example debtors will eventually pay up).
+(f)
+
+All other costs, which are past costs, notional accounting costs or costs which would be incurred
+anyway without the project, are not relevant to the investment decision.
+
+3 Payback period
+FAST FORWARD
+
+9/16
+
+The payback method of investment appraisal and the ROCE/ARR/ROI methods of investment appraisal are
+popular appraisal techniques despite their limitations (of which you should be aware).
+Payback is the amount of time it takes for cash inflows = cash outflows.
+There are a number of ways of evaluating capital projects, two of which we will be examining in this
+chapter. We will look first at the payback method.
+
+Exam focus
+point
+
+Key term
+
+Exam questions often ask about the pros and cons of the payback method. The ACCA examining team has
+commented that discussion questions covering payback and ROCE are often poorly attempted by
+students.
+Payback is the time it takes the cash inflows from a capital investment project to equal the cash outflows,
+usually expressed in years. It is the length of time before the cash inflows from an investment pay back
+the investment outlay.
+Payback is often used as a 'first screening method' in investment appraisal. By this, we mean that when a
+capital investment project is being considered, the first question to ask is: 'How long will it take to pay
+back its cost?' The organisation might have a target payback, and so it would reject a capital project
+unless its payback period were less than a certain number of years.
+However, a project should not be evaluated on the basis of payback alone. If a project gets through the
+payback test, it ought then to be evaluated with a more sophisticated investment appraisal technique that
+takes into consideration the total return over the full investment period.
+
+3.1 Why is payback alone an inadequate investment appraisal
+technique?
+The reason why payback should not be used on its own to evaluate capital investments should seem fairly
+obvious if you look at the figures below for two mutually exclusive projects (this means that only one of
+them can be undertaken).
+Project P
+Project Q
+$
+$
+Capital investment
+60,000
+60,000
+Profits before depreciation (a rough approximation of cash flows)
+Year 1
+20,000
+50,000
+Year 2
+30,000
+20,000
+Year 3
+40,000
+5,000
+Year 4
+50,000
+5,000
+Year 5
+60,000
+5,000
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+153
+
+Project P pays back in year 3 (about one quarter of the way through year 3). Project Q pays back halfway
+through year 2. Using payback alone to judge capital investments, project Q would be preferred.
+However, the returns from project P over its life are much higher than the returns from project Q. Project
+P will earn total profits before depreciation of $140,000 on an investment of $60,000. Project Q will earn
+total profits before depreciation of only $25,000 on an investment of $60,000.
+
+3.2 Disadvantages of the payback method
+There are a number of serious drawbacks to the payback method.
+(a)
+
+It ignores the timing of cash flows within the payback period.
+
+(b)
+
+It ignores the cash flows after the end of the payback period and therefore the total project return.
+
+(c)
+
+It ignores the time value of money (a concept incorporated into more sophisticated appraisal
+methods). This means that it does not take account of the fact that $1 today is worth more than $1
+in one year's time. An investor who has $1 today can either consume it immediately or alternatively
+can invest it at the prevailing interest rate, say 10%, to get a return of $1.10 in a year's time.
+
+(d)
+
+Payback is unable to distinguish between projects with the same payback period.
+
+(e)
+
+The choice of any cut-off payback period by an organisation is arbitrary.
+
+(f)
+
+It may lead to excessive investment in short-term projects.
+
+(g)
+
+It takes account of the risk of the timing of cash flows but not the variability of those cash flows.
+
+3.3 Advantages of the payback method
+In spite of its limitations, the payback method continues to be popular, and the following points can be
+made in its favour.
+(a)
+
+It is simple to calculate and simple to understand. This may be important when management
+resources are limited. It is similarly helpful in communicating information about minimum
+requirements to managers responsible for submitting projects.
+
+(b)
+
+It uses cash flows rather than accounting profits.
+
+(c)
+
+It can be used as a screening device as a first stage in eliminating obviously inappropriate projects
+prior to more detailed evaluation.
+
+(d)
+
+The fact that it tends to bias in favour of short-term projects means that it tends to minimise both
+financial and business risk.
+
+(e)
+
+It can be used when there is a capital rationing situation to identify those projects which generate
+additional cash for investment quickly.
+
+4 Return on capital employed
+FAST FORWARD
+
+ROCE =
+
+6/15, 9/16, 12/16
+
+Estimated average/total profits
+100%
+Estimated average/initial investment
+
+The return on capital employed method (ROCE) (also called the accounting rate of return method or the
+return on investment (ROI) method) of appraising a capital project is to estimate the accounting rate of
+return that the project should yield. If it exceeds a target rate of return, the project will be undertaken. In
+Chapter 1 we discussed how return on capital employed is measured for financial accounting purposes.
+Here the measure is calculated in relation to investments.
+Unfortunately, there are several different definitions of 'return on capital employed'. One of the most
+popular is as follows.
+
+154
+
+7: Investment decisions
+
+Part D Investment appraisal
+w
+
+
+ROCE =
+
+Estimated average annual accounting profits
+Estimated average investment
+
+Average investment =
+
+100%
+
+Capital cos t disposal value
+2
+
+The others include:
+ROCE =
+
+Estimated total profits
+Estimated initial investment
+
+100%
+
+ROCE =
+
+Estimated average profits
+Estimated initial investment
+
+100%
+
+There are arguments in favour of each of these definitions. The most important point is, however, that the
+method selected should be used consistently. For examination purposes we recommend the first definition
+unless the question clearly indicates that some other one is to be used.
+
+Exam focus
+point
+
+Previous exams have stated that the ROCE calculation should be based on the average investment and
+used the first definition.
+
+4.1 Example: Return on capital employed
+A company has a target return on capital employed of 20% for its capital investments (using the first
+definition from the paragraph above), and is now considering the following project.
+Capital cost of asset
+Estimated life
+
+$80,000
+4 years
+
+Estimated profit before depreciation
+Year 1
+Year 2
+Year 3
+Year 4
+
+$20,000
+$25,000
+$35,000
+$25,000
+
+The capital asset would be depreciated by 25% of its cost each year, and will have no residual value. You
+are required to assess whether the project should be undertaken.
+
+Solution
+The annual profits after depreciation, and the mid-year net book value of the asset, would be as follows.
+Year
+
+1
+2
+3
+4
+
+Profit after
+depreciation
+$
+0
+5,000
+15,000
+5,000
+
+Mid-year net
+book value
+$
+70,000
+50,000
+30,000
+10,000
+
+ROCE in the
+year
+%
+0
+10
+50
+50
+
+As the table shows, the ROCE is low in the early stages of the project, partly because of low profits in Year
+1 but mainly because the net book value of the asset is much higher early on in its life.
+The project does not achieve the target ROCE of 20% in its first two years, but exceeds it in years 3 and 4.
+So should it be undertaken?
+When the ROCE from a project varies from year to year, it makes sense to take an overall or 'average' view
+of the project's return. In this case, we should look at the return as a whole over the four-year period.
+
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+155
+
+$
+105,000
+25,000
+6,250
+80,000
+
+Total profit before depreciation over four years
+Total profit after depreciation over four years
+Average annual profit after depreciation
+Original cost of investment
+Average net book value over the four-year period
+ROCE =
+
+(80,000 0)
+2
+
+40,000
+
+6,250
+= 15.6%
+40,000
+
+The project would not be undertaken because it would fail to yield the target return of 20%.
+
+4.2 ROCE and the comparison of mutually exclusive projects
+The ROCE method of capital investment appraisal can also be used to compare two or more projects
+which are mutually exclusive. The project with the highest ROCE would be selected (provided that the
+expected ROCE is higher than the company's target ROCE).
+
+4.3 Example: ROCE and mutually exclusive projects
+Arrow wants to buy a new item of equipment which will be used to provide a service to customers of the
+company. Two models of equipment are available, one with a slightly higher capacity and greater reliability
+than the other. The expected costs and profits of each item are as follows.
+Equipment item X
+$80,000
+
+Equipment item Y
+$150,000
+
+Life
+
+5 years
+
+5 years
+
+Profits before depreciation
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+
+$
+50,000
+50,000
+30,000
+20,000
+10,000
+
+$
+50,000
+50,000
+60,000
+60,000
+60,000
+
+0
+
+0
+
+Capital cost
+
+Disposal value
+
+ROCE is measured as the average annual profit after depreciation, divided by the average net book value of
+the asset. You are required to decide which item of equipment should be selected, if any, if the company's
+target ROCE is 30%.
+
+Solution
+Total profit over life of equipment
+Before depreciation
+After depreciation
+Average annual profit after depreciation
+Average investment = (Capital cost + disposal value)/2
+ROCE
+
+Item X
+$
+
+Item Y
+$
+
+160,000
+80,000
+16,000
+40,000
+40%
+
+280,000
+130,000
+26,000
+75,000
+34.7%
+
+Both projects would earn a return in excess of 30%, but since item X would earn a bigger ROCE, it would
+be preferred to item Y, even though the profits from Y would be higher by an average of $10,000 a year.
+
+156
+
+7: Investment decisions
+
+Part D Investment appraisal
+w
+
+
+
+4.4 The drawbacks to the ROCE method of capital investment appraisal
+The ROCE method of capital investment appraisal has the serious drawback that it does not take account
+of the timing of the profits from an investment. Whenever capital is invested in a project, money is tied up
+until the project begins to earn profits which pay back the investment. Money tied up in one project cannot
+be invested anywhere else until the profits come in. Management should be aware of the benefits of early
+repayments from an investment, which will provide the money for other investments.
+There are a number of other disadvantages.
+(a)
+
+It is based on accounting profits and not cash flows. Accounting profits are subject to a number of
+different accounting treatments.
+
+(b)
+
+It is a relative measure rather than an absolute measure and therefore takes no account of the size
+of the investment.
+
+(c)
+
+It takes no account of the length of the project.
+
+(d)
+
+Like the payback method, it ignores the time value of money.
+
+There are, however, advantages to the ROCE method.
+(a)
+
+It is a quick and simple calculation.
+
+(b)
+
+It involves the familiar concept of a percentage return. The fact that it gives a relative measure
+means that ROCE makes it easy to compare two investment options.
+
+(c)
+
+It looks at the entire project life.
+
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+157
+
+Chapter Roundup
+
+
+Relevant costs of investment appraisal include opportunity costs, working capital costs and wider costs such
+as infrastructure and human development costs. Non-relevant costs include past costs and committed costs.
+
+
+
+Relevant benefits from investments include not only increased cash flows but also savings and better
+relationships with customers and employees.
+
+
+
+The payback method of investment appraisal and the ROCE/ARR/ROI methods of investment appraisal are
+popular appraisal techniques despite their limitations (of which you should be aware).
+Payback is the amount of time it takes for cash inflows = cash outflows.
+
+
+
+158
+
+ROCE =
+
+7: Investment decisions
+
+Estimated average/total profits
+100%
+Estimated average/initial investment
+
+Part D Investment appraisal
+w
+
+
+
+Quick Quiz
+1
+
+One reason that capital expenditure may be incurred is to maintain the earning capacity of existing
+non-current assets.
+True
+False
+
+2
+
+If a machine with annual running costs of $100,000 was diverted from producing output selling for
+$50,000 to producing a special order worth $70,000, what would be the relevant costs of what has
+happened?
+A
+B
+C
+D
+
+3
+
+$170,000
+$100,000
+$50,000
+$20,000
+
+The financial benefits of a new investment consist of the increased sales revenues it generates.
+True
+False
+
+4
+
+Fill in the blank.
+…………………………. is the time it takes the cumulative cash inflows from a capital investment
+project to equal the cumulative cash outflows.
+
+5
+
+6
+
+7
+
+Which of the following can be used to calculate the return on capital employed?
+(a)
+
+Estimated average annual profits
+Estimated average investment
+
+(b)
+
+Estimated total profits
+Estimated initial investment
+
+(c)
+
+Estimated average annual profits
+Estimated initial investment
+
+100%
+
+100%
+100%
+
+Fill in the blanks in these statements about the advantages of the payback method.
+(a)
+
+Focus on early payback can enhance …………………………(liquidity/profitability).
+
+(b)
+
+Investment risk is …………………………………(increased/reduced) if payback is longer.
+
+(c)
+
+……………………….. term forecasts are likely to be more reliable.
+
+The return on capital employed method of investment appraisal uses accounting profits before
+depreciation charges.
+True
+False
+
+Part D Investment appraisal
+w
+
+7: Investment decisions
+
+159
+
+Answers to Quick Quiz
+1
+
+False. This is a reason for incurring revenue expenditure.
+
+2
+
+C
+
+3
+
+False. Financial benefits could also include the savings from not operating existing assets any more, and
+also proceeds from the disposal of old assets.
+
+4
+
+Payback
+
+5
+
+All three could be used, although (a)
+
+6
+
+(a)
+(b)
+(c)
+
+7
+
+False
+
+$50,000, the opportunity cost of the lost sales revenue. A and B are wrong because they include
+the $100,000 running costs which would be incurred anyway so are not relevant. In the absence of
+any further information, $20,000 (D) would be the net benefit ($70,000 – $50,000).
+
+Estimated average annual profits
+× 100% is generally best.
+Estimated average investment
+
+Liquidity
+Increased
+Shorter
+
+Now try the questions below from the Practice Question Bank
+
+160
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q15
+
+Examination
+
+2
+
+4 mins
+
+Section A Q16
+
+Examination
+
+2
+
+4 mins
+
+Section A Q17
+
+Examination
+
+2
+
+4 mins
+
+Section B Q1–5
+
+Introductory
+
+10
+
+20 mins
+
+7: Investment decisions
+
+Part D Investment appraisal
+w
+
+
+
+Investment appraisal
+using DCF methods
+
+Topic list
+
+Syllabus reference
+
+1 Discounted cash flow
+
+Revision
+
+2 The net present value method
+
+D1 (e)
+
+3 The internal rate of return method
+
+D1 (f)
+
+4 NPV and IRR compared
+
+D1 (h)
+
+5 Assessment of DCF methods of project appraisal
+
+D1 (g)
+
+Introduction
+The payback and ROCE methods of investment appraisal were considered in
+the previous chapter. This chapter will look at discounted cash flow (DCF)
+methods of investment appraisal which take into account changes in the value
+of money over time. These two methods, Net Present Value (NPV) and
+Internal Rate of Return (IRR), use the technique of discounting to bring all
+cash flows resulting from the investment to a present day value by eliminating
+the interest that would have been earned on that cash flow had it happened
+now rather than later.
+The interest rate (referred to as discount rate in this context) used in this
+calculation is specific to each organisation, and depends on the relative levels
+of debt and equity funding of the organisation. This links to later studies in this
+text concerning cost of capital and capital structure.
+Chapter 9 will look at how inflation and taxation can be incorporated into
+appraisal techniques.
+
+w
+
+161
+
+Study guide
+Intellectual level
+D1
+
+Investment appraisal techniques
+
+(e)
+
+Calculate net present value and discuss its usefulness as an investment
+appraisal method.
+
+2
+
+(f)
+
+Calculate internal rate of return and discuss its usefulness as an investment
+appraisal method.
+
+2
+
+(g)
+
+Discuss the superiority of discounted cash flow (DCF) methods over
+non-DCF methods.
+
+2
+
+(h)
+
+Discuss the relative merits of NPV and IRR.
+
+2
+
+Exam guide
+You may be asked to discuss the relative merits of the various investment appraisal techniques as well as
+to demonstrate your ability to apply the techniques themselves.
+Performance objective 9 requires you to 'value projects, financial securities and instruments and advise on
+their costs and benefits to the organisation'. This chapter concentrates on valuing projects using
+discounted cash flow techniques.
+
+1 Discounted cash flow (Brought forward knowledge)
+Knowledge brought forward from earlier studies
+
+You should be familiar with the concepts of interest and discounting from your earlier studies. This
+section is included for revision purposes only.
+There are two methods of using DCF to evaluate capital investments, the NPV method and the IRR
+method.
+
+Discounted cash flow, or DCF for short, is an investment appraisal technique which takes into account
+both the timings of cash flows and also total profitability over a project's life.
+Three important points about DCF are as follows.
+
+162
+
+(a)
+
+DCF looks at the cash flows of a project, not the accounting profits. Cash flows are considered
+because they show the costs and benefits of a project when they actually occur and ignore notional
+costs such as depreciation.
+
+(b)
+
+Only future incremental cash inflows and outflows are considered. This means that costs incurred
+in the past (sunk costs) should be ignored. Costs which would need to be incurred regardless of
+whether or not the project is undertaken should also be ignored.
+
+(c)
+
+The timing of cash flows is taken into account by discounting them. $1 earned today will be worth
+more than $1 earned after two years. This is partly due to the effect of inflation, and partly due to
+the greater certainty in having $1 in hand today compared with the promise of $1 in a year's time.
+In addition, cash we have in hand today can be spent or invested elsewhere: for example, put into a
+savings account to earn annual interest.
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+1.1 Compounding
+Suppose that a company has $10,000 to invest, and wants to earn a return of 10% (compound interest)
+on its investments. This means that if the $10,000 could be invested at 10%, the value of the investment
+with interest would build up as follows.
+(a)
+(b)
+(c)
+
+After 1 year $10,000
+After 2 years $10,000
+After 3 years $10,000
+
+(1.10) = $11,000
+2
+(1.10) = $12,100
+3
+(1.10) = $13,310 and so on.
+
+This is compounding. Compounding tells us how much an investment will be worth at the end, and can be
+used to compare two projects with the same duration. The formula for the future value of an investment
+plus accumulated interest after n time periods is:
+FV = PV (1 + r)
+
+n
+
+Where FV is the future value of the investment with interest
+PV is the initial or 'present' value of the investment
+r is the compound rate of return per time period, expressed as a proportion
+(so 10% = 0.10, 5% = 0.05, and so on)
+n is the number of time periods
+
+1.2 Discounting
+Key term
+
+Present value is the cash equivalent now of a sum of money receivable or payable at a stated future date,
+discounted at a specified rate of return.
+Discounting starts with the future value, and converts a future value to a present value. Discounting tells
+us how much an investment will be worth in today's terms. This method can be used to compare two
+investments with different durations.
+For example, if a company expects to earn a (compound) rate of return of 10% on its investments, how
+much would it need to invest now to have the following investments?
+(a)
+(b)
+(c)
+
+$11,000 after 1 year
+$12,100 after 2 years
+$13,310 after 3 years
+
+The answer is $10,000 in each case, and we can calculate it by discounting. The discounting formula to
+calculate the present value of a future sum of money at the end of n time periods is:
+
+PV
+
+Formula to
+learn
+
+FV
+
+1
+(1 r)n
+
+Present value of 1 = (1+r)-n or
+
+1
+(1 r)n
+
+1
+1.10
+
+(a)
+
+After 1 year, $11,000
+
+(b)
+
+After 2 years, $12,100
+
+(c)
+
+After 3 years, $13,310
+
+1
+1.102
+1
+1.103
+
+$10,000
+$10,000
+$10,000
+
+Discounting can be applied to both money receivable and also to money payable at a future date. By
+discounting all payments and receipts from a capital investment to a present value, they can be compared
+on a common basis at a value which takes account of when the various cash flows will take place.
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+163
+
+Question
+
+Present value
+
+Spender expects the cash inflow from an investment to be $40,000 after two years and another $30,000
+after three years. Its target rate of return is 12%. Calculate the present value of these future returns, and
+explain what this present value signifies.
+
+Answer
+(a)
+
+Year
+
+2
+
+Cash flow
+$
+40,000
+
+Discount factor 12%
+
+1
+(1.12)2
+
+3
+
+30,000
+
+1
+(1.12)3
+
+(b)
+
+0.797
+0.712
+
+Present value
+$
+31,880
+
+21,360
+Total PV 53,240
+
+The present value of the future returns, discounted at 12%, is $53,240. This means that if Spender
+can invest now to earn a return of 12% on its investments, it would have to invest $53,240 now to
+earn $40,000 after two years plus $30,000 after three years.
+
+1.3 The discount factor
+In the compounding and discounting examples above, we used the company's required rate of return as
+the discount factor. How do companies decide the rate of return that they require?
+Imagine Company A has a bank account, earning 5% interest. When considering whether or not to invest
+in a project, the company's directors may use the bank interest rate as a benchmark. If the investment's
+rate of return is 3%, would Company A invest? Probably not, because a higher level of return can be
+earned by simply depositing the same amount of money in the bank account. However, if the investment's
+rate of return is 8%, then the company will probably choose to invest.
+On the other hand, consider Company B, which has no cash in hand. It will be required to borrow from a
+bank should it decide to invest in a project. Company B's directors may use the loan interest as a
+benchmark when evaluating investments to ensure that they only accept projects which sufficiently reward
+the company for the additional costs the company has to bear in making the investment. If the company
+borrows at 6%, it will most likely reject a project which yields a rate of return of 3%. However, it may
+consider a project that is expected to yield a rate of return of 8%.
+These examples are two simplistic ways of thinking about the cost of capital, often used to derive a
+discount rate for DCF analysis and investment appraisal.
+The cost of capital has two aspects to it.
+(a)
+(b)
+
+It is the cost of funds that a company raises and uses.
+The return that investors expect to be paid for putting funds into the company. It is therefore the
+minimum return that a company should make from its own investments, to earn the cash flows
+out of which investors can be paid their return.
+
+The cost of capital is not the cost of borrowing, although the cost of borrowing may be an element in the
+cost of capital. We will study the cost of capital in detail in Part E of this Study Text. For the purpose of
+this chapter, we shall assume that the cost of capital is a known required percentage annual rate of return
+on investments.
+
+164
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+2 The net present value method
+12/14, 6/15, Sep/Dec15, Mar/Jun 16, 9/16, Mar/Jun 17
+FAST FORWARD
+
+The NPV method of investment appraisal is to invest in projects with a positive NPV.
+An annuity is a constant cash flow for a number of years. A perpetuity is a constant annual cash flow (an
+annuity) that will last forever.
+
+Key terms
+
+Net present value or NPV is the value obtained by discounting all cash outflows and inflows of a capital
+investment project by a chosen target rate of return or cost of capital.
+
+The NPV method compares the present value (PV) of all the cash inflows from an investment with the
+present value of all the cash outflows from an investment. The NPV is thus calculated as the PV of cash
+inflows minus the PV of cash outflows.
+NPV
+
+NPV positive
+
+Return from investment's cash inflows in excess of cost of capital
+
+NPV negative
+
+Return from investment's cash inflows below cost of capital
+
+NPV 0
+
+Return from investment's cash inflows same as cost of capital
+
+undertake project
+
+don't undertake project
+
+Note. We assume that the cost of capital is the organisation's target rate of return for proposed
+investment projects.
+
+2.1 Example: NPV
+A company is considering a capital investment, where the estimated cash flows are as follows.
+Year
+
+Cash flow
+$
+(100,000)
+60,000
+80,000
+40,000
+30,000
+
+0 (ie now)
+1
+2
+3
+4
+
+The company's cost of capital is 15%. You are required to calculate the NPV of the project and to assess
+whether it should be undertaken.
+
+Solution
+Year
+
+0
+
+Cash flow
+$
+(100,000)
+
+1
+
+60,000
+
+2
+
+80,000
+
+3
+
+40,000
+
+4
+
+30,000
+
+Discount factor 15%
+
+1.000
+1
+= 0.870
+(1.15)
+1
+= 0.756
+(1.15)2
+
+1
+(1.15)3
+1
+(1.15)4
+
+Present value
+$
+(100,000)
+
+52,200
+60,480
+
+= 0.658
+
+26,320
+
+= 0.572
+
+17,160
+NPV = 56,160
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+165
+
+Note. The discount factor for any cash flow 'now' (year 0) is always = 1, regardless of what the cost of
+capital is.
+
+In this example, the PV of cash inflows exceeds the PV of cash outflows by $56,160, which means that the
+project will earn a DCF yield in excess of 15%. It should therefore be undertaken.
+(It may also be predicted that the investment should add $56,160 to the value of the company.)
+
+2.2 Timing of cash flows: conventions used in DCF
+Discounted cash flow applies discounting arithmetic to the relevant costs and benefits of an investment
+project. Discounting, which reduces the value of future cash flows to a present value equivalent, is clearly
+concerned with the timing of the cash flows. As a general rule, the following guidelines may be applied.
+
+Exam focus
+point
+
+(a)
+
+A cash outlay to be incurred at the beginning of an investment project ('now') occurs in year 0. The
+present value of $1 now, in year 0, is $1 regardless of the value of r.
+
+(b)
+
+As explained earlier, a cash outlay, saving or inflow which occurs during the course of a time
+period (say, during a year) is assumed to occur all at once at the end of the time period (at the
+end of the year). Receipts of $10,000 during year 1 are therefore taken to occur at the end of
+year 1.
+
+(c)
+
+A cash outlay or receipt which occurs at the beginning of a time period (say, at the beginning of
+one year) is taken to occur at the end of the previous year. Therefore a cash outlay of $5,000 at
+the beginning of year 2 is taken to occur at the end of year 1.
+
+The ACCA examining team's reports suggest that candidates often get the timing of cash flows wrong,
+particularly initial investment, working capital and tax.
+
+2.3 Discount tables for the PV of $1
+The discount factor that we use in discounting is
+
+1
+n
+
+(1 r)
+
+(1 r)
+
+n
+
+Instead of having to calculate this factor every time, we can use tables. Discount tables for the present
+value of $1, for different values of r and n, are shown in the Appendix to this Study Text. Use these tables
+to work out your own solution to the following question.
+
+Exam focus
+point
+
+Remember that interest should not be included as a cash flow. Interest is allowed for in the discount rate.
+
+Question
+
+Net present value
+
+LCH manufactures product X which it sells for $5 per unit. Variable costs of production are currently $3
+per unit, and fixed costs 50c per unit. A new machine is available which would cost $90,000 but which
+could be used to make product X for a variable cost of only $2.50 per unit. Fixed costs, however, would
+increase by $7,500 per annum as a direct result of purchasing the machine. The machine would have an
+expected life of four years and a resale value after that time of $10,000. Sales of product X are estimated
+to be 75,000 units per annum. LCH expects to earn at least 12% per annum from its investments. Ignore
+taxation.
+You are required to decide whether LCH should purchase the machine.
+
+Answer
+Savings are 75,000
+
+($3 – $2.50) = $37,500 per annum.
+
+Additional costs are $7,500 per annum.
+
+166
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+Net cash savings are therefore $30,000 per annum. (Remember, depreciation is not a cash flow and must
+be ignored as a 'cost'.)
+The first step in calculating an NPV is to establish the relevant costs year by year. All future cash flows
+arising as a direct consequence of the decision should be taken into account. It is assumed that the
+machine will be sold for $10,000 at the end of year 4.
+Cash flow
+$
+(90,000)
+30,000
+30,000
+30,000
+40,000
+
+Year
+
+0
+1
+2
+3
+4
+
+PV factor 12%
+
+1.000
+0.893
+0.797
+0.712
+0.636
+
+PV of cash flow
+$
+(90,000)
+26,790
+23,910
+21,360
+25,440
+NPV = +7,500
+
+The NPV is positive and so the project is expected to earn more than 12% per annum and is therefore
+acceptable.
+
+2.4 Annuity tables
+In the previous exercise, the calculations could have been simplified for years 1–3 as follows.
++
++
+=
+
+30,000
+30,000
+30,000
+30,000
+
+0.893
+0.797
+0.712
+2.402
+
+Where there is a constant cash flow from year to year, we can calculate the present value by adding
+together the discount factors for the individual years.
+These total factors could be described as 'same cash flow per annum' factors, 'cumulative present value'
+factors or 'annuity' factors.
+The present value of an annuity can be calculated by multiplying the annual cash flow in the annuity by the
+sum of all the discount factors for the years in the annuity.
+Annuity factors for annuities beginning in one year's time (and for different costs of capital) are shown in
+the table for cumulative PV factors, which is shown in the Appendix to this Study Text. (2.402, for
+example, is in the column for 12% per annum and the row for three years.)
+
+Question
+
+Annuities
+
+If you have not used them before, check that you can understand annuity tables by trying the following
+exercise.
+(a)
+(b)
+
+What is the present value of $1,000 in contribution earned each year from years 1–10, when the
+required return on investment is 11%?
+What is the present value of $2,000 costs incurred each year from years 3–6 when the cost of
+capital is 5%?
+
+Answer
+(a)
+
+The PV of $1,000 earned each year from year 1–10 when the required earning rate of money is
+11% is calculated as follows.
+$1,000
+
+5.889 = $5,889
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+167
+
+(b)
+
+The PV of $2,000 in costs each year from years 3–6 when the cost of capital is 5% per annum is
+calculated as follows.
+PV of $1 per annum for years 1–6 at 5% =
+Less PV of $1 per annum for years 1–2 at 5% =
+PV of $1 per annum for years 3–6 =
+PV = $2,000
+
+5.076
+1.859
+3.217
+
+3.217 = $6,434
+
+2.5 Annual cash flows in perpetuity
+You also need to know how to calculate the cumulative present value of $1 per annum for every year in
+perpetuity (that is, forever).
+
+Formula to
+learn
+
+When the cost of capital is r, the cumulative PV of $1 per annum in perpetuity is $1/r.
+For example, the PV of $1 per annum in perpetuity at a discount rate of 10% would be $1/0.10 = $10.
+Similarly, the PV of $1 per annum in perpetuity at a discount rate of 15% would be $1/0.15 = $6.67 and at
+a discount rate of 20% it would be $1/0.20 = $5.
+
+Question
+
+Perpetuities
+
+An organisation with a cost of capital of 14% is considering investing in a project costing $500,000. The
+project would yield nothing in Year 1, but from Year 2 would yield cash inflows of $100,000 per annum in
+perpetuity.
+Required
+
+Assess whether the project should be undertaken.
+
+Answer
+Year
+
+0
+
+Cash flow
+$
+(500,000)
+
+1
+2–
+
+0
+100,000
+
+Discount factor 14%
+
+1.000
+0.877
+1/0.14 0.877 = 6.264
+
+Present value
+$
+(500,000)
+
+0
+626,429
+NPV = 126,429
+
+The perpetuity of $100,000 per annum is calculated by multiplying $100,000 by 1/0.14. This gives a
+cumulative present value of cash inflows at Year 2 of $714,300.
+However, because the cash inflows start only at Year 2, we need to discount the cash inflows back to
+1
+today's value. This is done by using the present value factor of 0.877 (or
+).
+(1 0.14)
+The NPV is positive and so the project should be undertaken.
+
+Exam focus
+point
+
+168
+
+The ACCA examining team has often commented that candidates are often unable to evaluate cash flows in
+perpetuity. The formula for cash flows in perpetuity will not be provided in the exam, so make sure you
+learn it!
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+2.6 NPV and shareholder wealth maximisation
+If a project has a positive NPV it offers a higher return than the return required by the company to provide
+satisfactory returns to its sources of finance. This means that the company's value is increased and the
+project contributes to shareholder wealth maximisation.
+
+3 The internal rate of return method
+FAST FORWARD
+
+6/15
+
+The internal rate of return (IRR) of an investment is the cost of capital at which its NPV would be exactly
+$0.
+The IRR method of investment appraisal is an alternative to the NPV method for investment appraisal. This
+method is to accept investment projects whose IRR exceeds a target rate of return. The IRR is calculated
+approximately using a technique called interpolation.
+Using the NPV method of discounted cash flow, present values are calculated by discounting at a target
+rate of return, or cost of capital, and the difference between the PV of costs and the PV of benefits is the
+NPV. In contrast, the internal rate of return (IRR) method is to calculate the exact DCF rate of return
+which the project is expected to achieve; in other words, the rate at which the NPV is zero. If the expected
+rate of return (the IRR or DCF yield) exceeds a target rate of return, the project would be worth
+undertaking (ignoring risk and uncertainty factors).
+Without a computer or calculator program, the calculation of the internal rate of return is made using an
+approximating 'hit and miss' technique known as the interpolation method.
+
+Step 1
+Step 2
+
+Calculate the net present value using the company's cost of capital.
+Having calculated the NPV using the company's cost of capital, calculate the NPV using a
+second discount rate.
+(a)
+(b)
+
+Step 3
+Formula to
+learn
+
+If the NPV is positive, use a second rate that is greater than the first rate.
+If the NPV is negative, use a second rate that is less than the first rate.
+
+Use the two NPV values to estimate the IRR. The formula to apply is as follows.
+IRR
+
+a+
+
+Where a
+b
+NPVa
+NPVb
+
+NPVa
+(b a) %
+NPVa NPVb
+=
+=
+=
+=
+
+the lower of the two rates of return used
+the higher of the two rates of return used
+the NPV obtained using rate a
+the NPV obtained using rate b
+
+Note. Ideally NPVa will be a positive value and NPVb will be negative. (If NPVb is negative, then in the
+equation above you will be subtracting a negative, ie treating it as an added positive.)
+
+Exam focus
+point
+
+Do not worry if you have two positive or two negative values, since the above formula will extrapolate as well as
+interpolate. In the exam you will not have time to calculate NPVs using more than two rates.
+
+3.1 Example: The IRR method
+A company is trying to decide whether to buy a machine for $80,000 which will save costs of $20,000 per
+annum for five years and which will have a resale value of $10,000 at the end of year 5. If it is the
+company's policy to undertake projects only if they are expected to yield a DCF return of 10% or more,
+ascertain whether this project should be undertaken.
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+169
+
+Solution
+Step 1
+
+Calculate the first NPV, using the company's cost of capital of 10%.
+Year
+Cash flow
+PV factor 10%
+$
+0
+(80,000)
+1.000
+1–5
+20,000
+3.791
+5
+10,000
+0.621
+
+PV of cash flow
+$
+(80,000)
+75,820
+6,210
+NPV = 2,030
+
+This is positive, which means that the IRR is more than 10%.
+
+Step 2
+
+Calculate the second NPV, using a rate that is greater than the first rate, as the first rate
+gave a positive answer.
+Suppose we try 12%.
+Year
+
+Cash flow
+$
+(80,000)
+20,000
+10,000
+
+0
+1–5
+5
+
+PV factor 12%
+
+1.000
+3.605
+0.567
+
+PV of cash flow
+$
+(80,000)
+72,100
+5,670
+NPV = (2,230)
+
+This is fairly close to zero and negative. The IRR is therefore greater than 10% (positive
+NPV of $2,030) but less than 12% (negative NPV of $2,230).
+
+Step 3
+
+Use the two NPV values to estimate the IRR.
+The interpolation method assumes that the NPV rises in linear fashion between the two
+NPVs close to 0. The IRR is therefore assumed to be on a straight line between NPV =
+$2,030 at 10% and NPV = –$2,230 at 12%.
+Using the formula:
+IRR
+
+a+
+
+NPVa
+(b a) %
+NPVa NPVb
+
+IRR
+
+10 +
+
+2, 030
+× (12 – 10) % = 10.95%, say 11%
+2,030 + 2, 230
+
+If it is company policy to undertake investments which are expected to yield 10% or more,
+this project would be undertaken.
+If we were to draw a graph of a 'typical' capital project, with a negative cash flow at the start of the project,
+and positive net cash flows afterwards up to the end of the project, we could draw a graph of the project's
+NPV at different costs of capital. It would look like Figure 1 below.
+
+Figure 1
+
+170
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+If we use a cost of capital where the NPV is slightly positive, and use another cost of capital where it is
+slightly negative, we can estimate the IRR – where the NPV is zero – by drawing a straight line between
+the two points on the graph that we have calculated. Figure 2 below illustrates this.
+
+Figure 2
+Consider Figure 2.
+(a)
+(b)
+
+If we establish the NPVs at the two points P, we would estimate the IRR to be at point A.
+If we establish the NPVs at the two points Q, we would estimate the IRR to be at point B.
+
+The closer our NPVs are to zero, the closer our estimate will be to the true IRR.
+
+Question
+
+IRR
+
+Find the IRR of the project given below and state whether the project should be accepted if the company
+requires a minimum return of 17%.
+Time
+0
+1
+2
+3
+4
+
+Investment
+Receipts
+"
+"
+"
+
+$
+(4,000)
+1,200
+1,410
+1,875
+1,150
+
+Answer
+Time
+
+0
+1
+2
+3
+4
+
+Cash flow
+$
+(4,000)
+1,200
+1,410
+1,875
+1,150
+
+Try 17%
+discount
+factor
+
+1.000
+0.855
+0.731
+0.624
+0.534
+
+Present value
+$
+(4,000)
+1,026
+1,031
+1,170
+614
+NPV = (159)
+
+Try 14%
+discount
+factor
+
+1.000
+0.877
+0.769
+0.675
+0.592
+
+Present value
+$
+(4,000)
+1,052
+1,084
+1,266
+681
+83
+NPV =
+
+The IRR must be less than 17%, but higher than 14%. The NPVs at these two costs of capital will be used
+to estimate the IRR.
+Using the interpolation formula:
+IRR
+
+14%
+
+83
+83 159
+
+(17% 14%)
+
+15.03%
+
+The project should be rejected, as the IRR is less than the minimum return demanded.
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+171
+
+4 NPV and IRR compared
+FAST FORWARD
+
+There are advantages and disadvantages to each appraisal method. Make sure that you can discuss
+them.
+Given that there are two methods of using DCF, the NPV method and the IRR method, the relative merits
+of each method have to be considered.
+
+4.1 Advantages and disadvantages of IRR method
+The main advantage of the IRR method is that the information it provides is more easily understood by
+managers, especially non-financial managers. For example, it is fairly easy to understand the meaning of
+the following statement.
+'The project will be expected to have an initial capital outlay of $100,000, and to earn a yield of 25%. This
+is in excess of the target yield of 15% for investments.'
+It is not so easy to understand the meaning of this statement.
+'The project will cost $100,000 and have an NPV of $30,000 when discounted at the minimum required
+rate of 15%.'
+However, managers may confuse IRR and accounting return on capital employed, ROCE.
+The IRR method ignores the relative size of investments. Both the following projects have an IRR of
+18%.
+Project A
+Project B
+$
+$
+Cost, year 0
+350,000
+35,000
+Annual savings, years 1–6
+100,000
+10,000
+Clearly, project A is bigger (ten times as big) and so more 'profitable' but if the only information on which
+the projects were judged were to be their IRR of 18%, project B would be made to seem just as beneficial
+as project A, which is not the case.
+
+4.2 Non-conventional cash flows
+The projects we have considered so far have had conventional cash flows (an initial cash outflow followed
+by a series of inflows). When flows vary from this they are termed non-conventional. The following project
+has non-conventional cash flows.
+Year
+Project X
+$'000
+0
+(1,900)
+1
+4,590
+2
+(2,735)
+
+172
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+Project X would have two IRRs as shown by this diagram.
+NPV
+
+30
+
+Positive 20
+10
+0
+5
+
+10
+
+20
+
+30
+
+40 Cost of capital %
+
+-10
+-20
+Negative -30
+-40
+-50
+
+The NPV rule suggests that the project is acceptable between costs of capital of 7% and 35%.
+Suppose that the required rate on project X is 10% and that the IRR of 7% is used in deciding whether to
+accept or reject the project. The project would be rejected since it appears that it can only yield 7%.
+The diagram shows, however, that between rates of 7% and 35% the project should be accepted. Using
+the IRR of 35% would produce the correct decision to accept the project. Lack of knowledge of multiple
+IRRs could therefore lead to serious errors in the decision of whether to accept or reject a project.
+In general, if the sign of the net cash flow changes in successive periods, the calculations may produce as
+many IRRs as there are sign changes. IRR should not normally be used when there are non-conventional
+cash flows.
+
+Exam focus
+point
+
+You need to be aware of the possibility of multiple IRRs, but the area is not examinable at a computational
+level.
+
+4.3 Mutually exclusive projects
+Mutually exclusive projects are two or more projects from which only one can be chosen. Examples
+include the choice of a factory location or the choice of just one of a number of machines. The IRR and
+NPV methods can, however, give conflicting rankings as to which project should be given priority.
+Let us suppose that a company is considering two mutually exclusive options, option A and option B. The
+cash flows for each would be as follows.
+Year
+
+0
+1
+2
+3
+
+Option A
+$
+(10,200)
+6,000
+5,000
+3,000
+
+Capital outlay
+Net cash inflow
+Net cash inflow
+Net cash inflow
+
+Option B
+$
+(35,250)
+18,000
+15,000
+15,000
+
+The company's cost of capital is 16%.
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+173
+
+The NPV of each project is calculated below.
+Year
+
+Discount factor
+
+0
+1
+2
+3
+
+1.000
+0.862
+0.743
+0.641
+
+Cash flow
+$
+(10,200)
+6,000
+5,000
+3,000
+
+Option A
+Present value
+$
+(10,200)
+5,172
+3,715
+1,923
+NPV = +610
+
+Cash flow
+$
+(35,250)
+18,000
+15,000
+15,000
+
+Option B
+Present value
+$
+(35,250)
+15,516
+11,145
+9,615
+NPV = +1,026
+
+The IRR of option A is 20% and the IRR of option B is only 18% (workings not shown). On a comparison
+of NPVs, option B would be preferred, but on a comparison of IRRs, option A would be preferred.
+If the projects were independent this would be irrelevant since under the NPV rule both would be
+accepted. With mutually exclusive projects, however, only one project can be accepted. Therefore the
+ranking is crucial and we cannot be indifferent to the outcomes of the NPV and IRR appraisal methods.
+The NPV method is preferable.
+
+4.4 Reinvestment assumptions
+An assumption underlying the NPV method is that any net cash inflows generated during the life of the
+project will be reinvested at the cost of capital (that is, the discount rate). The IRR method, on the other
+hand, assumes these cash flows can be reinvested to earn a return equal to the IRR of the original project.
+In the example above, the NPV method assumes that the cash inflows of $6,000, $5,000 and $3,000 for
+option A will be reinvested at the cost of capital of 16% whereas the IRR method assumes they will be
+reinvested at 20%. In theory, a firm will have accepted all projects which provide a return in excess of the
+cost of capital. Any other funds which become available can only be reinvested at the cost of capital. This
+is the assumption implied in the NPV rule, but is unlikely to be the case in practice.
+
+4.5 Summary of NPV and IRR comparison
+
+Exam focus
+point
+
+174
+
+(a)
+
+When cash flow patterns are conventional both methods give the same accept or reject decision.
+
+(b)
+
+The IRR method is more easily understood.
+
+(c)
+
+NPV is technically superior to IRR and simpler to calculate.
+
+(d)
+
+IRR and accounting ROCE can be confused.
+
+(e)
+
+IRR ignores the relative sizes of investments.
+
+(f)
+
+Where cash flow patterns are non-conventional, there may be several IRRs which decision-makers
+must be aware of to avoid making the wrong decision.
+
+(g)
+
+The NPV method is superior for ranking mutually exclusive projects in order of attractiveness.
+
+(h)
+
+The reinvestment assumption underlying the IRR method cannot be substantiated.
+
+(i)
+
+When discount rates are expected to differ over the life of the project, such variations can be
+incorporated easily into NPV calculations, but not into IRR calculations.
+
+(j)
+
+Despite the advantages of the NPV method over the IRR method, the IRR method is widely used in
+practice.
+
+In the March 2017 exam, the examining team commented that in a question asking about the advantages
+of NPV over IRR, some answers confused IRR with ARR (accounting rate of return).
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+5 Assessment of DCF methods of project appraisal
+FAST FORWARD
+
+DCF methods of appraisal have a number of advantages over other appraisal methods.
+
+
+
+
+
+
+The time value of money is taken into account.
+The method takes account of all a project's cash flows.
+It allows for the timing of cash flows.
+There are universally accepted methods of calculating the NPV and IRR.
+
+5.1 Advantages of DCF methods
+DCF is a capital appraisal technique that is based on a concept known as the time value of money: the
+concept that $1 received today is not equal to $1 received in the future. Given the choice between
+receiving $100 today and $100 in one year's time, most people would opt to receive $100 today because
+they could spend it or invest it to earn interest. If the interest rate was 10%, you could invest $100 today
+and it would be worth ($100 1.10) = $110 in one year's time.
+There are, however, other reasons why a present $1 is worth more than a future $1.
+(a)
+
+Uncertainty. Although there might be a promise of money to come in the future, it can never be
+certain that the money will be received until it has actually been paid.
+
+(b)
+
+Inflation. Inflation also means $1 now is worth more than $1 in the future because of inflation. The
+time value of money concept applies even if there is zero inflation but inflation obviously increases
+the discrepancy in value between monies received at different times.
+
+Taking account of the time value of money (by discounting) is one of the principal advantages of the DCF
+appraisal method. Other advantages are as follows.
+
+
+
+
+The method uses all relevant cash flows relating to the project.
+It allows for the timing of the cash flows.
+There are universally accepted methods of calculating the NPV and the IRR.
+
+5.2 Problems with DCF methods
+Although DCF methods are theoretically the best methods of investment appraisal, you should be aware of
+their limitations.
+(a)
+
+DCF methods use future cash flows that may be difficult to forecast. Although other methods use
+these as well, arguably the problem is greater with DCF methods that take cash flows into the
+longer term.
+
+(b)
+
+The basic decision rule, accept all projects with a positive NPV, will not apply when the capital
+available for investment is rationed.
+
+(c)
+
+The cost of capital used in DCF calculations may be difficult to estimate.
+
+(d)
+
+The cost of capital may change over the life of the investment.
+
+5.3 The use of appraisal methods in practice
+One reason for the failure of many businesses to use NPV is that its (sometimes long-term) nature may
+conflict with judgements on a business that are concerned with its (short-term) profits. Managers'
+remuneration may depend on the level of annual profits, and they may thus be unwilling to risk large
+initial expenditure on a project that only offers good returns in the significantly uncertain long term.
+In addition, the NPV method is based on the assumption that businesses seek to maximise the wealth of
+their shareholders. As discussed previously, this may conflict with the interests of other stakeholders.
+Public sector organisations will be concerned with the social opportunity costs.
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+175
+
+Even when wealth maximisation is the key objective, there may be factors that help maximise wealth but
+cannot be quantified for NPV purposes, for example investment in a loss-making project for strategic
+reasons such as obtaining an initial share in an important market.
+
+Exam focus
+point
+
+176
+
+The ACCA examining team has emphasised that investment appraisal is about modelling the real world
+situation. Any discussion of investment appraisal techniques must be applied to the scenario in the
+question and should not be just a list of generally applicable points.
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+Chapter Roundup
+
+
+The NPV method of investment appraisal is to invest in projects with a positive NPV.
+
+
+
+An annuity is a constant cash flow for a number of years. A perpetuity is a constant annual cash flow (an
+annuity) that will last forever.
+
+
+
+The internal rate of return (IRR) of an investment is the cost of capital at which its NPV would be exactly
+$0.
+
+
+
+The IRR method of investment appraisal is an alternative to the NPV method for investment appraisal. This
+method is to accept investment projects whose IRR exceeds a target rate of return. The IRR is calculated
+approximately using a technique called interpolation.
+
+
+
+There are advantages and disadvantages to each appraisal method. Make sure that you can discuss
+them.
+
+
+
+DCF methods of appraisal have a number of advantages over other appraisal methods.
+
+–
+–
+–
+–
+
+The time value of money is taken into account.
+The method takes account of all a project's cash flows.
+It allows for the timing of cash flows.
+There are universally accepted methods of calculating the NPV and IRR.
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+177
+
+Quick Quiz
+1
+
+What is the formula for calculating the future value of an investment plus accumulated interest after n time
+periods?
+
+2
+
+What is the formula for calculating the present value of a future sum of money at the end of n time
+periods?
+
+3
+
+List three cash flow timing conventions used in DCF.
+
+4
+
+What is the perpetuity formula?
+
+5
+
+List three advantages of the DCF method of project appraisal over other appraisal methods.
+
+6
+
+For a certain project, the net present value at a discount rate of 15% is $3,670, and at a rate of 18% the
+net present value is negative at ($1,390). What is the internal rate of return of the project?
+A
+B
+C
+D
+
+7
+
+Tick the correct box to indicate whether or not the following items are included in the cash flows when
+determining the net present value of a project.
+Included
+Not included
+(a)
+The disposal value of equipment at the end of its life
+(b)
+
+178
+
+15.7%
+16.5%
+16.6%
+17.2%
+
+Depreciation charges for the equipment
+
+(c)
+
+Research costs incurred prior to the appraisal
+
+(d)
+
+Interest payments on the loan to finance the investment
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+Answers to Quick Quiz
+1
+
+FV = PV (1 + r)n
+
+2
+
+PV = FV
+
+3
+
+(a)
+
+A cash outlay to be incurred at the beginning of an investment project occurs in year 0.
+
+(b)
+
+A cash outlay, saving or inflow which occurs during the course of a time period is assumed to
+occur all at once at the end of the time period.
+
+(c)
+
+A cash outlay or receipt that occurs at the beginning of a time period is taken to occur at the end of
+the previous time period.
+
+1
+(1 r)
+
+n
+
+4
+
+Annual cash flow/discount rate
+
+5
+
+(a)
+(b)
+(c)
+
+It takes account of the time value of money.
+It uses all cash flows relating to a project.
+It allows for the timing of cash flows.
+
+6
+
+D
+
+15% + {(3,670/[3,670 + 1,390])
+
+7
+
+(a)
+(b)
+(c)
+(d)
+
+Included
+Not included (non-cash)
+Not included (past cost)
+Not included (included in the discount rate)
+
+3%} = 17.2%
+
+Now try the questions below from the Practice Question Bank
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q18
+
+Examination
+
+2
+
+4 mins
+
+Section C Q6
+
+Introductory
+
+N/A
+
+39 mins
+
+Section C Q7
+
+Examination
+
+20
+
+39 mins
+
+Section C Q8
+
+Introductory
+
+N/A
+
+39 mins
+
+Part D Investment appraisal
+w
+
+8: Investment appraisal using DCF methods
+
+179
+
+180
+
+8: Investment appraisal using DCF methods
+
+Part D Investment appraisal
+w
+
+
+
+Allowing for inflation
+and taxation
+
+Topic list
+
+Syllabus reference
+
+1 Allowing for inflation
+
+D2 (a)
+
+2 Allowing for taxation
+
+D2 (b), (c)
+
+3 NPV layout
+
+D2 (b), (c)
+
+Introduction
+Having covered the more sophisticated of the investment appraisal techniques
+which are available in Chapter 8, we will be looking in this chapter at how to
+incorporate inflation and taxation into investment decisions. A key concept in
+this chapter which you must grasp is the difference between nominal rates of
+return and real rates of return, and when each is to be used as the discount
+rate.
+The next chapter will consider how the risk associated with a project can be
+assessed and taken into account.
+
+w
+
+181
+
+Study guide
+Intellectual level
+D2
+
+Allowing for inflation and taxation in DFC
+
+(a)
+
+Apply and discuss the real terms and nominal terms approaches to
+investment appraisal.
+
+2
+
+(b)
+
+Calculate the taxation effects of relevant cash flows, including the tax
+benefits of tax-allowable depreciation and the tax liabilities of taxable profit.
+
+2
+
+(c)
+
+Calculate and apply before- and after-tax discount rates.
+
+2
+
+Exam guide
+As well as bringing inflation into your DCF calculations, you may be asked to explain the differences
+between real and nominal rates. In a 20-mark question, you can expect to have to deal with inflation, tax
+and working capital in an NPV question.
+
+1 Allowing for inflation
+FAST FORWARD
+
+12/14, 6/15,
+Sep/Dec 15, 9/16, 12/16, Sep/Dec 17
+
+Inflation is a feature of all economies, and it must be accommodated in financial planning.
+Nominal cash flows (the actual expected cash flows at future prices, ie including inflationary increases)
+should be discounted at a nominal discount rate, which is a rate relating to current market rates of return.
+Real cash flows (cash flows in current prices) should be discounted at a real discount rate, which is
+based on a nominal cost of capital that has been deflated by the general rate of inflation.
+So far we have not considered the effect of inflation on the appraisal of capital investment proposals. As
+the inflation rate increases, so will the minimum return required by an investor. For example, you might be
+happy with a return of 5% in an inflation-free world, but if inflation were running at 15% you would expect
+a considerably greater yield.
+The nominal interest rate incorporates inflation. When the nominal rate of interest is higher than the rate
+of inflation, there is a positive real rate. When the rate of inflation is higher than the nominal rate of
+interest, the real rate of interest will be negative.
+The relationship between real and nominal rates of interest is given by the Fisher formula.
+
+Formula to
+learn
+
+182
+
+(1 + i) = (1 + r)(1 + h)
+Where h = rate of inflation
+r = real rate of interest
+i = nominal (money) rate of interest
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+
+1.1 Example: Inflation (1)
+A company is considering investing in a project with the following cash flows.
+Time
+
+Actual cash flows
+$
+(15,000)
+9,000
+8,000
+7,000
+
+0
+1
+2
+3
+
+The company requires a minimum return of 20% under the present and anticipated conditions. Inflation is
+currently running at 10% a year, and this rate of inflation is expected to continue indefinitely. Should the
+company go ahead with the project?
+Let us first look at the company's required rate of return. Suppose that it invested $1,000 for one year on
+1 January, then on 31 December it would require a minimum return of $200. With the initial investment of
+$1,000, the total value of the investment by 31 December must therefore increase to $1,200. During the
+course of the year the purchasing value of the dollar would fall due to inflation. We can restate the amount
+received on 31 December in terms of the purchasing power of the dollar at 1 January as follows.
+Amount received on 31 December in terms of the value of the pound at 1 January =
+
+$1,200
+(1.10)1
+
+= $1,091
+
+In terms of the value of the dollar at 1 January, the company would make a profit of $91 which represents
+a rate of return of 9.1% in 'today's money' terms. This is the real rate of return. The required rate of 20%
+is a nominal rate of return (sometimes called a money rate of return). The nominal rate measures the
+return in terms of the dollar which is, of course, falling in value. The real rate measures the return in
+constant price level terms.
+
+The two rates of return and the inflation rate are linked by the equation (1 + i) = (1 + r)(1 + h) where all
+rates are expressed as proportions.
+In our example (1 + 0.2) = (1 + r)(1 + 0.1)
+1+r =
+
+1.2
+= 1.091
+1.1
+
+r = 9.1%
+
+Exam focus
+point
+
+You may be asked in the exam to explain the difference between a real and nominal terms analysis. It is
+worth noting in this context some comments from the June 2017 examining team's report: "Nominal cash
+flows, found by inflating by specific rates of inflation, can be deflated by the general rate of inflation to give
+real cash flows... Real cash flows can therefore be found by inflating by specific rates of inflation and then
+deflating by the general rate of inflation The real-terms approach can only be said to 'ignore inflation' if
+only the general rate of inflation is on offer, as there is no need to inflate and then deflate by the same
+inflation rate to find real cash flows."
+
+1.2 Do we use the real rate or the nominal rate?
+The rule is as follows.
+(a)
+
+If the cash flows are expressed in terms of the actual number of dollars that will be received or
+paid on the various future dates, we use the nominal rate for discounting.
+
+(b)
+
+If the cash flows are expressed in terms of the value of the dollar at time 0 (that is, in constant
+price level terms), we use the real rate.
+
+The cash flows given above are expressed in terms of the actual number of dollars that will be received or
+paid at the relevant dates (nominal cash flows). We should, therefore, discount them using the nominal
+rate of return.
+
+Part D Investment appraisal
+w
+
+9: Allowing for inflation and taxation
+
+183
+
+Time
+
+Cash flow
+$
+(15,000)
+9,000
+8,000
+7,000
+
+0
+1
+2
+3
+
+Discount factor 20%
+
+PV
+$
+(15,000)
+7,497
+5,552
+4,053
+2,102
+
+1.000
+0.833
+0.694
+0.579
+
+The project has a positive net present value of $2,102.
+The future cash flows can be re-expressed in terms of the value of the dollar at time 0 by deflating them as
+follows, given that inflation is at 10% a year.
+Time
+
+0
+
+Actual cash flow
+$
+(15,000)
+
+1
+
+9,000
+
+2
+
+8,000
+
+3
+
+7,000
+
+Cash flow at time 0 price level
+$
+(15,000)
+1
+9,000
+=
+8,182
+1.10
+1
+8,000
+=
+6,612
+(1.10)2
+
+7,000
+
+1
+(1.10)3
+
+=
+
+5,259
+
+The cash flows expressed in terms of the value of the dollar at time 0 (real cash flows) can now be
+discounted using the real rate of 9.1%.
+Time
+
+0
+
+Cash flow
+$
+(15,000)
+
+1
+
+8,182
+
+2
+
+6,612
+
+3
+
+5,259
+
+Discount factor 9.1%
+
+1.00
+1
+1.091
+1
+(1.091)2
+1
+(1.091)3
+
+PV
+$
+(15,000)
+
+7,500
+5,555
+4,050
+NPV = 2,105
+
+The NPV is the same as before (and the present value of the cash flow in each year is the same as before)
+apart from rounding errors.
+
+1.3 The advantages and misuses of real values and a real rate of return
+Although generally companies should discount monetary values at the nominal cost of capital, there are
+some advantages of using real values discounted at a real cost of capital.
+(a)
+
+When all costs and benefits rise at the same rate of price inflation, real values are the same as
+current day values, so that no further adjustments need to be made to cash flows before
+discounting. In contrast, when nominal values are discounted at the nominal cost of capital, the
+prices in future years must be calculated before discounting can begin.
+
+(b)
+
+The government might prefer to set a real return as a target for investments, being more suitable
+than a commercial money rate of return.
+
+1.3.1 Costs and benefits which inflate at different rates
+Not all costs and benefits will rise in line with the general level of inflation. In such cases, we can apply the
+nominal rate to inflated values to determine a project's NPV.
+
+184
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+
+1.4 Example: Inflation (2)
+Rice is considering a project which would cost $5,000 now. The annual benefits, for four years, would be
+a fixed income of $2,500 a year, plus other savings of $500 a year in year 1, rising by 5% each year
+because of inflation. Running costs will be $1,000 in the first year, but would increase at 10% each year
+because of inflating labour costs. The general rate of inflation is expected to be 7½% and the company's
+required nominal rate of return is 16%. Is the project worthwhile? Ignore taxation.
+
+Solution
+The cash flows at inflated values are as follows.
+Year
+
+1
+2
+3
+4
+
+Fixed income
+$
+2,500
+2,500
+2,500
+2,500
+
+Other savings
+$
+500
+525
+551
+579
+
+Running costs
+$
+1,000
+1,100
+1,210
+1,331
+
+Net cash flow
+$
+2,000
+1,925
+1,841
+1,748
+
+Discount factor 16%
+
+PV
+$
+(5,000)
+1,724
+1,430
+1,180
+965
++ 299
+
+The NPV of the project is as follows.
+Year
+
+Cash flow
+$
+(5,000)
+2,000
+1,925
+1,841
+1,748
+
+0
+1
+2
+3
+4
+
+1.000
+0.862
+0.743
+0.641
+0.552
+
+The NPV is positive and the project would therefore seem to be worthwhile.
+
+1.4.1 Variations in the expected rate of inflation
+If the rate of inflation is expected to change, the calculation of the nominal cost of capital is slightly more
+complicated.
+
+1.5 Example: Inflation (3)
+Mr Gable has just received a dividend of $1,000 on his shareholding in Gonwithy Windmills. The market
+value of the shares is $8,000 ex div. What is the (nominal) cost of the equity capital, if dividends are
+expected to rise because of inflation by 10% in years 1, 2 and 3, before levelling off at this year 3 amount?
+
+Solution
+The nominal cost of equity capital is the internal rate of return of the following cash flows.
+Year
+
+0
+1
+2
+3– *
+
+Cash flow
+$
+(8,000)
+1,100
+1,210
+1,331 p.a.
+
+The IRR is approximately 15% +
+
+PV factor 15%
+
+1.000
+0.870
+0.756
+5.041
+
+581
+
+581
+1,623
+
+PV at 15%
+$
+(8,000)
+957
+915
+6,709
+581
+
+(20
+
+PV factor 20%
+
+1.000
+0.833
+0.694
+3.472
+
+PV at 20%
+$
+(8,000)
+916
+840
+4,621
+(1,623)
+
+15) % = 16.3%, say 16%
+
+* The present value factor = (Factor 1 – ) – (Factor years 1–2).
+
+Part D Investment appraisal
+w
+
+9: Allowing for inflation and taxation
+
+185
+
+For 15%
+
+PV factor
+
+=
+
+1
+– 1.626
+0.15
+
+= 5.041
+
+=
+
+1
+– 1.528
+0.2
+
+= 3.472
+
+For 20%
+
+PV factor
+
+1.6 Expectations of inflation and the effects of inflation
+When managers evaluate a particular project, or when shareholders evaluate their investments, they can
+only guess at what the rate of inflation is going to be. Their expectations will probably be inaccurate,
+because it is extremely difficult to forecast the rate of inflation correctly. The only way in which uncertainty
+about inflation can be allowed for in project evaluation is by risk and uncertainty analysis. Plans should
+be made to obtain 'contingency funds', for example a higher bank overdraft facility if the rate of inflation
+exceeds expectations.
+Inflation may be general, affecting prices of all kinds, or specific to particular prices. Generalised inflation
+has the following effects.
+(a)
+
+Since non-current assets and inventories will increase in monetary value, the same quantities of
+assets must be financed by increasing amounts of capital.
+
+(b)
+
+Inflation means higher costs and higher selling prices. The effect of higher prices on demand may
+not be easy to predict. A company that raises its prices by 10% because the general rate of
+inflation is running at 10% might suffer a serious fall in demand.
+
+(c)
+
+Inflation, because it affects financing needs, is also likely to affect gearing, and so the cost of capital.
+
+1.7 Mid-year and end of year monetary values
+You might wonder why, in all the examples so far, the cash flows have been inflated to the end of year
+money prices. Inflation does not usually run at a steady rate.
+In DCF calculations it is more appropriate to use end of year monetary values. This is because, by
+convention, all cash flows are assumed to occur at the end of the year, and a discount factor appropriate
+to the end of the year is applied.
+
+2 Allowing for taxation
+
+12/14, 6/15,
+Sep/Dec 15, Mar/Jun 16, 9/16, 12/16, Sep/Dec 17
+
+FAST FORWARD
+
+Taxation is a major practical consideration for businesses. It is vital to take it into account in making
+decisions.
+
+In investment appraisal, tax is often assumed to be payable one year in arrears. Tax-allowable
+depreciation details should be checked in any question you attempt.
+So far, in looking at project appraisal, we have ignored taxation. However, payments of tax, or reductions
+of tax payments, are cash flows and ought to be considered in DCF analysis. Assumptions which may be
+stated in questions are as follows.
+
+186
+
+(a)
+
+Tax is payable in the year following the one in which the taxable profits are made. Thus, if a
+project increases taxable profits by $10,000 in year 2, there will be a tax payment, assuming tax at
+30%, of $3,000 in year 3. (However, a question may state that tax is payable in the same year as
+the year in which the cash flows giving rise to the tax occur. Read the question carefully.)
+
+(b)
+
+Net operating cash flows from a project should be considered as the taxable profits (not just the
+taxable revenues) arising from the project (unless an indication is given to the contrary). This
+assumption means that you can ignore adjustments that may otherwise have to be made for
+depreciation (not an allowable charge for tax purposes) and the tax relief rules on investment.
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+Exam focus
+point
+
+Check any question involving tax carefully to see what assumptions about tax rates are made. Also look
+out for questions which state that tax is payable in the year following that in which the profits arise. This
+may mean that if you are evaluating a project with, for example, a four year life – there will still be a year 5
+cash flow for tax that is due to be paid on year 4's profits.
+
+2.1 Tax-allowable depreciation
+Tax-allowable depreciation (capital allowances) is used to reduce taxable profits, and the consequent
+reduction in a tax payment should be treated as a cash saving arising from the acceptance of a project.
+Tax-allowable depreciation is not the same as the depreciation charge for the purpose of reporting profit in
+the financial statements.
+For example, suppose tax-allowable depreciation is allowed on the cost of plant and machinery at the rate
+of 25% on a reducing balance basis. Thus if a company purchases plant costing $80,000, the subsequent
+writing down allowances would be as follows.
+Year
+
+1
+2
+3
+4
+
+(25% of cost)
+(25% of RB)
+(25% of RB)
+(25% of RB)
+
+Tax-allowable
+depreciation
+$
+20,000
+15,000
+11,250
+8,438
+
+Reducing balance
+$
+60,000
+45,000
+33,750
+25,312
+
+When the plant is eventually sold, the difference between the sale price and the reducing balance amount
+at the time of sale will be treated as:
+(a)
+(b)
+
+Exam focus
+point
+
+A taxable profit if the sale price exceeds the reducing balance
+A tax-allowable loss if the reducing balance exceeds the sale price
+
+Examination questions often assume that this loss will be available immediately, though in practice the
+balance less the sale price continues to be written off at 25% a year as part of a pool balance.
+The cash saving on tax-allowable depreciation (or the cash payment for the charge) is calculated by
+multiplying the amount of the tax-allowable depreciation by the tax rate. If tax cash flows occur in the year
+following the year in which the item giving rise to the tax occurs, the cash flow for the tax saving from
+tax-allowable depreciation will occur in the year following the year in which the allowance is claimed.
+In the example above, for instance, if the rate of tax on profits is 30%, the tax-allowable depreciation for
+Year 1 will be $6,000 (= $20,000 30%) and this cash flow saving will occur in Year 2.
+Assumptions about tax-allowable depreciation could be simplified in an exam question. For example, you
+might be told that tax-allowable depreciation can be claimed at the rate of 25% of cost on a straight line
+basis (that is, over four years).
+There are two possible assumptions about the time when tax-allowable depreciation starts to be claimed.
+(a)
+(b)
+
+It can be assumed that the first claim occurs at the start of the project (at year 0).
+Alternatively it can be assumed that the first claim occurs later in the first year.
+
+Examination questions will generally indicate which of the two assumptions is required but you should
+state your assumptions clearly if you have to make assumptions. Assumption (b) is easier to use since
+there is one claim for tax-allowable depreciation for each year of the project.
+
+Exam focus
+point
+
+A common mistake in exams is to include the tax-allowable depreciation itself in the NPV calculation; it is
+the tax effect of the allowance that should be included.
+
+Part D Investment appraisal
+w
+
+9: Allowing for inflation and taxation
+
+187
+
+2.2 Example: Taxation
+A company is considering whether or not to purchase an item of machinery costing $40,000 payable
+immediately. It would have a life of four years, after which it would be sold for $5,000. The machinery
+would create annual cost savings of $14,000.
+The company pays tax one year in arrears at an annual rate of 30% and can claim tax-allowable
+depreciation on a 25% reducing balance basis. A balancing allowance is claimed in the final year of
+operation. The company's cost of capital is 8%.
+Should the machinery be purchased?
+
+Solution
+Year
+
+1
+2
+3
+4
+
+Tax-allowable depreciation
+$
+40,000 × 0.25
+10,000
+10,000 × 0.75
+7,500
+7,500 × 0.75
+5,625
+23,125
+By difference
+11,875
+40,000 – 5,000
+35,000
+
+Year
+2
+3
+4
+
+Tax benefits
+$
+10,000 × 0.3 = 3,000
+7,500 × 0.3 = 2,250
+5,625 × 0.3 = 1,688
+
+5
+
+11,875 × 0.3 = 3,563
+
+The extra tax payments on annual cost savings of $14,000 = 0.3 × 14,000 = $4,200
+Calculation of NPV
+
+Machine costs
+Cost savings
+Tax on cost saving
+Tax benefits from taxallowable depreciation
+After-tax cash flow
+Discount factor @ 8%
+Present values
+
+0
+$
+(40,000)
+
+1
+$
+
+14,000
+
+(40,000)
+1.000
+(40,000)
+
+14,000
+0.926
+12,964
+
+2
+$
+
+3
+$
+
+14,000
+(4,200)
+
+14,000
+(4,200)
+
+4
+$
+5,000
+14,000
+(4,200)
+
+3,000
+12,800
+0.857
+10,970
+
+2,250
+12,050
+0.794
+9,568
+
+1,688
+16,488
+0.735
+12,119
+
+5
+$
+
+(4,200)
+3,563
+(637)
+0.681
+(434)
+
+The net present value is $5,187 and so the purchase appears to be worthwhile.
+
+2.3 Taxation and DCF
+The effect of taxation on capital budgeting is theoretically quite simple. Organisations must pay tax, and
+the effect of undertaking a project will be to increase or decrease tax payments each year. These
+incremental tax cash flows should be included in the cash flows of the project for discounting to arrive at
+the project's NPV.
+When taxation is ignored in the DCF calculations, the discount rate will reflect the pre-tax rate of return
+required on capital investments. When taxation is included in the cash flows, a post-tax required rate of
+return should be used.
+
+Question
+
+DCF and taxation
+
+A company is considering the purchase of an item of equipment, which would earn profits before tax of
+$25,000 a year. Depreciation charges would be $20,000 a year for six years. Tax-allowable depreciation
+would be $30,000 a year for the first four years. Tax is at 30%.
+What would the annual net cash inflows of the project be:
+(a)
+(b)
+
+For the first four years?
+For the fifth and sixth years?
+
+Assume that tax payments occur in the same year as the profits giving rise to them, and there is no
+balancing charge or allowance when the machine is scrapped at the end of the sixth year.
+188
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+
+Answer
+(a)
+Profit before tax
+Add back depreciation
+Net cash inflow before tax
+Less tax-allowable depreciation
+
+Years 1–4
+$
+25,000
+20,000
+45,000
+30,000
+15,000
+
+Years 5–6
+$
+25,000
+20,000
+45,000
+0
+45,000
+
+4,500
+
+13,500
+
+Tax at 30%
+Years 1–4 Net cash inflow after tax $45,000 – $4,500 = $40,500
+(b)
+
+Years 5–6 Net cash inflow after tax = $45,000 – $13,500 = $31,500
+
+Question
+
+Tax implications
+
+A company is considering the purchase of a machine for $150,000. It would be sold after four years for an
+estimated realisable value of $50,000. By this time tax-allowable depreciation of $120,000 would have
+been claimed. The rate of tax is 30%.
+What are the tax implications of the sale of the machine at the end of four years?
+
+Answer
+There will be a balancing charge on the sale of the machine of $(50,000 – (150,000 – 120,000)) = $20,000.
+This will give rise to a tax payment of 30% $20,000 = $6,000.
+
+Exam focus
+point
+
+In reality, tax on profits may be paid quarterly but the timing is simplified in a DCF calculation and an exam
+question will tell you what assumptions to use.
+
+3 NPV layout
+When answering an NPV question, you may find it helpful to use the following layout. The most important
+thing to notice is that tax on cash profits and cash flows arising from tax-allowable depreciation can be
+calculated and presented separately. There is no need to combine them into a single cash flow figure for
+tax.
+Year 0
+
+Sales receipts
+Costs
+Sales less costs
+Taxation on profits
+Capital expenditure
+Scrap value
+Working capital
+Tax benefit of tax dep'n
+Discount factors @
+post-tax cost of capital
+Present value
+
+Year 1
+X
+(X)
+X
+(X)
+
+Year 2
+X
+(X)
+X
+(X)
+
+Year 3
+X
+(X)
+X
+(X)
+
+Year 4
+
+(X)
+
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+
+X
+(X)
+
+X
+(X)
+
+X
+X
+
+X
+X
+
+X
+X
+
+X
+(X)
+
+(X)
+
+(X)
+(X)
+
+Part D Investment appraisal
+w
+
+9: Allowing for inflation and taxation
+
+189
+
+3.1 Working capital and inflation
+We saw how to calculate working capital cash flows in Chapter 4. This calculation is complicated when
+inflation is also to be considered.
+When working capital is recovered at the end of the project it has a different nominal value to the working
+capital that was invested at the beginning. The nominal value of the investment should be inflated each
+period to maintain its real value. If the inflation rate is known then the incremental working capital can be
+included in the NPV appraisal as a relevant cost. The full nominal value of the working capital investment
+is recovered at the end of the project.
+If for example a three-year project required $500,000 of working capital initially, the inflation rate was 5%
+and the working capital is recovered at the end of the project, then the relevant cash flows would be:
+Year
+
+Working capital
+
+Exam focus
+point
+
+190
+
+0
+
+1
+
+2
+
+3
+
+(500,000)
+
+(25,000)
+
+(26,250)
+
+551,250
+
+The ACCA examining team has commented that the treatment of working capital investment has been a
+source of regular errors.
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+
+Chapter Roundup
+
+
+Inflation is a feature of all economies, and it must be accommodated in financial planning.
+Real cash flows (cash flows in current prices) should be discounted at a real discount rate.
+Nominal cash flows (the actual expected cash flows at future prices, ie including inflationary increases)
+should be discounted at a nominal discount rate, which is a rate relating to current market rates of return.
+
+
+
+Taxation is a major practical consideration for businesses. It is vital to take it into account in making
+decisions.
+
+In investment appraisal, tax is often assumed to be payable one year in arrears. Tax-allowable
+depreciation details should be checked in any question you attempt.
+
+Part D Investment appraisal
+w
+
+9: Allowing for inflation and taxation
+
+191
+
+Quick Quiz
+1
+
+What is the relationship between the nominal rate of return, the real rate of return and the rate of inflation?
+
+2
+
+The nominal cost of capital is 11%. The expected annual rate of inflation is 5%. What is the real cost of
+capital?
+
+3
+
+A company wants a minimum real return of 3% a year on its investments. Inflation is expected to be 8% a
+year. What is the company's minimum nominal cost of capital?
+
+4
+
+Summarise briefly how taxation is taken into consideration in capital budgeting.
+
+5
+
+A company is appraising an investment that will save electricity costs. Electricity prices are expected to
+rise at a rate of 15% per annum in future, although the general inflation rate will be 10% per annum. The
+nominal cost of capital for the company is 20%. What is the appropriate discount rate to apply to the
+forecast actual nominal cash flows for electricity?
+A
+B
+C
+D
+
+6
+
+20.0%
+22.0%
+26.5%
+32.0%
+
+Choose the correct words from those highlighted.
+Tax-allowable depreciation is used to (1) increase/reduce taxable profits, and the consequent reduction in
+a tax payment should be treated as a (2) cash saving/cash payment arising from the acceptance of a
+project.
+When the plant is eventually sold, the difference between the sales price and the reducing balance amount
+will be treated as a (3) taxable profit/tax-allowable loss if the sales price exceeds the reducing balance,
+and as a (4) taxable profit/tax-allowable loss if the reducing balance exceeds the sales price.
+
+7
+
+If cash flows are expressed in terms of the actual number of pounds that will be received or paid on
+various future dates, should the nominal rate or real rate be used for discounting?
+
+8
+
+Red Co is considering the purchase of a machine for $2,190,000. It would be sold after four years for an
+estimated realisable value of $790,000. By this time tax-allowable depreciation of $1,450,000 would have
+been claimed. The rate of tax is 30%.
+What is the cash flow arising as a result of tax implications on the sale of the machine at the end of four
+years?
+A
+B
+C
+D
+
+192
+
+Inflow of $15,000
+Outflow of $50,000
+Outflow of $459,000
+Outflow of $15,000
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+
+Answers to Quick Quiz
+1
+
+(1 + nominal rate) = (1 + real rate)
+
+(1 + inflation rate)
+
+2
+
+1.11
+= 1.057. The real cost of capital is 5.7%.
+1.05
+
+3
+
+1.03
+
+4
+
+If tax is included in the cash flows, the post-tax rate of required return on capital investments should be
+used. If tax is ignored, the discount rate should reflect the pre-tax rate of return.
+
+5
+
+A
+
+The nominal rate of 20% is applied to the nominal cash flows.
+
+6
+
+(1)
+(2)
+(3)
+(4)
+
+Reduce
+Cash saving
+Taxable profit
+Tax-allowable loss
+
+7
+
+The nominal rate
+
+8
+
+D
+
+1.08 = 1.1124. The nominal cost of capital is 11.24%.
+
+There will be a balancing charge on the sale of the machine of $(790,000 – (2,190,000 – 1,450,000))
+= $50,000. This will give rise to a tax payment of 30% $50,000 = $15,000.
+
+Now try the questions below from the Practice Question Bank
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q19
+
+Examination
+
+2
+
+4 mins
+
+Section C Q9
+
+Introductory
+
+N/A
+
+39 mins
+
+Section C Q10
+
+Introductory
+
+N/A
+
+39 mins
+
+Part D Investment appraisal
+w
+
+9: Allowing for inflation and taxation
+
+193
+
+194
+
+9: Allowing for inflation and taxation
+
+Part D w
+Investment appraisal
+Investment
+
+
+
+Project appraisal
+and risk
+
+Topic list
+
+Syllabus reference
+
+1 Risk and uncertainty
+
+D3 (a)
+
+2 Sensitivity analysis
+
+D3 (b)
+
+3 Probability analysis
+
+D3 (c)
+
+4 Other techniques for dealing with risk and uncertainty
+
+D3 (d), D1 (c)
+
+Introduction
+This chapter will show some of the different methods of assessing and taking
+account of the risk and uncertainty associated with a project. The next chapter
+of this Study Text will consider two further project appraisal topics – capital
+rationing and leasing.
+
+w
+
+195
+
+Study guide
+Intellectual level
+D1
+
+Investment appraisal techniques
+
+(c)
+
+Calculate discounted payback and discuss its usefulness as an investment
+appraisal method.
+
+D3
+
+Adjusting for risk and uncertainty in investment appraisal
+
+(a)
+
+Describe and discuss the difference between risk and uncertainty in relation
+to probabilities and increasing project life.
+
+2
+
+(b)
+
+Apply sensitivity analysis to investment projects and discuss the usefulness
+of sensitivity analysis in assisting investment decisions.
+
+2
+
+(c)
+
+Apply probability analysis to investment projects and discuss the usefulness
+of probability analysis in assisting investment decisions.
+
+2
+
+(d)
+
+Apply and discuss other techniques of adjusting for risk and uncertainty in
+investment appraisal, including:
+
+(i)
+
+Simulation
+
+1
+
+(ii)
+
+Adjusted payback
+
+1
+
+(iii)
+
+Risk-adjusted discount rates
+
+2
+
+2
+
+Exam guide
+Risk and uncertainty are increasingly examinable in financial management exams and sensitivity
+calculations are particularly important. You will need to be able to explain these techniques as well as be
+confident and competent with the calculations.
+
+1 Risk and uncertainty
+FAST FORWARD
+
+6/15, 12/16, Mar/Jun 17
+
+Risk analysis can be applied to a proposed capital investment where there are several possible outcomes
+and, on the basis of past relevant experience, probabilities can be assigned to the various outcomes and
+estimated cash flows that could prevail.
+Uncertainty analysis can be applied to a proposed capital investment where there are several possible
+outcomes but there is little past relevant experience to enable the probability of the alternative outcomes to
+be predicted.
+There are a wide range of techniques for incorporating risk into project appraisal.
+A distinction should be made between the terms risk and uncertainty.
+Risk
+
+
+
+
+
+
+Uncertainty
+
+ Several possible outcomes
+ Little past experience, thus difficult to assign probabilities to outcomes
+ Increases as project life increases
+
+Several possible outcomes
+On basis of past relevant experience, assign probabilities to outcomes
+Increases as the variability of returns increases
+Risk can be quantified, so it can be built into a project's NPV.
+
+ Uncertainty cannot be quantified, the potential impact of an uncertain variable
+on a project's NPV can only be described.
+A risky situation is one where we can say that there is a 70% probability that returns from a project will be
+$150,000 and a 30% probability that returns will be less than $50,000. This is more risky than an
+investment where there is a 70% probability that returns will be $110,000 and a 30% probability that
+
+196
+
+10: Project appraisal and risk
+
+Part D Investment
+appraisal
+w
+
+
+returns will be $90,000. The variability of returns, which could be measured statistically, is lower with this
+second investment, which is why it is less risky.
+If, however, no information can be provided about the probabilities of different returns from the project,
+we are faced with an uncertain situation. For example, we might estimate that returns from an investment
+could be anything between $150,000 and $50,000, but we can't estimate probabilities. This would be
+uncertainty about the investment returns.
+In general, risky projects are those whose predicted possible future cash flows, and therefore the project
+returns, are more variable. The greater the variability, the greater the risk. The problem of risk is more
+acute with capital investment decisions than other decisions for the following reasons.
+
+Exam focus
+point
+
+(a)
+
+Estimates of capital expenditure might be for several years ahead, such as for major construction
+projects. Actual costs may escalate well above budget as the work progresses.
+
+(b)
+
+Estimates of benefits will be for several years ahead, sometimes 10, 15 or 20 years ahead or even
+longer, and such long-term estimates can at best be approximations.
+
+Make sure you can explain the difference between risk and uncertainty. This was required in June 2015
+and the ACCA examining team commented that it caused difficulties. They went on to say that 'a key point
+in providing a good answer to this question was recognising that risk could be quantified, using
+probabilities, unlike uncertainty'.
+
+2 Sensitivity analysis
+FAST FORWARD
+
+Key term
+
+6/15, 12/15, 6/16, 12/16
+
+Sensitivity analysis assesses how responsive the project's NPV is to changes in the variables used to
+calculate that NPV. Sensitivity analysis is one particular approach to uncertainty analysis.
+Sensitivity analysis is a key method of analysing the uncertainty surrounding a capital expenditure
+project and enables an assessment to be made of how responsive the project's NPV is to changes in the
+variables that are used to calculate that NPV.
+The NPV could depend on a number of uncertain independent variables.
+
+
+
+
+
+
+
+
+Selling price
+Sales volume
+Cost of capital
+Initial cost
+Operating costs
+Benefits
+
+The basic approach of sensitivity analysis is to calculate the project's NPV under alternative
+assumptions to determine how sensitive it is to changing conditions. An indication is thus provided of
+those variables to which the NPV is most sensitive (critical variables) and the extent to which those
+variables may change before the investment results in a negative NPV.
+Sensitivity analysis therefore provides an indication of why a project might fail. Management should
+review critical variables to assess whether or not there is a strong possibility of events occurring which
+will lead to a negative NPV. Management should also pay particular attention to controlling those variables
+to which the NPV is particularly sensitive, once the decision has been taken to accept the investment.
+A simple approach to deciding which variables the NPV is particularly sensitive to is to calculate the
+sensitivity of each variable.
+Sensitivity =
+
+NPV
+%
+Pr esent value of project variable
+
+The lower the percentage, the more sensitive the NPV is to that project variable, as the variable would
+need to change by a smaller amount to make the project non-viable.
+
+Part D Investment appraisal
+w
+
+10: Project appraisal and risk
+
+197
+
+2.1 Example: Sensitivity analysis
+Kenney Co is considering a project with the following cash flows.
+Year
+
+Initial investment
+$'000
+7,000
+
+0
+1
+2
+
+Variable costs
+$'000
+
+Cash inflows
+$'000
+
+(2,000)
+(2,000)
+
+6,500
+6,500
+
+Net cash flows
+$'000
+
+4,500
+4,500
+
+Cash flows arise from selling 650,000 units at $10 per unit. Kenney Co has a cost of capital of 8%.
+Required
+
+Measure the sensitivity of the project to changes in variables.
+
+Solution
+The PVs of the cash flow are as follows.
+Year
+
+Discount
+factor 8%
+
+0
+1
+2
+
+1.000
+0.926
+0.857
+
+PV of initial
+investment
+$'000
+(7,000)
+
+(7,000)
+
+PV of variable
+costs
+$'000
+
+(1,852)
+(1,714)
+(3,566)
+
+PV of cash
+inflows
+$'000
+
+6,019
+5,571
+11,590
+
+PV of net
+cash flow
+$'000
+(7,000)
+4,167
+3,857
+1,024
+
+The project has a positive NPV and would appear to be worthwhile. The sensitivity of each project variable is
+as follows.
+(a)
+
+Initial investment
+
+Sensitivity =
+
+1,024
+7,000
+
+100 = 14.6%
+
+In other words, the project will only just provide the required investment return if the cost of the
+investment is 14.6% higher than estimated, assuming that the value of all the other cash flows for
+the investment are as estimated.
+(b)
+
+Sales volume
+
+Sensitivity =
+
+1,024
+11,590 3,566
+
+100 = 12.8%
+
+In other words, the project will only just provide the required investment return if sales volume is
+12.8% lower than estimated, assuming that the value of all the other cash flows for the investment
+is as estimated.
+(c)
+
+Selling price
+
+Sensitivity =
+
+(d)
+
+198
+
+100 = 8.8%
+
+Variable costs
+
+Sensitivity =
+(e)
+
+1,024
+11,590
+
+1,024
+3,566
+
+100 = 28.7%
+
+Cost of capital. We need to calculate the IRR of the project. Let us try discount rates of 15% and
+20%.
+
+10: Project appraisal and risk
+
+Part D Investment
+appraisal
+w
+
+
+Net cash
+flow
+$'000
+(7,000)
+4,500
+4,500
+
+Year
+
+0
+1
+2
+
+IRR = 0.15 +
+
+Discount
+factor 15%
+
+1
+0.870
+0.756
+
+Discount
+factor 20%
+
+PV
+$'000
+(7,000)
+3,915
+3,402
+NPV = 317
+
+PV
+$'000
+(7,000)
+3,749
+3,123
+NPV = (128)
+
+1
+0.833
+0.694
+
+317
+_
+(0.20 0.15) = 18.56%
+317 128
+
+The cost of capital can therefore increase by 132% before the NPV becomes negative.
+The elements to which the NPV appears to be most sensitive are the selling price followed by the sales
+volume. Management should thus pay particular attention to these factors so that they can be carefully
+monitored.
+
+2.2 Weaknesses of this approach
+These are as follows.
+(a)
+
+The method requires that changes in each key variable are isolated, assuming that all other values
+in the estimated cash flows are unchanged. However, management may be more interested in the
+combination of the effects of changes in two or more key variables.
+
+(b)
+
+Looking at factors in isolation is unrealistic since they are often interdependent.
+
+(c)
+
+Sensitivity analysis is analysis when there is uncertainty. It does not examine the probability that
+any particular variation in costs or revenues might occur.
+
+(d)
+
+Critical factors may be those over which managers have no control.
+
+(e)
+
+In itself it does not provide a decision rule. Parameters defining acceptability of an investment
+project, given the uncertainty, must be laid down by managers.
+
+Question
+
+Sensitivity analysis
+
+Nevers Ure Co has a cost of capital of 8% and is considering a project with the following 'most likely' cash
+flows.
+Year
+
+Purchase of plant
+$
+(7,000)
+
+0
+1
+2
+
+Running costs
+$
+
+Savings
+$
+
+2,000
+2,500
+
+6,000
+7,000
+
+Required
+
+Measure the sensitivity (in percentages) of the project to changes in the levels of expected costs and
+savings.
+
+Answer
+The PVs of the cash flows are as follows.
+Year
+
+Discount
+factor 8%
+
+0
+1
+2
+
+1.000
+0.926
+0.857
+
+PV of
+plant cost
+$
+(7,000)
+
+(7,000)
+
+PV of
+running costs
+$
+
+(1,852)
+(2,143)
+(3,995)
+
+PV of
+savings
+$
+
+5,556
+5,999
+11,555
+
+Part D Investment appraisal
+w
+
+PV of
+net cash flow
+$
+(7,000)
+3,704
+3,856
+560
+10: Project appraisal and risk
+
+199
+
+The project has a positive NPV and would appear to be worthwhile. Sensitivity of the project to changes in
+the levels of expected costs and savings is as follows.
+560
+7,000
+
+(a)
+
+Plant costs sensitivity =
+
+(b)
+
+Running costs sensitivity =
+
+(c)
+
+Savings sensitivity =
+
+100 = 8%
+
+560
+3,995
+
+560
+11,555
+
+100 = 14%
+
+100 = 4.8%
+
+3 Probability analysis
+FAST FORWARD
+
+6/15, Mar/Jun 16, 12/16, Mar/Jun 17,
+Mar/Jun 18
+
+A probability analysis of expected cash flows can often be estimated and used both to calculate an
+expected NPV and to measure risk. The certainty-equivalent approach is a similar approach; this involves
+the conversion of the expected cash flows of the project to riskless equivalent amounts.
+A probability distribution of 'expected cash flows' can often be estimated, recognising that there are
+several possible outcomes, not just one. This may be used to do the following.
+
+Step 1
+Step 2
+
+Calculate an expected value of the NPV.
+Measure risk, for example in the following ways.
+(a)
+(b)
+(c)
+
+By calculating the worst possible outcome and its probability
+By calculating the probability that the project will fail to achieve a positive NPV
+By calculating the standard deviation of the NPV
+
+3.1 Example: Probability estimates of cash flows
+A company is considering a project involving the outlay of $300,000 which it estimates will generate cash
+flows over its two-year life at the probabilities shown in the following table.
+Cash flows for project
+Year 1
+
+Cash flow
+$
+100,000
+200,000
+300,000
+
+Probability
+
+0.25
+0.50
+0.25
+1.00
+
+Year 2
+If cash flow in Year 1 is:
+$
+100,000
+
+200,000
+
+200
+
+10: Project appraisal and risk
+
+there is a probability of:
+
+0.25
+0.50
+0.25
+1.00
+0.25
+0.50
+0.25
+1.00
+
+Part D Investment
+appraisal
+w
+
+that the cash flow in Year 2 will be:
+$
+Nil
+100,000
+200,000
+
+100,000
+200,000
+300,000
+
+
+If cash flow in Year 1 is:
+$
+300,000
+
+there is a probability of:
+
+0.25
+0.50
+0.25
+1.00
+
+that the cash flow in Year 2 will be:
+$
+200,000
+300,000
+350,000
+
+The company's cost of capital for this type of project is 10% DCF.
+You are required to calculate the expected value (EV) of the project's NPV and the probability that the NPV
+will be negative.
+
+Solution
+Step 1
+
+Calculate expected value of the NPV.
+First we need to draw up a probability distribution of the expected cash flows. We begin by
+calculating the present values of the cash flows.
+Year
+
+Cash flow
+$'000
+100
+200
+300
+100
+200
+300
+350
+
+1
+1
+1
+2
+2
+2
+2
+Year 1
+PV of cash
+flow
+$'000
+(a)
+90.9
+90.9
+90.9
+181.8
+181.8
+181.8
+272.7
+272.7
+272.7
+
+Probability
+
+(b)
+0.25
+0.25
+0.25
+0.50
+0.50
+0.50
+0.25
+0.25
+0.25
+
+Year 2
+PV of cash
+flow
+$'000
+(c)
+0.0
+82.6
+165.2
+82.6
+165.2
+247.8
+165.2
+247.8
+289.1
+
+Discount factor 10%
+
+0.909
+0.909
+0.909
+0.826
+0.826
+0.826
+0.826
+
+Probability
+
+Joint
+probability
+
+(d)
+0.25
+0.50
+0.25
+0.25
+0.50
+0.25
+0.25
+0.50
+0.25
+
+(b) (d)
+0.0625
+0.1250
+0.0625
+0.1250
+0.2500
+0.1250
+0.0625
+0.1250
+0.0625
+
+EV of PV of cash inflows
+Less project cost
+EV of NPV
+
+Step 2
+
+Present value
+$'000
+90.9
+181.8
+272.7
+82.6
+165.2
+247.8
+289.1
+Total PV
+of cash
+inflows
+$'000
+(a) + (c)
+90.9
+173.5
+256.1
+264.4
+347.0
+429.6
+437.9
+520.5
+561.8
+
+EV of PV
+of cash
+inflows
+$'000
+
+5.681
+21.688
+16.006
+33.050
+86.750
+53.700
+27.369
+65.063
+35.113
+344.420
+$
+344,420
+300,000
+44,420
+
+Measure risk.
+Since the EV of the NPV is positive, the project should go ahead unless the risk is
+unacceptably high. The probability that the project will have a negative NPV is the
+probability that the total PV of cash inflows is less than $300,000. From the column headed
+'Total PV of cash inflows', we can establish that this probability is 0.0625 + 0.125 + 0.0625
++ 0.125 = 0.375 or 37.5%. This might be considered an unacceptably high risk.
+
+Part D Investment appraisal
+w
+
+10: Project appraisal and risk
+
+201
+
+3.2 Example: Probability estimates of cash flows excluding discounting
+Using probabilities to assess risk need not involve discounting. Here is an example.
+A company has an overdraft limit of $500,000. There are concerns that this limit may be exceeded within
+the next two years. As a result cash flow forecasts with their associated probabilities have been prepared
+for the next two periods, as follows.
+The cash balance at the beginning of year 1 is $500,000.
+What are the expected cash balances at the end of each year and what are the probabilities of exceeding
+the overdraft limit at the end of each year?
+Year 1 cash flow
+$'000
+4,000
+3,000
+(1,500)
+
+Probability
+
+0.20
+0.50
+0.30
+
+Year 2 cash flow
+$'000
+2,500
+1,000
+(3,500)
+
+Probability
+
+0.10
+0.65
+0.25
+
+Solution
+Opening balance Year 1 cash flow
+$'000
+$'000
+500
+4,000
+500
+3,000
+500
+(1,500)
+
+Closing balance
+for year 1
+$'000
+4,500
+3,500
+(1,000)
+
+Probability
+
+0.20
+0.50
+0.30
+
+Expected value
+$'000
+900
+1,750
+(300)
+2,350
+
+The expected value of the cash balance at the end of year 1 is $2,350,000.
+There is a 0.3 or 30% chance that the overdraft limit will be exceeded.
+Year 1
+closing
+balance
+$'000
+(a)
+4,500
+4,500
+4,500
+3,500
+3,500
+3,500
+(1,000)
+(1,000)
+(1,000)
+
+Year 2 cash
+Probability
+flow
+Probability
+$'000
+(b)
+(c)
+(d)
+0.20
+2,500
+0.10
+0.20
+1,000
+0.65
+0.20
+(3,500)
+0.25
+0.50
+2,500
+0.10
+0.50
+1,000
+0.65
+0.50
+(3,500)
+0.25
+0.30
+2,500
+0.10
+0.30
+1,000
+0.65
+0.30
+(3,500)
+0.25
+
+Year 2
+closing
+balance
+$'000
+(a) + (c)
+7,000
+5,500
+1,000
+6,000
+4,500
+0
+1,500
+0
+(4,500)
+
+Joint
+probability
+
+(b) (d)
+0.020
+0.130
+0.050
+0.050
+0.325
+0.125
+0.030
+0.195
+0.075
+
+Expected
+value
+$'000
+
+140.0
+715.0
+50.0
+300.0
+462.5
+0.0
+45.0
+0.0
+(337.5)
+2,375.0
+
+The expected value of the cash balance at the end of year 2 is $2,375,000.
+There is a 0.075 or 7.5% chance that the overdraft limit will be exceeded.
+
+3.3 Problems with expected values
+There are the following problems with using expected values in making investment decisions.
+
+
+
+202
+
+An investment may be one-off, and 'expected' NPV may never actually occur. For example, if there
+is a 50% probability that the NPV will be + $10,000 and a 50% probability that it will be $(2,000),
+the EV of the NPV is + $4,000. On this basis the project will go ahead. However, an NPV of $4,000
+is not expected to happen. The NPV will be either plus $10,000 or minus $2,000.
+
+10: Project appraisal and risk
+
+Part D Investment
+appraisal
+w
+
+
+
+
+Assigning probabilities to future events and outcomes is usually highly subjective.
+
+
+
+Expected values do not evaluate the range of possible NPV outcomes.
+
+3.4 The certainty-equivalent approach
+
+12/15
+
+Another method is the certainty-equivalent approach. By this method, the expected cash flows of the project
+are converted to riskless equivalent amounts. The greater the risk of an expected cash flow, the smaller
+the certainty-equivalent value (for receipts) or the larger the certainty-equivalent value (for payments).
+As the cash flows are reduced to supposedly certain amounts, they should be discounted at a risk-free
+rate. This concept will be covered in detail later in this text, but the risk-free rate is effectively the level of
+return that can be obtained from undertaking no risk.
+Because this approach reduces the estimated project cash flows to an ultra-safe level (ie the cash flows
+could be no worse than this level), this can be thought of as a 'conservative approach' to project appraisal.
+
+3.5 Example: Certainty-equivalent approach
+Dark Ages Co, whose cost of capital is 10%, is considering a project with the following expected cash
+flows.
+Year
+
+Cash flow
+$
+(10,000)
+7,000
+5,000
+5,000
+
+0
+1
+2
+3
+
+Discount factor 10%
+
+1.000
+0.909
+0.826
+0.751
+
+Present value
+$
+(10,000)
+6,363
+4,130
+3,755
+NPV = +4,248
+
+The project seems to be worthwhile. However, because of the uncertainty about the future cash receipts,
+the management decides to reduce them to 'certainty-equivalents' by taking only 70%, 60% and 50% of
+the years 1, 2 and 3 cash flows respectively. The risk-free rate is 5%.
+On the basis of the information set out above, assess whether the project is worthwhile.
+
+Solution
+The risk-adjusted NPV of the project is as follows.
+Year
+
+0
+1
+2
+3
+
+(7,000
+(5,000
+(5,000
+
+0.70)
+0.60)
+0.50)
+
+Cash flow: certainty
+equivalents
+$
+(10,000)
+4,900
+3,000
+2,500
+
+Discount factor at
+risk-free rate of return 5%
+
+1.000
+0.952
+0.907
+0.864
+
+Present value
+$
+(10,000)
+4,665
+2,721
+2,160
+NPV = (454)
+
+The project's certainty-equivalent NPV is negative. This means that the project is too risky and should be
+rejected.
+The disadvantage of the 'certainty-equivalent' approach is that the amount of the adjustment to each cash
+flow is decided subjectively.
+
+Part D Investment appraisal
+w
+
+10: Project appraisal and risk
+
+203
+
+4 Other techniques for dealing with risk and uncertainty
+4.1 Simulation
+FAST FORWARD
+
+Mar/Jun 18
+
+Other techniques include the use of simulation models (to describe uncertainty), discounted payback (to
+describe uncertainty) and risk-adjusted discount rates (to quantify risk).
+Simulation will overcome problems of having a very large number of uncertain outcomes, as well as the
+correlation of cash flows (a project which is successful in its early years is more likely to be successful in
+its later years).
+
+4.2 Example: Simulation model
+The following probability estimates have been prepared for a proposed project.
+Year
+
+Probability
+
+Cost of equipment
+Revenue each year
+
+0
+1–5
+
+Running costs each year
+
+1–5
+
+1.00
+0.15
+0.40
+0.30
+0.15
+0.10
+0.25
+0.35
+0.30
+
+$
+(40,000)
+40,000
+50,000
+55,000
+60,000
+25,000
+30,000
+35,000
+40,000
+
+The cost of capital is 12%. Assess how a simulation model might be used to assess the project's NPV.
+
+Solution
+A simulation model could be constructed by assigning a range of random number digits to each possible
+value for each of the uncertain variables. The random numbers must exactly match their respective
+probabilities. This is achieved by working upwards cumulatively from the lowest to the highest cash flow
+values and assigning numbers that will correspond to probability groupings, as follows.
+Revenue
+
+$
+40,000
+50,000
+55,000
+60,000
+*
+**
+***
+
+Prob
+0.15
+0.40
+0.30
+0.15
+
+Running costs
+Random
+numbers
+00 – 14
+15 – 54
+55 – 84
+85 – 99
+
+*
+**
+***
+
+$
+25,000
+30,000
+40,000
+40,000
+
+Prob
+0.10
+0.25
+0.35
+0.30
+
+Random
+numbers
+00 – 09
+10 – 34
+35 – 69
+70 – 99
+
+Probability is 0.15 (15%). Random numbers are 15% of range 00 – 99.
+Probability is 0.40 (40%). Random numbers are 40% of range 00 – 99 but starting at 15.
+Probability is 0.30 (30%). Random numbers are 30% of range 00 – 99 but starting at 55.
+
+For revenue, the selection of a random number in the range 00 and 14 has a probability of 0.15. This
+probability represents revenue of $40,000. Numbers have been assigned to cash flows so that when
+numbers are selected at random, the cash flows have exactly the same probability of being selected as is
+indicated in their respective probability distribution above.
+Random numbers would be generated, for example by a computer program, and these would be used to
+assign values to each of the uncertain variables.
+
+204
+
+10: Project appraisal and risk
+
+Part D Investment
+appraisal
+w
+
+
+For example, if random numbers 37, 84, 20, 01, 56 and 89 were generated, the values assigned to the
+variables would be as follows.
+Calculation
+
+Revenue
+Random number
+
+1
+2
+3
+
+37
+20
+56
+
+Value
+$
+50,000
+50,000
+55,000
+
+Costs
+Random number
+
+84
+01
+89
+
+Value
+$
+40,000
+25,000
+40,000
+
+A computer would calculate the NPV many times over using the values established in this way with more
+random numbers, and the results would be analysed to provide the following.
+(a)
+(b)
+
+An expected NPV for the project
+A statistical distribution pattern for the possible variation in the NPV above or below this average
+
+The decision whether to go ahead with the project would then be made on the basis of expected return
+and risk.
+
+4.3 Discounted payback (adjusted payback)
+FAST FORWARD
+
+Sep/Dec 17, Mar/Jun 18
+
+The discounted payback period (DPP) is the time it will take before a project's cumulative NPV turns from
+being negative to being positive.
+The payback method of investment appraisal, discussed in Chapter 7, recognises uncertainty in
+investment decisions by focusing on the near future. Short-term projects are preferred to long-term
+projects and liquidity is emphasised.
+The discounted payback period is the length of time before the cumulative PV of cash inflows from the
+projects begins to exceed the initial outflow. It is similar to the payback method, but uses discounted cash
+flows rather than non-discounted cash flows to measure the payback period.
+Discounted payback uses discounted cash flows. This is also known as adjusted payback.
+
+For example, if we have a cost of capital of 10% and a project with the cash flows shown below, we can
+calculate a discounted payback period.
+Year
+
+Cash flow
+$
+
+0
+1
+2
+3
+4
+5
+
+(100,000)
+30,000
+50,000
+40,000
+30,000
+20,000
+
+Discount
+factor
+10%
+1.000
+0.909
+0.826
+0.751
+0.683
+0.621
+
+Present
+value
+$
+
+(100,000)
+27,270
+41,300
+30,040
+20,490
+12,420
+NPV = 31,520
+
+Cumulative
+NPV
+$
+
+(100,000)
+(72,730)
+(31,430)
+(1,390)
+19,100
+31,520
+
+The DPP is early in year 4.
+It may be approximated as 3 years + [1,390/(1,390 + 19,100)] × 12 months
+= 3 years 0.8 months, say 3 years 1 month.
+A company can set a target DPP, and choose not to undertake any projects with a DPP in excess of a
+certain number of years, say, five years.
+
+4.4 Advantages and disadvantages of discounted payback period
+The approach has all the perceived advantages of the payback period method of investment appraisal: it
+is easy to understand and calculate, and it provides a focus on liquidity where this is relevant. In addition,
+
+Part D Investment appraisal
+w
+
+10: Project appraisal and risk
+
+205
+
+however, it also takes into account the time value of money. It therefore bridges the gap between the
+theoretically superior NPV method and the regular payback period method.
+However, it does differ from NPV in that the discount rate used is the unadjusted cost of capital whereas
+NPV often uses an adjusted rate to reflect project risk and uncertainty.
+Because the DPP approach takes the time value of money into consideration, it produces a longer
+payback period than the non-discounted payback approach, and takes into account more of the project's
+cash flows.
+Another advantage it has over traditional payback is that it has a clear accept or reject criterion. Using
+payback, acceptance of a project depends on an arbitrarily determined cut-off time. Using DPP, a project is
+acceptable if it pays back within its lifetime.
+DPP still shares one disadvantage with the payback period method: cash flows which occur after the
+payback period are ignored (although, as the DPP is longer than the payback period, fewer of these are
+ignored).
+One way of dealing with risk is to shorten the payback period required. A maximum payback period can
+be set to reflect the fact that risk increases the longer the time period under consideration. However, the
+disadvantages of payback as an investment appraisal method (discussed in Section 3.2 of Chapter 7)
+mean that discounted payback cannot be recommended as a method of adjusting for risk.
+
+4.5 Risk-adjusted discount rates
+
+12/16, Mar/Jun 18
+
+Investors want higher returns for higher risk investments. The greater the risk attached to future returns,
+the greater the risk premium required. Investors also prefer cash now to later and require a higher return
+for longer time periods.
+In investment appraisal, a risk-adjusted discount rate can be used for particular types or risk classes of
+investment projects to reflect their relative risks. This concept is developed further in Chapter 16.
+For example, a high discount rate can be used so that a cash flow which occurs quite some time in the
+future will have less effect on the decision. Alternatively, with the launch of a new product, a higher initial
+risk premium may be used with a decrease in the discount rate as the product becomes established.
+
+206
+
+10: Project appraisal and risk
+
+Part D Investment
+appraisal
+w
+
+
+
+Chapter Roundup
+
+
+Risk analysis can be applied to a proposed capital investment where there are several possible outcomes
+and, on the basis of past relevant experience, probabilities can be assigned to the various outcomes and
+estimated cash flows that could prevail.
+
+
+
+Uncertainty analysis can be applied to a proposed capital investment where there are several possible
+outcomes but there is little past relevant experience to enable the probability of the alternative outcomes to
+be predicted.
+
+
+
+There are a wide range of techniques for incorporating risk into project appraisal.
+
+
+
+Sensitivity analysis assesses how responsive the project's NPV is to changes in the variables used to
+calculate that NPV. Sensitivity analysis is one particular approach to uncertainty analysis.
+
+
+
+A probability analysis of expected cash flows can often be estimated and used both to calculate an
+expected NPV and to measure risk. The certainty-equivalent approach is a similar approach; this involves
+the conversion of the expected cash flows of the project to riskless equivalent amounts.
+
+
+
+Other techniques include the use of simulation models (to describe uncertainty), discounted payback (to
+describe uncertainty) and risk-adjusted discount rates (to quantify risk).
+
+
+
+The discounted payback period (DPP) is the time it will take before a project's cumulative NPV turns from
+being negative to being positive.
+
+Part D Investment appraisal
+w
+
+10: Project appraisal and risk
+
+207
+
+Quick Quiz
+1
+
+Give three examples of uncertain independent variables on which the NPV of a project may depend.
+
+2
+
+How are simulation models constructed?
+
+3
+
+Briefly list four ways in which managers can reduce risk.
+
+4
+
+Sensitivity analysis allows for uncertainty in project appraisal by assessing the probability of changes in
+the decision variables.
+True
+False
+
+5
+
+Fill in the blanks.
+The ........................................ is where expected cash flows are converted to riskless equivalent amounts.
+
+6
+
+Give two examples of ways that risk can be measured in probability analysis.
+
+7
+
+Expected values can help an accountant evaluate the range of possible net present value outcomes.
+True
+False
+
+8
+
+An investment project has the following discounted cash flows ($'000).
+Year
+
+0
+1
+2
+3
+4
+
+0%
+(90)
+30
+30
+30
+30
+30
+
+Discount rate
+10%
+(90)
+27.3
+24.8
+22.5
+20.5
+5.1
+
+20%
+(90)
+25.0
+29.8
+17.4
+14.5
+(12.3)
+
+The required rate of return on investment is 10% per annum.
+What is the discounted payback period of the investment project?
+A
+B
+C
+D
+
+208
+
+10: Project appraisal and risk
+
+Less than three years
+Three years
+Between three years and four years
+More than four years
+
+Part D Investment
+appraisal
+w
+
+
+
+Answers to Quick Quiz
+1
+
+Any three of:
+(a)
+Selling price
+(b)
+Sales volume
+(c)
+Cost of capital
+(d)
+Initial cost
+(e)
+Operating costs
+(f)
+Benefits
+
+2
+
+By assigning a range of random number digits to each possible value of each of the uncertain variables.
+
+3
+
+(a)
+(b)
+(c)
+(d)
+
+4
+
+False. Sensitivity analysis does not assess probability.
+
+5
+
+Certainty-equivalent approach
+
+6
+
+Calculating the worst possible outcome and its probability
+Calculating the probability that the project will fail to achieve a positive NPV
+
+7
+
+False
+
+8
+
+C
+
+Set maximum payback period
+Use high discounting rate
+Use sensitivity analysis to determine the critical factors within the decision-making process
+Use pessimistic estimates
+
+At the end of year 3, $74,600 has been 'paid back'. The remaining $15,400 for payback will be
+received during year 4.
+
+Now try the questions below from the Practice Question Bank
+
+Number
+
+Level
+
+Marks
+
+Time
+
+Section A Q20
+
+Examination
+
+2
+
+4 mins
+
+Section A Q21
+
+Examination
+
+2
+
+4 mins
+
+Section C Q11
+
+Introductory
+
+N/A
+
+29 mins
+
+Part D Investment appraisal
+w
+
+10: Project appraisal and risk
+
+209
+
+210
+
+10: Project appraisal and risk
+
+Part D Investment
+appraisal
+w
+
+
+
+Specific investment
+decisions
+
+Topic list
+
+Syllabus reference
+
+1 Lease or buy decisions
+
+D4 (a)
+
+2 Asset replacement decisions
+
+D4 (b)
+
+3 Capital rationing
+
+D4 (c)
+
+Introduction
+In this chapter, we consider specific investment decisions, such as whether to
+lease or buy an asset, when to replace an asset and how to assess projects
+when capital is a scarce resource.
+
+w
+
+211
+
+Study guide
+Intellectual level
+D4
+
+Specific investment decisions (lease or buy; asset replacement; capital
+rationing)
+
+(a)
+
+Evaluate leasing and borrowing to buy using the before- and after-tax costs
+of debt.
+
+2
+
+(b)
+
+Evaluate asset replacement decisions using equivalent annual cost and
+equivalent annual benefit.
+
+2
+
+(c)
+
+Evaluate investment decisions under single period capital rationing,
+including:
+
+2
+
+(i)
+
+The calculation of profitability indexes for divisible investment projects
+
+(ii)
+
+The calculation of the NPV of combinations of non-divisible investment
+projects
+
+(iii)
+
+A discussion of the reasons for capital rationing
+
+Exam guide
+You may be asked to calculate the results of different options and careful, methodical workings will be
+essential. These calculations can be quite difficult and will need lots of practice.
+
+1 Lease or buy decisions
+FAST FORWARD
+
+Leasing is a commonly used source of finance, and can be especially attractive where companies find it
+difficult to raise finance to fund capital expenditure.
+
+1.1 The nature of leasing
+Rather than buying an asset outright, using either available cash resources or borrowed funds, a business
+may lease an asset.
+
+Key terms
+
+Leasing is a contract between a lessor and a lessee for hire of a specific asset by the lessee from a
+manufacturer or vendor of such assets.
+The lessor has ownership of the asset and so provides the initial finance for the asset.
+The lessee has possession and use of the asset on payment of specified rentals over a period.
+
+1.1.1 Examples of lessors
+
+
+
+Banks
+Insurance companies
+
+1.1.2 Types of asset leased
+
+
+
+
+
+
+
+212
+
+Office equipment
+Computers
+Cars
+Commercial vehicles
+Aircraft
+Ships
+Buildings
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+1.2 Leases that minimise risk to the lessee
+Some leases, often short-term leases, are rental agreements between a lessor and a lessee, that are
+structured so that the lessor retains most of the risks of ownership, ie the lessor is responsible for
+servicing and maintaining the leased equipment. The risk of ownership is also minimised for the lessee
+because if there is a change in technology then the lessee can exit from the rental agreement at the end of
+the lease term and is therefore not tied in to using assets that are technologically out of date.
+
+1.3 Leases that are purely a source of finance
+Some leases are long-term arrangements that transfer the risks and rewards of ownership of an asset to
+the lessee. These are agreements between the lessee and the lessor for most or all of the asset's expected
+useful life. The lessee is responsible for the upkeep, servicing and maintenance of the asset.
+This can be a cheaper source of finance than a bank loan if the lessor buys a large quantity of assets (eg
+aircraft) and obtains bulk purchase discounts as a result; some of the savings from such discounts can be
+shared with the lessee in the form of lower rental payments.
+
+1.4 Sale and leaseback
+Key term
+
+Sale and leaseback is when a business that owns an asset agrees to sell the asset to a financial institution
+and lease it back on terms specified in the sale and leaseback agreement.
+The business retains use of the asset but has the funds from the sale, while having to pay rent.
+A common form of sale and leaseback arrangement has involved commercial property. A company might
+sell its premises to a bank or finance company (to raise cash) and then lease back the premises under a
+long-term leasing arrangement.
+
+1.5 Attractions of leasing
+Attractions include the following.
+(a)
+
+The supplier of the equipment is paid in full at the beginning. The equipment is sold to the lessor
+and, other than guarantees, the supplier has no further financial concern about the asset.
+
+(b)
+
+The lessor invests finance by purchasing assets from suppliers and makes a return out of the
+lease payments from the lessee. The lessor will also get capital allowances (tax-allowable
+depreciation) on the purchase of the equipment.
+
+(c)
+
+Leasing may have advantages for the lessee.
+(i)
+
+The lessee may not have enough cash to pay for the asset, and would have difficulty
+obtaining a bank loan to buy it. If so, the lessee has to rent the asset to obtain use of it at all.
+
+(ii)
+
+Leasing may be cheaper than a bank loan if the lessor obtains bulk purchase discounts
+(as discussed earlier).
+
+(iii)
+
+If the equipment is leased for a shorter period than its expected useful life. In the case of
+high-technology equipment, if the equipment becomes out of date before the end of its
+expected life, the lessee does not have to keep on using it.
+
+A major growth area in short-term leasing in the UK has been in computers and office equipment (such as
+photocopiers) where technology is continually improving.
+
+1.6 Lease or buy decisions
+FAST FORWARD
+
+The decision whether to lease or buy an asset is a financing decision which interacts with the investment
+decision to buy the asset. The assumption is that the preferred financing method should be the one with
+the lower PV of cost. We identify the least-cost financing option by comparing the cash flows of
+purchasing and leasing. We assume that if the asset is purchased, it will be financed with a bank loan;
+therefore the cash flows are discounted at an after-tax cost of borrowing.
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+213
+
+The decision of whether to buy or lease an asset is made once the decision to invest in the asset has been
+made.
+Discounted cash flow techniques are used to evaluate the lease or buy decision so that the least-cost
+financing option can be chosen.
+The cost of capital that should be applied to the cash flows for the financing decision is the cost of
+borrowing. Assuming that the lessee is in a tax paying position then the cost of borrowing should be after
+tax. This can be calculated as the post-tax cost of borrowing. This can be calculated as the pre-tax cost of
+borrowing multiplied by (1 – tax rate). If the company is not in a tax paying position or an exam question
+says that tax should be ignored then the pre-tax cost of borrowing can be used. We assume that if the
+organisation decided to purchase the equipment, it would finance the purchase by borrowing funds (rather
+than out of retained funds). We therefore compare the cost of purchasing with the cash flows of leasing
+by applying this cost of borrowing to the financing cash flows.
+The cash flows of purchasing do not include the interest repayments on the loan, as these are dealt with
+via the cost of capital.
+An important cash flow difference between leasing and buying is that:
+
+
+
+With buying the asset, the company receives the tax allowances (tax-allowable depreciation).
+With leasing, the lessor and not the lessee receives these allowances.
+
+With leasing, the lease rental is allowable for tax purposes, and there are consequently savings in tax cash
+flows.
+
+1.7 A simple example
+Brown Co has decided to invest in a new machine which has a ten-year life and no residual value. The
+machine can either be purchased now for $50,000, or it can be leased for ten years with lease rental
+payments of $8,000 per annum payable at the end of each year.
+The cost of capital to be applied is 9% and taxation should be ignored.
+
+Solution
+Present value of leasing costs
+PV = Annuity factor at 9% for 10 years × $8,000
+= 6.418 × $8,000 = $51,344
+If the machine was purchased now, it would cost $50,000. The purchase is therefore the least-cost
+financing option.
+
+1.8 An example with taxation
+Mallen and Mullins has decided to install a new milling machine. The machine costs $20,000 and it would
+have a useful life of five years with a trade-in value of $4,000 at the end of the fifth year. A decision now
+has to be taken on the method of financing the project.
+(a)
+
+The company could purchase the machine for cash, using bank loan facilities on which the current
+rate of interest is 13% before tax.
+
+(b)
+
+The company could lease the machine under an agreement which would entail payment of $4,800
+at the end of each year for the next five years.
+
+The rate of tax is 30%. If the machine is purchased, the company will be able to claim a tax depreciation
+allowance of 100% in Year 1. Tax is payable with a year's delay.
+
+214
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+Solution
+Cash flows are discounted at the after-tax cost of borrowing, which is at 13%
+The present value (PV) of purchase costs
+Year
+0
+5
+2
+6
+6
+
+Item
+Equipment cost
+Trade-in value
+Tax savings, from allowances
+30% $20,000
+Balancing charge
+30% $4,000
+
+70% = 9.1%, say 9%.
+
+Cash
+flow
+$
+(20,000)
+4,000
+
+Discount
+factor
+9%
+1.000
+0.650
+
+PV
+$
+(20,000)
+2,600
+
+6,000
+
+0.842
+
+5,052
+
+(1,200)
+
+0.596
+NPV of purchase
+
+(715)
+(13,063)
+
+The PV of leasing costs
+It is assumed that the lease payments are fully tax allowable.
+Year
+1–5
+2–6
+
+Lease
+payment
+$
+(4,800) p.a.
+
+Savings
+in tax (30%)
+$
+1,440 p.a.
+
+Discount
+factor
+9%
+3.890
+3.569 (W)
+NPV of leasing
+
+Working
+6 year cumulative present value factor 9%
+1 year present value factor 9%
+
+PV
+$
+(18,672)
+5,139
+(13,533)
+
+4.486
+(0.917)
+3.569
+
+The cheapest option would be to purchase the machine.
+An alternative method of making lease or buy decisions is to carry out a single financing calculation with
+the payments for one method being negative and the receipts being positive, and vice versa for the other
+method.
+0
+1
+2
+3
+4
+5
+6
+Year
+$
+$
+$
+$
+$
+$
+$
+Saved equipment cost
+20,000
+Lost trade-in value
+(4,000)
+Balancing charge
+1,200
+Lost tax savings
+from allowances
+(6,000)
+Lease payments
+(4,800)
+(4,800)
+(4,800)
+(4,800)
+(4,800)
+Tax allowances
+1,440
+1,440
+1,440
+1,440
+1,440
+Net cash flow
+20,000
+(4,800)
+(9,360)
+(3,360)
+(3,360)
+(7,360)
+2,640
+Discount factor 9%
+1.000
+0.917
+0.842
+0.772
+0.708
+0.650
+0.596
+PV
+20,000
+(4,402)
+(7,881)
+(2,594)
+(2,379)
+(4,784)
+1,573
+NPV
+(467)
+The negative NPV indicates that the lease is unattractive and the purchasing decision is better, as the net
+savings from not leasing outweigh the net costs of purchasing.
+
+Exam focus
+point
+
+Remember that the decisions made by companies are not solely made according to the results of
+calculations like these. Other factors (short-term cash flow advantages, flexibility, risk) may be significant.
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+215
+
+1.9 The position of the lessor
+Exam focus
+point
+
+So far, we have looked at examples of leasing decisions from the viewpoint of the lessee. You may be
+asked to evaluate a leasing arrangement from the position of the lessor. This is rather like a mirror image
+of the lessee's position.
+The lessor will receive tax-allowable depreciation on the expenditure, and the lease payments will be
+taxable income.
+
+1.10 Example: Lessor's position
+Continuing the same case of Mallen and Mullins, suppose that the lessor's required rate of return is 12%
+after tax. The lessor can claim 25% reducing balance tax depreciation. The lessor's cash flows will be as
+follows.
+Discount
+Cash flow
+factor 12%
+PV
+$
+$
+Purchase costs
+Year 0
+(20,000)
+1.000
+(20,000)
+Year 5 trade-in
+4,000
+0.567
+2,268
+Tax savings (see working below)
+Year 2
+1,500
+0.797
+1,196
+Year 3
+1,125
+0.712
+801
+Year 4
+844
+0.636
+537
+Year 5
+633
+0.567
+359
+Year 6
+698
+0.507
+354
+Lease payments: years 1–5
+4,800
+3.605
+17,304
+Tax on lease payments: years 2–6
+(1,440)
+3.218
+(4,634)
+(1,815)
+NPV
+Conclusion
+The proposed level of leasing payments are not justifiable for the lessor if it seeks a required rate of return
+of 12%, since the resulting NPV is negative.
+Working:
+Year
+
+1
+2
+3
+4
+5
+
+Balance
+$
+20,000
+15,000
+11,250
+8,437
+
+Cost
+
+Balancing allowance *
+
+Depreciation
+25%
+$
+5,000
+3,750
+2,813
+2,109
+2,328
+
+Tax saved
+30%
+$
+1,500
+1,125
+844
+633
+698
+
+Time benefit
+received
+2
+3
+4
+5
+6
+
+*$20,000 – $4,000 scrap – total claims in Years 1 – 4
+
+Question
+
+Lease or buy
+
+The management of a company has decided to acquire Machine X which costs $63,000 and has an
+operational life of four years. The expected scrap value would be zero. Tax is payable at 30% on operating
+cash flows one year in arrears. Tax-allowable depreciation is available at 25% a year on a reducing balance
+basis.
+Suppose that the company has the opportunity either to purchase the machine or to lease it at an annual
+rent of $20,000 for four years, payable at the end of each year. The company can borrow to finance the
+acquisition at a pre-tax cost of borrowing of 10%. Should the company lease or buy the machine?
+
+216
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+Answer
+Working
+Tax-allowable depreciation
+Year
+1
+2
+3
+
+$
+15,750
+11,813
+8,859
+36,422
+26,578
+
+(25% of $63,000)
+(75% of $15,750)
+(75% of $11,813)
+
+4
+
+($63,000 – $36,422)
+
+Note. 75% of $15,750 is also 25%
+
+(63,000 – 15,750).
+
+The financing decision will be appraised by discounting the relevant cash flows at the after-tax cost of
+borrowing, which is 10% 70% = 7%.
+(a)
+
+Purchase option
+Year
+0
+2
+3
+4
+5
+
+(b)
+
+Item
+Cost of machine
+Tax saved from tax-allowable
+depreciation
+30% $15,750
+30% $11,813
+30% $8,859
+30% $26,578
+
+Cash
+flow
+$
+(63,000)
+
+Discount
+factor 7%
+
+4,725
+3,544
+2,658
+7,973
+
+0.873
+0.816
+0.763
+0.713
+
+4,125
+2,892
+2,028
+5,685
+(48,270)
+
+Discount
+factor 7%
+
+Present
+value
+$
+(67,740)
+18,990
+(48,750)
+
+1.000
+
+Present
+value
+$
+(63,000)
+
+Leasing option
+It is assumed that the lease payments are tax allowable in full.
+Year
+
+Item
+
+1–4
+2–5
+
+Lease costs
+Tax savings on lease costs ( 30%)
+
+Cash
+flow
+$
+(20,000)
+6,000
+
+3.387
+3.165
+
+The purchase option is cheaper, using a cost of capital based on the after-tax cost of borrowing. On the
+assumption that investors would regard borrowing and leasing as equally risky finance options, the
+purchase option is recommended.
+
+2 Asset replacement decisions
+FAST FORWARD
+
+12/14
+
+DCF techniques can assist asset replacement decisions, to decide how frequently an asset should be
+replaced. When an asset is being replaced with an identical asset, the equivalent annual cost method can
+be used to calculate an optimum replacement cycle.
+As well as assisting with decisions between particular assets, DCF techniques can be used in asset
+replacement decisions to assess when and how frequently an asset should be replaced. When an asset is
+to be replaced by an 'identical' asset, the problem is to decide the optimum interval between
+replacements. As the asset gets older, it may cost more to maintain and operate, its residual value will
+decrease and it may lose some productivity/operating capability.
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+217
+
+2.1 Equivalent annual cost method
+The equivalent annual cost method is the most convenient method of analysis to use in a period of no
+inflation. With this method, the NPV of the cost of buying and using the asset over its life cycle is
+converted into an equivalent annual cost or annuity. This is a constant annual cost that is equal to the NPV
+of the costs over the asset life cycle. An equivalent annual cost can be calculated for each possible length
+of asset replacement cycle. The least-cost replacement cycle is the one with the lowest equivalent annual
+cost.
+
+Step 1
+
+Calculate the present value of costs for each replacement cycle over one cycle only.
+These costs are not comparable because they refer to different time periods, whereas
+replacement is continuous.
+
+Step 2
+
+Turn the present value of costs for each replacement cycle into an equivalent annual cost
+(an annuity).
+The equivalent annual cost is calculated as follows.
+
+The PV of cost over one replacement cycle
+The cumulative present value factor for the number of years in the cycle
+For example if there are three years in the cycle, the denominator will be the present value
+of an annuity for three years at 10% (2.487).
+
+2.2 Example: Replacement of an identical asset
+A company operates a machine which has the following costs and resale values over its four-year life.
+Purchase cost: $25,000
+Year 1
+$
+7,500
+15,000
+
+Running costs (cash expenses)
+Resale value (end of year)
+
+Year 2
+$
+11,000
+10,000
+
+Year 3
+$
+12,500
+7,500
+
+Year 4
+$
+15,000
+2,500
+
+The organisation's cost of capital is 10%. You are required to assess how frequently the asset should be
+replaced.
+
+Solution
+In our example:
+
+Step 1
+
+Calculate the present value of costs for each replacement cycle over one cycle.
+Replace
+every year
+
+Year
+
+Discount
+factors
+
+0
+1
+
+–
+0.909
+
+2
+
+0.826
+
+3
+
+0.751
+
+4
+
+0.683
+
+Cash
+flow
+$
+(25,000)
+(7,500)
+15,000
+
+PV of cost over one
+replacement cycle
+
+218
+
+11: Specific investment decisions
+
+PV at
+10%
+$
+(25,000)
+(6,818)
+13,635
+
+(18,183)
+
+Replace
+every 2 years
+
+Replace
+every 3 years
+
+Replace
+every 4 years
+
+Cash
+flow
+$
+(25,000)
+(7,500)
+
+PV at
+10%
+$
+(25,000)
+(6,818)
+
+Cash
+flow
+$
+(25,000)
+(7,500)
+
+PV at
+10%
+$
+(25,000)
+(6,818)
+
+Cash
+flow
+$
+(25,000)
+(7,500)
+
+PV at
+10%
+$
+(25,000)
+(6,818)
+
+(11,000)
+10,000
+
+(9,086)
+8,260
+
+(11,000)
+
+(9,086)
+
+(11,000)
+
+(9,086)
+
+(12,500)
+7,500
+
+(9,388)
+5,633
+
+(12,500)
+
+(9,388)
+
+(15,000)
+2,500
+
+(10,245)
+1,708
+
+(32,644)
+
+Part D Investment
+appraisal
+w
+
+(44,659)
+
+(58,829)
+
+
+
+Step 2
+
+Calculate the equivalent annual cost.
+We use a discount rate of 10%.
+(a)
+
+Replacement every year:
+Equivalent annual cost =
+
+(b)
+
+$(32,644)
+1.736
+
+$(18,804)
+
+Replacement every three years:
+Equivalent annual cost =
+
+(d)
+
+$(20,003)
+
+Replacement every two years:
+Equivalent annual cost =
+
+(c)
+
+$(18,183)
+0.909
+
+$(44,659)
+2.487
+
+$(17,957)
+
+Replacement every four years:
+Equivalent annual cost =
+
+$(58,829)
+3.170
+
+$(18,558)
+
+The optimum replacement policy is the one with the lowest equivalent annual cost. This is every three
+years.
+
+2.3 Equivalent annual benefit
+Key term
+
+The equivalent annual benefit is the annual annuity with the same value as the net present value of an
+investment project.
+The equivalent annual benefit =
+
+NPV of project
+Annuity factor
+
+For example, a project A with an NPV of $3.75m and a duration of 6 years, given a discount rate of 12%,
+3.75
+will have an equivalent annual annuity of
+0.91
+4.11
+An alternative project B with an NPV of $4.45m and a duration of 7 years will have an equivalent annual
+4.45
+0.98
+annuity of
+4.564
+Project B will therefore be ranked higher than project A. This method is a useful way of comparing
+projects with unequal lives.
+
+Exam focus
+point
+
+You may find it useful to read the article titled 'Equivalent annual costs and benefits' on the ACCA website.
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+219
+
+3 Capital rationing
+FAST FORWARD
+
+Key terms
+
+12/14, Sep/Dec 15, 12/16
+
+Capital rationing may occur due to internal factors (soft capital rationing) or external factors (hard capital
+rationing).
+
+Capital rationing is a situation in which a company has a limited amount of capital to invest in potential
+projects, such that the different possible investments need to be compared with one another in order to
+allocate the capital available most effectively.
+Soft capital rationing is brought about by internal factors and decisions by management.
+Hard capital rationing is brought about by external factors, such as limited availability of new external
+finance.
+
+If an organisation is in a capital rationing situation it will not be able to enter into all projects with positive
+NPVs because there is not enough capital for all the investments.
+
+3.1 Soft and hard capital rationing
+Soft capital rationing may arise for one of the following reasons.
+
+(a)
+
+Management may be reluctant to issue additional share capital because of concern that this may
+lead to outsiders gaining control of the business.
+
+(b)
+
+Management may be unwilling to issue additional share capital if it will lead to a dilution of
+earnings per share.
+
+(c)
+
+Management may not want to raise additional debt capital because they do not wish to be
+committed to large fixed interest payments.
+
+(d)
+
+Management may wish to limit investment to a level that can be financed solely from retained
+earnings.
+
+Hard capital rationing may arise for one of the following reasons.
+
+(a)
+
+Raising new finance through the stock market may not be possible if share prices are depressed.
+
+(b)
+
+There may be restrictions on bank lending due to government control.
+
+(c)
+
+Lending institutions may consider an organisation to be too risky to be granted further loan
+facilities.
+
+(d)
+
+The costs associated with making small issues of capital may be too great.
+
+3.2 Relaxation of capital constraints
+If an organisation adopts a policy that restricts funds available for investment (soft capital rationing), the
+policy may be less than optimal. The organisation may reject projects with a positive net present value and
+forgo opportunities that would have enhanced the market value of the organisation.
+A company may be able to limit the effects of hard capital rationing and exploit new opportunities.
+
+220
+
+(a)
+
+It might seek joint venture partners with which to share projects.
+
+(b)
+
+As an alternative to direct investment in a project, the company may be able to consider a licensing
+or franchising agreement with another enterprise, under which the licensor/franchisor company
+would receive royalties.
+
+(c)
+
+It may be possible to contract out parts of a project to reduce the initial capital outlay required.
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+(d)
+
+The company may seek new alternative sources of capital (subject to any restrictions which apply
+to it), for example:
+(i)
+Venture capital
+(ii)
+Debt finance secured on the assets of the project
+(iii)
+Sale and leaseback of property or equipment (see the next chapter)
+(iv)
+Grant aid
+(v)
+More effective capital management
+
+3.3 Single period capital rationing
+FAST FORWARD
+
+When capital rationing occurs in a single period, projects are ranked in terms of profitability index. This
+is the ratio of the NPV of a project to its investment cost. The projects with the highest ratios should be
+selected for investment.
+We shall begin our analysis by assuming that capital rationing occurs in a single period, and that capital is
+freely available at all other times.
+The following further assumptions will be made.
+(a)
+
+If a company does not accept and undertake a project during the period of capital rationing, the
+opportunity to undertake it is lost. The project cannot be postponed until a subsequent period
+when no capital rationing exists.
+
+(b)
+
+There is complete certainty about the outcome of each project, so that the choice between projects
+is not affected by considerations of risk.
+
+(c)
+
+Projects are divisible, so that it is possible to undertake, say, half of Project X in order to earn half
+of the net present value (NPV) of the whole project.
+
+The basic approach is to rank all investment opportunities so that the NPVs can be maximised from the
+use of the available funds.
+Ranking in terms of absolute NPVs will normally give incorrect results. This method leads to the selection
+of large projects, each of which has a high individual NPV but which have, in total, a lower NPV than a
+large number of smaller projects with lower individual NPVs. Ranking is therefore in terms of what is
+called the profitability index.
+This profitability index is a ratio that measures the PV of future cash flows per $1 of investment, and so
+indicates which investments make the best use of the limited resources available.
+
+Key term
+
+Profitability index is the ratio of the present value of the project's future cash flows (not including the
+capital investment) divided by the present value of the total capital investment.
+
+3.4 Example: Single period capital rationing
+Suppose that Hard Times Co is considering four projects, W, X, Y and Z. Relevant details are as follows.
+Project
+
+W
+X
+Y
+Z
+
+Investment
+required
+$
+(10,000)
+(20,000)
+(30,000)
+(40,000)
+
+Present value
+of cash inflows
+$
+11,240
+20,991
+32,230
+43,801
+
+NPV
+$
+1,240
+991
+2,230
+3,801
+
+Profitability
+Index
+(PI)
+1.12
+1.05
+1.07
+1.10
+
+Part D Investment appraisal
+w
+
+Ranking
+as per
+NPV
+3
+4
+2
+1
+
+Ranking
+as per PI
+1
+4
+3
+2
+
+11: Specific investment decisions
+
+221
+
+Without capital rationing all four projects would be viable investments. Suppose, however, that only
+$60,000 was available for capital investment. Let us look at the resulting NPV if we select projects in the
+order of ranking per NPV.
+Project
+
+Priority
+
+Z
+Y (balance)*
+
+1st
+2nd
+
+Outlay
+$
+40,000
+20,000
+60,000
+
+NPV
+$
+3,801
+1,487
+5,288
+
+(2/3 of $2,230)
+
+* Projects are divisible. By spending the balancing $20,000 on project Y, two-thirds of the full investment
+
+would be made to earn two-thirds of the NPV.
+Suppose, on the other hand, that we adopt the profitability index approach. The selection of projects will
+be as follows.
+Project
+
+Priority
+
+W
+Z
+Y (balance)
+
+1st
+2nd
+3rd
+
+Outlay
+$
+10,000
+40,000
+10,000
+60,000
+
+NPV
+$
+1,240
+3,801
+743
+5,784
+
+(1/3 of $2,230)
+
+By choosing projects according to the PI, the resulting NPV (if only $60,000 is available) is increased by
+$496.
+
+3.4.1 Problems with the Profitability Index method
+(a)
+
+The approach can only be used if projects are divisible. If the projects are not divisible, a decision
+has to be made by examining the absolute NPVs of all possible combinations of complete projects
+that can be undertaken within the constraints of the capital available. The combination of projects
+which remains at or under the limit of available capital without any of them being divided, and
+which maximises the total NPV, should be chosen.
+
+(b)
+
+The selection criterion is fairly simplistic, taking no account of the possible strategic value of
+individual investments in the context of the overall objectives of the organisation.
+
+(c)
+
+The method is of limited use when projects have differing cash flow patterns. These patterns may
+be important to the company since they will affect the timing and availability of funds. With
+multi-period capital rationing, it is possible that the project with the highest Profitability Index is the
+slowest in generating returns.
+
+(d)
+
+The Profitability Index ignores the absolute size of individual projects. A project with a high index
+might be very small and therefore only generate a small NPV.
+
+Question
+
+Capital rationing
+
+A company is experiencing capital rationing in year 0, when only $60,000 of investment finance will be
+available. No capital rationing is expected in future periods, but none of the three projects under
+consideration by the company can be postponed. The expected cash flows of the three projects are as
+follows.
+Project
+
+A
+B
+C
+
+Year 0
+$
+(50,000)
+(28,000)
+(30,000)
+
+Year 1
+$
+(20,000)
+(50,000)
+(30,000)
+
+Year 2
+$
+20,000
+40,000
+30,000
+
+Year 3
+$
+40,000
+40,000
+40,000
+
+Year 4
+$
+40,000
+20,000
+10,000
+
+The cost of capital is 10%. You are required to decide which projects should be undertaken in year 0, in
+view of the capital rationing, given that projects are divisible.
+
+222
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+Answer
+The ratio of NPV at 10% to outlay in year 0 (the year of capital rationing) is as follows.
+Outlay in
+Year 0
+$
+50,000
+28,000
+30,000
+
+Project
+
+A
+B
+C
+
+PV
+$
+55,700
+31,290
+34,380
+
+NPV
+$
+5,700
+3,290
+4,380
+
+Ratio
+
+Ranking
+
+1.114
+1.118
+1.146
+
+3rd
+2nd
+1st
+
+Discount factor 10%
+
+Present value
+$
+(18,180)
+16,520
+30,040
+27,320
+55,700
+
+Working
+Present value A
+Year
+
+1
+2
+3
+4
+
+$
+(20,000)
+20,000
+40,000
+40,000
+
+Cash flow
+Cash flow
+Cash flow
+Cash flow
+
+0.909
+0.826
+0.751
+0.683
+
+Present value B
+Year
+
+1
+2
+3
+4
+
+Discount factor 10%
+
+$
+(50,000)
+40,000
+40,000
+20,000
+
+Cash flow
+Cash flow
+Cash flow
+Cash flow
+
+0.909
+0.826
+0.751
+0.683
+
+Present value
+$
+(45,450)
+33,040
+30,040
+13,660
+31,290
+
+Present value C
+Year
+
+1
+2
+3
+4
+
+Discount factor 10%
+
+$
+(30,000)
+30,000
+40,000
+10,000
+
+Cash flow
+Cash flow
+Cash flow
+Cash flow
+
+0.909
+0.826
+0.751
+0.683
+
+Present value
+$
+(27,270)
+24,780
+30,040
+6,830
+34,380
+
+The optimal investment policy is as follows.
+Ranking
+
+1st
+2nd
+3rd
+
+Project
+
+C
+B
+A (balance)
+
+Year 0 outlay
+$
+30,000
+28,000
+2,000 (*4% of 5,700)
+NPV from total investment =
+
+NPV
+$
+4,380
+3,290
+228
+7,898
+
+*4% = (2,000/50,000)
+
+Exam focus
+point
+
+The June 2014 exam contained a calculation question on the profitability index. The question stated that
+two of the projects were mutually exclusive. The ACCA examining team commented that some students did
+not know what mutually exclusive meant, as they included both of the projects. If two projects are mutually
+exclusive then only one of them can be undertaken.
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+223
+
+3.5 Postponing projects
+We have so far assumed that projects cannot be postponed until year 1. If this assumption is removed, the
+choice of projects in year 0 would be made by reference to the loss of NPV from postponement.
+
+3.6 Example: Postponing projects
+The figures in the previous exercise will be used to illustrate the method. If any project, A, B or C, were
+delayed by one year, the 'NPV' would now relate to year 1 values, so that in year 0 terms the NPVs would
+be as follows.
+NPV in Year 0
+NPV in Year 1
+Value
+Loss in NPV
+$
+$
+$
+1
+=
+5,182
+518
+(a)
+Project A
+5,700
+1.10
+1
+=
+(b)
+Project B
+2,991
+299
+3,290
+1.10
+1
+=
+(c)
+Project C
+3,982
+398
+4,380
+1.10
+An index of postponability would be calculated as follows.
+
+Project
+
+A
+B
+C
+
+Loss in NPV from
+one-year postponement
+$
+518
+299
+398
+
+Postponability
+index
+(loss/outlay)
+
+Outlay deferred
+from year 0
+$
+50,000
+28,000
+30,000
+
+0.0104
+0.0107
+0.0133
+
+The loss in NPV by deferring investment would be greatest for Project C, and least for Project A. It is
+therefore more profitable to postpone A, rather than B or C, as follows.
+Investment in year 0:
+Project
+
+Outlay
+$
+30,000
+28,000
+2,000
+60,000
+
+C
+B
+A (balance)
+
+NPV
+$
+4,380
+3,290
+228 (4% of 5,700)
+7,898
+
+Investment in year 1 (balance):
+
+Project A
+$48,000
+Total NPV (as at year 0) of investments in years 0 and 1
+
+4,975 (96% of 5,182)
+12,873
+
+3.7 Single period rationing with non-divisible projects
+If the projects are not divisible then the method shown above may not result in the optimal solution.
+Another complication which arises is that there is likely to be a small amount of unused capital with each
+combination of projects. The best way to deal with this situation is to use trial and error and test the NPV
+available from different combinations of projects. This can be a laborious process if there are a large
+number of projects available.
+
+224
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+3.8 Example: Single period rationing with non-divisible projects
+Short O'Funds has capital of $95,000 available for investment in the forthcoming period. The directors
+decide to consider projects P, Q and R only. They wish to invest only in whole projects, but surplus funds
+can be invested. Which combination of projects will produce the highest NPV at a cost of capital of 20%?
+Investment
+required
+$'000
+40
+50
+30
+
+Project
+
+P
+Q
+R
+
+Present value of
+inflows at 20%
+$'000
+56.5
+67.0
+48.8
+
+Solution
+The investment combinations we need to consider are the various possible pairs of projects P, Q and R.
+Projects
+
+P and Q
+P and R
+Q and R
+
+Required
+investment
+$'000
+90
+70
+80
+
+PV of
+inflows
+
+123.5
+105.3
+115.8
+
+NPV from
+projects
+$'000
+33.5
+35.3
+35.8
+
+The highest NPV will be achieved by undertaking projects Q and R and investing the unused funds of
+$15,000 externally.
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+225
+
+Chapter Roundup
+
+226
+
+
+
+Leasing is a commonly used source of finance, and can be especially attractive where companies find it
+difficult to raise finance to fund capital expenditure.
+
+
+
+The decision whether to lease or buy an asset is a financing decision which interacts with the investment
+decision to buy the asset. The assumption is that the preferred financing method should be the one with
+the lower PV of cost. We identify the least-cost financing option by comparing the cash flows of
+purchasing and leasing. We assume that if the asset is purchased, it will be financed with a bank loan;
+therefore the cash flows are discounted at an after-tax cost of borrowing.
+
+
+
+DCF techniques can assist asset replacement decisions, to decide how frequently an asset should be
+replaced. When an asset is being replaced with an identical asset, the equivalent annual cost method can
+be used to calculate an optimum replacement cycle.
+
+
+
+Capital rationing may occur due to internal factors (soft capital rationing) or external factors (hard capital
+rationing).
+
+
+
+When capital rationing occurs in a single period, projects are ranked in terms of profitability index. This
+is the ratio of the NPV of a project to its investment cost. The projects with the highest ratios should be
+selected for investment.
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+Quick Quiz
+1
+
+The net present value of the costs of operating a machine for the next three years is $10,724 at a cost of
+capital of 15%. What is the equivalent annual cost of operating the machine?
+A
+B
+C
+D
+
+2
+
+$4,697
+$3,575
+$4,111
+$3,109
+
+Hard capital rationing occurs when a restriction on an organisation's ability to invest capital funds is
+caused by an internal budget ceiling imposed by management.
+
+True
+False
+3
+
+Profitability Index (PI) =
+
+(1)
+(2)
+
+What are (1) and (2)?
+4
+
+Equivalent annual cost =
+
+PV of cos ts over n years
+n year annuity factor
+
+Explain briefly what is meant by:
+(a)
+(b)
+
+PV of costs
+n year annuity factor
+
+5
+
+What is an indivisible project?
+
+6
+
+Give three reasons why hard capital rationing may occur.
+
+7
+
+What is the best way to find the optimal solution in a situation of single period rationing with indivisible
+projects?
+
+8
+
+What is the best way to find the optimal solution in a situation of single period rationing with divisible
+projects?
+
+Part D Investment appraisal
+w
+
+11: Specific investment decisions
+
+227
+
+Answers to Quick Quiz
+1
+
+A
+
+$10,724/2.283 = $4,697
+
+2
+
+False. This describes soft capital rationing.
+
+3
+
+(1)
+(2)
+
+Present value of cash inflows
+Initial investment
+
+4
+
+(a)
+
+The purchase cost, minus the present value of any subsequent disposal proceeds at the end of the
+item's life
+
+(b)
+
+The annuity factor at the company's cost of capital, for the number of years of the item's life
+
+5
+
+A project that must be undertaken completely or not at all
+
+6
+
+Any three of:
+(a)
+(b)
+(c)
+(d)
+
+Raising money through the stock market may not be possible if share prices are depressed.
+There are restrictions on lending due to government control.
+Lending institutions may consider the organisation to be too risky.
+The costs associated with making small issues of capital may be too great.
+
+7
+
+Use trial and error and test the NPV available from different project combinations.
+
+8
+
+Rank the projects according to their profitability index.
+
+Now try the questions below from the Practice Question Bank
+
+228
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q22
+
+Examination
+
+2
+
+4 mins
+
+Section C Q12
+
+Examination
+
+20
+
+39 mins
+
+Section C Q13
+
+Examination
+
+20
+
+39 mins
+
+11: Specific investment decisions
+
+Part D Investment
+appraisal
+w
+
+
+
+P
+A
+R
+T
+E
+
+Business finance
+
+w
+
+229
+
+230
+
+w
+
+
+
+Sources of finance
+
+Topic list
+
+Syllabus reference
+
+1 Short-term sources of finance
+
+E1 (a)
+
+2 Long-term debt finance
+
+E1 (b)
+
+3 Venture capital
+
+E1 (b)
+
+4 Equity finance and preference shares
+5 Islamic finance
+
+E1 (b), (c)
+E1 (d)
+
+Introduction
+In Part E of this study text we consider sources of finance. In this chapter we
+will look at the distinction between short- and long-term sources of finance.
+When sources of long-term finance are used, large sums are usually involved,
+and so the financial manager needs to consider all the options available with
+care, looking at the possible effects on the company in the long term.
+If a company decides to raise new equity finance, it needs to consider which
+method would be best for its circumstances.
+Also considered here is the growth area of Islamic finance and how it differs
+from the other forms of financing covered.
+
+w
+
+231
+
+Study guide
+Intellectual level
+E1
+
+Sources of, and raising, business finance
+
+(a)
+
+Identify and discuss the range of short-term sources of finance available
+to businesses, including:
+
+(i)
+
+Overdraft
+
+(ii)
+
+Short-term loan
+
+(iii)
+
+Trade credit
+
+(iv)
+
+Lease finance
+
+(b)
+
+Identify and discuss the range of long-term sources of finance available to
+businesses, including:
+
+(i)
+
+Equity finance
+
+(ii)
+
+Debt finance
+
+(iii)
+
+Lease finance
+
+(iv)
+
+Venture capital
+
+(c)
+
+Identify and discuss methods of raising equity finance, including:
+
+(i)
+
+Rights issue
+
+(ii)
+
+Placing
+
+(iii)
+
+Public offer
+
+(iv)
+
+Stock exchange listing
+
+(d)
+
+Identify and discuss methods of raising short- and long-term Islamic
+finance, including:
+
+(i)
+
+Major difference between Islamic finance and the other forms of business
+finance
+
+(ii)
+
+The concept of riba (interest) and how returns are made by Islamic
+financial securities
+
+(iii)
+
+Islamic financial instruments available to businesses, including:
+
+(i)
+
+Murabaha (trade credit)
+
+(ii)
+
+Ijara (lease finance)
+
+(iii)
+
+Mudaraba (equity finance)
+
+(iv)
+
+Sukuk (debt finance)
+
+(v)
+
+Musharaka (venture capital)
+
+2
+
+2
+
+2
+
+1
+
+Exam guide
+Sources of finance are a major topic. You may be asked to describe appropriate sources of finance for a
+particular company, and also discuss in general terms when different sources of finance should be utilised
+and when they are likely to be available.
+Performance objective 10 requires you to 'source short-term finance to improve an organisation's
+liquidity'. You can apply the knowledge you obtain from this chapter of the text to help to demonstrate this
+competence.
+
+ 
+
+ 

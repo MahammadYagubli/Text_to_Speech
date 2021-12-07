@@ -1,0 +1,1566 @@
+
+Part B Financial management environment
+w
+
+
+Person
+Funds
+Bank
+Funds
+Company
+
+Surplus unit
+Savings
+Financial intermediary
+Collective deposits of savings
+Deficit unit
+
+Not all intermediation takes place between savers and investors. Some institutions act mainly as
+intermediaries between other institutions. Financial intermediaries may also lend abroad or borrow from
+abroad.
+
+Exam focus
+point
+
+Bear in mind that financial markets and institutions are topic areas which the ACCA examining team are
+likely to test in Section A of the exam.
+
+1.1.1 Examples of financial intermediaries
+
+
+Retail banks – offer services to the general public (whether branch-based or online)
+
+
+
+Investment (or wholesale) banks – offer services and advice to large clients such as governments
+or major organisations
+
+
+
+Mutual societies – offer banking facilities to its members and those owned by its members, for
+example building societies
+
+
+
+Institutional investors such as pension funds (which invest funds built up from pension
+contributions), insurance companies (which invest funds built up from insurance policyholders
+payments) and investment trusts and unit trusts (investing shareholders money)
+
+1.2 The benefits of financial intermediation
+
+12/16
+
+Financial intermediaries perform the following functions.
+(a)
+
+They provide obvious and convenient ways in which a lender can save money. Instead of having to
+find a suitable borrower for their money, the lender can deposit their money with a financial
+intermediary. All the lender has to do is decide for how long they might want to lend the money,
+and what sort of return they require, and they can then choose a financial intermediary that offers a
+financial instrument to suit their requirements.
+
+(b)
+
+Financial intermediaries also provide a ready source of funds for borrowers. Even when money is
+in short supply, a borrower will usually find a financial intermediary prepared to lend some.
+
+(c)
+
+They can aggregate smaller savings deposited by savers and lend on to borrowers in larger
+amounts.
+
+(d)
+
+Risk for individual lenders is reduced by pooling. Since financial intermediaries lend to a large
+number of individuals and organisations, any losses suffered through default by borrowers or
+capital losses are effectively pooled and borne as costs by the intermediary. Risky investments are
+therefore effectively changed into low risk investments for individual investors, this is sometimes
+referred to as risk transformation.
+
+(e)
+
+By pooling the funds of large numbers of people, some financial institutions are able to give
+investors access to diversified portfolios covering a varied range of different securities, such as
+unit trusts and investment trusts.
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+59
+
+(f)
+
+Financial intermediaries, most importantly, provide maturity transformation, ie borrowing money
+on shorter timeframes than they lend out. They bridge the gap between the wish of most lenders
+for liquidity and the desire of most borrowers for loans over longer periods.
+
+2 Financial markets
+2.1 Financial markets
+FAST FORWARD
+
+Financial markets are the markets where individuals and organisations with surplus funds lend funds to
+other individuals and organisations that want to borrow.
+This function is shown diagrammatically below.
+INDIRECT FINANCE
+
+Funds
+
+Financial
+intermediaries
+
+Funds
+
+Funds
+
+Lender-savers
+1 Households
+2 Firms
+3 Government
+4 Overseas
+
+Funds
+
+Financial
+markets
+
+Funds
+
+Borrower-spenders
+1 Firms
+2 Government
+3 Households
+4 Overseas
+
+DIRECT FINANCE
+
+Those who have saved and are lending funds, the 'lender savers', are on the left, and those who must
+borrow funds to finance their spending, the 'borrower spenders', are on the right. The principal
+lender-savers are households, as well as overseas institutions and their governments, who sometimes
+also find themselves with excess funds and so lend them out. The most important borrower-spenders are
+corporations and governments, although individuals also borrow to finance the acquisition of durable
+goods or houses. The arrows show that funds flow from lender-savers to borrower-spenders via two
+routes.
+The first route is the direct finance route at the bottom of the diagram, when borrowers borrow funds
+directly from lenders in financial markets by selling them securities (also called financial instruments),
+which are claims on the borrowers' future income or assets.
+Securities are assets for the buyer but liabilities for the seller. For example, if British Airways needs to
+borrow funds to pay for a new aircraft, it might borrow the funds from a saver by selling the saver a loan
+note or bond, a debt security that promises to make payments periodically for a specified period of time.
+The channelling of funds from savers to spenders is a crucial function for the economy because the
+people who save are frequently not the same people who have profitable investment opportunities
+available to them, ie the entrepreneurs. Without financial markets, it is hard to transfer funds from a
+person with surplus funds and no investment opportunities to one who has investment opportunities but
+no funds. They would be unable to transact and both would be worse off as a result. Financial markets are
+thus essential to promoting economic efficiency.
+Financial markets can be classified in several ways. We will look at the main classifications below in turn.
+
+
+
+
+60
+
+Capital and money markets
+Primary and secondary markets
+Exchange-traded and over the counter markets
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+
+2.2 Capital markets and money markets
+FAST FORWARD
+
+6/15, 9/16, 12/16
+
+Capital markets are markets for medium-term and long-term capital.
+Money markets are markets for short-term capital.
+Differences in maturity between short term, medium term and long term
+Year 0
+
+Year 1
+
+termShort term
+
+Year 5
+
+Year 10
+
+Medium term
+Long term
+
+'Maturity' means the time when the financial instrument reaches its settlement date. Money market
+instruments and loans have a maturity of up to one year.
+
+2.2.1 The money markets
+Money markets are markets for:
+
+
+
+
+Trading short-term financial instruments
+Short-term lending and borrowing
+
+The money markets are operated by the banks and other financial institutions. Although the money
+markets largely involve borrowing and lending by banks, some large companies, as well as the
+government, are involved in money market operations.
+The primary market is known as the official market, the other markets as the parallel or wholesale
+markets.
+Types of market
+Primary market
+
+Capital market where new securities are issued and sold to investors
+
+Interbank market
+
+Banks lend short-term funds to each other
+
+Eurocurrency market
+
+Banks lend and borrow in foreign currencies
+
+Certificate of deposit
+market
+
+Market for trading in Certificates of Deposit (negotiable instruments
+acknowledging deposits)
+
+Local authority market
+
+Local authorities borrow short-term funds by issuing and selling short-term
+debt instruments
+
+Finance house market
+
+Dealing in short-term loans raised from money markets by finance houses
+
+Inter-company market
+
+Direct short-term lending between treasury departments of large companies
+Commercial paper (short-term unsecured borrowing by businesses with high
+credit ratings) and bills
+
+We will introduce the principal money market instruments in Section 5 below. The sources of short-term
+finance will be discussed in more detail in Chapter 12.
+
+2.2.2 The capital markets
+FAST FORWARD
+
+A stock market (in the UK: the main market plus the Alternative Investment Market (AIM)) acts as a
+primary market for raising finance, and as a secondary market for the trading of existing securities.
+Securities are tradable financial instruments. They can take the form of equity (such as shares), debt
+(such as bonds and loan notes) or derivatives.
+Capital markets are markets for trading in long-term finance, in the form of long-term financial
+instruments such as equities and corporate bonds or loan notes.
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+61
+
+In the UK, the principal capital markets are:
+(a)
+(b)
+
+The Stock Exchange 'main market' (for companies with a full stock market listing)
+The more loosely regulated 'second tier' Alternative Investment Market (AIM)
+
+Firms obtain long-term or medium-term capital in one of the following ways:
+(a)
+
+They may raise share capital. Most new issues of share capital are in the form of ordinary share
+capital. Firms that issue ordinary share capital are inviting investors to take an equity stake in the
+business, or to increase their existing equity stake.
+
+(b)
+
+They may raise debt capital. Long-term debt capital might be raised in the form of debentures,
+corporate bonds, loan notes or convertible bonds.
+
+We will look at sources of long-term finance in more detail in Chapter 12.
+
+2.3 Primary and secondary markets
+FAST FORWARD
+
+Primary markets enable organisations to raise new finance. Secondary markets enable investors to buy
+and sell existing investments to each other.
+The financial markets serve two main purposes.
+(a)
+
+As primary markets they enable organisations to raise new finance, by issuing new shares or new
+bonds. In the UK, a company must have public company status (be a publicly listed company, or
+'plc') to be allowed to raise finance from the public on a capital market.
+
+(b)
+
+As secondary markets they enable existing investors to buy and sell existing investments, should
+they wish to do so. The marketability of securities is a very important feature of the capital markets,
+because investors are more willing to buy stocks and shares if they know that they could sell them
+easily, should they wish to.
+
+Here are two examples of how primary and secondary markets work:
+
+
+Primary markets: When one company wants to take over another, it is common to do so by
+issuing shares to finance the takeover. Takeovers by means of a share exchange are only feasible if
+the shares that are offered can be readily traded on a stock market, and so have an identifiable
+market value.
+
+
+
+Secondary markets: When a company comes to the stock market for the first time, and 'floats' its
+shares on the market, the owners of the company can realise some of the value of their shares in
+cash, because they will offer a proportion of their personally held shares for sale to new investors.
+
+2.4 Exchange-traded instruments and over the counter markets
+FAST FORWARD
+
+Secondary markets may be organised on exchanges or may consist of over the counter (OTC)
+transactions.
+Secondary markets for financial securities can be organised on exchanges, where buyers and sellers of
+securities buy and sell securities in one location, the exchange. Examples of exchanges include the
+London Stock Exchange and the New York Stock Exchange for the trading of shares, the Chicago Board of
+Trade for the trading of commodities and derivatives, and the London International Financial Futures and
+Options Exchange (LIFFE) for the trading of derivatives.
+Alternatively, secondary markets can operate as over the counter (OTC) markets, where transactions do
+not involve buying and selling through an exchange, but customers negotiate individual transactions,
+usually with a financial intermediary such as a bank.
+Securities that are issued in an over the counter market can be negotiable or non-negotiable.
+
+
+
+62
+
+Negotiable securities can be resold.
+Non-negotiable securities cannot be resold.
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+
+2.5 Institutional investors
+Institutional investors are institutions which have large amounts of funds which they want to invest, and
+they will invest in stocks and shares or any other assets which offer satisfactory returns and security or
+lend money to companies directly. The institutional investors are the biggest investors in the stock
+markets.
+The major institutional investors in the UK are pension funds, insurance companies, investment trusts,
+unit trusts and venture capital organisations. Of these, pension funds and insurance companies have the
+largest amounts of funds to invest.
+
+2.6 Capital market participants
+The various participants in the capital markets are summarised in the diagram below.
+
+2.7 Securitisation
+FAST FORWARD
+
+12/14
+
+Securitisation is the process of converting illiquid assets into marketable asset-backed securities. The
+development of securitisation has led to disintermediation and a reduction in the day to day role of
+financial intermediaries, as borrowers can reach lenders directly after securitisation.
+Securitisation is the process of converting illiquid assets into marketable securities. These securities are
+backed by specific assets and are normally called asset-backed securities (ABS).
+The oldest and historically most common type of asset securitisation is the mortgage-backed bond or
+security (MBS). Very simplistically, the process is as follows.
+(1)
+
+A financial entity can purchase a number of mortgage loans from banks.
+
+(2)
+
+The entity pools the mortgage loans together.
+
+(3)
+
+The entity issues bonds to institutional investors. The money raised from issuing the bonds is used
+to pay for the mortgage loans.
+
+(4)
+
+The institutional investors now have the right to receive the principal and interest payments made
+on the mortgage.
+
+Today, virtually anything that has a cash flow (for example, a loan, a public works project, or a receivable
+balance) is a candidate for securitisation.
+The development of securitisation has led to disintermediation and a reduction in the role of financial
+intermediaries, as borrowers can reach lenders directly. For example, once banks have securitised
+mortgages and sold them on, they have been removed from the link between lender and borrower.
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+63
+
+Key term
+
+Disintermediation describes a decline in the traditional deposit and lending relationship between banks
+and their customers and an increase in direct relationships between the ultimate suppliers and users of
+financing.
+
+3 International money and capital markets
+FAST FORWARD
+
+International money and capital markets are available for larger companies wishing to raise larger
+amounts of finance.
+Larger companies are able to borrow funds on the eurocurrency markets (which are international money
+markets) and on the markets for eurobonds (international capital markets).
+
+Exam focus
+point
+
+Don't suggest these international markets as possible sources of finance for a smaller business in an
+exam answer.
+
+3.1 Eurocurrency markets
+A UK company might borrow money from a bank or from the investing public, in sterling. But it might also
+borrow in a foreign currency, especially if it trades abroad, or if it already has assets or liabilities abroad
+denominated in a foreign currency.
+When a company borrows in a foreign currency, the loan is known as a eurocurrency loan.
+
+Key term
+
+Eurocurrency is currency which is held by individuals and institutions outside the country of issue of that
+currency.
+For example, if a UK company borrows US$50,000 from its bank, the loan will be a 'eurodollar' loan.
+London is a major centre for eurocurrency lending and companies with foreign trade interests might
+choose to borrow from their bank in another currency.
+The eurocurrency markets involve the depositing of funds with a bank outside the country of the currency
+in which the funds are denominated and re-lending these funds for a fairly short term, typically three
+months. Most eurocurrency transactions in fact take place between banks of different countries and take
+the form of negotiable certificates of deposit.
+
+3.2 International bond markets
+Large companies may arrange borrowing facilities from their bank, in the form of bank loans or bank
+overdrafts. Alternatively, however, they may prefer to borrow from private investors. In other words,
+instead of obtaining a £10,000,000 bank loan, a company might issue bonds, in order to borrow directly
+from investors, with:
+(a)
+
+The bank merely arranging the transaction, finding investors who will take up the bonds that the
+borrowing company issues
+
+(b)
+
+Interest being payable to the investors themselves, not to a bank
+
+A strong international market has built up which allows very large companies to borrow in this way, long
+term or short term. As well as eurobonds, there is also a less highly developed market in international
+equity share issues ('euro-equity').
+
+Key term
+
+A eurobond is a bond denominated in a currency which often differs from that of the country of issue.
+Eurobonds are, in effect, long-term loans raised by international companies or other institutions and sold
+to investors in several countries at the same time. Such bonds can be sold by one holder to another. The
+term of a eurobond issue is typically 10 to 15 years.
+
+64
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+Eurobonds may be the most suitable source of finance for a large organisation with an excellent credit
+rating, such as a large successful multinational company, which:
+(a)
+
+Requires a long-term loan to finance a big capital expansion programme; the loan may be for at
+least 5 and up to 20 years
+
+(b)
+
+Requires borrowing which is not subject to the national exchange controls of any government
+
+In addition, domestic capital issues may be regulated by the government or central bank, with an orderly
+queue for issues. In contrast, eurobond issues can be made whenever market conditions seem favourable.
+A borrower who is contemplating a eurobond issue must consider the exchange risk of a long-term
+foreign currency loan. If the money is to be used to purchase assets that will earn revenue in a currency
+different to that of the bond issue, the borrower will run the risk of losses from unfavourable exchange
+rate movements.
+If the money is to be used to purchase assets which will earn revenue in the same currency, the borrower
+can match these revenues with payments on the bond, and so remove or reduce the exchange risk.
+An investor subscribing to a bond issue will be concerned about the following factors.
+(a)
+(b)
+
+(c)
+
+(d)
+
+Security
+The borrower must be of high quality (ie have a high credit rating).
+Marketability
+Investors may wish to have a ready market in which bonds can be bought and sold. If the
+borrower is of high quality the bonds or notes will be readily negotiable.
+Anonymity
+Investors in eurobonds tend to be attracted to the potential anonymity of this type of issue, as the
+bonds are generally issued to bearer.
+The return on the investment
+This is often paid tax free.
+
+4 Rates of interest and rates of return
+Interest rates are effectively the 'prices' governing lending and borrowing. The borrower pays interest to
+the lender at a certain percentage of the capital sum, as the price for the use of the funds borrowed. As
+with other prices, supply and demand effects apply. For example, the higher the rates of interest that are
+charged, the lower the demand will be for funds from borrowers.
+
+4.1 The pattern of interest rates
+FAST FORWARD
+
+Interest rates on financial assets are influenced by the risk of the assets, the duration of the lending and
+their maturity.
+The pattern of interest rates refers to the variety of interest rates on different financial assets, and the
+margin between interest rates on lending and deposits that are set by banks. Note that the pattern of
+interest rates is a different thing from the general level of interest rates.
+Why are there such a large number of interest rates? In other words, how is the pattern of interest rates to
+be explained? The answer to this question relates to several factors.
+(a)
+
+Risk
+There is a trade-off between risk and return. Higher-risk borrowers must pay higher yields on their
+borrowing, to compensate lenders for the greater credit risk involved. Banks will assess the
+creditworthiness of the borrower, and set a rate of interest on its loan at a certain mark-up above
+its base rate.
+
+(b)
+
+Need to make a profit on re-lending
+Financial intermediaries make their profits from re-lending at a higher rate of interest than the cost
+of their borrowing. For example, the interest rate charged on bank loans exceeds the rate paid on
+deposits and the mortgage rate charged by mutual societies exceeds the interest rate paid on
+deposits.
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+65
+
+(c)
+
+Duration of the lending
+The term of the loan or asset will affect the rate of interest charged on it. In general, longer-dated
+assets will earn a higher yield than similar short-dated assets but this is not always the case. The
+differences in rates are therefore due to the differences in the term structure of interest rates.
+
+(d)
+
+Size of the loan or deposit
+The yield on assets might vary with the size of the loan or deposit. Administrative cost savings help
+to allow lower rates of interest to be charged by banks on larger loans and higher rates of
+interest to be paid on larger time deposits.
+
+(e)
+
+Different types of financial asset
+Different types of financial asset attract different rates of interest. This is partly because different
+types of asset attract different sorts of lender/investor. For example, bank deposits attract
+individuals and companies, whereas long-dated government securities are particularly attractive to
+various institutional investors.
+
+The rates of interest paid on government borrowing provide benchmarks for other interest rates. For
+example:
+(a)
+(b)
+
+Key term
+
+Clearing banks might set the three months interbank rate (LIBOR) at about 1% above the Treasury
+bill rate.
+Banks in turn lend (wholesale) at a rate higher than LIBOR.
+
+LIBOR or the London Interbank Offered Rate is the rate of interest at which banks borrow from each other
+in the London interbank market.
+We will look at interest rates in more detail in Chapter 20.
+
+4.2 The risk-return trade-off
+FAST FORWARD
+
+There is a trade-off between risk and return. Investors in riskier assets expect to be compensated for the
+risk. In the case of ordinary shares, investors hope to achieve their return in the form of an increase in the
+share price (a capital gain) as well as from dividends.
+We have explained how rates of interest, and therefore rates of return to lenders, will be affected by the
+risk involved in lending. The idea of a risk-return trade-off can, however, be extended beyond a
+consideration of interest rates.
+An investor has the choice between different forms of investment. The investor may earn interest by
+depositing funds with a financial intermediary who will lend on to, say, a company, or it may invest in
+corporate bonds. Alternatively, the investor may invest directly in a company by purchasing shares in it.
+The current market price of a security is found by discounting the future expected earnings stream at a
+rate suitably adjusted for risk. This means that investments carrying a higher degree of risk will demand a
+higher rate of return. This rate of return or yield has two components.
+
+
+
+
+Annual income (dividend or interest)
+Expected capital gain
+
+Some of the main forms of investment are listed below in ascending order of risk.
+
+66
+
+(a)
+
+Government bonds
+The risk of default is negligible. Hence this tends to form the base level for returns in the market.
+
+(b)
+
+Company bonds or loan notes
+Although there is some risk of default on loan notes, they are often secured against corporate
+assets.
+
+(c)
+
+Preference shares
+These are generally riskier than loan notes since they rank behind debt in the event of a liquidation,
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+although they rank ahead of ordinary shares. The return takes the form of a fixed percentage
+dividend based on the par value of the share.
+(d)
+
+Ordinary shares
+Ordinary shares carry a high level of risk. Dividends are paid out of distributable profits after all
+other liabilities have been paid and can be subject to large fluctuations from year to year. However,
+there is the potential for significant capital appreciation in times of growth. In general, the level of
+risk will vary with the operational and financial gearing of the company and the nature of the
+markets in which it operates.
+
+4.3 The reverse yield gap
+
+12/14
+
+Because debt involves lower risk than equity investment, we might expect yields on debt to be lower than
+yields on shares. More usually, however, the opposite applies and the yields on shares are lower than on
+low-risk debt; this situation is known as a reverse yield gap. A reverse yield gap can occur because
+shareholders may be willing to accept lower returns on their investment in the short term, in anticipation
+that they will make capital gains in the future.
+
+4.4 Interest rates and shareholders' required rates of return
+Given that equity shares and interest-earning investments stand as alternatives from the investor's point of
+view, changes in the general level of interest rates can be expected to have an effect on the rates of return
+which shareholders will expect.
+If the return expected by an investor from an equity investment (ie an investment in shares) is 11% and
+the dividend paid on the shares is 15 cents every year, the market value of one share will be 15 cents/11%
+= $1.36.
+Suppose that interest rates on debt investments then fall. The option of putting the funds on deposit has
+become less attractive and as a result the shareholders' required return may also fall to, say, 9%. Then the
+market value of one share will increase to 15 cents/9% = $1.67.
+You can see from this that an increase in the shareholders' required rate of return (perhaps resulting
+from an increase in the general level of interest rates) will lead to a fall in the market value of the share.
+
+5 Money market instruments
+Performance objective 9 requires you to 'value projects, financial securities and instruments and advise on
+their costs and benefits to the organisation'. This section introduces various money market instruments
+and how they can be used to cover liabilities. The various features of each instrument will be useful in
+practice to determine the best one to use in different situations, not only to cover the risk involved but also
+to cover the risk for the required period.
+FAST FORWARD
+
+Money market instruments are traded over the counter between institutional investors. They include
+interest-bearing instruments, discount instruments and derivatives and can be either negotiable or
+non-negotiable.
+We looked at money markets in Section 2 above. Money markets are over the counter markets and the
+transactions take place between institutions rather than individual investors. Money market instruments
+can be either negotiable or non-negotiable.
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+67
+
+The table below shows some of the money market instruments in the UK.
+Interest-bearing instruments
+
+Discount instruments
+
+Derivatives
+
+Money Market Deposits
+
+Treasury Bill (T-bill)
+
+Forwards and Futures
+
+Certificate of Deposit (CD)
+
+Banker's Acceptance (BA)
+
+Swaps
+
+Repurchase Agreement (Repo)
+
+Commercial Paper (CP)
+
+Options
+
+Interest-bearing instruments pay interest. The investor receives face value plus interest at maturity.
+Discount instruments do not pay interest. They are issued and traded at a discount to the face value and
+they are redeemed at their par value at maturity. The discount is equivalent to interest and is the difference
+between the issue price of the instrument and the redemption price at maturity. For example, if a bill is
+issued at a price of 98.50, it is issued at a discount of 1.50 and redeemed at maturity at a price of 100.00.
+The discount of 1.50 represents interest on the investment of 98.50.
+Derivatives allow the buyer and seller to agree today to buy or sell an asset at some time in the future at
+an agreed fixed price.
+
+5.1 Money market deposits
+Money market deposits are very short-term loans between banks. These deposits can either be fixed
+deposits, where the rate of interest and maturity dates are agreed at the time of the transaction, or call
+deposits where the interest is variable and the deposit can be terminated if notice is given. The table below
+shows examples of market rates for money market instruments.
+Overnight
+Interbank
+Sterling
+
+5
+
+3
+
+32
+
+–5
+
+7 days' notice
+
+6–5
+
+3
+4
+
+1 month
+
+6
+
+15
+1
+–6
+16
+16
+
+3 months
+
+6
+
+3
+16
+
+–6
+
+1
+16
+
+6 months
+
+6
+
+5
+16
+
+–6
+
+3
+16
+
+1 year
+
+6
+
+3
+8
+
+–6
+
+The table quotes two rates. The first figure in each column shows the interest rate at which a bank will
+lend money. This is called the offer price. The second number is the rate at which the bank will pay to
+borrow money. This is called the bid price. Note that while the convention in London is to quote Offer/Bid,
+in most other markets including the US what is quoted is Bid/Offer.
+The rate at which banks borrow from each other in the London market is of particular importance for the
+money market. This is called LIBOR and is the most widely used reference rate for short-term interest
+rates globally for the settlement of money market derivatives. LIBOR rates are calculated for ten currencies
+including the US dollar, pound sterling and the euro. The following table shows examples of LIBOR rates
+for three currencies for different maturities.
+Overnight
+1 week
+1 month
+3 months
+9 months
+12 months
+
+68
+
+EUR
+3.413
+3.592
+3.653
+3.672
+3.851
+3.898
+
+USD
+5.289
+5.305
+5.350
+5.360
+5.313
+5.250
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+GBP
+5.141
+5.150
+5.241
+5.279
+5.420
+5.459
+
+1
+4
+
+
+The LIBOR rates at different maturities define the short-term yield curve which is shown below.
+LIBOR Yield Curve
+5.5
+5.4
+5.3
+5.2
+5.1
+5
+4.9
+overnight
+
+1 week
+
+1 month
+
+3 months
+
+9 months
+
+12 months
+
+The LIBOR yield curve can also be used to estimate the forward yield curve which gives the interest rate
+between two future periods. The forward yield curve is used to price many money market derivatives.
+
+5.2 Certificates of deposit
+Key term
+
+A certificate of deposit (CD) is a certificate of receipt for funds deposited at a bank (or other financial
+institution) for a specified term and paying interest at a specified rate.
+Certificates of deposit can be either negotiable or non-negotiable. The holder of a negotiable CD has two
+options: to hold it until maturity, receiving the interest and the principal, or to sell it before maturity at the
+market price. A typical range of dollar certificates of deposit in terms of coupon and maturity is shown
+below, together with the corresponding yield.
+Term
+3 Months
+3 Months
+3 Months
+6 Months
+6 Months
+9 Months
+
+Coupon
+5.950
+6.150
+6.200
+6.200
+6.300
+6.400
+
+Annual percentage yield
+6.080
+6.290
+6.350
+6.300
+6.400
+6.450
+
+The coupon is expressed as an annual percentage rate and needs to be adjusted to reflect the fact that its
+maturity is less than a year. Sterling CDs assume there are 365 days in the year, while US CDs assume
+360 days. For example, if the coupon on three-month US dollar CDs is 5.950%, this means that the
+interest payment after three months will be (one quarter) 1.4875%. Converting this to an annual
+percentage yield:
+(1.014875)4 – 1 = 0.0608 or 6.08%
+The value of the CD on maturity = face value × 1
+
+coupon rate days to maturity days in the year
+
+Question
+
+Maturity value
+
+Consider a Sterling CD with a face value of £1,000,000 issued on 1 March 20X0 maturing on 1 September
+20X0 (184 days later). The coupon is 7% p.a. Calculate the maturity value of the CD.
+
+Answer
+Value at maturity
+
+= £1,000,000 1
+= £1,035,288
+
+0.07
+
+184 365
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+69
+
+5.3 Repos
+Key term
+
+A repurchase agreement is an agreement between two counterparties under which one counterparty
+agrees to sell a financial instrument to the other on an agreed date for an agreed price, and simultaneously
+agrees to buy back the instrument from the counterparty at a later date for an agreed higher price.
+A repurchase agreement is in effect a loan secured by a marketable financial instrument, usually a treasury
+bill or a bond. The typical term is up to 180 days but is often much shorter. It is an attractive instrument
+because it can accommodate a wide spectrum of short-term maturities. A repo involves two sets of
+transactions.
+
+
+
+
+First on the start date, the dealer sells the security for cash.
+On maturity, the dealer will repay the cash with interest and take back the security.
+
+The flows in a repo are shown in the following diagram.
+
+Flows at
+initiation
+
+Repo
+dealer
+
+Flows at
+maturity
+
+Repo
+dealer
+
+Security
+Lender
+Moneylent
+Security
+Lender
+Moneylent + interest
+
+Question
+
+Repo cash flows
+
+A company enters into a repo agreement with a bank and it sells $10,000,000 of government bonds with
+an obligation to repurchase the security in 60 days. If the repo rate is 8.2% what is the repurchase price of
+the bond? Assume a 365-day year.
+
+Answer
+The repurchase price of the bonds is the sale price plus the interest on the cash received.
+
+Interest
+
+$10,000,000 0.082
+
+60
+365
+
+= $134,794.52
+
+Repurchase price = $10,000,000 + $134,794.52 = $10,134,794.52
+
+Key term
+
+A reverse repurchase agreement (reverse repo) is an agreement for the purchase of an instrument with
+the simultaneous agreement to resell the instrument at an agreed future date and agreed price.
+In a reverse repo, the dealer purchases the security initially and then sells it on maturity. Because the two
+parties in a repo agreement act as a buyer and a seller of the security, a repo to one party is a reverse
+repo to the other.
+
+5.4 Treasury bills
+Treasury bills are debt instruments issued by the government with maturities ranging from one month to
+one year. Most are issued with a maturity of 91 days.
+
+5.5 Commercial paper
+Commercial paper (CP) is short-term unsecured corporate debt with maturity up to 270 days. The typical
+term of this debt is 30 or 60 days. Commercial paper can only be issued by large organisations with good
+credit ratings, normally to fund short-term expenditure.
+70
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+A bank organises a CP programme for a large company with a duration of several years. Within the term
+of the programme, the company can make issues of CP, up to the maximum limit permitted by the
+programme. The bank administers the programme for its corporate client, selling each issue of CP and
+repaying the CP investors at redemption date.
+CP is issued at a discount that reflects the prevailing interest rates.
+
+Formula to
+learn
+
+Yield on commercial paper
+
+Number of days in the year Selling price – purchase price
+×
+Days held
+Purchase price
+
+5.6 Banker's acceptance
+Key term
+
+Banker's acceptances (BAs) are negotiable bills guaranteed by a bank.
+Banker's acceptances are issued by firms to finance commercial transactions, such as imports or the
+purchase of goods.
+
+A bill of exchange is a short-term debt instrument that is issued ('drawn') by one person on another (the
+'drawee'). When issued it is in effect a 'You Owe Me' instrument. The bill is then accepted by the drawee
+(who notifies acceptance by signing the bill), when it becomes a promise to pay – an 'I Owe You'.
+A BA is a bill of exchange accepted by a bank. By accepting the bill, the bank is making a promise to pay. If
+the bank is well established, a BA therefore has low credit risk.
+A bank may agree to accept bills on behalf of a client in a BA acceptance facility. The client has to repay
+the bank for the payments made by the bank to settle its BAs, but is financed by the bank between the time
+of accepting the bill and the time of its settlement.
+The drawer of the bill can hold the bill until maturity, when the bank will settle the bill and make the
+payment. Alternatively the drawer can sell the bill to another investor at a discount, to raise immediate
+cash. The bank then pays the bill holder at maturity.
+The name 'banker's acceptance' derives from the fact that the bank has guaranteed the payment to the
+holder of the banker's acceptance; that is, the bank has accepted responsibility for the payment. Banks
+guarantee the payment by the company for a fee.
+Banker's acceptances are sold on a discounted basis, like T-bills and commercial paper. Because banker's
+acceptances are negotiable instruments, they can be bought and sold until they mature. The rates on
+banker's acceptances are low because, as they are guaranteed by a bank, the credit risk is low.
+UK Banker's Acceptance are calculated on a Actual/365 days basis while in the US they are calculated on
+an Actual/360 days basis.
+The typical term of BAs is 30 to 180 days.
+
+5.7 Futures, forwards and options
+Imagine a farmer growing a crop of wheat. To grow such a crop costs money: money for seed, labour,
+fertiliser, and so on. All this expenditure takes place with no certainty that when the crop is eventually
+harvested the price at which the wheat is sold will cover these costs. This is obviously a risky thing to do
+and many farmers will be unwilling to take on this burden. How can this uncertainty be avoided?
+By using futures or options, the farmer will be able to agree today a price at which the crop will ultimately
+be sold, in perhaps four or six months' time. This enables the farmer to achieve a minimum sale price for
+their crop. They are no longer subject to fluctuations in wheat prices. They know what price their wheat
+will bring and can thus plan their business accordingly.
+From their origins in the agricultural world, futures and options have become available on a wide range of
+other assets, from commodities, such as metals and crude oil, to financial products, such as currencies,
+bonds and equities. To understand futures and options properly requires some application. There is much
+terminology to master, and definitions to be understood, but at heart they are really quite simple. They are
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+71
+
+products which allow you to fix today the price at which assets may be bought or sold at a future date.
+Futures and options are sometimes called derivatives, as their price is derived from an underlying asset.
+
+5.7.1 Futures
+A future is an agreement to buy or sell a standard quantity of a specified asset on a fixed future date at a
+price agreed today. As they are standardised, they can be and are exchange traded.
+There are two parties to a futures contract, namely a buyer and a seller.
+
+
+
+The buyer of a future enters into an obligation to buy on a specified future date.
+The seller of a future is under an obligation to sell on a specified future date.
+
+These obligations relate to a standard quantity of a specified asset on a fixed future date at a price
+agreed today. These details of the future contract are contained within the contract specification.
+
+5.7.2 Forwards
+A forward is an agreement over the counter (ie off-exchange) between two parties to make or take delivery
+of an asset for an agreed price at a future date. In principal, then, the nature of the transaction is very
+similar to a futures contract. However, because this is an 'over the counter' transaction between two
+parties, all terms of the contract can be tailored individually to meet the buyer's and seller's needs.
+The key advantage of forwards is that they allow much greater flexibility to suit particular circumstances.
+This will enable a hedger to tailor their derivative hedge to their exact requirements. (Hedging is a way of
+protecting against financial loss by making an investment to reduce the risk of an uncertain market.)
+The main disadvantages are a lack of liquidity in comparison to exchange-traded futures, and increased
+credit risk for both buyer and seller, as there is no clearing house to act as a central counterparty. This is
+known as counterparty risk.
+
+5.7.3 Options
+An option is a contract that confers the right, but not the obligation, to buy or sell an asset at a given price
+(exercise price or strike price) on or before a given date. Options are entered into at a cost, called the
+premium.
+The right to buy is known as a call option.
+The right to sell is known as a put option.
+
+72
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+
+Chapter Roundup
+
+
+A financial intermediary links those with surplus funds (eg lenders) to those with fund deficits (eg
+potential borrowers) thus providing aggregation and economies of scale, risk pooling and maturity
+transformation.
+
+
+
+Financial markets are the markets where individuals and organisations with surplus funds lend funds to
+other individuals and organisations that want to borrow.
+
+
+
+Capital markets are markets for medium-term and long-term capital.
+
+
+
+Money markets are markets for short-term capital.
+
+
+
+A stock market (in the UK: the main market plus the Alternative Investment Market (AIM)) acts as a
+primary market for raising finance, and as a secondary market for the trading of existing securities.
+
+
+
+Securities are tradable financial instruments. They can take the form of equity (such as shares), debt
+(such as bonds and loan notes) or derivatives.
+
+
+
+Primary markets enable organisations to raise new finance. Secondary markets enable investors to buy
+and sell existing investments to each other.
+
+
+
+Secondary markets may be organised on exchanges or may consist of over the counter (OTC)
+transactions.
+
+
+
+Securitisation is the process of converting illiquid assets into marketable asset-backed securities. The
+development of securitisation has led to disintermediation and a reduction in the day to day role of
+financial intermediaries, as borrowers can reach lenders directly after securitisation.
+
+
+
+International money and capital markets are available for larger companies wishing to raise larger
+amounts of finance.
+
+
+
+Interest rates on financial assets are influenced by the risk of the assets, the duration of the lending and
+their maturity.
+
+
+
+There is a trade-off between risk and return. Investors in riskier assets expect to be compensated for the
+risk. In the case of ordinary shares, investors hope to achieve their return in the form of an increase in the
+share price (a capital gain) as well as from dividends.
+
+
+
+Money market instruments are traded over the counter between institutional investors. They include
+interest-bearing instruments, discount instruments and derivatives and can be either negotiable or
+non-negotiable.
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+73
+
+Quick Quiz
+1
+
+Identify five types of financial intermediaries.
+
+2
+
+For short-term borrowing, a company will go to the money markets/capital markets. (Which?)
+
+3
+
+(a)
+
+From which does the demand for capital markets funds come: Individuals/Firms/government?
+(Delete any that do not apply.)
+
+(b)
+
+From which does the supply of capital market funds come: Individuals/Firms/government?
+(Delete any that do not apply.)
+
+4
+
+Is the stock exchange a money market?
+
+5
+
+Fill in the blank.
+If an Indian company borrows US dollars in Australia, the loan is known as a .................................. loan.
+
+6
+
+Which of the following types of investment carries the highest level of risk?
+A
+B
+C
+D
+
+74
+
+Company bonds
+Preference shares
+Government bonds
+Ordinary shares
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+
+Answers to Quick Quiz
+1
+
+Any five of: banks; mutual societies; insurance companies; pension funds; unit trust companies;
+investment trusts; stock exchanges; venture capital organisations.
+
+2
+
+Money markets
+
+3
+
+(a) and (b): You should have deleted none.
+
+4
+
+No. The stock exchange is a capital market, not a money market.
+
+5
+
+Eurocurrency
+
+6
+
+D
+
+Ordinary shares
+
+Now try the questions below from the Practice Question Bank
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q7
+
+Examination
+
+2
+
+4 mins
+
+Section A Q8
+
+Examination
+
+2
+
+4 mins
+
+Section A Q9
+
+Examination
+
+2
+
+4 mins
+
+Part B w
+Financial management
+management environment
+3: Financial markets, money markets and institutions
+
+75
+
+76
+
+3: Financial markets, moneyy markets and institutions
+Part B Financial management environment
+w
+
+
+
+P
+A
+R
+T
+C
+
+Working capital management
+
+w
+
+77
+
+78
+
+w
+
+
+
+Working capital
+
+Topic list
+
+Syllabus reference
+
+1 The nature of working capital
+
+C1 (a)
+
+2 Objectives of working capital management
+
+C1 (b)
+
+3 Role of working capital management
+
+C1 (c)
+
+4 The cash operating cycle
+
+C2 (a)
+
+5 Liquidity ratios
+
+C2 (b)
+
+Introduction
+Part C of this Study Text covers the crucial topic of working capital
+management.
+In this chapter, we consider functions of the financial manager relating to the
+management of working capital in general terms including the elements of
+working capital and the objectives and role of working capital management.
+This chapter also explains the cash operating cycle and working capital ratios.
+In later chapters, we shall be looking at specific aspects of the management of
+cash, accounts receivable and payable and inventories.
+
+w
+
+79
+
+Study guide
+Intellectual level
+C1
+
+The nature, elements and importance of working capital
+
+(a)
+
+Describe the nature of working capital and identify its elements.
+
+1
+
+(b)
+
+Identify the objectives of working capital management in terms of liquidity
+and profitability, and discuss the conflict between them.
+
+2
+
+(c)
+
+Discuss the central role of working capital management in financial
+management.
+
+2
+
+C2
+
+Management of inventories, accounts receivable, accounts payable and
+cash
+
+(a)
+
+Explain the cash operating cycle and the role of accounts payable and
+accounts receivable.
+
+2
+
+(b)
+
+Explain and apply relevant accounting ratios, including:
+
+2
+
+(i)
+
+Current ratio and quick ratio
+
+(ii)
+
+Inventory turnover ratio, average collection period and average payable
+period
+
+(iii)
+
+Sales revenue/net working capital ratio
+
+Exam guide
+Working capital is highly examinable and has appeared in every exam so far. Questions are likely to be a
+mixture of calculations and discussion. Always make sure your discussion and explanations are applied to
+the specific organisation in the question.
+
+1 The nature of working capital
+FAST FORWARD
+
+Key term
+
+The amount tied up in working capital is equal to the value of raw materials, work in progress, finished goods
+inventories and accounts receivable less accounts payable. The size of this net figure has a direct effect on
+the liquidity of an organisation.
+Net working capital of a business is its current assets less its current liabilities.
+KEY CURRENT ASSETS AND LIABILITIES
+
+80
+
+Current assets
+
+Current liabilities
+
+Cash
+
+Trade accounts payable
+
+Inventory of raw materials
+
+Taxation payable
+
+Inventory of work in progress
+
+Dividend payments due
+
+Inventory of finished goods
+
+Short-term loans
+
+Amounts receivable from customers
+
+Long-term loans maturing within one year
+
+Marketable securities
+
+Lease rentals due within one year
+
+4: Working capital
+
+Part C Working capital management
+w
+
+
+
+1.1 Working capital characteristics of different businesses
+Different businesses will have different working capital characteristics. There are three main aspects to
+these differences.
+(a)
+
+Holding inventory (from their purchase from external suppliers, through the production and
+warehousing of finished goods, up to the time of sale)
+
+(b)
+
+Taking time to pay suppliers and other accounts payable (creditors)
+
+(c)
+
+Allowing customers (accounts receivable) time to pay
+
+Here are some examples.
+
+Exam focus
+point
+
+(a)
+
+Supermarkets and other retailers receive much of their sales in cash or by credit card or debit card.
+However, they typically buy from suppliers on credit. They may therefore have the advantage of
+significant cash holdings, which they may choose to invest.
+
+(b)
+
+A company which supplies to other companies, such as a wholesaler, is likely to be selling and
+buying mainly on credit. Co-ordinating the flow of cash may be quite a problem. Such a company
+may make use of short-term borrowings (such as an overdraft) to manage its cash.
+
+(c)
+
+Smaller companies with a limited trading record may face particularly severe problems. Lacking a
+long track record, such companies may find it difficult to obtain credit from suppliers. At the same
+time, customers will expect to receive the length of credit period that is normal for the particular
+business concerned. The firm may find itself squeezed in its management of cash.
+
+Some aspect of working capital management is likely to be included in every exam.
+
+2 Objectives of working capital management
+FAST FORWARD
+
+12/14, 9/16
+
+The two main objectives of working capital management are to ensure that it has sufficient liquid
+resources to continue in business and to increase its profitability.
+Every business needs adequate liquid resources to maintain day to day cash flow such as wages and
+payments to suppliers.
+Liquidity can be maintained by ensuring that the amounts of cash tied up in inventory and receivables is
+not excessive.
+However, if a business dramatically cut its inventory and receivables (ie adopts an aggressive approach to
+working capital management) then this may lead to trading problems, and lower profits. Here are some
+examples of problems from having levels of working capital that are too low.
+(a)
+
+Low inventory may mean that delivery lead times to customers are excessively high, or that a
+business does not have enough inventory to meet peaks in demand. This is likely to lead to lost
+sales.
+
+(b)
+
+Having low receivables implies that a business's credit terms are stringent and that long credit
+periods are not being made available to its customers. Again, in some industries, this may lead to
+lost sales.
+
+So, the objectives of liquidity and profitability may conflict.
+However, if the levels of inventory and receivables are high because working capital is not being managed
+well, then more professional management of the warehouse (to keep inventory lower) and of credit control
+(to keep receivables lower) may allow both higher liquidity and higher profitability.
+So, the objectives of liquidity and profitability are not always in conflict.
+

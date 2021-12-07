@@ -1,0 +1,5850 @@
+Part C Working capital management
+w
+
+
+
+1.1 Working capital characteristics of different businesses
+Different businesses will have different working capital characteristics. There are three main aspects to
+these differences.
+(a)
+
+Holding inventory (from their purchase from external suppliers, through the production and
+warehousing of finished goods, up to the time of sale)
+
+(b)
+
+Taking time to pay suppliers and other accounts payable (creditors)
+
+(c)
+
+Allowing customers (accounts receivable) time to pay
+
+Here are some examples.
+
+Exam focus
+point
+
+(a)
+
+Supermarkets and other retailers receive much of their sales in cash or by credit card or debit card.
+However, they typically buy from suppliers on credit. They may therefore have the advantage of
+significant cash holdings, which they may choose to invest.
+
+(b)
+
+A company which supplies to other companies, such as a wholesaler, is likely to be selling and
+buying mainly on credit. Co-ordinating the flow of cash may be quite a problem. Such a company
+may make use of short-term borrowings (such as an overdraft) to manage its cash.
+
+(c)
+
+Smaller companies with a limited trading record may face particularly severe problems. Lacking a
+long track record, such companies may find it difficult to obtain credit from suppliers. At the same
+time, customers will expect to receive the length of credit period that is normal for the particular
+business concerned. The firm may find itself squeezed in its management of cash.
+
+Some aspect of working capital management is likely to be included in every exam.
+
+2 Objectives of working capital management
+FAST FORWARD
+
+12/14, 9/16
+
+The two main objectives of working capital management are to ensure that it has sufficient liquid
+resources to continue in business and to increase its profitability.
+Every business needs adequate liquid resources to maintain day to day cash flow such as wages and
+payments to suppliers.
+Liquidity can be maintained by ensuring that the amounts of cash tied up in inventory and receivables is
+not excessive.
+However, if a business dramatically cut its inventory and receivables (ie adopts an aggressive approach to
+working capital management) then this may lead to trading problems, and lower profits. Here are some
+examples of problems from having levels of working capital that are too low.
+(a)
+
+Low inventory may mean that delivery lead times to customers are excessively high, or that a
+business does not have enough inventory to meet peaks in demand. This is likely to lead to lost
+sales.
+
+(b)
+
+Having low receivables implies that a business's credit terms are stringent and that long credit
+periods are not being made available to its customers. Again, in some industries, this may lead to
+lost sales.
+
+So, the objectives of liquidity and profitability may conflict.
+However, if the levels of inventory and receivables are high because working capital is not being managed
+well, then more professional management of the warehouse (to keep inventory lower) and of credit control
+(to keep receivables lower) may allow both higher liquidity and higher profitability.
+So, the objectives of liquidity and profitability are not always in conflict.
+
+Part C Working capital management
+w
+
+4: Working capital
+
+81
+
+3 Role of working capital management
+FAST FORWARD
+
+A business needs to have clear policies for the management of each component of working capital.
+Working capital management is a key factor in an organisation's long-term success. A business must
+therefore have clear policies for the management of each component of working capital. The management
+of cash, marketable securities, accounts receivable, accounts payable and other means of short-term
+financing is the direct responsibility of the financial manager and it requires continuous day to day
+supervision.
+
+Question
+
+Working capital policies
+
+What differences would there be in working capital policies for a manufacturing company and a food
+retailer?
+
+Answer
+The manufacturing company will need to invest heavily in spare parts and may be owed large amounts of
+money by its customers. The food retailer will have a large inventory of goods for resale but will have
+low/no accounts receivable.
+The manufacturing company will therefore need a carefully considered policy on the management of
+accounts receivable which will need to reflect the credit policies of its close competitors.
+The food retailer will be more concerned with inventory management.
+
+4 The cash operating cycle
+Key term
+
+12/14, 9/16, 12/16, Mar/June 17
+
+The cash operating cycle is the period of time which elapses between the point at which cash begins to be
+expended on the production of a product and the collection of cash from a customer.
+The connection between investment in working capital and cash flow may be illustrated by means of the
+cash operating cycle (also called the working capital cycle, trading cycle or cash conversion cycle).
+The cash operating cycle in a manufacturing business equals:
+The average time that raw materials remain in inventory
+Less the time taken to pay suppliers (ie period of credit taken from suppliers)
+Plus the time taken to produce the goods
+Plus the time taken by customers to pay for the goods
+Cash cycle
+
+Months
+X
+X
+X
+X
+X
+
+If the turnover periods for inventories and accounts receivable lengthen (ie inventories and receivables
+levels increase), or the payment period to accounts payable shortens (ie payables level falls), then the
+cash operating cycle will lengthen and the investment in working capital will increase.
+The length of the cash operating cycle is often dictated by the industry. For example, a construction
+business may have a long cash operating cycle because of the high level of work in progress. Restaurant
+businesses usually have short cash operating cycles because they have short inventory periods and
+customers pay by cash or debit or credit card.
+Note also that it is possible to have a negative cash operating cycle. The bookseller and retailer Amazon
+has a negative cash operating cycle because of short inventory periods and fast payments from
+customers. When Amazon ships a book, for example, it charges the customer's credit card and gets paid
+by the credit card company within a day.
+
+82
+
+4: Working capital
+
+Part C Working capital management
+w
+
+
+
+4.1 Example: Cash operating cycle
+Wines Co buys raw materials from suppliers that allow Wines 2.5 months' credit. The raw materials
+remain in inventory for one month, and it takes Wines two months to produce the goods. The goods are
+sold within a couple of days of production being completed and customers take on average 1.5 months to
+pay.
+Required
+Calculate Wines's cash operating cycle.
+
+Solution
+We can ignore the time that finished goods are in inventory, as it is no more than a couple of days.
+Months
+1.0
+(2.5)
+2.0
+1.5
+2.0
+
+The average time that raw materials remain in inventory
+Less the time taken to pay suppliers
+The time taken to produce the goods
+The time taken by customers to pay for the goods
+Cash cycle
+
+The company's cash operating cycle is two months. This can be illustrated diagrammatically as follows.
+0
+
+2.5 3
+
+4.5
+
+Goods sold
+to customers
+
+Goods
+purchased
+
+Suppliers
+paid
+
+Cash received
+from customers
+
+Cash operating cycle
+two months
+
+The cash operating cycle is the period between the suppliers being paid and the cash being received from
+the customers.
+
+5 Liquidity ratios
+FAST FORWARD
+
+12/14, Mar/Jun 17
+
+Working capital ratios may help to indicate whether a company is over-capitalised, with excessive
+working capital, or if a business is likely to fail. A business which is trying to do too much too quickly with
+too little long-term capital is overtrading.
+
+5.1 The current ratio
+The current ratio is the standard test of liquidity.
+
+Formula to
+learn
+
+Current ratio =
+
+Current assets
+Current liabilities
+
+A company should have enough current assets that give a promise of 'cash to come' to meet its
+commitments to pay its current liabilities. Superficially, a ratio in excess of 1 implies that the organisation
+has enough cash and near-cash assets to satisfy its immediate liabilities. However, interpretation needs to
+be conducted with care. Too high a ratio implies that too much cash may be tied up in receivables and
+inventories. What is 'comfortable' varies between different types of business.
+Part C Working capital management
+w
+
+4: Working capital
+
+83
+
+5.2 The quick ratio
+Formula to
+learn
+
+Quick ratio or acid test ratio =
+
+Current assets less inventories
+Current liabilities
+
+Companies are unable to convert all their current assets into cash very quickly. In some businesses where
+inventory turnover is slow, most inventories are not very liquid assets, and the cash cycle is long. For these
+reasons, we calculate an additional liquidity ratio, known as the quick ratio or acid test ratio.
+This ratio should ideally be at least 1 for companies with a slow inventory turnover. For companies with a
+fast inventory turnover, a quick ratio can be less than 1 without suggesting that the company is in cash
+flow difficulties.
+
+5.3 The accounts receivable payment period
+Formula to
+learn
+
+Accounts receivable days or accounts receivable payment period, or average collection period =
+Trade receivables
+365 days
+Credit sales revenue
+This is a rough measure of the average length of time it takes for a company's accounts receivable to pay
+what they owe.
+The trade accounts receivable are not the total figure for accounts receivable in the statement of financial
+position, which includes prepayments and non-trade accounts receivable. The trade accounts receivable
+figure will be itemised in an analysis of the total accounts receivable, in a note to the accounts.
+The estimate of accounts receivable days is only approximate.
+(a)
+
+The statement of financial position value of accounts receivable might be abnormally high or low
+compared with the 'normal' level the company usually has. This may apply especially to smaller
+companies, where the size of year-end accounts receivable may largely depend on whether a few or
+even a single large customer pay just before or just after the year end.
+
+(b)
+
+Revenue (turnover) in the statement of profit or loss excludes sales tax, but the accounts
+receivable figure in the statement of financial position includes sales tax. We are not strictly
+comparing like with like. In addition, accounts receivable from the statement of financial position is
+at a point and may not be typical.
+
+5.4 The inventory turnover period
+Formulae to
+learn
+
+3/17
+
+Cost of sales
+Average inventory
+The inventory turnover period can also be calculated:
+Average inventory
+Inventory turnover period (finished goods) =
+365 days
+Cost of sales
+Average raw materials inventory
+Raw materials inventory holding period =
+365 days
+Annual purchases
+Average WIP
+Average production (work-in-progress) period =
+365 days
+Cost of sales
+Inventory turnover =
+
+These indicate the average number of days that items of inventory are held for. As with the average
+accounts receivable collection period, these are only approximate figures, but ones which should be
+reliable enough for finding changes over time. Average inventory is often calculated as (opening + closing
+balance)/2 although other methods of estimating a typical value may be used.
+A lengthening inventory turnover period indicates:
+
+84
+
+(a)
+
+A slowdown in trading, or
+
+(b)
+
+A build-up in inventory levels, perhaps suggesting that the investment in inventories is becoming
+excessive
+
+4: Working capital
+
+Part C Working capital management
+w
+
+
+If we add together the inventory days and the accounts receivable days, this should give us an indication of
+how soon inventory is convertible into cash, thereby giving a further indication of the company's liquidity.
+
+5.5 The accounts payable payment period
+Key term
+
+Accounts payable payment period =
+
+Average trade payables
+Purchases or Cost of sales
+
+365 days
+
+The accounts payable payment period often helps to assess a company's liquidity; an increase in accounts
+payable days is often a sign of lack of long-term finance or poor management of current assets, resulting
+in the use of extended credit from suppliers, increased bank overdraft, and so on.
+All the ratios calculated above will vary by industry; hence comparisons of ratios calculated with other
+similar companies in the same industry are important.
+You may need to use the following periods to calculate the operating cycle.
+Raw materials inventory holding period
+Accounts payable payment period
+Average production period
+Inventory turnover period (Finished goods)
+Accounts receivable payment period
+Operating cycle
+
+Days
+X
+(X)
+X
+X
+X
+X
+
+5.6 The sales revenue/net working capital ratio
+The ratio of
+
+Sales revenue
+Receivables + Inventory – Payables
+This shows the level of working capital (excluding cash) required to support sales. For example if this ratio
+was 5, then for every $5 increase in sales an extra $1 of cash is required to finance the required increase
+in net working capital.
+
+Exam focus
+point
+
+The ACCA examining team have confirmed that if cash is included in this calculation (which would follow
+the normal interpretation of the term 'net' working capital) then students will not be penalised.
+
+5.7 The need for funds for investment in current assets
+These liquidity ratios are a guide to the risk of cash flow problems and insolvency. If a company suddenly
+finds that it is unable to renew its short-term liabilities (for example, if the bank suspends its overdraft
+facilities), there will be a danger of insolvency unless the company is able to turn enough of its current
+assets into cash quickly.
+Current liabilities are often a cheap method of finance (trade accounts payable do not usually carry an
+interest cost). Companies may therefore consider that, in the interest of higher profits, it is worth
+accepting some risk of insolvency by increasing current liabilities, taking the maximum credit possible
+from suppliers.
+
+5.8 Working capital needs of different types of business
+Different industries have different optimum working capital profiles, reflecting their methods of doing
+business and what they are selling.
+(a)
+
+Businesses with a lot of cash sales and few credit sales should have minimal accounts
+receivable.
+
+Part C Working capital management
+w
+
+4: Working capital
+
+85
+
+(b)
+
+(c)
+
+(d)
+
+Businesses that exist solely to trade will only have finished goods in inventory, whereas
+manufacturers will have raw materials and work in progress as well. In addition, some finished
+goods, notably foodstuffs, have to be sold within a few days because of their perishable nature.
+Large companies may be able to use their strength as customers to obtain extended credit
+periods from their suppliers. By contrast small companies, particularly those that have recently
+started trading, may be required to pay their suppliers immediately.
+Some businesses will be receiving most of their monies at certain times of the year, while
+incurring expenses throughout the year. Examples include travel agents who will have peaks
+reflecting demand for holidays during the summer and at Christmas.
+
+5.9 Over-capitalisation and working capital
+If there are excessive inventories, accounts receivable and cash, and very few accounts payable, there will
+be an overinvestment by the company in current assets. Working capital will be excessive and the
+company in this respect will be over-capitalised.
+Indicators of over-capitalisation
+
+Sales/working capital
+
+Compare with previous years or similar companies. A low or falling
+ratio may indicate over-capitalisation.
+
+Liquidity ratios
+
+Compare with previous years or similar companies.
+
+Turnover periods
+
+Long turnover periods for inventory and accounts receivable or short
+credit period from suppliers may be unnecessary. Working capital
+requirements can be reduced by improving these turnover times.
+
+5.10 Example: Working capital ratios
+Calculate liquidity and working capital ratios from the following accounts of a manufacturer of products for
+the construction industry, and comment on the ratios.
+20X3
+20X2
+$m
+$m
+Sales revenue
+2,065.0
+1,788.7
+1,304.0
+Cost of sales
+1,478.6
+484.7
+Gross profit
+586.4
+Current assets
+Inventories
+119.0
+109.0
+Accounts receivable (note 1)
+400.9
+347.4
+Short-term investments
+4.2
+18.8
+48.0
+Cash at bank and in hand
+48.2
+523.2
+572.3
+Accounts payable: amounts falling due within one year
+Loans and overdrafts
+49.1
+35.3
+Corporation taxes
+62.0
+46.7
+Dividend
+19.2
+14.3
+324.0
+Accounts payable (note 2)
+370.7
+420.3
+501.0
+102.9
+Net current assets
+71.3
+Notes
+
+1
+2
+
+86
+
+4: Working capital
+
+Trade accounts receivable
+Trade accounts payable
+
+Part C Working capital management
+w
+
+20X3
+$m
+329.8
+236.2
+
+20X2
+$m
+285.4
+210.8
+
+
+
+Solution
+Current ratio
+Quick ratio
+
+20X3
+572.3
+= 1.14
+501.0
+
+20X2
+523.2
+= 1.24
+420.3
+
+453.3
+= 0.90
+501.0
+
+414.2
+= 0.99
+420.3
+
+Accounts receivable payment period
+
+329.8
+2,065.0
+
+365 = 58 days
+
+285.4
+1,788.7
+
+365 = 58 days
+
+Inventory turnover period
+
+119.0
+1,478.6
+
+365 = 29 days
+
+109.0
+1,304.0
+
+365 = 31 days
+
+Accounts payable turnover period
+
+236.2
+1,478.6
+
+365 = 58 days
+
+210.8
+1,304.0
+
+365 = 59 days
+
+Sales revenue/net working capital
+
+2,065.0
+= 28.96
+572.3 501.0
+
+1,788.7
+= 17.38
+523.2 420.3
+
+(a)
+
+The company is a manufacturing group serving the construction industry, and so would be
+expected to have a comparatively lengthy accounts receivable turnover period, because of the
+relatively poor cash flow in the construction industry.
+
+(b)
+
+The company compensates for this by ensuring that they do not pay for raw materials and other
+costs before they have sold their inventories of finished goods (hence the similarity of accounts
+receivable and accounts payable turnover periods).
+
+(c)
+
+The company's current and quick ratios have fallen but are still reasonable, and the quick ratio is
+not much less than the current ratio. This suggests that inventory levels are strictly controlled,
+which is reinforced by the low inventory turnover period.
+
+(d)
+
+The ratio of sales revenue/net working capital indicates that working capital has not increased in
+line with sales. This may forecast future liquidity problems.
+
+It would seem that working capital is tightly managed to avoid the poor liquidity which could be caused by
+a high accounts receivable turnover period and comparatively high accounts payable. However, revenue
+has increased but net working capital has declined due in part to the fall in short-term investments and the
+increase in loans and overdrafts.
+
+Exam focus
+point
+
+The ACCA examining team may give you industry averages for ratios and expect you to compare
+performance against what could be expected using financial analysis, including ratio analysis.
+
+5.11 Overtrading
+
+12/14, Mar/June 16
+
+In contrast with over-capitalisation, overtrading happens when a business tries to do too much too quickly
+with too little long-term capital, so that it is trying to support too large a volume of trade with the capital
+resources at its disposal. For this reason overtrading is sometimes referred to as under-capitalisation.
+Even if an overtrading business operates at a profit, it could easily run into serious trouble because it is
+short of cash. Such liquidity troubles stem from the fact that it does not have enough capital to provide
+the cash to pay its debts as they fall due.
+Symptoms of overtrading are as follows.
+(a)
+
+There is a rapid increase in sales revenue.
+
+(b)
+
+There is a rapid increase in the volume of current assets and possibly also non-current assets.
+Inventory turnover and accounts receivable turnover might slow down, in which case the rate of
+increase in inventories and accounts receivable would be even greater than the rate of increase in
+sales.
+
+Part C Working capital management
+w
+
+4: Working capital
+
+87
+
+(c)
+
+(d)
+
+Exam focus
+point
+
+There is only a small increase in equity capital (perhaps through retained profits). Most of the
+increase in assets is financed by credit, especially:
+(i)
+
+Trade accounts payable – the payment period to accounts payable is likely to lengthen
+
+(ii)
+
+A bank overdraft, which often reaches or even exceeds the limit of the facilities agreed by
+the bank
+
+Some debt ratios and liquidity ratios alter dramatically.
+(i)
+
+The proportion of total assets financed by proprietors' capital falls, and the proportion
+financed by credit rises.
+
+(ii)
+
+The current ratio and the quick ratio fall.
+
+(iii)
+
+The business might have a liquid deficit; that is, an excess of current liabilities over current
+assets.
+
+This list of symptoms is important; you must be aware of why businesses run into financial difficulties. In
+the exam you might be expected to diagnose overtrading from information given about a company.
+
+5.12 Example: Overtrading
+Great Ambition Co appoints a new managing director who has great plans to expand the company. They
+want to increase revenue by 100% within two years, and to do this they employ extra sales staff. They
+recognise that customers do not want to have to wait for deliveries, and so they decide that the company
+must build up its inventory levels. There is a substantial increase in the company's inventories. These are
+held in additional warehouse space which is now rented. The company also buys new cars for its extra
+sales representatives.
+The managing director's policies are immediately successful in boosting sales, which double in just over
+one year. Inventory levels are now much higher, but the company takes longer credit from its suppliers,
+even though some suppliers have expressed their annoyance at the length of time they must wait for
+payment. Credit terms for accounts receivable are unchanged, and so the volume of accounts receivable,
+like the volume of sales, rises by 100%.
+In spite of taking longer credit, the company still needs to increase its overdraft facilities with the bank,
+which are raised from a limit of $40,000 to one of $80,000. The company is profitable, and retains some
+profits in the business, but profit margins have fallen. Gross profit margins are lower because some
+prices have been reduced to obtain extra sales. Net profit margins are lower because overhead costs are
+higher. These include sales representatives' wages, car expenses and depreciation on cars, warehouse
+rent and additional losses from having to write off out of date and slow-moving inventory items.
+
+88
+
+4: Working capital
+
+Part C Working capital management
+w
+
+
+The statement of financial position of the company might change over time from (A) to (B).
+
+Non-current assets
+Current assets
+Inventory
+Accounts receivable
+Cash
+Current assets
+Total assets
+Share capital
+Retained profits
+Total equity
+Current liabilities
+Bank
+Accounts payable
+Total liabilities
+Total equity and liabilities
+
+Sales
+Gross profit
+Net profit
+
+Statement of financial position (A)
+$
+$
+160,000
+
+60,000
+64,000
+1,000
+
+Statement of financial position (B)
+$
+$
+210,000
+
+150,000
+135,000
+–
+285,000
+495,000
+
+125,000
+285,000
+10,000
+200,000
+
+25,000
+50,000
+
+210,000
+
+10,000
+205,000
+215,000
+80,000
+200,000
+
+75,000
+285,000
+
+280,000
+495,000
+
+Statement of profit or loss (A)
+$
+
+Statement of profit or loss (B)
+$
+
+$1,000,000
+$200,000
+$50,000
+
+$2,000,000
+$300,000
+$20,000
+
+In situation (B), the company has reached its overdraft limit and has four times as many accounts
+payable as in situation (A) but with only twice the sales revenue. Inventory levels are much higher, and
+inventory turnover is lower.
+The company is overtrading. If it had to pay its next trade account, or salaries and wages, before it
+received any income, it could not do so without the bank allowing it to exceed its overdraft limit. The
+company is profitable, although profit margins have fallen, and it ought to expect a prosperous future. But
+if it does not sort out its cash flow and liquidity, it will not survive to enjoy future profits.
+Suitable solutions to the problem would be implementing measures to reduce the degree of overtrading.
+(a)
+
+New capital from the shareholders could be injected.
+
+(b)
+
+Better control could be applied to inventories and accounts receivable. The company could abandon
+ambitious plans for increased sales and more non-current asset purchases until the business has
+had time to consolidate its position, and build up its capital base with retained profits.
+
+A business seeking to increase its revenue too rapidly without an adequate capital base is not the only
+cause of overtrading. Other causes are as follows.
+(a)
+
+When a business repays a loan, it often replaces the old loan with a new one (refinancing).
+However a business might repay a loan without replacing it, with the consequence that it has less
+long-term capital to finance its current level of operations.
+
+(b)
+
+A business might be profitable, but in a period of inflation, its retained profits might be
+insufficient to pay for replacement non-current assets and inventories, which now cost more
+because of inflation.
+
+Part C Working capital management
+w
+
+4: Working capital
+
+89
+
+Chapter Roundup
+
+90
+
+
+
+The amount tied up in working capital is equal to the value of raw materials, work in progress, finished
+goods inventories and accounts receivable less accounts payable. The size of this net figure has a direct
+effect on the liquidity of an organisation.
+
+
+
+The two main objectives of working capital management are to ensure that it has sufficient liquid
+resources to continue in business and to increase its profitability.
+
+
+
+A business needs to have clear policies for the management of each component of working capital.
+
+
+
+Working capital ratios may help to indicate whether a company is over-capitalised, with excessive
+working capital, or if a business is likely to fail. A business which is trying to do too much too quickly with
+too little long-term capital is overtrading.
+
+4: Working capital
+
+Part C Working capital management
+w
+
+
+
+Quick Quiz
+1
+
+Which of the following is the most likely to be a symptom of overtrading?
+A
+B
+C
+D
+
+2
+
+Static levels of inventory turnover
+Rapid increase in profits
+Increase in the level of the current ratio
+Rapid increase in sales
+
+The cash operating cycle is:
+A The time
+Less
+
+B The time
+
+Plus
+
+C The time
+
+Plus
+
+D The time
+
+Fill in the blanks.
+3
+
+Fill in the blanks with the following:
+Current liabilities; current assets; inventories
+Quick ratio =
+
+4
+
+5
+
+6
+
+..........................less..........................
+...........................................................
+
+Which of the following describes over-capitalisation and which describes overtrading?
+A
+
+A company with excessive investment in working capital
+
+B
+
+A company trying to support too large a volume of trade with the capital resources at its disposal
+
+Which of the following statements best defines the current ratio?
+A
+
+The ratio of current assets to current liabilities
+For the majority of businesses it should be at least 2.
+
+B
+
+The ratio of current assets to current liabilities
+For the majority of businesses it should be at least 1.
+
+C
+
+The ratio of current assets (excluding inventory) to current liabilities.
+For the majority of businesses it should be at least 1.
+
+D
+
+The ratio of current assets excluding inventory to current liabilities
+For the majority of businesses it should be at least 2.
+
+The accounts receivable payment period is a calculation of the time taken to pay by all accounts
+receivable.
+True
+False
+
+7
+
+What are the two most likely reasons for a lengthening inventory turnover period?
+
+8
+
+What is the working capital requirement of a company with the following average figures over a year?
+$
+3,750
+1,500
+500
+1,800
+
+Inventory
+Trade accounts receivable
+Cash and bank balances
+Trade accounts payable
+
+Part C Working capital management
+w
+
+4: Working capital
+
+91
+
+Answers to Quick Quiz
+1
+
+D
+
+Rapid increase in sales
+
+2
+
+A
+B
+C
+D
+
+The time raw materials remain in inventory
+The time period of credit taken from suppliers
+The time taken to produce goods
+The time taken by customers to pay for goods
+
+3
+
+Quick ratio =
+
+4
+
+A
+B
+
+Over-capitalisation
+Overtrading
+
+5
+
+B
+
+Current assets to current liabilities: 1
+
+6
+
+False. The calculation normally only includes trade accounts receivable.
+
+7
+
+(a)
+(b)
+
+8
+
+Working capital requirement = current assets less current liabilities
+
+Current assets less inventories
+Current liabilities
+
+A slowdown in trading
+A build-up of inventory levels
+
+= 3,750 + 1,500 + 500 – 1,800
+= $3,950
+Now try the questions below from the Practice Question Bank
+
+92
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q10
+
+Examination
+
+2
+
+4 mins
+
+Section A Q11
+
+Examination
+
+2
+
+4 mins
+
+Section A Q12
+
+Examination
+
+2
+
+4 mins
+
+Section C Q1
+
+Examination
+
+20
+
+39 mins
+
+4: Working capital
+
+Part C Working capital management
+w
+
+
+
+Managing
+working capital
+
+Topic list
+
+Syllabus reference
+
+1 Managing inventories
+
+C2 (c)
+
+2 Managing accounts receivable
+
+C2 (d)
+
+3 Managing accounts payable
+
+C2 (e)
+
+Introduction
+This chapter deals with specific techniques in the management of accounts
+receivable, accounts payable and inventory. These include overall credit control
+policies (should the business offer credit – if so, how much and to whom), and
+ensuring amounts owed are not excessive.
+While working through this chapter, try not to think of accounts receivable and
+accounts payable in isolation; they are part of working capital, each element of
+which will have knock-on effects when there is a change in another. For
+example, an increase in the credit period taken by accounts receivable will
+reduce the amount of cash available to pay accounts payable and invest in
+inventory.
+
+w
+
+93
+
+Study guide
+Intellectual level
+C2
+
+Management of inventories, accounts receivable, accounts payable and
+cash
+
+(c)
+
+Discuss, apply and evaluate the use of relevant techniques in managing
+inventory, including the economic order quantity model and Just-in-Time
+techniques.
+
+(d)
+
+Discuss, apply and evaluate the use of relevant techniques in managing
+accounts receivable, including:
+
+(i)
+
+Assessing creditworthiness
+
+1
+
+(ii)
+
+Managing accounts receivable
+
+1
+
+(iii)
+
+Collecting amounts owing
+
+1
+
+(iv)
+
+Offering early settlement discounts
+
+2
+
+(v)
+
+Using factoring and invoice discounting
+
+2
+
+(vi)
+
+Managing foreign accounts receivable
+
+2
+
+(e)
+
+Discuss and apply the use of relevant techniques in managing accounts
+payable, including:
+
+(i)
+
+Using trade credit effectively
+
+1
+
+(ii)
+
+Evaluating the benefits of discounts for early settlement and bulk purchase
+discounts
+
+2
+
+(iii)
+
+Managing foreign accounts payable
+
+1
+
+2
+
+Exam guide
+Questions in this area are likely to be a mixture of calculations and discussion. The material in this chapter
+is highly examinable.
+
+1 Managing inventories
+FAST FORWARD
+
+9/16
+
+An economic order quantity can be calculated as a guide to minimising costs in managing inventory
+levels. However, bulk discounts can mean that a different order quantity minimises inventory costs.
+Almost every company carries inventories of some sort, even if they are only inventories of consumables
+such as stationery. For a manufacturing business, inventories in the form of raw materials, work in
+progress and finished goods may amount to a substantial proportion of the total assets of the business.
+Some businesses attempt to control inventories on a scientific basis by balancing the costs of inventory
+shortages against those of inventory holding. The 'scientific' control of inventories may be analysed into
+three parts.
+
+94
+
+(a)
+
+The economic order quantity (EOQ) model can be used to decide the optimum order size for
+inventories which will minimise the costs of ordering inventories plus inventory holding costs.
+
+(b)
+
+If discounts for bulk purchases are available, it may be cheaper to buy inventories in large order
+sizes so as to obtain the discounts.
+
+(c)
+
+Uncertainty in the demand for inventories and/or the supply lead time may lead a company to
+decide to hold buffer inventories in order to reduce or eliminate the risk of 'stock-outs' (running
+out of inventory).
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+INVENTORY RELATED COSTS
+Holding costs
+
+The cost of capital
+Warehousing and handling costs
+Deterioration
+Obsolescence
+Insurance
+Pilferage
+
+Procuring costs
+
+Ordering costs
+Delivery costs
+
+Shortage costs
+
+Contribution from lost sales
+Extra cost of emergency inventory
+Cost of lost production and sales in a stock-out
+
+Purchase cost of
+inventory
+
+Relevant particularly when calculating discounts for bulk quantity purchases
+
+1.1 The basic EOQ formula
+Key term
+
+9/16
+
+The economic order quantity (EOQ) is the optimal ordering quantity for an item of inventory which will
+minimise costs.
+Let D = usage in units for one period (the demand)
+Co = cost of placing one order
+Ch = holding cost per unit of inventory for one period
+Q = re-order quantity
+
+relevant costs only
+
+Assume that demand is constant, the lead time is constant or zero and purchase costs per unit are
+constant (ie no bulk discounts).
+The total annual cost of having inventory is:
+(a)
+
+Holding costs (holding cost per unit × average inventory) + ordering costs
+
+C D
+Q
+Ch + 0
+2
+Q
+The more orders are made each year the higher the ordering costs, but the lower the holding costs
+(as less inventory is held).
+(b)
+
+The objective is to minimise T =
+
+C D
+Q
+Ch + 0
+2
+Q
+
+The order quantity, EOQ, which will minimise these total costs is:
+
+Formula to
+learn
+
+EOQ =
+
+2C0D
+Ch
+
+At the EOQ level, total holding costs per period equal the total ordering costs in the period.
+The EOQ assumes that there are no bulk purchase discounts for large quantity orders; therefore
+purchasing costs are the same regardless of the order quantity.
+
+Exam focus
+point
+
+The EOQ formula will be given to you in the exam, but make sure you know what each letter represents
+and how to do the calculation quickly and accurately.
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+95
+
+1.2 Example: Economic order quantity
+The demand for a commodity is 40,000 units a year, at a steady rate. It costs $20 to place an order, and
+40c to hold a unit for a year. Find the order size to minimise inventory costs, the number of orders placed
+each year, the length of the inventory cycle and the total costs of holding inventory for the year.
+
+Solution
+Q=
+
+2C0D
+=
+Ch
+
+2 20 40,000
+= 2,000 units.
+0.4
+
+This means that there will be:
+40,000
+= 20 orders placed each year.
+2,000
+The inventory cycle is therefore:
+52 weeks
+= 2.6 weeks.
+20 orders
+Total costs will be (20
+
+$20) +
+
+2,000
+2
+
+40c = $800 a year.
+
+1.3 Uncertainties in demand and lead times: a re-order level system
+FAST FORWARD
+
+Key term
+
+Uncertainties in demand and lead times taken to fulfil orders mean that inventory will be ordered once it
+reaches a re-order level (maximum usage maximum lead time).
+Re-order level = maximum usage
+
+maximum lead time.
+
+The re-order level is the measure of inventory at which a replenishment order should be made.
+(a)
+(b)
+
+If an order is placed too late, the organisation may run out of inventory, a stock-out, resulting in a
+loss of sales and/or a loss of production.
+If an order is placed too soon, the organisation will hold too much inventory, and inventory holding
+costs will be excessive.
+
+Use of a re-order level builds in a measure of safety inventory and minimises the risk of the organisation
+running out of inventory. This is particularly important when the volume of demand or the supply lead
+time are uncertain.
+The average annual cost of such a safety inventory would be:
+Quantity of safety inventory
+(in units)
+
+Inventory holding cost
+per unit per annum
+
+The diagram below shows how the inventory levels might fluctuate with this system. Points marked 'X'
+show the re-order level at which a new order is placed. The number of units ordered each time is the EOQ.
+Actual inventory levels sometimes fall below the safety inventory level, and sometimes the resupply arrives
+before inventories have fallen to the safety level. On average, however, extra inventory holding will
+approximate the safety inventory. The size of the safety inventory will depend on whether stock-outs
+(running out of inventory) are allowed.
+
+96
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+Inventory
+level
+
+Safety inventory
+
+Time
+
+1.4 Maximum and buffer safety inventory levels
+Key term
+
+Maximum inventory level = re-order level + re-order quantity – (minimum usage
+
+minimum lead time)
+
+The maximum level acts as a warning signal to management that inventories are reaching a potentially
+wasteful level.
+
+Key term
+
+Minimum inventory or buffer safety inventory = re-order level – (average usage
+
+average lead time)
+
+The buffer safety level acts as a warning to management that inventories are approaching a dangerously
+low level and that stock-outs are possible.
+
+Key term
+
+Average inventory = buffer safety inventory +
+
+re-order amount
+2
+
+This formula assumes that inventory levels fluctuate evenly between the buffer safety (or minimum)
+inventory level and the highest possible inventory level (the amount of inventory immediately after an
+order is received, safety inventory and re-order quantity).
+
+1.5 Example: Maximum and buffer safety inventory
+A company has an inventory management policy which involves ordering 50,000 units when the inventory
+level falls to 15,000 units. Forecast demand to meet production requirements during the next year is
+310,000 units. You should assume a 50-week year and that demand is constant throughout the year.
+Orders are received two weeks after being placed with the supplier. What is the average inventory level?
+
+Solution
+Average usage per week = 310,000 units/50 weeks = 6,200 units
+Average lead time
+
+= 2 weeks
+
+Re-order level
+
+= 15,000 units
+
+Buffer safety inventory
+
+= re-order level – (average usage × average lead time)
+= 15,000 – (6,200 × 2) = 2,600 units
+
+Average inventory
+
+= buffer safety inventory +
+= 2,600 +
+
+re-order amount
+2
+
+50,000
+= 27,600 units
+2
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+97
+
+This approach assumes that a business wants to minimise the risk of stock-outs at all costs. In the
+modern manufacturing environment stock-outs can have a disastrous effect on the production process.
+If, however, you are given a question where the risk of stock-outs is assumed to be worth taking, and the
+costs of stock-outs are quantified, the re-order level may not be calculated in the way described above. For
+each possible re-order level, and therefore each possible level of buffer inventory, calculate:
+
+
+The costs of holding buffer inventory per annum
+
+
+
+The costs of stock-outs (Cost of one stock-out
+number of orders per year)
+
+expected number of stock-outs per order
+
+The expected number of stock-outs per order reflects the various levels by which demand during the lead
+time could exceed the re-order level.
+
+1.6 Example: Possibility of stock-outs
+If re-order level is 4 units, but there is a probability of 0.2 that demand during the lead time would be 5
+units, and 0.05 that demand during the lead time would be 6 units. Then the expected number of
+stock-outs = ((5 – 4) 0.2) + ((6 – 4) 0.05) = 0.3.
+Note. Stock-outs are defined as the number of units not available in inventory when required.
+
+1.7 The effect of discounts
+The solution obtained from using the simple EOQ formula may need to be modified if bulk discounts (also
+called quantity discounts) are available. To decide mathematically whether it would be worthwhile taking a
+discount and ordering larger quantities, it is necessary to minimise:
+Total purchasing costs + Ordering costs + Inventory holding costs.
+The total cost will be minimised:
+
+
+
+At the pre-discount EOQ level, so that a discount is not worthwhile; or
+At the minimum order size necessary to earn the discount.
+
+1.8 Example: Bulk discounts
+The annual demand for an item of inventory is 125 units. The item costs $200 a unit to purchase, the
+holding cost for one unit for one year is 15% of the unit cost and ordering costs are $300 an order. The
+supplier offers a 3% discount for orders of 60 units or more, and a discount of 5% for orders of 90 units
+or more. What is the cost-minimising order size?
+
+Solution
+(a)
+
+The EOQ ignoring discounts is:
+2
+
+300
+
+125
+
+15% of 200
+
+50 units
+
+Purchases (no discount) 125 $200
+Holding costs (50/2) 25 units 15% × $200
+Ordering costs 2.5 orders $300
+Total annual costs
+(b)
+
+With a discount of 3% and an order quantity of 60 units costs are as follows.
+Purchases $25,000 97%
+Holding costs 30 units 15% of 97% of $200
+Ordering costs 2.08 orders $300
+Total annual costs
+
+98
+
+$
+25,000
+750
+750
+26,500
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+$
+24,250
+873
+625
+25,748
+
+
+(c)
+
+With a discount of 5% and an order quantity of 90 units costs are as follows.
+$
+23,750.0
+1,282.5
+416.7
+25,449.2
+
+Purchases $25,000 95%
+Holding costs 45 units 15% of 95% of $200
+Ordering costs 1.39 orders $300
+Total annual costs
+The cheapest option is to order 90 units at a time.
+
+Question
+
+Bulk orders
+
+Question: Bulk orders
+A company uses an item of inventory as follows.
+Purchase price:
+Annual demand:
+Ordering cost:
+Annual holding cost:
+Economic order quantity:
+
+$96 per unit
+4,000 units
+$300
+10% of purchase price
+500 units
+
+Should the company order 1,000 units at a time in order to secure an 8% discount?
+
+Answer
+The total annual cost at the economic order quantity of 500 units is as follows.
+Purchases 4,000 $96
+Ordering costs $300 (4,000/500)
+Holding costs $96 10% (500/2)
+The total annual cost at an order quantity of 1,000 units would be as follows.
+Purchases $384,000 92%
+Ordering costs $300 (4,000/1,000)
+Holding costs $96 92% 10% (1,000/2)
+
+$
+384,000
+2,400
+2,400
+388,800
+$
+353,280
+1,200
+4,416
+358,896
+
+The company should order the item 1,000 units at a time, saving $(388,800 – 358,896) = $29,904 a year.
+
+1.9 Just-in-time (JIT)
+
+12/16
+
+Some manufacturing companies have sought to reduce their inventories of raw materials and components
+to as low a level as possible. Just-in-time procurement is a term which describes a policy of obtaining
+goods from suppliers at the latest possible time (ie when they are needed) and so avoiding the need to
+carry any materials or components inventory.
+Just-in-time production describes manufacturing to order. As orders are received, manufacturing is
+triggered to fulfil those orders. This enables better product customisation, less/no risk of obsolescence
+and few holding costs. It does, however, imply a flexible manufacturing process (in terms of what and
+how much is made) with follow-on considerations for employment terms. In addition, idle time may need
+to be tolerated (although managed to a practical minimum).
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+99
+
+Introducing JIT might bring the following potential benefits.
+
+
+
+
+
+Reduction in inventory holding costs
+Reduced manufacturing lead times
+Improved labour productivity
+Reduced scrap/rework/warranty costs
+
+Reduced inventory levels mean that a lower level of investment in working capital will be required.
+JIT will not be appropriate in some cases. For example, a restaurant might find it preferable to use the
+traditional economic order quantity approach for staple non-perishable food inventories but adopt JIT for
+perishable and 'exotic' items. In a hospital, a stock-out could quite literally be fatal and so JIT would be
+quite unsuitable.
+
+Exam focus
+point
+
+You may be required to evaluate the benefits of introducing a JIT arrangement, given certain assumptions
+about the costs and benefits.
+
+Case Study
+Japanese car manufacturer Toyota was the first company to develop JIT (JIT was originally called the
+Toyota Production System). After the end of the world war in 1945, Toyota recognised that it had much to
+do to catch up with the US automobile manufacturing industry. The company was making losses. In
+Japan, however, consumer demand for cars was weak, and consumers were very resistant to price
+increases. Japan also had a bad record for industrial disputes. Toyota itself suffered from major strike
+action in 1950.
+The individual credited with devising JIT in Toyota from the 1940s was Taiichi Ohno, and JIT techniques
+were developed gradually over time.
+Ohno identified seven wastes and worked to eliminate them from operations in Toyota. Measures that
+were taken by the company included the following.
+
+100
+
+(a)
+
+The aim of reducing costs was of paramount importance in the late 1940s. Toyota was losing
+money, and market demand was weak, preventing price rises. The only way to move from losses
+into profits was to cut costs, and cost reduction was probably essential for the survival of the
+company.
+
+(b)
+
+The company aimed to level the flow of production and eliminate unevenness in the work flow.
+Production levelling should help to minimise idle time while at the same time allowing the company
+to achieve its objective of minimum inventories.
+
+(c)
+
+The factory layout was changed. Previously all machines, such as presses, were located in the
+same area of the factory. Under the new system, different types of machines were clustered
+together in production cells.
+
+(d)
+
+Machine operators were retrained.
+
+(e)
+
+Employee involvement in the changes was seen as being particularly important. Teamwork was
+promoted.
+
+(f)
+
+The kanban system was eventually introduced, but a major problem with its introduction was the
+elimination of defects in production. The kanban system is a 'pull' system of production
+scheduling. Items are only produced when they are needed. If a part is faulty when it is produced,
+the production line will be held up until the fault is corrected.
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+
+2 Managing accounts receivable
+
+9/16, Mar/Jun 17
+
+2.1 Total credit
+FAST FORWARD
+
+Giving credit has a cost: the value of the interest charged on an overdraft to fund the period of credit, or
+the interest lost on the cash not received and deposited in the bank. An increase in profit from extra sales
+resulting from offering credit could offset this cost.
+Credit is offered to customers to win sales and sales mean profits. But there is a cost to giving credit. The
+benefits should exceed the costs.
+
+2.2 Effect on profit of extending credit
+One of the main costs of offering credit is the interest expense. How can we assess the effect on profit?
+Let us assume that the Zygo Company sells widgets for $1,000, which enables it to earn a profit, after all
+other expenses except interest, of $100 (ie a 10% margin).
+(a)
+
+Aibee buys a widget for $1,000 on 1 January 20X1, but does not pay until 31 December 20X1.
+Zygo relies on overdraft finance, which costs it 10% p.a. The effect is:
+$
+Net profit on sale of widget
+100
+(100)
+Overdraft cost $1,000 10% p.a.
+Actual profit after 12 months' credit
+Nil
+In other words, the entire profit margin has been wiped out in 12 months.
+
+(b)
+
+If Aibee had paid after six months, the effect would be:
+Net profit
+Overdraft cost $1,000
+
+10% p.a.
+
+6/12 months
+
+$
+100
+(50)
+50
+
+Half the profit has been wiped out.
+(c)
+
+If the cost of borrowing had been 18%, then the profit would have been absorbed before seven
+months had elapsed. If the net profit were 5% and borrowing costs were 15%, the interest expense
+would exceed the net profit after four months.
+
+Question
+
+Cost of receivables
+
+Winterson Tools has an average level of accounts receivable of $2m at any time representing 60 days
+outstanding. (Their credit terms are 30 days.) The firm borrows money at 10% a year. The managing
+director is proud of the credit control: 'I only had to write off $10,000 in bad debts last year,' they said
+proudly. Are they right to be proud?
+
+Answer
+The managing director may be proud of the low level of bad debts but customers are taking an extra
+month to pay and this has a cost. At any one time, there is $1m more money outstanding than there
+should be (30/60 days $2m) and this costs $100,000 in interest charges (10% $1m).
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+101
+
+The level of total credit can then have a significant effect on profitability. That said, if credit considerations
+are included in pricing calculations, extending credit can, in fact, increase profitability. If offering credit
+generates extra sales, then those extra sales will have additional repercussions on:
+(a)
+
+The amount of inventory maintained in the warehouse, to ensure that the extra demand must be
+satisfied
+
+(b)
+
+The amount of money the company owes to its accounts payable (as it will be increasing its supply
+of raw materials)
+
+2.3 Credit control policy
+
+9/16
+
+Several factors should be considered by management when a policy for credit control is formulated.
+These include:
+(a)
+
+The administrative costs of debt collection
+
+(b)
+
+The procedures for controlling credit to individual customers and for debt collection
+
+(c)
+
+The amount of extra capital required to finance an extension of total credit – there might be an
+increase in accounts receivable, inventories and accounts payable, and the net increase in working
+capital must be financed
+
+(d)
+
+The cost of the additional finance required for any increase in the volume of accounts receivable
+(or the savings from a reduction in accounts receivable) – this cost might be bank overdraft
+interest, or the cost of long-term funds (such as loan inventory or equity)
+
+(e)
+
+Any savings or additional expenses in operating the credit policy (for example the extra work
+involved in pursuing slow payers)
+
+(f)
+
+The ways in which the credit policy could be implemented – for example:
+
+(g)
+
+(i)
+
+Credit could be eased by giving accounts receivable a longer period in which to settle their
+accounts – the cost would be the resulting increase in accounts receivable.
+
+(ii)
+
+A discount could be offered for early payment – the cost would be the amount of the
+discounts taken.
+
+The effects of easing credit, which might be to encourage a higher proportion of bad debts, and an
+increase in sales volume. Provided that the extra gross contribution from the increase in sales
+exceeds the increase in fixed cost expenses, bad debts, discounts and the finance cost of an
+increase in working capital, a policy to relax credit terms would be profitable.
+
+2.4 Assessing creditworthiness
+FAST FORWARD
+
+6/15
+
+In managing accounts receivable, the creditworthiness of customers needs to be assessed. The risks and
+costs of a customer defaulting will need to be balanced against the profitability of the business provided
+by that customer.
+Credit control involves the initial investigation of potential credit customers and the continuing control of
+outstanding accounts. The main points to note are as follows.
+
+102
+
+(a)
+
+New customers should give two good references, including one from a bank, before being granted
+credit.
+
+(b)
+
+Credit ratings might be checked through a credit rating/reference agency.
+
+(c)
+
+A new customer's credit limit should be fixed at a low level and only increased if their payment
+record subsequently warrants it.
+
+(d)
+
+For large value customers, a file should be maintained of any available financial information about
+the customer. This file should be reviewed regularly. Information is available from the company's
+annual report and accounts.
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+(e)
+
+Government departments can sometimes advise on overseas companies.
+
+(f)
+
+Press comments may give information about what a company is currently doing (as opposed to
+the historical results in Extel cards or published accounts which only show what the company has
+done in the past).
+
+(g)
+
+The company could send a member of staff to visit the company concerned, to get a first-hand
+impression of the company and its prospects. This would be advisable in the case of a prospective
+major customer.
+
+An organisation might devise a credit-rating system for new individual customers that is based on
+characteristics of the customer (such as whether the customer is a homeowner, and the customer's age
+and occupation). Points or ratings would be awarded according to the characteristics of the customer, and
+the amount of credit that is offered would depend on their credit score.
+
+2.5 Managing accounts receivable
+FAST FORWARD
+
+Regular monitoring of accounts receivable is very important. Individual accounts receivable can be
+assessed using a customer history analysis and a credit rating system. The overall level of accounts
+receivable can be monitored using an aged accounts receivable listing and credit utilisation report, as
+well as reports on the level of bad debts.
+(a)
+
+Accounts receivable payment records must be monitored continually. This depends on successful
+sales ledger administration.
+
+(b)
+
+Credit monitoring can be simplified by a system of in-house credit ratings. For example, a
+company could have five credit-risk categories for its customers. As mentioned above, these credit
+categories or ratings could be used to decide either individual credit limits for customers within
+that category or the frequency of the credit review.
+
+(c)
+
+A customer's payment record and the accounts receivable aged analysis should be examined
+regularly, as a matter of course. Breaches of the credit limit, or attempted breaches of it, should be
+brought immediately to the attention of the credit controller.
+
+2.5.1 Policing total credit
+The total amount of credit offered, as well as individual accounts, should be policed to ensure that the
+senior management policy with regard to the total credit limits is maintained. A credit utilisation report
+can indicate the extent to which total limits are being utilised. An example is given below.
+Customer
+
+Limit
+$'000
+100
+50
+35
+250
+435
+
+Alpha
+Beta
+Gamma
+Delta
+
+Utilisation
+$'000
+90
+35
+21
+125
+271
+
+%
+90
+70
+60
+50
+
+62.2%
+This might contain other information, such as days sales outstanding.
+Reviewed in aggregate, this can reveal the following.
+(a)
+
+The number of customers who might want more credit
+
+(b)
+
+The extent to which the company is exposed to accounts receivable
+
+(c)
+
+The 'tightness' of the policy (It might be possible to increase profitable sales by offering credit. On
+the other hand, perhaps the firm offers credit too easily.)
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+103
+
+It is possible to design credit utilisation reports to highlight other trends.
+(a)
+
+The degree of exposure to different countries
+
+(b)
+
+The degree of exposure to different industries (some countries or industries may be worthy of
+more credit; others may be too risky)
+
+Credit utilisation can also be analysed by industry within country or by country within industry. It is also
+useful to relate credit utilisation to total sales.
+
+2.5.2 Extension of credit
+To determine whether it would be profitable to extend the level of total credit, it is necessary to assess:
+
+
+
+
+
+The extra sales that a more generous credit policy would stimulate
+The profitability of the extra sales
+The extra length of the average debt collection period
+The required rate of return on the investment in additional accounts receivable
+
+2.5.3 Example: A change in credit policy
+Russian Beard Co is considering a change of credit policy which will result in an increase in the average
+collection period from one to two months. The relaxation in credit is expected to produce an increase in
+sales in each year amounting to 25% of the current sales volume.
+Selling price per unit
+Variable cost per unit
+Current annual sales
+
+$10
+$8.50
+$2,400,000
+
+The required rate of return on investments is 20%. Assume that the 25% increase in sales would result in
+additional inventories of $100,000 and additional accounts payable of $20,000.
+Advise the company on whether or not to extend the credit period offered to customers, if:
+(a)
+
+All customers take the longer credit of two months
+
+(b)
+
+Existing customers do not change their payment habits, and only new customers take a full two
+months' credit
+
+Solution
+The change in credit policy is justifiable if the rate of return on the additional investment in working capital
+would exceed 20%.
+Extra profit
+Contribution/sales ratio
+Increase in sales revenue
+Increase in contribution and profit
+(a)
+
+Extra investment, if all accounts receivable take two months' credit
+
+Average accounts receivable after the sales increase (2/12 $3,000,000)
+Less current average accounts receivable (1/12 $2,400,000)
+Increase in accounts receivable
+Increase in inventories
+Less increase in accounts payable
+Net increase in working capital investment
+Return on extra investment
+
+104
+
+5: Managing working capital
+
+$90,000
+= 23.7%
+$380,000
+
+Part C Workingw
+capital management
+
+15%
+$600,000
+$90,000
+$
+500,000
+200,000
+300,000
+100,000
+400,000
+20,000
+380,000
+
+
+(b)
+
+Extra investment, if only the new accounts receivable take two months' credit
+
+Increase in accounts receivable (2/12 of $600,000)
+Increase in inventories
+Less increase in accounts payable
+Net increase in working capital investment
+Return on extra investment
+
+$
+100,000
+100,000
+200,000
+20,000
+180,000
+
+$90,000
+= 50%
+$180,000
+
+In both case (a) and case (b) the new credit policy appears to be worthwhile.
+
+Question
+
+Extension of credit
+
+Enticement Co currently expects sales of $50,000 a month. Variable costs of sales are $40,000 a month
+(all payable in the month of sale). It is estimated that if the credit period allowed to accounts receivable
+were to be increased from 30 days to 60 days, sales volume would increase by 20%. All customers would
+be expected to take advantage of the extended credit. If the cost of capital is 12.5% a year, is the extension
+of the credit period justifiable in financial terms?
+
+Answer
+Current accounts receivable (1 month)
+Accounts receivable after implementing the proposal (2 months)
+Increase in accounts receivable
+Financing cost ( 12.5%)
+Annual contribution from additional sales (12 months
+Annual net benefit from extending credit period
+
+20%
+
+$10,000)
+
+$
+50,000
+120,000
+70,000
+8,750
+24,000
+15,250
+
+2.6 Collecting amounts owing
+FAST FORWARD
+
+The benefits of action to collect debts must be greater than the costs incurred.
+The overall debt collection policy of the firm should be such that the administrative costs and other costs
+incurred in debt collection do not exceed the benefits from incurring those costs. Beyond a certain level of
+spending, however, additional expenditure on debt collection would not have enough of an effect on bad
+debts or on the average collection period to justify the extra administrative costs.
+Collecting debts is a two-stage process.
+(a)
+
+Having agreed credit terms with a customer, a business should issue an invoice and expect to
+receive payment when it is due. Issuing invoices and receiving payments is the task of sales
+ledger staff. They should ensure that:
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+
+The customer is fully aware of the terms.
+The invoice is correctly drawn up and issued promptly.
+They are aware of any potential quirks in the customer's system.
+Queries are resolved quickly.
+Monthly statements are issued promptly.
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+105
+
+(b)
+
+If payments become overdue, priority ones should be 'chased'. Procedures for pursuing overdue
+debts must be established, for example:
+(i)
+
+Instituting reminders or final demands
+These should be sent to a named individual, asking for repayment by return of post. A
+second or third letter may be required, followed by a final demand stating clearly the action
+that will be taken. The aim is to goad customers into action, perhaps by threatening not to
+sell any more goods on credit until the debt is cleared.
+
+(ii)
+
+Chasing payment by telephone
+The telephone is of greater nuisance value than a letter, and the greater immediacy can
+encourage a response. It can be time consuming, however, particularly because of
+problems in getting through to the right person.
+
+(iii)
+
+Making a personal approach
+Personal visits can be very time consuming and tend only to be made to important
+customers who are worth the effort.
+
+(iv)
+
+Notifying debt collection section
+This means not giving further credit to the customer until they have paid the due amounts.
+
+(v)
+
+Handing over debt collection to specialist debt collection section
+Certain, generally larger, organisations may have a section to collect debts under the
+supervision of the credit manager.
+
+(vi)
+
+Instituting legal action to recover the debt
+Premature legal action may unnecessarily antagonise important customers.
+
+(vii)
+
+Hiring external debt collection agency to recover debt
+Again this may upset customers.
+
+2.7 Early settlement discounts
+FAST FORWARD
+
+9/15
+
+Early settlement discounts may be employed to shorten average credit periods and to reduce the
+investment in accounts receivable and therefore interest costs of the finance invested in trade receivables.
+The benefit in interest cost saved should exceed the cost of the discounts allowed.
+
+To see whether the offer of a settlement discount (for early payment) is financially worthwhile we must
+compare the cost of the discount with the benefit of a reduced investment in accounts receivable.
+Varying the discount allowed for early payment of debts affects the average collection period and affects
+the volume of demand (and possibly, therefore, indirectly affects bad debt losses). We shall begin with
+examples where the offer of a discount for early payment does not affect the volume of demand.
+
+2.8 Example: Settlement discount
+Lowe and Price Co has annual credit sales of $12,000,000, and three months are allowed for payment. The
+company decides to offer a 2% discount for payments made within 10 days of the invoice being sent, and
+to reduce the maximum time allowed for payment to two months. It is estimated that 50% of customers
+will take the discount.
+If the company requires a 20% return on investments, what will be the effect of the discount?
+Assume that the volume of sales will be unaffected by the discount.
+
+Solution
+Our approach is to calculate:
+(a)
+(b)
+
+106
+
+The profits forgone by offering the discount
+The interest charges saved or incurred as a result of the changes in the cash flows of the company
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+Thus:
+(a)
+
+The volume of accounts receivable, if the company policy remains unchanged, would be:
+3/12
+
+(b)
+
+$12,000,000 = $3,000,000.
+
+If the policy is changed the volume of accounts receivable would be:
+50%
+
+(10/365
+
+$12,000,000) + (2/12
+
+50%
+
+$12,000,000) = $164,384 + $1,000,000
+
+= $1,164,384.
+(c)
+
+There will be a reduction in accounts receivable of $1,835,616.
+
+(d)
+
+Since the company can invest at 20% a year, the value of a reduction in accounts receivable (a source
+of funds) is 20% of $1,835,616 each year in perpetuity, that is, $367,123 a year.
+
+(e)
+
+Summary
+
+$
+367,123
+120,000
+247,123
+
+Value of reduction in accounts receivable each year
+Less discounts allowed each year (2% 50% $12,000,000)
+Net benefit of new discount policy each year
+
+An extension of the payment period allowed to accounts receivable may be introduced in order to increase sales
+volume.
+
+Exam focus
+point
+
+Note that the effect of the settlement discount was not included in step (b) of the previous example. This is
+correct if sales are recorded before the effect of the settlement discount (this is normally recorded
+separately). This is the approach that has been adopted in past ACCA Financial Management exam
+questions.
+
+2.9 Percentage cost of an early settlement discount
+The percentage cost of an early settlement discount to the company giving it can be estimated by the
+formula:
+365
+
+100
+(100 d)
+
+t
+
+1 %
+
+Where d = the discount offered (5% = 5, etc)
+t = the reduction in the payment period in days that is necessary to obtain the early payment
+discount
+
+Question
+
+Cost of discount
+
+A company offers its goods to customers on 30 days' credit, subject to satisfactory trade references. It
+also offers a 2% discount if payment is made within ten days of the date of the invoice.
+Required
+
+Calculate the cost to the company of offering the discount, assuming a 365 day year.
+
+Answer
+The percentage cost of the discount
+
+100
+=
+(100 2)
+
+365
+
+20
+
+1
+
+= 1.0204118.25 – 1
+= 1.446 – 1
+= 44.6%
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+107
+
+2.10 Bad debt risk
+Different credit policies are likely to have differing levels of bad debt risk. The higher revenue resulting
+from easier credit terms should be sufficiently profitable to exceed the cost of:
+
+
+
+
+Additional bad debts, and
+The additional investment necessary to achieve the higher sales.
+
+2.10.1 Example: Receivables management
+Grabbit Quick Co achieves current annual sales of $1,800,000. The cost of sales is 80% of this amount,
+but bad debts average 1% of total sales, and the annual profit is as follows.
+$
+Sales
+1,800,000
+Less cost of sales
+1,440,000
+360,000
+Less bad debts
+18,000
+Profit
+342,000
+The current debt collection period is one month, and the management consider that, if credit terms were
+eased (Option A), the effects would be as follows.
+Present policy
+Option A
+Additional sales (%)
+–
+25%
+Average collection period
+1 month
+2 months
+Bad debts (% of sales)
+1%
+3%
+The company requires a 20% return on its investments. The costs of sales are 75% variable and 25%
+fixed. Assume there would be no increase in fixed costs from the extra revenue and that there would be no
+increase in average inventories or accounts payable. Which is the preferable policy, Option A or the
+present one?
+
+Solution
+The increase in profit before the cost of additional finance for Option A can be found as follows.
+(a)
+
+$
+Increase in contribution from additional sales
+25% $1,800,000 40%*
+Less increase in bad debts (3% $2,250,000) – $18,000
+Increase in annual profit
+* The contribution/sales ratio is 100% – (75%
+
+80%) = 40%
+
+(b)
+
+(c)
+
+180,000
+49,500
+130,500
+
+Proposed investment in accounts receivable $2,250,000 1/6
+Less current investment in accounts receivable $1,800,000 1/12
+Additional investment required
+
+$
+375,000
+150,000
+225,000
+
+Cost of additional finance at 20%
+
+$45,000
+
+As the increase in profit exceeds the cost of additional finance, Option A should be adopted.
+
+2.10.2 Credit insurance
+Companies may be able to obtain credit insurance against certain approved debts going bad through a
+specialist credit insurance firm. A company cannot insure against all its bad debt losses, but may be able
+to insure against losses above a 'normal' level.
+When a company arranges credit insurance, it must submit specific proposals for credit to the insurance
+company, stating the name of each customer to which it wants to give credit and the amount of credit it
+wants to give. The insurance company will accept, amend or refuse these proposals, depending on its
+assessment of each of these customers.
+108
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+
+2.11 Factoring
+FAST FORWARD
+
+Exam focus
+point
+
+6/15
+
+Some companies use either factoring or invoice discounting to improve liquidity or to reduce
+administration costs. Insurance, particularly of overseas debts, can also help reduce the risk of bad debts.
+
+You may find it useful to read the article titled 'Receivables collection' (and a follow on article written by
+the same author titled 'Accounts receivable management') on the ACCA website. This covers factoring and
+early settlement discounts. In addition there is a short article on some of the extra complications in the
+management of foreign accounts receivable.
+A factor is defined as 'a doer or transactor of business for another', but a factoring organisation
+specialises in trade debts, and manages the debts owed to a client (a business customer) on the client's
+behalf.
+
+Key term
+
+Factoring is an arrangement to have debts collected by a factor company, which advances a proportion of
+the money it is due to collect.
+
+2.11.1 Aspects of factoring
+The main aspects of factoring include the following.
+
+(a)
+
+Administration of the client's invoicing, sales accounting and debt collection service
+
+(b)
+
+Credit protection for the client's debts, whereby the factor takes over the risk of loss from bad
+debts and so 'insures' the client against such losses. This is known as a non-recourse service.
+However, if a non-recourse service is provided, the factor, not the firm, will decide what action to
+take against non-payers.
+
+(c)
+
+Making payments to the client in advance of collecting the debts. This is sometimes referred to as
+'factor finance' because the factor is providing cash to the client against outstanding debts.)
+
+2.11.2 Benefits of factoring
+The benefits of factoring for a business customer include the following.
+(a)
+
+The business receives early payment for most of its receivables in the form of finance from the
+factor. It can use this money to pay its suppliers.
+
+(b)
+
+Optimum inventory levels can be maintained, because the business will have enough cash to pay
+for the inventories it needs.
+
+(c)
+
+Growth can be financed through sales rather than by injecting fresh external capital.
+
+(d)
+
+The business gets finance linked to its volume of sales. In contrast, overdraft limits tend to be
+determined by historical statements of financial position.
+
+(e)
+
+The managers of the business do not have to spend their time on the problems of slow-paying
+accounts receivable. Factoring organisations are also likely to employ staff who are experienced
+and skilled at collecting payments from customers and chasing overdue payments.
+
+(f)
+
+The business does not incur the costs of running its own sales ledger department, and can use
+the expertise of debtor management that the factor has.
+
+An important disadvantage is that credit customers will be making payments direct to the factor, which is
+likely to present a negative picture of the firm's attitude to customer relations. It may also indicate that
+the firm is in need of rapid cash, raising questions about its financial stability.
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+109
+
+2.11.3 Example: Factoring
+A company makes annual credit sales of $1,500,000. Credit terms are 30 days, but its debt administration
+has been poor and the average collection period has been 45 days with 0.5% of sales resulting in bad
+debts which are written off.
+A factor would take on the task of debt administration and credit checking, at an annual fee of 2.5% of
+credit sales. The company would save $30,000 a year in administration costs. The payment period would
+be 30 days.
+The factor would also provide an advance of 80% of invoiced debts at an interest rate of 14% (3% over
+the current base rate). The company can obtain an overdraft facility to finance its accounts receivable at a
+rate of 2.5% over base rate.
+Should the factor's services be accepted? Assume a constant monthly revenue.
+
+Solution
+It is assumed that the factor would advance an amount equal to 80% of the invoiced debts, and the
+balance 30 days later.
+(a)
+
+The current situation is as follows, using the company's debt collection staff and a bank overdraft
+to finance all debts.
+Credit sales
+Average credit period
+The annual cost is as follows.
+45/365 $1,500,000 13.5% (11% + 2.5%)
+Bad debts 0.5% $1,500,000
+Administration costs
+Total cost
+
+$1,500,000 p.a.
+45 days
+$
+24,966
+7,500
+30,000
+62,466
+
+(b)
+
+The cost of the factor. 80% of credit sales financed by the factor would be 80% of $1,500,000 =
+$1,200,000. For a consistent comparison, we must assume that 20% of credit sales would be
+financed by a bank overdraft. The average credit period would be only 30 days. The annual cost
+would be as follows.
+$
+13,808
+Factor's finance 30/365 $1,200,000 14%
+3,329
+Overdraft 30/365 $300,000 13.5%
+17,137
+37,500
+Cost of factor's services: 2.5% $1,500,000
+Cost of the factor
+54,637
+
+(c)
+
+Conclusion. The factor is cheaper. In this case, the factor's fees exactly equal the savings in bad
+debts ($7,500) and administration costs ($30,000). The factor is then cheaper overall because it
+will be more efficient at collecting debts. The advance of 80% of debts is not needed, however, if
+the company has sufficient overdraft facility because the factor's finance charge of 14% is higher
+than the company's overdraft rate of 13.5%.
+
+An alternative way of carrying out the calculation is to consider the changes in costs that using a factor
+will mean.
+$
+45 30
+8,322
+Effect of reduction in collection period
+$1,500,000 13.5%
+365
+(493)
+Extra interest cost of factor finance 30/365 $1,200,000 (14 – 13.5)%
+(37,500)
+Cost of factor's services 2.5% $1,500,000
+Savings in bad debts 0.5% × $1,500,000
+7,500
+Savings in company's administration costs
+30,000
+Net benefit of using factor
+7,829
+Check: $62,466 – $54,637 = $7,829
+110
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+Exam focus
+point
+
+Points to look out for in questions about factoring are who bears the risk of bad debts, and company
+administration costs that may be saved by using a factor. The ACCA examining team has commented that
+calculations of the cost of factoring have often been poor.
+
+2.12 Invoice discounting
+Key term
+
+Invoice discounting is the purchase (by the provider of the discounting service) of trade debts at a
+discount. Invoice discounting enables the company from which the debts are purchased to raise working
+capital.
+Invoice discounting is related to factoring and many factors will provide an invoice discounting service. It
+is the purchase of a selection of invoices, at a discount. The invoice discounter does not take over the
+administration of the client's sales ledger.
+
+A client should only want to have some invoices discounted when they have a temporary cash shortage,
+and so invoice discounting tends to consist of one-off deals. Confidential invoice discounting is an
+arrangement whereby a debt is confidentially assigned to the factor, and the client's customer will only
+become aware of the arrangement if they do not pay their debt to the client.
+If a client needs to generate cash, they can approach a factor or invoice discounter, who will offer to
+purchase selected invoices and advance up to 75% of their value. At the end of each month, the factor will
+pay over the balance of the purchase price, less charges, on the invoices that have been settled in the
+month.
+
+Exam focus
+point
+
+Don't confuse invoice discounting with early settlement discounts. They are not the same thing.
+
+2.13 Managing foreign accounts receivable
+FAST FORWARD
+
+9/15
+
+Exporters have to address the problems of larger inventories and accounts receivable, and an increased
+risk of bad debts due to the transportation time and additional paperwork involved in sending goods
+abroad.
+Foreign debts raise the following special problems.
+
+(a)
+
+When goods are sold abroad, the customer might ask for credit. Exports take time to arrange, and
+there might be complex paperwork. Transporting the goods can be slow, if they are sent by sea.
+These delays in foreign trade mean that exporters often build up large investments in inventories
+and accounts receivable. These working capital investments have to be financed somehow.
+
+(b)
+
+The risk of bad debts can be greater with foreign trade than with domestic trade. If a foreign
+debtor refuses to pay a debt, the exporter must pursue the debt in the debtor's own country, where
+procedures will be subject to the laws of that country.
+
+Some businesses may decide to trust the foreign receivable and not take any special measures to reduce
+the non-payment risk. This method is known as open account.
+However, there are several measures available to exporters to help overcome risks of non-payment.
+
+2.13.1 Reducing the investment in foreign accounts receivable
+A company can reduce its investment in foreign accounts receivable by insisting on earlier payment for
+goods. Another approach is for an exporter to arrange for a bank to give cash for a foreign debt sooner
+than the exporter would receive payment in the normal course of events. There are several ways in which
+this might be done.
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+111
+
+(a)
+
+Advances against collections. Where the exporter asks their bank to handle the collection of
+payment (of a bill of exchange or a cheque) on their behalf, the bank may be prepared to make an
+advance to the exporter against the collection. The amount of the advance might be 80% to 90% of
+the value of the collection.
+
+(b)
+
+Negotiation of bills or cheques. This is similar to an advance against collection, but would be used
+where the bill or cheque is payable outside the exporter's country (for example in the foreign
+buyer's country).
+
+(c)
+
+Discounting bills of exchange. This is where the customer agrees to accept a bill of exchange
+drawn on the customer by the exporter. The exporter's bank may buy the bill before it is due for
+payment (at a discount to face value) and credit the proceeds from this sale to the company's
+account.
+
+(d)
+
+Documentary credits. These are described below.
+
+(e)
+
+Forfaiting. This is also described below.
+
+2.13.2 Reducing the bad debt risk
+Methods of minimising bad debt risks are broadly similar to those for domestic trade. An exporting
+company should vet the creditworthiness of each customer, and grant credit terms accordingly.
+
+2.13.3 Export factoring
+The functions performed by an overseas factor or export factor are essentially the same as with the
+factoring of domestic trade debts, which was described earlier in this chapter.
+Factoring can be more expensive than credit insurance (explained below) and may not be available in all
+countries.
+
+2.13.4 Documentary credits
+Documentary credits ('letters of credit') provide a method of payment in international trade, which gives
+the exporter a secure risk-free method of obtaining payment.
+The process works as follows:
+
+(a)
+
+The buyer (a foreign buyer or domestic importer) and the seller (a domestic exporter or foreign
+supplier) first of all agree a contract for the sale of the goods, which provides for payment through
+a documentary credit.
+
+(b)
+
+The buyer then requests a bank in their country to issue a letter of credit in favour of the exporter.
+The bank which issues the letter of credit is known as the issuing bank.
+
+(c)
+
+The issuing bank, by issuing its letter of credit, guarantees payment to the exporter on condition
+that the exporter complies with certain specified conditions in the letter of credit (relating to such
+matters as presenting documentation for the export shipment and shipping the goods before a
+latest shipment date).
+
+(d)
+
+The goods are despatched and the shipping documentation is sent to the purchaser's bank.
+
+(e)
+
+The bank issues a banker's acceptance.
+
+(f)
+
+The seller either keeps the banker's acceptance until maturity or sells it at a discount on the money
+market.
+
+A documentary credit arrangement must be made between the exporter, the buyer and participating banks
+before the export sale takes place. Documentary credits are slow to arrange, administratively
+cumbersome and inflexible. For example, the exact conditions of the letter of credit must be met. If the
+letter of credit states that shipping documents are required, then the seller would be unable to claim
+payment if the goods were sent by air. Despite these drawbacks, letters of credit might be considered
+essential where the risk of non-payment is high.
+
+112
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+2.13.5 Forfaiting
+Key term
+
+Forfaiting is a method of export finance whereby a bank purchases from a company a number of sales
+invoices, usually obtaining a guarantee of payment of the invoices.
+Forfaiting is the most common method of providing medium-term (say, three to five years) export
+finance. It has normally been used for export sales involving capital goods (such as machinery), where
+payments will be made over a number of years. It is usually available for large amounts (over $250,000),
+but only in the major convertible currencies.
+
+The forfaiter buys the foreign accounts receivable from a seller at a discount and takes on all of the credit
+risk from the transaction (without recourse). The receivables then become a form of debt instrument
+which can be sold on the money market.
+Forfaiting can be an expensive choice, and arranging it takes time. However, it can be a useful way of
+enabling trade to occur in cases where other methods of ensuring payment and smooth cash flow are not
+certain, and in cases where trade may not be possible by other means.
+
+2.13.6 Countertrade
+Countertrade is a means of financing trade in which goods are exchanged for other goods. Three parties
+might be involved in a 'triangular' deal. Countertrade is thus a form of barter and can involve complex
+negotiations and logistics. One of the main problems with countertrade is that the value of the goods
+received in exchange may be uncertain.
+
+2.13.7 Export credit insurance
+Key term
+
+Export credit insurance is insurance against the risk of non-payment by foreign customers for export
+debts.
+
+You might be wondering why export credit insurance should be necessary, when exporters can pursue
+non-paying customers through the courts in order to obtain payment. The answer is that:
+(a)
+
+If a credit customer defaults on payment, the task of pursuing the case through the courts will be
+lengthy, and it might be a long time before payment is eventually obtained.
+
+(b)
+
+There are various reasons why non-payment might happen. For example, the seller can be insured
+against slow payment, insolvency, certain political risks and changes in import or export
+regulations.
+
+Not all exporters take out export credit insurance because premiums are very high and the benefits are
+sometimes not fully appreciated. If they do, they will obtain an insurance policy from a private insurance
+company that deals in export credit insurance. Note that insurance does not usually cover 100% of the
+value of the foreign sales.
+
+2.13.8 General policies for overseas accounts receivable
+There are also a number of general credit control policies that can be particularly important when dealing
+with overseas customers.
+(a)
+
+Prior to the sale, the customer's credit rating should be checked, and the terms of the contract
+specified. One key term may be demanding the use of a letter of credit as a condition for the
+transaction. The terms of the remittance and the bank to be used should be specified.
+
+(b)
+
+The paperwork relating to the sales should be carefully completed and checked, in particular the
+shipping and delivery documentation.
+
+(c)
+
+Goods should only be released to the custody of the buyer if payment has been made, or is
+sufficiently certain, either because of the customer's previous record or because the customer has
+arranged for its bank to accept a bill of exchange on behalf of the buyer.
+
+(d)
+
+Receipts should be rapidly processed and late payments chased.
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+113
+
+3 Managing accounts payable
+Performance objective 10 requires you to 'prepare and monitor an organisation's cash flow, credit
+facilities and advise on appropriate actions'. This section covers the management of accounts payable and
+credit terms.
+FAST FORWARD
+
+Exam focus
+point
+
+Effective management of trade accounts payable involves seeking satisfactory credit terms from supplier,
+getting credit extended during periods of cash shortage and maintaining good relations with suppliers.
+It may seem an obvious point, but take care not to confuse accounts receivable and accounts payable, as
+many students do under exam pressure.
+
+3.1 Management of trade accounts payable
+The management of trade accounts payable involves:
+
+
+Attempting to obtain satisfactory credit from suppliers
+
+
+
+Attempting to extend credit during periods of cash shortage, without damaging a good business
+relationship with the supplier
+
+
+
+Maintaining good relations with regular and important suppliers
+
+If a supplier offers a discount for the early payment of debts, the evaluation of the decision whether or not
+to accept the discount is similar to the evaluation of the decision whether or not to offer a discount. One
+problem is the mirror image of the other. The methods of evaluating the offer of a discount to customers
+were described earlier.
+
+3.1.1 Trade credit
+
+9/16
+
+Taking credit from suppliers is a normal feature of business. Nearly every company has some trade
+accounts payable waiting for payment. It is particularly important to small and fast-growing firms. Trade
+credit is a source of short-term finance because it helps to keep working capital down. It is usually a cheap
+source of finance, since suppliers rarely charge interest. The costs of making maximum use of trade credit
+include the loss of suppliers' goodwill, and the loss of any available cash discounts for the early payment
+of debts.
+
+3.1.2 The cost of lost early payment discounts
+The cost of lost cash discounts can be calculated by comparing the saving from the discount with the
+opportunity cost of investing the cash used.
+The cost of lost cash discounts can also be estimated by the formula:
+100
+(100 – d)
+
+365
+t
+
+–1 %
+
+Where d is the % discount, d = 5 for 5%
+t is the reduction in the payment period in days which would be necessary to obtain the early
+payment discount, final date to obtain discount – final date for payment.
+This is the same formula that was used for accounts receivable.
+
+114
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+
+3.2 Example: Trade credit
+X Co has been offered credit terms from its major supplier of 2/10, net 45. That is, a cash discount of 2%
+will be given if payment is made within ten days of the invoice, and payments must be made within 45
+days of the invoice. The company has the choice of paying 98c per $1 on day 10 (to pay before day 10
+would be unnecessary), or to invest the 98c for an additional 35 days and eventually pay the supplier $1
+per $1. The decision as to whether the discount should be accepted depends on the opportunity cost of
+investing 98c for 35 days. What should the company do?
+
+Solution
+Suppose that X Co can invest cash to obtain an annual return of 25%, and that there is an invoice from the
+supplier for $1,000. The two alternatives are as follows.
+Refuse
+Accept
+discount
+discount
+$
+$
+Payment to supplier
+1,000.0
+980
+Return from investing $980 between day 10 and day 45:
+23.5
+$980 35/365 25%
+980
+976.5
+Net cost
+It is cheaper to refuse the discount because the investment rate of return on cash retained, in this
+example, exceeds the saving from the discount.
+Although a company may delay payment beyond the final due date, thereby obtaining even longer credit
+from its suppliers, such a policy would generally be inadvisable. Unacceptable delays in payment will
+worsen the company's credit rating, and additional credit may become difficult to obtain.
+
+3.3 Managing foreign accounts payable
+Foreign accounts payable will be subject to exchange rate risk. Companies expecting to pay foreign
+currency in the future will be concerned about the possibility of domestic currency depreciating against
+the foreign currency, making the cost of the supplies more expensive.
+Companies sometimes pay into an overseas bank account today and then let the cash earn some interest
+so they can pay off the invoice in the future. This method of avoiding exchange rate risk is called leading.
+The management of exchange rate risk is covered in Chapter 19.
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+115
+
+Chapter Roundup
+
+116
+
+
+
+An economic order quantity can be calculated as a guide to minimising costs in managing inventory
+levels. However, bulk discounts can mean that a different order quantity minimises inventory costs.
+
+
+
+Uncertainties in demand and lead times taken to fulfil orders mean that inventory will be ordered once it
+reaches a re-order level (maximum usage × maximum lead time).
+
+
+
+Giving credit has a cost: the value of the interest charged on an overdraft to fund the period of credit, or
+the interest lost on the cash not received and deposited in the bank. An increase in profit from extra sales
+resulting from offering credit could offset this cost.
+
+
+
+In managing accounts receivable, the creditworthiness of customers needs to be assessed. The risks and
+costs of a customer defaulting will need to be balanced against the profitability of the business provided
+by that customer.
+
+
+
+Regular monitoring of accounts receivable is very important. Individual accounts receivable can be
+assessed using a customer history analysis and a credit rating system. The overall level of accounts
+receivable can be monitored using an aged accounts receivable listing and credit utilisation report, as
+well as reports on the level of bad debts.
+
+
+
+The benefits of action to collect debts must be greater than the costs incurred.
+
+
+
+Early settlement discounts may be employed to shorten average credit periods and to reduce the
+investment in accounts receivable and therefore interest costs of the finance invested in trade receivables.
+The benefit in interest cost saved should exceed the cost of the discounts allowed.
+
+
+
+Some companies use either factoring or invoice discounting to improve liquidity or to reduce
+administration costs. Insurance, particularly of overseas debts, can also help reduce the risk of bad debts.
+
+
+
+Exporters have to address the problems of larger inventories and accounts receivable, and an increased
+risk of bad debts due to the transportation time and additional paperwork involved in sending goods
+abroad.
+
+
+
+Effective management of trade accounts payable involves seeking satisfactory credit terms from supplier,
+getting credit extended during periods of cash shortage and maintaining good relations with suppliers.
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+
+Quick Quiz
+1
+
+The basic EOQ formula for inventory indicates whether bulk discounts should be taken advantage of.
+True
+False
+
+2
+
+Identify the potential benefits of JIT manufacturing.
+
+3
+
+PB Co uses 2,500 units of component X per year. The company has calculated that the cost of placing and
+processing a purchase order for component X is $185, and the cost of holding one unit of component X
+for a year is $25.
+What is the economic order quantity (EOQ) for component X and, assuming a 52-week year, what is the
+average frequency at which purchase orders should be placed?
+
+4
+
+The economic order quantity model can be used to determine:
+Order
+quantity
+
+Buffer
+inventory
+
+Re-order
+level
+
+Yes/No
+
+Yes/No
+
+Yes/No
+
+5
+
+What service involves collecting debts of a business, advancing a proportion of the money it is due to
+collect?
+
+6
+
+What service involves advancing a proportion of a selection of invoices, without administration of the
+sales ledger of the business?
+
+7
+
+Which of the following is a disadvantage to a company of using a factor for its accounts receivable?
+A
+B
+C
+D
+
+8
+
+Which of the following does not determine the amount of credit offered by a supplier?
+A
+B
+C
+D
+
+9
+
+It is easier to finance growth through sales.
+Managers spend less time on slow paying accounts receivable.
+Credit customers pay direct to the factor.
+It is easier to pay suppliers promptly to obtain discounts.
+
+The credit terms the supplier obtains from its own suppliers
+The ease with which the buyer can go elsewhere
+The supplier's total risk exposure
+The number of purchases made by the buyer each year
+
+If a customer decided to pass up the chance of a cash discount of 1% in return for reducing their average
+payment period from 70 to 30 days, what would be the implied cost in interest per annum?
+
+Part C Working capital management
+w
+
+5: Managing working capital
+
+117
+
+Answers to Quick Quiz
+1
+
+False. It may be necessary to modify the formula to take account of bulk discounts.
+
+2
+
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+
+Reduction in inventory holding costs
+Reduced manufacturing lead times
+Improved labour productivity
+Reduced scrap/warranty/rework/costs
+Price reductions on purchased materials
+Reduction in the number of accounting transactions
+
+3
+
+C
+
+EOQ =
+
+2C0D
+Ch
+
+Economic order quantity
+
+2 185 2,500
+25
+
+=
+
+= 192 units
+Frequency of ordering
+
+=
+
+192
+2,500
+
+= 4 weeks
+4
+
+The EOQ model finds order quantity only, not buffer inventory and re-order level.
+
+5
+
+Factoring
+
+6
+
+Invoice discounting
+
+7
+
+C
+
+This may present a negative picture of the company to customers.
+
+8
+
+D
+
+The number of purchases (although the amount of annual purchases may well be a factor)
+365
+
+9
+
+Cost
+
+=
+
+100
+(100 d)
+
+t
+
+1 %
+
+365
+
+100
+=
+(99)
+
+40
+
+1
+
+= 1.019.125 – 1 = 9.5%
+
+Now try the questions below from the Practice Question Bank
+
+118
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q13
+
+Examination
+
+2
+
+4 mins
+
+Section C Q2
+
+Introductory
+
+N/A
+
+39 mins
+
+Section C Q3
+
+Introductory
+
+N/A
+
+39 mins
+
+5: Managing working capital
+
+Part C Workingw
+capital management
+
+
+
+Working
+capital finance
+
+Topic list
+
+Syllabus reference
+
+1 The management of cash
+
+C2 (f)
+
+2 Cash flow forecasts
+
+C2 (f)
+
+3 Treasury management
+
+C2 (f)
+
+4 Cash management models
+
+C2 (f)
+
+5 Investing surplus cash
+
+C2 (f)
+
+6 Working capital funding strategies
+
+C3 (a), (b)
+
+Introduction
+This chapter concludes our study of working capital management methods by
+considering how cash is managed. This involves looking at the various reasons
+for holding cash, the preparation of cash flow forecasts and relevant
+techniques for managing cash. We revisit how working capital needs are
+determined and finally in this area we consider working capital funding
+strategies.
+
+w
+
+119
+
+Study guide
+Intellectual level
+C2
+
+Management of inventories, accounts receivable, accounts payable and
+cash
+
+(f)
+
+Explain the various reasons for holding cash, and discuss and apply the use
+of relevant techniques in managing cash, including:
+
+(i)
+
+Preparing cash flow forecasts to determine future cash flows and cash
+balances
+
+(ii)
+
+Assessing the benefits of centralised treasury management and cash control
+
+(iii)
+
+Cash management models, such as the Baumol model and the Miller-Orr
+model
+
+(iv)
+
+Investing short-term
+
+C3
+
+Determining working capital needs and funding strategies
+
+(a)
+
+Calculate the level of working capital investment in current assets and
+discuss the key factors determining this level, including:
+
+(i)
+
+The length of the working capital cycle and terms of trade
+
+(ii)
+
+An organisation's policy on the level of investment in current assets
+
+(iii)
+
+The industry in which the organisation operates
+
+(b)
+
+Describe and discuss the key factors in determining working capital funding
+strategies, including:
+
+(i)
+
+The distinction between permanent and fluctuating current assets
+
+(ii)
+
+The relative cost and risk of short-term and long-term finance
+
+(iii)
+
+The matching principle
+
+(iv)
+
+The relative costs and benefits of aggressive, conservative and matching
+funding policies
+
+(v)
+
+Management attitudes to risk, previous funding decisions and organisation
+size
+
+2
+
+2
+
+2
+
+1
+
+Exam guide
+The material covered in this chapter is again highly examinable. Any of the calculations could form part or
+all of a question and you also need to be able to explain the meaning of your answers.
+Performance objective 10 requires you to 'prepare and monitor an organisation's cash flow, credit
+facilities and advise on appropriate actions'. This chapter covers the management of cash and cash flow
+forecasts.
+
+1 The management of cash
+1.1 Why organisations hold cash
+There are three main reasons for holding cash.
+
+120
+
+(a)
+
+Firstly, a business needs cash to meet its regular commitments of paying its accounts payable, its
+employees' wages, its taxes, its annual dividends to shareholders, and so on. This reason for
+holding cash sometimes referred to as the transactions motive.
+
+(b)
+
+There may also be a precautionary motive for holding cash. This means that there is a need to
+maintain a 'buffer' of cash for unforeseen contingencies. In the context of a business, this buffer
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+may be provided by an overdraft facility, which has the advantage that it will cost nothing until it is
+actually used.
+(c)
+
+A third motive for holding cash is the speculative motive. Some businesses hold surplus cash as a
+speculative asset in the hope that interest rates will rise. However, many businesses would regard
+large long-term holdings of cash as not prudent.
+
+How much cash should a company keep on hand or 'on short call' at a bank? The more cash on hand, the
+easier it will be for the company to meet its bills as they fall due and to take advantage of discounts.
+However, holding cash or near equivalents to cash has a cost – the loss of earnings which would
+otherwise have been obtained by using the funds in another way. The financial manager must try to
+balance liquidity with profitability.
+
+1.2 Cash flow problems
+Cash flow problems can arise in various ways.
+(a)
+
+Making losses
+If a business is continually making losses, it will eventually have cash flow problems. If the loss is
+due to a large depreciation charge, the cash flow troubles might only begin when the business
+needs to replace non-current assets.
+
+(b)
+
+Inflation
+In a period of inflation, a business needs ever-increasing amounts of cash just to replace used-up
+and worn-out assets. A business can be making a profit in historical cost accounting terms, but
+still not be receiving enough cash to buy the replacement assets it needs.
+
+(c)
+
+Growth
+When a business is growing, it needs to acquire more non-current assets, and to support higher
+amounts of inventories and accounts receivable. These additional assets must be paid for
+somehow (or financed by accounts payable).
+
+(d)
+
+Seasonal business
+When a business has seasonal or cyclical sales, it may have cash flow difficulties at certain times
+of the year, when:
+
+(e)
+
+(i)
+
+Cash inflows are low, but
+
+(ii)
+
+Cash outflows are high, perhaps because the business is building up its inventories for the
+next period of high sales.
+
+One-off items of expenditure
+A single non-recurring item of expenditure may create a cash flow problem. Examples include the
+repayment of loan capital on maturity of the debt or the purchase of an exceptionally expensive
+item, such as a freehold property.
+
+2 Cash flow forecasts
+FAST FORWARD
+
+Key term
+
+Cash flow forecasts show the expected receipts and payments during a forecast period and are a vital
+management control tool, especially during times of recession.
+A cash flow forecast is a detailed forecast of cash inflows and outflows incorporating both revenue and
+capital items.
+A cash flow forecast is thus a statement in which estimated future cash receipts and payments are
+tabulated in such a way as to show the forecast cash balance of a business at defined intervals.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+121
+
+For example, in December 20X2 an accounts department might wish to estimate the cash position of the
+business during the three following months, January to March 20X3. A cash flow forecast might be drawn
+up in the following format.
+Jan
+Feb
+Mar
+$
+$
+$
+Estimated cash receipts
+From credit customers
+14,000
+16,500
+17,000
+From cash sales
+3,000
+4,000
+4,500
+Proceeds on disposal of non-current assets
+2,200
+Total cash receipts
+17,000
+22,700
+21,500
+Estimated cash payments
+To suppliers of goods
+To employees (wages)
+Purchase of non-current assets
+Rent and rates
+Other overheads
+Repayment of loan
+
+8,000
+3,000
+
+7,800
+3,500
+16,000
+
+1,200
+2,500
+14,700
+
+1,200
+
+1,000
+1,200
+
+28,500
+
+16,200
+
+2,300
+1,200
+3,500
+
+(5,800)
+3,500
+(2,300)
+
+5,300
+(2,300)
+3,000
+
+Net surplus/(deficit) for month
+Opening cash balance
+Closing cash balance
+
+10,500
+3,500
+
+In the example above (where the figures are purely for illustration) the accounts department has calculated
+that the cash balance at the beginning of the flow forecast period, 1 January, will be $1,200. Estimates
+have been made of the cash which is likely to be received by the business (from cash and credit sales, and
+from a planned disposal of non-current assets in February). Similar estimates have been made of cash due
+to be paid out by the business (payments to suppliers and employees, payments for rent, rates and other
+overheads, payment for a planned purchase of non-current assets in February and a loan repayment due in
+January).
+From these estimates it is a simple step to calculate the excess of cash receipts over cash payments in
+each month. In some months cash payments may exceed cash receipts and there will be a deficit for the
+month; this occurs during February in the above example because of the large investment in non-current
+assets in that month.
+The last part of the cash flow forecast above shows how the business's estimated cash balance can then
+be rolled along from month to month. Starting with the opening balance of $1,200 at 1 January a cash
+surplus of $2,300 is generated in January. This leads to a closing January balance of $3,500 which
+becomes the opening balance for February. The deficit of $5,800 in February throws the business's cash
+position into overdraft and the overdrawn balance of $2,300 becomes the opening balance for March.
+Finally, the healthy cash surplus of $5,300 in March leaves the business with a favourable cash position of
+$3,000 at the end of the flow forecast period.
+
+Exam focus
+point
+
+When preparing cash flow forecasts, it is vital that your work is clearly laid out, and referenced to
+workings where appropriate.
+
+2.1 The usefulness of cash flow forecasts
+
+12/14
+
+The cash flow forecast is one of the most important planning tools that an organisation can use. It shows
+the cash effect of all plans made within the flow forecasting process and its preparation can therefore lead
+to a modification of flow forecasts if it shows that there are insufficient cash resources to finance the
+planned operations.
+It can also give management an indication of potential problems that could arise and allows them the
+opportunity to take action to avoid such problems. A cash flow forecast can show four positions.
+Management will need to take appropriate action depending on the potential position.
+
+122
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+
+Exam focus
+point
+
+Cash position
+
+Appropriate management action
+
+Short-term surplus
+
+Pay accounts payable early to obtain discount
+Attempt to increase sales by increasing accounts receivable and inventories
+Make short-term investments
+
+Short-term deficit
+
+Increase accounts payable by delaying payments to suppliers
+Reduce accounts receivable by improving collection of overdue payments
+Arrange a bank overdraft facility, or increase the limit on an existing facility
+
+Long-term surplus
+
+Make long-term investments
+Expand
+Diversify
+Replace/update non-current assets
+Distribute the surplus to shareholders
+
+Long-term deficit
+
+Raise long-term finance (such as via issue of share capital)
+Consider shutdown/disinvestment opportunities
+
+A cash flow forecast question could ask you to prepare the cash flow forecast and then recommend
+appropriate action for management. Ensure your advice takes account both of whether there is a surplus
+or deficit and whether the position is long or short term.
+
+2.2 What to include in a cash flow forecast
+A cash flow forecast is prepared to show the expected receipts of cash and payments of cash during a
+budget period.
+It should be obvious that the profit or loss made by an organisation during an accounting period does
+not reflect its cash flow position for the following reasons.
+(a)
+
+Not all cash receipts affect statement of profit or loss income.
+
+(b)
+
+Not all cash payments affect statement of profit or loss expenditure.
+
+(c)
+
+Some costs in the statement of profit or loss, such as profit or loss on sale of non-current assets
+or depreciation, are not cash items but are costs derived from accounting conventions.
+
+(d)
+
+The timing of cash receipts and payments may not coincide with the recording of statement of
+profit or loss transactions. For example, a charge for rent or electricity might be made in respect of
+20X6 and shown in the statement of profit or loss for that year, but paid in 20X7.
+
+To ensure that there is sufficient cash in hand to cope adequately with planned activities, management
+should therefore prepare and pay close attention to a cash flow forecast rather than a statement of profit
+or loss.
+
+Exam focus
+point
+
+Clear workings and assumptions are very important in a cash flow forecast.
+
+2.3 Example: Cash flow forecast
+Peter Blair has worked for some years as a sales representative, but has recently been made redundant.
+He intends to start up in business on his own account, using $15,000 which he currently has invested with
+a building society. Peter maintains a bank account showing a small credit balance, and he plans to
+approach his bank for the necessary additional finance. Peter provides the following additional
+information.
+(a)
+
+Arrangements have been made to purchase non-current assets costing $8,000. These will be paid
+for at the end of September and are expected to have a five-year life, at the end of which they will
+possess a nil residual value.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+123
+
+(b)
+
+Inventories costing $5,000 will be acquired on 28 September and subsequent monthly purchases
+will be at a level sufficient to replace forecast sales for the month.
+
+(c)
+
+Forecast monthly sales are $3,000 for October, $6,000 for November and December, and $10,500
+from January 20X4 onwards.
+
+(d)
+
+Selling price is fixed at the cost of inventory plus 50%.
+
+(e)
+
+Two months' credit will be allowed to customers but only one month's credit will be received from
+suppliers of inventory.
+
+(f)
+
+Running expenses, including rent but excluding depreciation of non-current assets, are estimated
+at $1,600 per month.
+
+(g)
+
+Blair intends to make monthly cash drawings of $1,000.
+
+Required
+Prepare a cash flow forecast for the six months to 31 March 20X4.
+
+Solution
+The opening cash balance at 1 October is $7,000 which consists of Peter's initial $15,000 less the $8,000
+expended on non-current assets purchased in September. Cash receipts from credit customers arise two
+months after the relevant sales.
+Payments to suppliers are a little more tricky. We are told that cost of sales is 100/150 sales. Thus for
+October cost of sales is 100/150 $3,000 = $2,000. These goods will be purchased in October but not
+paid for until November. Similar calculations can be made for later months. The initial inventory of $5,000
+is purchased in September and consequently paid for in October.
+Depreciation is not a cash flow and so is not included in a cash flow forecast.
+CASH FLOW FORECAST FOR THE SIX MONTHS ENDING 31 MARCH 20X4
+
+Payments
+Suppliers
+Running expenses
+Drawings
+Receipts
+Accounts receivable
+Surplus/(shortfall)
+Opening balance
+Closing balance
+
+Oct
+$
+
+Nov
+$
+
+Dec
+$
+
+Jan
+$
+
+Feb
+$
+
+Mar
+$
+
+5,000
+1,600
+1,000
+7,600
+
+2,000
+1,600
+1,000
+4,600
+
+4,000
+1,600
+1,000
+6,600
+
+4,000
+1,600
+1,000
+6,600
+
+7,000
+1,600
+1,000
+9,600
+
+7,000
+1,600
+1,000
+9,600
+
+–
+(7,600)
+7,000
+(600)
+
+–
+(4,600)
+(600)
+(5,200)
+
+3,000
+(3,600)
+(5,200)
+(8,800)
+
+6,000
+(600)
+(8,800)
+(9,400)
+
+6,000
+(3,600)
+(9,400)
+(13,000)
+
+10,500
+900
+(13,000)
+(12,100)
+
+2.4 Cash flow forecasts and an opening statement of financial position
+You might be given a cash flow forecast question in which you are required to analyse an opening
+statement of financial position to decide how many outstanding accounts receivable will pay what they
+owe in the first few months of the cash flow forecast period, and how many outstanding accounts payable
+must be paid.
+Suppose that a statement of financial position as at 31 December 20X4 shows accounts receivable of
+$150,000 and trade accounts payable of $60,000. The following information is also relevant.
+
+
+
+
+Accounts receivable are allowed two months to pay.
+11/2 months' credit is taken from trade accounts payable.
+Sales and materials purchases were both made at an even monthly rate.
+
+Let's try to ascertain the months of 20X5 in which the accounts receivable will eventually pay and the
+accounts payable will be paid.
+
+124
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+(a)
+
+Since accounts receivable take two months to pay, the $150,000 of accounts receivable in the
+statement of financial position represents credit sales in November and December 20X4, who will
+pay in January and February 20X5 respectively. Since sales in 20X4 were at an equal monthly rate,
+the cash flow forecast should plan for receipts of $75,000 each month in January and February
+from the accounts receivable in the opening statement of financial position.
+
+(b)
+
+Similarly, since accounts payable are paid after 11/2 months, the statement of financial position
+accounts payable will be paid in January and the first half of February 20X5, which means that flow
+forecasted payments will be as follows.
+$
+In January (purchases in second half of Nov and first half of Dec 20X4)
+40,000
+In February (purchases in second half of Dec 20X4)
+20,000
+Total accounts payable in the statement of financial position
+60,000
+Note. The accounts payable of $60,000 represent 11/2 months' purchases, so that purchases in
+20X4 must be $40,000 per month, which is $20,000 per half month.
+
+2.5 Example: A month by month cash flow forecast
+From the following information which relates to George and Zola Co you are required to prepare a month
+by month cash flow forecast for the second half of 20X5 and to append such brief comments as you
+consider might be helpful to management.
+(a)
+
+The company's only product, a vest, sells at $40 and has a variable cost of $26 made up of
+material $20, labour $4 and overhead $2.
+
+(b)
+
+Fixed costs of $6,000 per month are paid on the 28 of each month.
+
+(c)
+
+Quantities sold/to be sold on credit
+
+th
+
+May
+1,000
+(d)
+
+Jun
+1,200
+
+Jul
+1,400
+
+Aug
+1,600
+
+Sep
+1,800
+
+Oct
+2,000
+
+Nov
+2,200
+
+Dec
+2,600
+
+Jul
+1,600
+
+Aug
+2,000
+
+Sep
+2,400
+
+Oct
+2,600
+
+Nov
+2,400
+
+Dec
+2,200
+
+Production quantities
+May
+1,200
+
+Jun
+1,400
+
+(e)
+
+Cash sales at a discount of 5% are expected to average 100 units a month.
+
+(f)
+
+Customers settle their accounts by the end of the second month following sale.
+
+(g)
+
+Suppliers of material are paid two months after the material is used in production.
+
+(h)
+
+Wages are paid in the same month as they are incurred.
+
+(i)
+
+70% of the variable overhead is paid in the month of production, the remainder in the following month.
+
+(j)
+
+Corporation tax of $18,000 is to be paid in October.
+
+(k)
+
+A new delivery vehicle was bought in June. It cost $8,000 and is to be paid for in August. The old
+vehicle was sold for $600, the buyer undertaking to pay in July.
+
+(l)
+
+The company is expected to be $3,000 overdrawn at the bank at 30 June 20X5.
+
+(m)
+
+No increases or decreases in raw materials, work in progress or finished goods are planned over
+the period.
+
+(n)
+
+No price increases or cost increases are expected in the period.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+125
+
+Solution
+Cash flow forecast for 1 July to 31 December 20X5
+Jul
+Aug
+Sep
+$
+$
+$
+Receipts
+Credit sales
+40,000
+48,000
+56,000
+Cash sales
+3,800
+3,800
+3,800
+Sale of vehicle
+600
+–
+–
+44,400
+51,800
+59,800
+Payments
+Materials
+24,000
+28,000
+32,000
+Labour
+6,400
+8,000
+9,600
+Variable overhead (W)
+3,080
+3,760
+4,560
+Fixed costs
+6,000
+6,000
+6,000
+Corporation tax
+Purchase of vehicle
+8,000
+39,480
+53,760
+52,160
+Receipts less payments
+Balance b/f
+Balance c/f
+Working
+Variable overhead
+production cost
+70% paid in month
+30% in following month
+
+Oct
+$
+
+Nov
+$
+
+Dec
+$
+
+Total
+$
+
+64,000
+3,800
+–
+67,800
+
+72,000
+3,800
+–
+75,800
+
+80,000
+3,800
+–
+83,800
+
+360,000
+22,800
+600
+383,400
+
+40,000
+10,400
+5,080
+6,000
+18,000
+
+48,000
+9,600
+4,920
+6,000
+
+52,000
+8,800
+4,520
+6,000
+
+79,480
+
+68,520
+
+71,320
+
+224,000
+52,800
+25,920
+36,000
+18,000
+8,000
+364,720
+
+7,280
+(4,080)
+3,200
+
+12,480
+3,200
+15,680
+
+4,920
+(3,000)
+1,920
+
+(1,960)
+1,920
+(40)
+
+Jun
+$
+
+Jul
+$
+
+Aug
+$
+
+Sep
+$
+
+Oct
+$
+
+Nov
+$
+
+Dec
+$
+
+3,200
+2,240
+840
+3,080
+
+4,000
+2,800
+960
+3,760
+
+4,800
+3,360
+1,200
+4,560
+
+5,200
+3,640
+1,440
+5,080
+
+4,800
+3,360
+1,560
+4,920
+
+4,400
+3,080
+1,440
+4,520
+
+2,800
+
+7,640 (11,680)
+7,600
+(40)
+7,600
+(4,080)
+
+18,680
+(3,000)
+15,680
+
+Comments
+
+Exam focus
+point
+
+(a)
+
+There will be a small overdraft at the end of August but a much larger one at the end of October. It
+may be possible to delay payments to suppliers for longer than two months or to reduce purchases
+of materials or reduce the volume of production by running down existing inventory levels.
+
+(b)
+
+If neither of these courses is possible, the company may need to negotiate overdraft facilities with
+its bank.
+
+(c)
+
+The cash deficit is only temporary and by the end of December there will be a comfortable surplus.
+The use to which this cash will be put should ideally be planned in advance.
+
+You may be asked to prepare a cash flow forecast, and also consider the effects on the flow forecast or
+particular figures in it of the original assumptions changing.
+
+Question
+
+Cash budget
+
+You are presented with the following forecasted cash flow data for your organisation for the period
+November 20X1 to June 20X2. It has been extracted from functional flow forecasts that have already been
+prepared.
+Nov X1
+Dec X1
+Jan X2
+Feb X2
+Mar X2
+Apr X2
+May X2 Jun X2
+$
+$
+$
+$
+$
+$
+$
+$
+Sales
+80,000 100,000 110,000 130,000 140,000 150,000 160,000 180,000
+Purchases
+40,000
+60,000
+80,000
+90,000 110,000 130,000 140,000 150,000
+Wages
+10,000
+12,000
+16,000
+20,000
+24,000
+28,000
+32,000
+36,000
+Overheads
+10,000
+10,000
+15,000
+15,000
+15,000
+20,000
+20,000
+20,000
+Dividends
+20,000
+40,000
+Capital expenditure
+30,000
+40,000
+126
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+You are also told the following.
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+
+Sales are 40% cash, 60% credit. Credit sales are paid two months after the month of sale.
+Purchases are paid the month following purchase.
+75% of wages are paid in the current month and 25% the following month.
+Overheads are paid the month after they are incurred.
+Dividends are paid three months after they are declared.
+Capital expenditure is paid two months after it is incurred.
+The opening cash balance is $15,000.
+
+The managing director is pleased with the above figures, as they show sales will have increased by more
+than 100% in the period under review. In order to achieve this they have arranged a bank overdraft with a
+ceiling of $50,000 to accommodate the increased inventory levels and wage bill for overtime worked.
+Required
+(a)
+(b)
+
+Prepare a cash flow forecast for the six-month period January to June 20X2.
+Comment on your results in the light of the managing director's comments and offer advice.
+
+Answer
+(a)
+Cash receipts
+Cash sales
+Credit sales
+Cash payments
+Purchases
+Wages: 75%
+Wages: 25%
+Overheads
+Dividends
+Capital expenditure
+b/f
+Net cash flow
+c/f
+(b)
+
+January
+$
+
+February
+$
+
+March
+$
+
+April
+$
+
+May
+$
+
+June
+$
+
+44,000
+48,000
+92,000
+
+52,000
+60,000
+112,000
+
+56,000
+66,000
+122,000
+
+60,000
+78,000
+138,000
+
+64,000
+84,000
+148,000
+
+72,000
+90,000
+162,000
+
+60,000
+12,000
+3,000
+10,000
+
+80,000
+15,000
+4,000
+15,000
+
+110,000
+21,000
+6,000
+15,000
+
+130,000
+24,000
+7,000
+20,000
+
+140,000
+27,000
+8,000
+20,000
+
+85,000
+
+114,000
+
+90,000
+18,000
+5,000
+15,000
+20,000
+30,000
+178,000
+
+152,000
+
+181,000
+
+40,000
+235,000
+
+20,000
+(56,000)
+(36,000)
+
+(36,000)
+(14,000)
+(50,000)
+
+(50,000)
+(33,000)
+(83,000)
+
+(83,000)
+(73,000)
+(156,000)
+
+15,000
+7,000
+22,000
+
+22,000
+(2,000)
+20,000
+
+The overdraft arrangements are quite inadequate to service the cash needs of the business over the
+six-month period. If the figures are realistic then action should be taken now to avoid difficulties in
+the near future. The following are possible courses of action.
+(i)
+
+Activities could be curtailed.
+
+(ii)
+
+Other sources of cash could be explored, for example a long-term loan to finance the
+capital expenditure and a factoring arrangement to provide cash due from accounts
+receivable more quickly.
+
+(iii)
+
+Efforts to increase the speed of debt collection could be made.
+
+(iv)
+
+Payments to accounts payable could be delayed.
+
+(v)
+
+The dividend payments could be postponed (the figures indicate that this is a small
+company, possibly owner managed).
+
+(vi)
+
+Staff might be persuaded to work at a lower rate in return for, say, an annual bonus or a
+profit-sharing agreement.
+
+(vii)
+
+Extra staff might be taken on to reduce the amount of overtime paid.
+
+(viii)
+
+The inventory holding policy should be reviewed; it may be possible to meet demand from
+current production and minimise cash tied up in inventories.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+127
+
+Performance objective 10 requires you to 'contribute to the operation of systems for managing cash,
+short-term liquidity and working capital'. You can apply the knowledge you learn from this chapter to help
+demonstrate this competence.
+
+2.6 Methods of easing cash shortages
+FAST FORWARD
+
+Cash shortages can be eased by postponing capital expenditure, selling assets, taking longer to pay
+accounts payable and pressing accounts receivable for earlier payment.
+The steps that are usually taken by a company when a need for cash arises, and when it cannot obtain
+resources from any other source, such as a loan or an increased overdraft, are as follows.
+(a)
+
+Postponing capital expenditure
+Some new non-current assets might be needed for the development and growth of the business,
+but some capital expenditures might be postponable without serious consequences. If a company's
+policy is to replace company cars every two years, but the company is facing a cash shortage, it
+might decide to replace cars every three years.
+
+(b)
+
+Accelerating cash inflows which would otherwise be expected in a later period
+One way would be to press accounts receivable for earlier payment. Often, this policy will result in
+a loss of goodwill and problems with customers. It might be possible to encourage credit
+customers to pay more quickly by offering discounts for earlier payment.
+
+(c)
+
+Reversing past investment decisions by selling assets previously acquired
+Some assets are less crucial to a business than others. If cash flow problems are severe, the option
+of selling investments or property might have to be considered. Sale and leaseback of property
+could also be considered.
+
+(d)
+
+Negotiating a reduction in cash outflows to postpone or reduce payments
+There are several ways in which this could be done.
+(i)
+
+Longer credit might be taken from suppliers. Such an extension of credit would have to be
+negotiated carefully: there would be a risk of having further supplies refused.
+
+(ii)
+
+Loan repayments could be rescheduled by agreement with a bank.
+
+(iii)
+
+A deferral of the payment of company tax might be agreed with the taxation authorities.
+However, they will charge interest on the outstanding amount of tax.
+
+(iv)
+
+Dividend payments could be reduced. Dividend payments are discretionary cash outflows,
+although a company's directors might be constrained by shareholders' expectations, so that
+they feel obliged to pay dividends even when there is a cash shortage.
+
+2.7 Deviations from expected cash flows
+Cash flow forecasts, whether prepared on an annual, monthly, weekly or even daily basis, can only be
+estimates of cash flows. Even the best estimates will not be exactly correct, so deviations from the cash
+flow forecast are inevitable.
+A cash flow forecast model could be constructed, using a PC and a spreadsheet package, and the
+sensitivity of cash flow forecasts to changes in estimates of sales, costs, and so on could be analysed. By
+planning for different eventualities, management should be able to prepare contingency measures in
+advance and also appreciate the key factors in the cash flow forecast.
+A knowledge of the probability distribution of possible outcomes for the cash position will allow a more
+accurate estimate to be made of the minimum cash balances, or the borrowing power necessary, to
+provide a satisfactory margin of safety. Unforeseen deficits can be hard to finance at short notice, and
+advance planning is desirable.
+128
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+
+3 Treasury management
+FAST FORWARD
+
+A large organisation will have a treasury department to manage liquidity, short-term investment,
+borrowings, foreign exchange risk and other, specialised areas such as forward contracts and futures.
+Large companies rely heavily on the financial and currency markets. These markets are volatile, with
+interest rates and foreign exchange rates changing continually and by significant amounts. To manage
+cash (funds) and risk efficiently, many large companies have set up a separate treasury department.
+A treasury department, even in a large organisation, is likely to be quite small, with a staff of perhaps three
+to six qualified accountants, bankers or corporate treasurers working under the treasurer.
+A treasury department will normally provide four key functions:
+(a)
+
+Management of liquidity
+This will involve investing short-term cash surpluses, and financing short-term cash deficits (this is
+covered in more detail later in this chapter).
+
+(b)
+
+Management of funding
+This will involve consideration of long-term capital structure issues (this is covered in more detail
+in Chapter 16).
+
+(c)
+
+Management of risk
+This is covered in Chapters 19 and 20.
+
+(d)
+
+Advising on corporate finance issues
+For example issues involving dividend policy (Chapter 13) and business valuations (Chapter 17).
+
+3.1 Centralisation of the treasury department
+The following are advantages of having a specialist centralised treasury department.
+(a)
+
+Centralised liquidity management
+(i)
+(ii)
+
+Avoids having a mix of cash surpluses and overdrafts in different localised bank accounts
+Facilitates bulk cash flows, so that lower bank charges can be negotiated
+
+(b)
+
+Larger volumes of cash are available to invest, giving better short-term investment opportunities
+(for example money markets, high-interest accounts and CDs).
+
+(c)
+
+Any borrowing can be arranged in bulk, at lower interest rates than for smaller borrowings, and
+perhaps on the eurocurrency or eurobond markets.
+
+(d)
+
+Foreign exchange risk management is likely to be improved in a group of companies. A central
+treasury department can match foreign currency income earned by one subsidiary with
+expenditure in the same currency by another subsidiary. In this way, the risk of losses on adverse
+exchange rate movements can be avoided without the expense of forward exchange contracts or
+other hedging methods.
+
+(e)
+
+A specialist treasury department can employ experts with knowledge of dealing in forward
+contracts, futures, options, eurocurrency markets, swaps, and so on. Localised departments could
+not have such expertise.
+
+(f)
+
+The centralised pool of funds required for precautionary purposes will be smaller than the sum of
+separate precautionary balances which would need to be held under decentralised treasury
+arrangements.
+
+(g)
+
+Through having a separate profit centre, attention will be focused on the contribution to group
+profit performance that can be achieved by good cash, funding, investment and foreign currency
+management.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+129
+
+Possible advantages of decentralised cash management are as follows.
+(a)
+
+Sources of finance can be diversified and can match local assets.
+
+(b)
+
+Greater autonomy can be given to subsidiaries and divisions because of the closer relationships
+they will have with the decentralised cash management function.
+
+(c)
+
+A decentralised treasury function may be more responsive to the needs of individual operating units.
+
+(d)
+
+Since cash balances will not be aggregated at group level, there will be more limited opportunities
+to invest such balances on a short-term basis.
+
+4 Cash management models
+FAST FORWARD
+
+Optimal cash holding levels can be calculated from formal models, such as the Baumol model and the
+Miller-Orr model.
+A number of different cash management models indicate the optimum amount of cash that a company
+should hold.
+
+4.1 The Baumol model
+
+6/15
+
+The Baumol model is based on the idea that deciding on optimum cash balances is like deciding on
+optimum inventory levels. It assumes that cash is steadily consumed over time and a business holds a
+stock of marketable securities that can be sold when cash is needed. The cost of holding cash is the
+opportunity cost, ie the interest forgone from not investing the cash. The cost of placing an order is the
+administration cost incurred when selling the securities.
+The Baumol model uses an equation of the same form as the EOQ formula for inventory management
+which we looked at earlier.
+Similarly to the EOQ, costs are minimised when:
+
+Q
+
+2CS
+i
+
+Where S
+C
+i
+Q
+
+=
+=
+=
+=
+
+the amount of cash to be used in each time period
+the cost per sale of securities
+the interest cost of holding cash or near cash equivalents
+the total amount to be raised to provide for S
+
+4.1.1 Example: Baumol approach to cash management
+Finder Co faces a fixed cost of $4,000 to obtain new funds. There is a requirement for $24,000 of cash
+over each period of one year for the foreseeable future. The interest cost of new funds is 12% per annum;
+the interest rate earned on short-term securities is 9% per annum. How much finance should Finder raise
+at a time?
+
+Solution
+The cost of holding cash is 12% – 9% = 3%
+The optimum level of Q (the 'reorder quantity') is:
+2 4,000 24,000
+= $80,000
+0.03
+The optimum amount of new funds to raise is $80,000. This amount is raised every 80,000
+years.
+
+130
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+24,000 = 31/3
+
+
+4.1.2 Drawbacks of the Baumol model
+The inventory approach illustrated above has the following drawbacks.
+
+Exam focus
+point
+
+(a)
+
+In reality, it is unlikely to be possible to predict amounts required over future periods with much
+certainty.
+
+(b)
+
+No buffer inventory of cash is allowed for. There may be costs associated with running out of cash.
+
+(c)
+
+There may be other normal costs of holding cash which increase with the average amount held.
+
+The examining team's report for the June 2015 exam noted that many students were unable to correctly
+apply the Baumol model to find the optimum amount of short-term investments to convert into cash.
+Although the Baumol formula is not on the formula sheet, the EOQ formula is. You need to treat the fixed
+cost of getting cash from short-term investments as the ordering cost. You also need to treat the penalty
+or opportunity cost of holding cash as the inventory holding cost. If you can't remember this then you
+need to memorise the Baumol formula instead.
+
+4.2 The Miller-Orr model
+In an attempt to produce a more realistic approach to cash management, various models more
+complicated than the inventory approach have been developed. One of these, the Miller-Orr model,
+manages to achieve a reasonable degree of realism while not being too elaborate.
+We can begin looking at the Miller-Orr model by asking what will happen if there is no attempt to manage
+cash balances. Clearly, the cash balance is likely to 'meander' upwards or downwards. The Miller-Orr
+model imposes limits to this meandering.
+If the cash balance reaches an upper limit (point A) the firm buys sufficient securities to return the cash
+balance to a normal level (called the 'return point'). When the cash balance reaches a lower limit (point B),
+the firm sells securities to bring the balance back to the return point.
+Cash
+balance
+
+A
+
+Upper limit
+
+The firm
+buys securities
+
+Return point
+The firm
+sells securities
+B
+
+0
+
+Lower limit
+
+Time
+
+How are the upper and lower limits and the return point set? Miller and Orr showed that the answer to this
+question depends on the variance of cash flows, transaction costs and interest rates. If the day to day
+variability of cash flows is high or the transaction cost in buying or selling securities is high, then wider
+limits should be set. If interest rates are high, the limits should be closer together.
+To keep the interest costs of holding cash down, the return point is set at one-third of the distance (or
+'spread') between the lower and the upper limit.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+131
+
+Formula
+Exam
+Key
+term
+focus
+to
+point
+learn
+
+Return point = Lower limit + (
+
+1
+3
+
+spread)
+
+The formula for the spread is:
+Transaction cos t V ariance of cash flows
+Int erest rate
+
+3
+Spread = 3
+4
+
+1
+3
+
+To use the Miller-Orr model, it is necessary to follow the steps below.
+
+Step 1
+
+Set the lower limit for the cash balance. This may be zero, or it may be set at some
+minimum safety margin above zero.
+
+Step 2
+
+Estimate the variance of cash flows, for example from sample observations over a 100-day
+period.
+
+Step 3
+
+Note the interest rate and the transaction cost for each sale or purchase of securities
+(the latter is assumed to be fixed).
+
+Step 4
+
+Compute the upper limit and the return point from the model and implement the limits
+strategy.
+
+You may be given the information to help you through the early steps, as in the question below.
+
+Question
+
+Miller-Orr model
+
+The following data applies to a company.
+1
+
+The minimum cash balance is $8,000.
+
+2
+
+The variance of daily cash flows is 4,000,000, equivalent to a standard deviation of $2,000 per day.
+
+3
+
+The transaction cost for buying or selling securities is $50. The interest rate is 0.025% per day.
+
+You are required to formulate a decision rule using the Miller-Orr model.
+
+Answer
+The spread between the upper and lower cash balance limits is calculated as follows.
+Spread =
+
+3
+
+3
+4
+
+Transaction cos t V ariance of cash flows
+Int erest rate
+1
+
+3
+= 3
+4
+
+50
+
+4,000,000
+0.00025
+
+3
+
+1
+3
+
+1
+
+11 3
+
+= 3 (6 10 ) = 3
+
+8,434.33
+
+= $25,303, say $25,300
+The upper limit and return point are now calculated.
+Upper limit = lower limit + $25,300 = $8,000 + $25,300 = $33,300
+Return point = lower limit + 1/3 spread = $8,000 + 1/3 $25,300 = $16,433, say $16,400
+The decision rule is as follows. If the cash balance reaches $33,300, buy $16,900 (= 33,300 16,400) in
+marketable securities. If the cash balance falls to $8,000, sell $8,400 of marketable securities for cash.
+
+Exam focus
+point
+
+132
+
+Variance = standard deviation2 so if you are given the standard deviation, you will need to square it to
+calculate the variance. If you are given the annual interest rate, you will need to divide it by 365 to obtain
+the daily interest rate.
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+The usefulness of the Miller-Orr model is limited by the assumptions on which it is based. In practice,
+cash inflows and outflows are unlikely to be entirely unpredictable as the model assumes: for example,
+for a retailer, seasonal factors are likely to affect cash inflows.
+However, the Miller-Orr model may save management time which might otherwise be spent in responding
+to those cash inflows and outflows which cannot be predicted.
+
+5 Investing surplus cash
+FAST FORWARD
+
+Temporary surpluses of cash can be invested in a variety of financial instruments. Longer-term surpluses
+should be returned to shareholders if there is a lack of investment opportunities.
+
+Companies and other organisations sometimes have a surplus of cash and become 'cash rich'. A cash
+surplus is likely to be temporary, but while it exists the company should invest or deposit the cash bearing
+the following considerations in mind:
+(a)
+
+Liquidity – money should be available to take advantage of favourable short-term interest rates on
+bank deposits, or to grasp a strategic opportunity, for example paying cash to take over another
+company.
+
+(b)
+
+Profitability – the company should seek to obtain a good return for the risk incurred.
+
+(c)
+
+Safety – the company should avoid the risk of a capital loss.
+
+Other factors that organisations need to consider include:
+(a)
+
+Whether to invest at fixed or floating rates. Floating rate investments are likely to be chosen if
+interest rates are expected to rise.
+
+(b)
+
+Term to maturity. The terms chosen will be affected by the business's desire for liquidity and
+expectations about future rates of interest – if there are major uncertainties about future interest
+rate levels it will be better to choose short-term investments. There may also be penalties for early
+liquidation.
+
+(c)
+
+How easy it will be to realise the investment.
+
+(d)
+
+Whether a minimum amount has to be invested in certain investments.
+
+(e)
+
+Whether to invest on international markets.
+
+If a company has no plans to grow or to invest, then surplus cash not required for transactions or
+precautionary purposes should normally be returned to shareholders.
+Surplus cash may be returned to shareholders by:
+(a)
+
+Increasing the usual level of the annual dividends which are paid
+
+(b)
+
+Making a one-off special dividend payment (for example, National Power plc and BT plc have
+made such payments in recent years)
+
+(c)
+
+Using the money to buy back its own shares from some of its shareholders. This will reduce the
+total number of shares in issue, and should therefore raise the level of earnings per share.
+
+If surplus cash is to be invested on a regular basis, organisations should have investment guidelines in
+place covering the following issues.
+(a)
+
+Surplus funds can only be invested in specified types of investment (eg no equity shares).
+
+(b)
+
+All investments must be convertible into cash within a set number of days.
+
+(c)
+
+Investments should be ranked: surplus funds are to be invested in higher risk instruments only
+when a sufficiency has been invested in lower risk items (so that there is always a cushion of
+safety).
+
+(d)
+
+If a firm invests in certain financial instruments, a credit rating should be obtained. Credit rating
+agencies, discussed earlier, issue gradings according to risk.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+133
+
+5.1 Short-term investments
+Temporary cash surpluses are likely to be:
+(a)
+
+Deposited with a bank or similar financial institution
+
+(b)
+
+Invested in short-term debt instruments, such as Treasury bills or CDs (Debt instruments are debt
+securities which can be traded.)
+
+(c)
+
+Invested in longer-term debt instruments such as government bonds, which can be sold when the
+company eventually needs the cash
+
+(d)
+
+Invested in shares of listed companies, which can be sold on the stock market when the company
+eventually needs the cash; investing in equities is fairly high risk, since share prices can fall
+substantially, resulting in large losses on investment
+
+5.2 Short-term deposits
+Cash can of course be put into a bank deposit to earn interest. The rate of interest obtainable depends on
+the size of the deposit, and varies from bank to bank.
+There are other types of deposit.
+(a)
+Money market lending
+There is a very large money market in the UK for interbank lending. The interest rates in the market
+are related to the London Interbank Offer Rate (LIBOR) and the London Interbank Bid Rate (LIBID).
+(b)
+
+Local authority deposits
+Local authorities often need short-term cash, and investors can deposit funds with them for
+periods ranging from overnight up to one year or more.
+
+(c)
+
+Finance house deposits
+These are time deposits with finance houses (usually subsidiaries of banks).
+
+5.3 Short-term debt instruments
+There are a number of short-term debt instruments which an investor can resell before the debt matures
+and is repaid. These debt instruments include certificates of deposit (CDs) and Treasury bills.
+These have already been described in the context of money market instruments.
+
+5.3.1 Certificates of deposit (CDs)
+A CD is a security that is issued by a bank, acknowledging that a certain amount of money has been
+deposited with it for a certain period of time (usually a short term). The CD is issued to the depositor, and
+attracts a stated amount of interest.
+CDs are negotiable and traded on the CD market (a money market), so if a CD holder wishes to obtain
+immediate cash they can sell the CD on the market at any time. This secondhand market in CDs makes
+them attractive, flexible investments for organisations with excess cash. A company with a temporary cash
+surplus may therefore buy a CD as an investment.
+
+5.3.2 Treasury bills
+Treasury bills are issued weekly by the government to finance short-term cash deficiencies in the
+government's expenditure programme. They are IOUs issued by the government, giving a promise to pay
+a certain amount to their holder on maturity. Treasury bills have a term of 91 days to maturity, after which
+the holder is paid the full value of the bill.
+
+The market for Treasury bills is very liquid, and bills can be bought or sold at any time.
+
+134
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+
+6 Working capital funding strategies
+FAST FORWARD
+
+Working capital can be funded by a mixture of short- and long-term funding. Businesses should be aware
+of the distinction between fluctuating and permanent assets.
+
+6.1 The working capital requirement
+Computing the working capital requirement is a matter of calculating the value of current assets less
+current liabilities, perhaps by taking averages over a one-year period.
+
+6.2 Example: Working capital requirements
+The following data relate to Corn Co, a manufacturing company.
+Revenue for the year
+
+$1,500,000
+
+Costs as percentages of sales
+Direct materials
+Direct labour
+Variable overheads
+Fixed overheads
+Selling and distribution
+
+%
+30
+25
+10
+15
+5
+
+On average:
+(a)
+(b)
+(c)
+(d)
+(e)
+
+Accounts receivable take 2.5 months before payment.
+Raw materials are in inventory for three months.
+Work in progress represents two months' worth of half produced goods.
+Finished goods represents one month's production.
+Credit is taken as follows:
+(i)
+Direct materials
+2 months
+(ii)
+Direct labour
+1 week
+(iii)
+Variable overheads
+1 month
+(iv)
+Fixed overheads
+1 month
+(v)
+Selling and distribution
+0.5 months
+
+Work in progress and finished goods are valued at material, labour and variable expense cost.
+Compute the working capital requirement of Corn Co assuming the labour force is paid for 50 working
+weeks a year.
+
+Solution
+(a)
+
+The annual costs incurred will be as follows.
+Direct materials
+Direct labour
+Variable overheads
+Fixed overheads
+Selling and distribution
+
+30% of $1,500,000
+25% of $1,500,000
+10% of $1,500,000
+15% of $1,500,000
+5% of $1,500,000
+
+Part C Working capital management
+w
+
+$
+450,000
+375,000
+150,000
+225,000
+75,000
+
+6: Working capital finance
+
+135
+
+(b)
+
+The average value of current assets will be as follows.
+Raw materials
+Work in progress
+Materials (50% complete)
+Labour (50% complete)
+Variable overheads (50% complete)
+
+3/12
+
+$450,000
+
+1/12
+1/12
+1/12
+
+$450,000
+$375,000
+$150,000
+
+$
+
+$
+112,500
+
+37,500
+31,250
+12,500
+81,250
+
+Finished goods
+Materials
+Labour
+Variable overheads
+Accounts receivable
+(c)
+
+$450,000
+$375,000
+$150,000
+
+2.5/12
+
+37,500
+31,250
+12,500
+81,250
+312,500
+587,500
+
+$1,500,000
+
+Average value of current liabilities will be as follows.
+Materials
+Labour
+Variable overheads
+Fixed overheads
+Selling and distribution
+
+(d)
+
+1/12
+1/12
+1/12
+
+2/12 $450,000
+1/50 $375,000
+1/12 $150,000
+1/12 $225,000
+0.5/12 $75,000
+
+Working capital required is ($(587,500 – 116,875))
+
+75,000
+7,500
+12,500
+18,750
+3,125
+116,875
+470,625
+
+It has been assumed that all the direct materials are allocated to work in progress when production starts.
+
+6.3 Working capital investment policy
+Organisations have to decide what the most important risks relating to working capital are, and therefore
+whether to adopt a conservative, aggressive or moderate approach to investment in working capital.
+
+6.3.1 A conservative approach
+A conservative working capital investment policy aims to reduce the risk of system breakdown by holding
+high levels of working capital.
+Customers are allowed generous payment terms to stimulate demand, finished goods inventories are high
+to ensure availability for customers, and raw materials and work in progress are high to minimise the risk
+of running out of inventory and consequent downtime in the manufacturing process. Suppliers are paid
+promptly to ensure their goodwill, again to minimise the chance of stock-outs.
+However, the cumulative effect on these policies can be that the firm carries a high burden of unproductive
+assets, resulting in a financing cost that can destroy profitability. A period of rapid expansion may also
+cause severe cash flow problems, as working capital requirements outstrip available finance. Further
+problems may arise from inventory obsolescence and lack of flexibility to customer demands.
+
+6.3.2 An aggressive approach
+An aggressive working capital investment policy aims to reduce this financing cost and increase
+profitability by cutting inventories, speeding up collections from customers and delaying payments to
+suppliers.
+The potential disadvantage of this policy is an increase in the chances of system breakdown through
+running out of inventory or loss of goodwill with customers and suppliers.
+
+136
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+However, modern manufacturing techniques encourage inventory and work in progress reductions
+through just-in-time policies, flexible production facilities and improved quality management. Improved
+customer satisfaction through a quality and effective response to customer demand can also mean that
+credit periods are shortened.
+
+6.3.3 A moderate approach
+A moderate working capital investment policy is a middle way between the aggressive and conservative
+approaches.
+These characteristics are useful for comparing and analysing the different ways that individual
+organisations deal with working capital and the trade-off between risk and return.
+
+6.4 Permanent and fluctuating current assets
+In order to understand working capital financing decisions, assets can be divided into three different types.
+(a)
+
+Non-current (fixed) assets are long-term assets from which an organisation expects to derive
+benefit over a number of periods; for example, buildings or machinery.
+
+(b)
+
+Permanent current assets are the amount required to meet long-term minimum needs and sustain
+normal trading activity; for example, inventory and the average level of accounts receivable.
+
+(c)
+
+Fluctuating current assets are the current assets which vary according to normal business activity;
+for example, due to seasonal variations.
+
+Fluctuating current assets together with permanent current assets form part of the working capital of the
+business, which may be financed by either long-term funding (including equity capital) or by current
+liabilities (short-term funding).
+
+6.5 Working capital financing policy
+
+9/16
+
+There are different ways in which the funding of the current and non-current assets of a business can be
+achieved by employing long- and short-term sources of funding.
+Short-term sources of funding are usually cheaper and more flexible than long-term ones. However,
+short-term sources are riskier for the borrower, as interest rates are more volatile in the short term and
+they may not be renewed.
+
+The diagram below illustrates three alternative types of policy: A, B and C. The dotted lines A, B and C are
+the cut-off levels between short-term and long-term funding for each of the policies A, B and C
+respectively: assets above the relevant dotted line are financed by short-term funding while assets below
+the dotted line are financed by long-term funding.
+
+Assets
+($)
+
+A
+Fluctuating
+current assets
+C
+Permanent
+current assets
+
+B
+
+Non-current assets
+0
+
+Time
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+137
+
+Exam focus
+point
+
+(a)
+
+Policy A can be characterised as a conservative approach to financing working capital. All
+non-current assets and permanent current assets, as well as part of the fluctuating current assets,
+are financed by long-term funding. There is only a need to call on short-term financing at times
+when fluctuations in current assets push total assets above the level of dotted line A. At times when
+fluctuating current assets are low and total assets fall below line A, there will be surplus cash
+which the company will be able to invest in marketable securities.
+
+(b)
+
+Policy B is a more aggressive approach to financing working capital. Not only are fluctuating
+current assets all financed out of short-term sources, but so are some of the permanent current
+assets. This policy represents an increased risk of liquidity and cash flow problems, although
+potential returns will be increased if short-term financing can be obtained more cheaply than
+long-term finance.
+
+(c)
+
+A balance between risk and return might be best achieved by the moderate approach of policy C, a
+policy of maturity matching in which long-term funds finance permanent assets while short-term
+funds finance non-permanent assets. This means that the maturity of the funds matches the
+maturity of the assets.
+
+Don't confuse working capital investment and financing. The amount of working capital that a company
+chooses to have is an investment decision whereas the type of financing it uses for its working capital is a
+financing decision. In exam questions, many students do not demonstrate knowledge of the conservative,
+aggressive and matching approaches to working capital financing.
+
+6.6 Other factors
+The trend of overall working capital management will be complicated by the following factors.
+
+138
+
+(a)
+
+Industry norms
+These are of particular importance for the management of receivables. It will be difficult to offer a
+much shorter credit period than competitors.
+
+(b)
+
+Products
+The production process, and therefore the amount of work in progress, is obviously much greater
+for some products and in some industries.
+
+(c)
+
+Management issues
+How working capital is managed may have a significant impact on the actual length of the working
+capital cycle whatever the overall strategy might be. Factors to consider include:
+
+(i)
+
+The size of the organisation
+
+(ii)
+
+The degree of centralisation (which may allow a more aggressive approach to be adopted,
+though this depends on how efficient the centralised departments actually are)
+
+(iii)
+
+Management attitudes to risk
+
+(iv)
+
+Previous funding decisions
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+
+Chapter Roundup
+
+
+Cash flow forecasts show the expected receipts and payments during a forecast period and are a vital
+management control tool, especially during times of recession.
+
+
+
+Cash shortages can be eased by postponing capital expenditure, selling assets, taking longer to pay
+accounts payable and pressing accounts receivable for earlier payment.
+
+
+
+A large organisation will have a treasury department to manage liquidity, short-term investment,
+borrowings, foreign exchange risk and other, specialised areas such as forward contracts and futures.
+
+
+
+Optimal cash holding levels can be calculated from formal models, such as the Baumol model and the
+Miller-Orr model.
+
+
+
+Temporary surpluses of cash can be invested in a variety of financial instruments. Longer-term surpluses
+should be returned to shareholders if there is a lack of investment opportunities.
+
+
+
+Working capital can be funded by a mixture of short- and long-term funding. Businesses should be aware
+of the distinction between fluctuating and permanent assets.
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+139
+
+Quick Quiz
+1
+
+Which of the following should be included in a cash flow forecast?
+Include
+
+Do not include
+
+Funds from the issue of share capital
+Revaluation of a non-current asset
+Receipts of dividends from outside the business
+Depreciation of production machinery
+Bad debts written off
+Repayment of a bank loan
+2
+
+3
+
+Match the appropriate management action to the cash position shown by a cash budget.
+Position
+
+Action
+
+(a)
+
+Short-term surplus
+
+1
+
+Diversify
+
+(b)
+
+Short-term deficit
+
+2
+
+Issue share capital
+
+(c)
+
+Long-term surplus
+
+3
+
+Reduce accounts receivable
+
+(d)
+
+Long-term deficit
+
+4
+
+Increase accounts receivable
+
+5
+
+Increase accounts payable
+
+6
+
+Expand
+
+In the Miller-Orr cash management model:
+Return point = Lower limit + ........................................
+
+4
+
+Which of the following is most likely to reduce a firm's working capital?
+A
+B
+C
+D
+
+5
+
+140
+
+Spread
+
+Adopting the Miller-Orr model of cash management
+Lengthening the period of credit given to accounts receivable
+Buying new machinery
+Adopting just-in-time procurement and lean manufacturing
+
+Which type of policy is characterised by all non-current assets and permanent current assets being
+financed by long-term funding?
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+
+Answers to Quick Quiz
+1
+
+Include
+
+Funds from the issue of share capital
+
+Do not include
+
+
+
+Revaluation of a non-current asset
+Receipts of dividends from outside the
+business
+
+
+
+
+Depreciation of production machinery
+
+
+
+Bad debts written off
+
+
+
+Repayment of a bank loan
+2
+
+(a)
+(b)
+(c)
+(d)
+
+3
+
+One-third
+
+4
+
+D
+
+5
+
+Conservative
+
+
+
+4
+3, 5
+1, 6
+2
+
+The aim of using these methods is to minimise inventory holdings. The impact of using the
+Miller-Orr model will depend on how the firm was managing cash before (A). Giving more credit to
+accounts receivable will increase working capital (B). New machinery is not part of working capital
+(C); the impact, if any, on working capital will depend on how the purchase is financed.
+
+Now try the questions below from the Practice Question Bank
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q14
+
+Examination
+
+2
+
+4 mins
+
+Section C Q4
+
+Examination
+
+20
+
+39 mins
+
+Section C Q5
+
+Examination
+
+20
+
+39 mins
+
+Part C Working capital management
+w
+
+6: Working capital finance
+
+141
+
+142
+
+6: Working capital finance
+
+Part C Workingg capital
+management
+w
+
+
+
+P
+A
+R
+T
+D
+
+Investment appraisal
+
+w
+
+143
+
+144
+
+w
+
+
+
+Investment decisions
+
+Topic list
+
+Syllabus reference
+
+1 Investment and the capital budgeting process
+
+Revision
+
+2 Relevant cash flows
+
+D1 (a)
+
+3 Payback period
+
+D1 (b)
+
+4 Return on capital employed
+
+D1 (d)
+
+Introduction
+This chapter introduces investment appraisal and covers the manner in which
+investment opportunities are identified. It also introduces two relatively
+straightforward, but widely used, investment appraisal methods: payback
+period and return on capital employed. Chapter 8 will look at investment
+appraisal using the more sophisticated discounted cash flow (DCF) methods,
+which address some of the weaknesses of the traditional approaches covered
+in this chapter (make sure you know what these are!).
+
+w
+
+145
+
+Study guide
+Intellectual level
+D1
+
+Investment appraisal techniques
+
+(a)
+
+Identify and calculate relevant cash flows for investment projects.
+
+2
+
+(b)
+
+Calculate payback period and discuss the usefulness of payback as an
+investment appraisal method.
+
+2
+
+(d)
+
+Calculate return on capital employed (accounting rate of return) and discuss
+its usefulness as an investment appraisal method.
+
+2
+
+Exam guide
+As well as using the techniques covered in this chapter, you may be asked to discuss their drawbacks.
+You must be able to apply your knowledge.
+
+1 Investment and the capital budgeting process
+(Brought forward knowledge)
+1.1 Investment
+Knowledge brought forward from earlier studies
+
+You should be able to distinguish between capital and revenue expenditure, and between non-current
+assets and working capital investment. The following section is for revision only.
+Investment can be divided into two categories: capital expenditure and revenue expenditure.
+Suppose that a business purchases a building for $30,000. It then adds an extension to the building at a
+cost of $10,000. The building needs to have a few broken windows mended, its floors polished and some
+missing roof tiles replaced. These cleaning and maintenance jobs cost $900.
+The original purchase ($30,000) and the cost of the extension ($10,000) are capital expenditure because
+they are incurred to acquire and then improve a non-current asset. The other costs of $900 are revenue
+expenditure because they merely maintain the building and thus the earning capacity of the building.
+
+Key terms
+
+Capital expenditure is expenditure which results in the acquisition of non-current assets or an
+improvement in their earning capacity. It is not charged as an expense in the statement of profit or loss;
+the expenditure appears as a non-current asset in the statement of financial position.
+Revenue expenditure is charged to the statement of profit or loss and is expenditure which is incurred:
+(a)
+(b)
+
+For the purpose of the trade of the business – this includes expenditure classified as selling and
+distribution expenses, administration expenses and finance charges
+To maintain the existing earning capacity of non-current assets
+
+1.1.1 Non-current asset investment and working capital investment
+Investment can be made in non-current assets or working capital.
+(a)
+
+146
+
+Investment in non-current assets involves a significant amount of time between the commitment
+of funds and recovering the investment. Money is paid out to acquire resources which are going to
+be used on a continuing basis within the organisation.

@@ -1,0 +1,2716 @@
+Part F Business valuations
+w
+
+
+(b)
+
+For unquoted companies, when:
+(i)
+
+The company wishes to 'go public' and must fix an issue price for its shares.
+
+(ii)
+
+There is a scheme of merger with another company.
+
+(iii)
+
+Shares are sold.
+
+(iv)
+
+Shares need to be valued for the purposes of taxation.
+
+(v)
+
+Shares are pledged as collateral for a loan and the bank wants to put a value to the
+collateral.
+
+(vi)
+
+Another company is proposing to take over the unquoted company by making an offer to
+buy all its shares.
+
+(c)
+
+For subsidiary companies, when the group's holding company is negotiating the sale of the
+subsidiary to a management buyout team or to an external buyer
+
+(d)
+
+For any company, where a shareholder wishes to dispose of their holding – some of the valuation
+methods we describe will be most appropriate if a large or controlling interest is being sold;
+however, even a small shareholding may be a significant disposal, if the purchasers can increase
+their holding to a controlling interest as a result of the acquisition
+
+If you are asked to value a business, check the wording of the question carefully to establish whether you
+are being asked to estimate a value for the business as a whole, or just its equity shares.
+
+1.2 Business valuation methods
+There are a number of different methods of valuing a business. Each of the methods give different values,
+and are suitable in different situations.
+Max
+
+Value the cash flows or earnings under new ownership
+
+Value the dividends under the existing management
+
+Min
+
+Value the assets
+
+We will look at each of the valuation methods in this chapter.
+
+1.3 Information requirements for valuation
+There is a wide range of information that can be used to value a business.
+
+
+Financial statements: statements of financial position and comprehensive income, statements of
+changes in financial position and statements of shareholders' equity for the past five years
+
+
+
+Summary of non-current assets and depreciation schedule
+
+
+
+Aged accounts-receivable summary
+
+
+
+Aged accounts-payable summary
+
+
+
+List of marketable securities
+
+
+
+Inventory summary
+
+
+
+Details of any existing contracts: eg leases, supplier agreements
+
+
+
+List of shareholders with number of shares owned by each
+
+
+
+Budgets or projections, for a minimum of five years
+
+
+
+Information about the company's industry and economic environment
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+349
+
+
+
+List of major customers by sales
+
+
+
+Organisation chart and management roles and responsibilities
+
+
+
+Profit forecasts or budgets
+
+This list is not exhaustive and there are limitations to some of the information. For example, statement of
+financial position values of assets may be out of date and unrealistic, projections may be unduly optimistic
+or pessimistic and much of the information used in business valuation is subjective. We will look at this in
+more detail under each valuation method.
+
+Exam focus
+point
+
+In an exam question as well as in practice, it is unlikely that one method would be used in isolation.
+Several valuations might be made, each using a different technique or different assumptions. The
+valuations could then be compared, and a final price reached as a compromise between the different
+values. Remember that some methods may be more appropriate for valuing a small parcel of shares,
+others for valuing a whole company.
+You may find it useful to read the article titled 'Business valuations' which is available on the ACCA
+website. It can be found at:
+www.accaglobal.com/content/dam/acca/global/PDF-students/2012s/sa_feb12_f9_valuationsv2.pdf
+
+1.4 Market capitalisation
+Key term
+
+12/16
+
+Market capitalisation is the market value of a company's shares. This is the share price multiplied by the
+number of issued shares.
+For quoted companies, calculating the market capitalisation of its shares is therefore a straightforward
+process.
+However, if the shares of the company do not have a liquid secondary market, its quoted market price may
+not be a fair reflection of value. In these cases, where a valuation of the business is required, other
+methods of valuation in addition to market capitalisation may be worth making to assess whether the
+market capitalisation seems reasonable.
+
+Exam focus
+point
+
+In June 2008, the ACCA examining team used the term 'market capitalisation' to ask for a calculation of
+the value of a company. Some students were confused by this terminology.
+
+2 Asset valuation bases
+FAST FORWARD
+
+The net assets valuation method can be used as one of many valuation methods, or to provide a lower
+limit for the value of a company. By itself it is unlikely to produce the most realistic value.
+
+2.1 Net assets method of share valuation
+Exam focus
+point
+
+6/15, 9/16
+
+In the December 2011 exam, many candidates struggled to calculate the net asset value of a company
+based on a set of financial statements. There should be fairly easy marks so make sure you can do this.
+Using this method of valuation, the value of an equity share is equal to the net tangible assets divided by
+the number of shares.
+Net tangible assets are the value in the statement of financial position of the tangible non-current assets
+(net of depreciation) plus current assets, minus all liabilities.
+Intangible assets (including goodwill) should be excluded, unless they have a market value (for example
+patents and copyrights, which could be sold).
+
+350
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+(a)
+
+Goodwill, if shown in the financial statements, is unlikely to be shown at a true figure for purposes
+of valuation, and the value of goodwill should be reflected in another method of valuation (for
+example the earnings basis).
+
+(b)
+
+Development expenditure, if shown in the financial statements, would also have a value which is
+related to future profits rather than to the worth of the company's physical assets.
+
+2.2 Example: net assets method of share valuation
+The summary statement of financial position of Cactus is as follows.
+Assets
+Non-current assets
+Land and buildings
+Plant and machinery
+Motor vehicles
+Goodwill
+
+$
+160,000
+80,000
+20,000
+20,000
+280,000
+
+Current assets
+Inventory
+Receivables
+Short-term investments
+Cash
+
+80,000
+60,000
+15,000
+5,000
+160,000
+440,000
+
+Total assets
+Equity and liabilities
+Ordinary shares of $1
+Reserves
+Total equity
+Non-current liabilities
+12% loan notes
+Deferred taxation
+4.9% redeemable preference shares of $1
+
+80,000
+140,000
+220,000
+60,000
+10,000
+50,000
+120,000
+
+Current liabilities
+Payables
+Taxation
+Declared ordinary dividend
+
+60,000
+20,000
+20,000
+100,000
+220,000
+440,000
+
+Total liabilities
+Total equity and liabilities
+What is the value of an ordinary share using the net assets basis of valuation?
+
+Solution
+If the figures given for asset values are not questioned, the valuation would be as follows.
+$
+440,000
+(20,000)
+(220,000)
+200,000
+
+Total assets
+Less goodwill
+Less total liabilities
+Net asset value of equity
+Number of ordinary shares
+Value per share
+
+80,000
+2.50
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+351
+
+2.3 Choice of valuation bases
+The difficulty in an asset valuation method is establishing the asset values to use. Values ought to be
+realistic. The figure attached to an individual asset may vary considerably depending on whether it is
+valued on a going concern or a break-up basis.
+Possibilities include:
+
+
+Historical cost basis (net book value) – unlikely to give a realistic value, as it is dependent on the
+business's depreciation and amortisation policy.
+
+
+
+Realisable basis – if the assets are to be sold, or the business as a whole broken up. This won't be
+relevant if a minority (non-controlling) shareholder is selling their stake, as the assets will continue
+in the business's use.
+
+
+
+Replacement basis – if the assets are to be used on an ongoing basis.
+
+The following list should give you some idea of the factors that must be considered.
+(a)
+
+Do the assets need professional valuation? If so, how much will this cost?
+
+(b)
+
+Have the liabilities been accurately quantified, for example deferred taxation? Are there any
+contingent liabilities? Will any balancing tax charges arise on disposal?
+
+(c)
+
+How have the current assets been valued? Are all receivables collectable? Is all inventory
+realisable? Can all the assets be physically located and brought into a saleable condition? This may
+be difficult in certain circumstances where the assets are situated abroad.
+
+(d)
+
+Can any hidden liabilities be accurately assessed? Would there be redundancy payments and
+closure costs?
+
+(e)
+
+Is there an available market in which the assets can be realised (on a break-up basis)? If so, do
+the statement of financial position values truly reflect these break-up values?
+
+(f)
+
+Are there any prior charges on the assets?
+
+(g)
+
+Does the business have a regular revaluation and replacement policy? What are the bases of the
+valuation? As a broad rule, valuations will be more useful the better they estimate the future cash
+flows that are derived from the asset.
+
+(h)
+
+Are there factors that might indicate that the going concern valuation of the business as a whole
+is significantly higher than the valuation of the individual assets?
+
+(i)
+
+What shareholdings are being sold? If a non-controlling interest is being disposed of, realisable
+value is of limited relevance, as the assets will not be sold.
+
+2.4 Use of net asset basis
+The net assets basis of valuation might be used in the following circumstances.
+(a)
+
+As a measure of the 'security' in a share value. A share might be valued using an earnings basis.
+This valuation might be higher or lower than the net asset value per share. If the earnings basis
+is higher, then if the company went into liquidation, the investor could not expect to receive the full
+value of their shares when the underlying assets were realised.
+The asset backing for shares thus provides a measure of the possible loss if the company fails to
+make the expected earnings or dividend payments. Valuable tangible assets may be a good reason
+for acquiring a company, especially freehold property which might be expected to increase in value
+over time.
+
+(b)
+
+Key term
+
+352
+
+As a measure of comparison in a scheme of merger
+
+A merger is essentially a business combination of two or more companies, of which none obtains control
+over any other.
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+For example, if company A, which has a low asset backing, is planning a merger with company B,
+which has a high asset backing, the shareholders of B might consider that their shares' value ought
+to reflect this. It might therefore be agreed that something should be added to the value of the
+company B shares to allow for this difference in asset backing.
+(c)
+
+As a 'floor value' for a business that is up for sale. Shareholders will be reluctant to sell for less
+than the NAV. However, if the sale is essential for cash flow purposes or to realign with corporate
+strategy, even the asset value may not be realised.
+
+For these reasons, it is always advisable to calculate the net assets per share.
+
+3 Income-based valuation bases
+FAST FORWARD
+
+P/E ratios may be used to value equity shares when a large block of shares, or a whole business, is being
+valued. This method can be problematic when P/E ratios for quoted companies are used to value unquoted
+companies.
+
+3.1 P/E ratio (earnings) method of valuation
+12/14, 12/16
+A P/E ratio-based valuation of equity shares may be used to value a controlling interest in the shares of a
+company, where the owner can decide on dividend and retentions policy. The P/E ratio relates earnings
+per share to a share's value.
+Since P/E ratio =
+
+Market value
+,
+EPS
+
+then market value per share = EPS
+
+Exam focus
+point
+
+P/E ratio
+
+Remember that earnings per share (EPS) =
+
+Profit/loss attributable to ordinary shareholders
+Weighted average number of ordinary shares
+
+The ACCA examining team has commented in the past that students often calculate earnings per share
+incorrectly.
+The P/E ratio produces an earnings-based valuation of shares by deciding a suitable P/E ratio and
+multiplying this by the EPS for the shares which are being valued.
+Market valuation or capitalisation =
+
+(for individual shares) P/E ratio
+
+Earnings per share, or
+
+(for all the company's equity) P/E ratio
+
+Total earnings
+
+The EPS could be a historical EPS or a prospective future EPS. For a given EPS figure, a higher P/E ratio
+will result in a higher price.
+
+3.2 Significance of high P/E ratio
+A high P/E ratio may indicate:
+(a)
+
+Expectations that the EPS will grow rapidly
+
+A high price is being paid for future profit prospects. Many small but successful and fast-growing
+companies are valued on the stock market on a high P/E ratio. Some stocks (for example those of
+some software companies in the 2010s) have reached high valuations before making any profits at
+all, on the strength of expected future earnings.
+(b)
+
+Security of earnings
+
+A well-established low-risk company would be valued on a higher P/E ratio than a similar company
+whose earnings are subject to greater uncertainty.
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+353
+
+(c)
+
+Status
+
+If a quoted company (the bidder) made a share for share takeover bid for an unquoted company
+(the target), it would normally expect its own shares to be valued on a higher P/E ratio than the
+target company's shares. This is because a quoted company ought to be a lower-risk company; but
+in addition, there is an advantage in having shares which are quoted on a stock market: the shares
+can be readily sold. The P/E ratio of an unquoted company's shares might be around 50% to 60%
+of the P/E ratio of a similar public company with a full stock market listing.
+
+3.3 Problems with using P/E ratios
+However, using the P/E ratios of quoted companies to value unquoted companies may be problematic.
+This is because a P/E ratio must be guessed at, using the P/E ratios for similar quoted companies as a
+guide.
+
+
+Finding a quoted company with a similar range of activities may be difficult. Quoted companies
+are often diversified.
+
+
+
+A single year's P/E ratio may not be a good basis if earnings are volatile, or the quoted company's
+share price is at an abnormal level, due for example to the expectation of a takeover bid.
+
+
+
+If a P/E ratio trend is used, then historical data will be used to value how the unquoted company
+will do in the future.
+
+
+
+The quoted company may have a different capital structure to the unquoted company.
+
+3.4 Guidelines for a P/E ratio-based valuation
+When a company is thinking of acquiring an unquoted company in a takeover, the final offer price will be
+agreed by negotiation, but a list of some of the factors affecting the valuer's choice of P/E ratio is given
+below.
+(a)
+
+The general economic and financial conditions will have an impact.
+
+(b)
+
+The type of industry and the prospects of that industry. Use of current P/E ratios may give an
+unrealistically low valuation if these ratios are being affected by a lack of confidence throughout the
+industry.
+
+(c)
+
+The size of the undertaking and its status within its industry. If an unquoted company's earnings
+are growing annually, then it could probably seek a listing in its own right, and a higher P/E ratio
+should therefore be used when valuing its shares.
+
+(d)
+
+Marketability. The market in shares which do not have a stock market quotation is always a
+restricted one (ie it is harder to find a buyer for these shares) and a lower P/E ratio may therefore
+be appropriate (around a half to two-thirds of the P/E ratio for a similar quoted company).
+
+(e)
+
+The reliability of profit estimates and the past profit record.
+
+(f)
+
+Asset backing and liquidity are both factors.
+
+(g)
+
+The nature of the assets will be considered, for example whether some of the non-current assets
+are of a highly specialised nature, and so have only a small break-up value.
+
+(h)
+
+Gearing. A relatively high gearing ratio will generally mean greater financial risk for ordinary
+shareholders and call for a higher rate of return on equity.
+
+(i)
+
+The extent to which the business is dependent on the technical skills of one or more individuals
+will be considered.
+
+3.4.1 Use of a bidder's P/E ratio
+A bidder company may sometimes use its higher P/E ratio to value a target company. This assumes that
+the bidder can improve the target's business, which may be a dangerous assumption to make. It may be
+better to use an adjusted industry P/E ratio, or some other method.
+
+354
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+3.4.2 Use of forecast earnings
+When one company is thinking about taking over another, it should look at the target company's forecast
+earnings, not just its historical results.
+
+Exam focus
+point
+
+Make sure the earnings you use are future maintainable earnings. One-off income or expenses should be
+excluded.
+Forecasts of earnings growth should only be used if:
+(a)
+
+There are good reasons to believe that earnings growth will be achieved.
+
+(b)
+
+A reasonable estimate of growth can be made.
+
+(c)
+
+Forecasts supplied by the target company's directors are made in good faith and using reasonable
+assumptions and fair accounting policies.
+
+Question
+
+Valuations
+
+Flycatcher wishes to make a takeover bid for the shares of an unquoted company, Mayfly. The earnings of
+Mayfly over the past five years have been as follows.
+20X0
+20X1
+20X2
+
+$50,000
+$72,000
+$68,000
+
+20X3
+20X4
+
+$71,000
+$75,000
+
+The average P/E ratio of quoted companies in the industry in which Mayfly operates is 10. Quoted
+companies which are similar in many respects to Mayfly are:
+(a)
+(b)
+
+Bumblebee, which has a P/E ratio of 15, but is a company with very good growth prospects
+Wasp, which has had a poor profit record for several years, and has a P/E ratio of 7
+
+What would be a suitable range of valuations for the shares of Mayfly?
+
+Answer
+(a)
+
+Earnings. Average earnings over the last five years have been $67,200, and over the last four years
+$71,500. There might appear to be some growth prospects, but estimates of future earnings are
+uncertain.
+
+A low estimate of earnings in 20X5 would be, perhaps, $71,500.
+A high estimate of earnings might be $75,000 or more. This solution will use the most recent
+earnings figure of $75,000 as the high estimate.
+(b)
+
+P/E ratio. A P/E ratio of 15 (Bumblebee's) would be much too high for Mayfly, because the growth
+of Mayfly earnings is not as certain, and Mayfly is an unquoted company.
+
+On the other hand, Mayfly's expectations of earnings are probably better than those of Wasp. A
+suitable P/E ratio might be based on the industry's average, 10; but since Mayfly is an unquoted
+company and therefore more risky, a lower P/E ratio might be more appropriate: perhaps 60% to
+70% of 10 = 6 or 7, or conceivably even as low as 50% of 10 = 5.
+The valuation of Mayfly's shares might therefore range between:
+high P/E ratio and high earnings: 7 $75,000 = $525,000; and
+low P/E ratio and low earnings: 5 $71,500 = $357,500.
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+355
+
+3.5 Earnings yield valuation method
+
+6/15, 12/16
+
+Another income-based valuation model is the earnings yield method.
+Earnings yield (EY) =
+
+EPS
+Market price per share
+
+100%
+
+This method is effectively a variation on the P/E method because EY is EPS divided by the share price and
+P/E is the share price divided by EPS (so the EY is the reciprocal of the P/E ratio).
+So market value can now be calculated as:
+Market value =
+
+Earnings
+EY
+
+In the previous question, a possible P/E ratio for Mayfly was 5. This P/E ratio would give an earnings yield
+of 1/5 = 0.2 or 20%. The market value of Mayfly's shares can therefore be calculated as earnings divided
+by earnings yield ie $71,500/0.2 = $357,500. This is the same value obtained by the P/E method when
+applying a P/E ratio of 5.
+
+4 Cash flow based valuation models
+FAST FORWARD
+
+Cash flow based valuation models include the dividend valuation model, the dividend growth model and
+valuation on a discounted cash flow basis.
+
+4.1 Dividend valuation model
+The dividend valuation model is based on the theory that an equilibrium price for any share (or loan note)
+on a stock market is:
+
+
+
+The future expected stream of income from the security
+Discounted at a suitable cost of capital
+
+Equilibrium market price is thus a present value of a future expected income stream. The annual income
+stream for a share is the expected dividend every year in perpetuity.
+The basic dividend-based formula for the market value of shares is expressed in the dividend valuation
+model as follows.
+MV (ex div) =
+where
+
+D
+1 ke
+
+D
+
+D
+2
+
+(1 k e )
+
+3
+
+(1 k e )
+
+...
+
+D
+ke
+
+MV = Ex-dividend market value of the shares
+D = Constant annual dividend
+ke = Shareholders' required rate of return
+
+This should look familiar. We used the dividend valuation model in Chapter 14 to calculate a cost of equity,
+given the annual dividend and share price.
+Here the same model is used to calculate a share price, given the annual dividend and the cost of equity.
+For example, if a company is expected to pay an annual dividend of $0.50 per share on its equity shares
+into the foreseeable future, and the cost of equity is 8%, the market value of the share would be
+$0.50/0.08 = $6.25.
+
+356
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+
+4.2 The dividend growth model
+
+6/15, Mar/Jun 16
+
+Remember the formula for the cost of equity in Chapter 14? This is the dividend growth model, which
+was also introduced in Chapter 14.
+
+Get this
+formula in
+the exam
+
+P0 =
+
+=
+where
+
+D0 (1 g)2
+
+D0 (1 g)
+(1 ke )
+
+2
+
+(1 ke )
+
+...
+
+D0 (1 g)
+(ke g)
+
+D1
+ke
+
+g
+
+D0
+g
+D0 (1 + g)
+ke
+P0
+
+=
+=
+=
+=
+=
+
+Current year's dividend
+Growth rate in earnings and dividends
+Expected dividend in one year's time (D1)
+Shareholders' required rate of return (also referred to as re)
+Market value excluding any dividend currently payable
+
+In Chapter 14, we used this model to calculate a cost of equity, given the share price, the current annual
+dividend and expectations of future dividend growth. Here, we calculate a market value per share, given
+the current annual dividend, expectations of future dividend growth and a cost of equity.
+
+Question
+
+DVM
+
+Target paid a dividend of $250,000 this year. The current return to shareholders of companies in the same
+industry as Target is 12%, although it is expected that an additional risk premium of 2% will be applicable
+to Target, being a smaller and unquoted company. Compute the expected valuation of Target, if:
+(a)
+(b)
+(c)
+
+The current level of dividend is expected to continue into the foreseeable future.
+The dividend is expected to grow at a rate of 4% p.a. into the foreseeable future.
+The dividend is expected to grow at a 3% rate for 3 years and 2% afterwards.
+
+Answer
+ke = 12% + 2% = 14% (0.14)
+(a)
+
+P0 =
+
+(b)
+
+P0 =
+
+(c)
+
+D0 = $250,000
+
+g (in (b)) = 4% or 0.04
+
+d0
+$250,000
+= $1,785,714
+=
+0.14
+ke
+
+d0 (1 g) $250,000(1.04)
+= $2,600,000
+=
+0.14 0.04
+ke g
+This can be assessed in two stages, stage 1 being the first three years where growth is 3% and
+stage 2 where growth is 2% from year 4 onwards.
+
+Stage 1
+Time
+Dividend ($'000)
+Discount factor @ 14%
+Present value ($'000)
+
+1
+258
+0.877
+226
+
+2
+266
+0.769
+205
+
+3
+274
+0.675
+185
+
+Total = $616,000
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+357
+
+Stage 2
+Time
+Dividend ($'000)
+Annuity to infinity
+Present value at Year 3
+Discount factor @ 14% for 3 years
+
+274 1.02 =
+1/(ke–g) =
+
+4 onwards
+279
+8.333
+2,325
+0.675
+1,569
+
+Total $616,000 (stage 1) + $1,569 ,000 (stage 2) = $2,185,000
+
+4.3 Assumptions in the dividend valuation model
+The dividend valuation model is underpinned by a number of assumptions that you should bear in mind.
+(a)
+
+Investors act rationally and homogenously. The model fails to take into account the different
+expectations of shareholders, or how much they are motivated by a preference for dividends over
+future capital appreciation on their shares.
+
+(b)
+
+The current year's dividend (D0 figure) does not vary significantly from the trend of dividends. If
+D0 does appear to be a rogue figure, it may be better to use an adjusted trend figure, calculated on
+the basis of the past few years' dividends.
+
+(c)
+
+The estimates of future dividends and prices used and also the cost of capital are reasonable. As
+with other methods, it may be difficult to make a confident estimate of the cost of capital. Dividend
+estimates may be made from historical trends that may not be a good guide for a future, or derived
+from uncertain forecasts about future earnings.
+
+(d)
+
+Investors' attitudes to receiving different cash flows at different times can be modelled using
+discounted cash flow arithmetic.
+
+(e)
+
+Directors use dividends to signal the strength of the company's position. (However, companies
+that pay zero dividends do not have zero share values.)
+
+(f)
+
+Dividends either show no growth or constant growth. If the growth rate is estimated using
+Gordon's growth approximation (g = br), then the model assumes that the percentage of profits
+retained in the business and the return on those retained profits, b and r, are constant values.
+
+(g)
+
+Other influences on share prices are ignored.
+
+(h)
+
+The company's earnings will increase sufficiently to maintain dividend growth levels.
+
+(i)
+
+The discount rate used exceeds the dividend growth rate.
+
+4.4 Discounted cash flow basis of valuation
+
+9/16
+
+A DCF method of share valuation may be appropriate when one company intends to buy the assets of
+another company and to make further improvements to boost cash flows in the future (ie synergies will be
+created).
+The steps in this method of valuation are:
+
+Step 1
+
+Estimate the cash flows that will be obtained each year from the acquired business. The cash
+flows may be estimated for a maximum number of years (say, for ten years). Alternatively,
+there may be an assumption about annual cash flows from the business into perpetuity.
+
+Step 2
+
+Discount these cash flows at an appropriate cost of capital.
+If the cash flows are after interest payments on the debt of the target company, and after tax,
+then these cash flows represent the returns to ordinary shareholders and are discounted at
+the cost of equity to calculate the present value of the equity (ie ordinary) shares.
+
+358
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+If the cash flows are before interest then they represent the returns to all investors (whether
+debtholders or shareholders) and so should be discounted at the overall weighted average
+cost of capital to calculate the present value of the company (ie ordinary shares plus debt).
+This value will be used if a valuation of the whole company is needed (for example if the
+proposal is to buy the entire business, both the shares and the debt). If only the equity needs
+to be valued then the value of debt will then need to be deducted to calculate the value of
+equity.
+
+4.4.1 Example: Discounted future cash flows method of share valuation
+Diversification wishes to make a bid for Tadpole. Tadpole makes after-tax profits of $40,000 a year.
+Diversification believes that if further money is spent on additional investments, the after-tax (and interest)
+cash flows (ignoring the purchase consideration) could be as follows.
+Cash flow (net of tax and
+interest)
+$
+(100,000)
+(80,000)
+60,000
+100,000
+150,000
+150,000
+
+Year
+0
+1
+2
+3
+4
+5
+
+The cost of equity of Diversification is 15% and the company expects all its investments to pay back, in
+discounted terms, within five years.
+(a)
+
+What is the maximum price that the company should be willing to pay for the shares of Tadpole?
+
+(b)
+
+What is the maximum price that the company should be willing to pay for the shares of Tadpole if it
+decides to value the business on the basis of its cash flows in perpetuity, and annual cash flows
+from Year 6 onwards are expected to be $120,000?
+
+Solution
+(a)
+
+The maximum price is one which would make the return from the total investment exactly 15%
+over five years, so that the NPV at 15% would be 0. It is suitable to use the cost of equity because
+the cash flows are after interest.
+Cash flows ignoring
+purchase consideration
+$
+0
+(100,000)
+1
+(80,000)
+2
+60,000
+3
+100,000
+4
+150,000
+5
+150,000
+Maximum purchase price
+Year
+
+(b)
+
+Discount
+factor (from tables) 15%
+
+1.000
+0.870
+0.756
+0.658
+0.572
+0.497
+
+Present
+value
+$
+(100,000)
+(69,600)
+45,360
+65,800
+85,800
+74,550
+101,910
+
+If the shares are valued on the basis of cash flows in perpetuity, we need to add the PV of annual
+cash flows from Year 6 onwards.
+The value of the cash flows from Year 6 onwards, in perpetuity, at a Year 5 present value =
+$120,000/0.15 = $800,000.
+Discounting this to a Year 0 PV: $800,000 × 0.497 = $397,600.
+This increases the valuation from $101,910 to $499,510.
+The difference between this valuation and the valuation in (a) is huge. It may illustrate that business
+valuations depend crucially on the assumptions that are used to reach the valuation.
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+359
+
+4.4.2 Selection of an appropriate cost of capital
+In the above example, Diversification used its own cost of capital to discount the cash flows of Tadpole.
+There are a number of reasons why this may not be appropriate.
+(a)
+
+The business risk of the new investment may not match that of the investing company. If Tadpole
+is in a completely different line of business from Diversification, its cash flows are likely to be
+subject to differing degrees of risk, and this should be taken into account when valuing them.
+
+(b)
+
+The method of finance of the new investment may not match the current debt/equity mix of the
+investing company, which may have an effect on the cost of capital to be used.
+
+Question
+
+Valuation methods
+
+Profed provides a tuition service for professional students. This includes courses of lectures provided on
+their own premises and provision of study material for home study. Most of the lecturers are qualified
+professionals with many years' experience in both their profession and tuition. Study materials are written
+and word processed in-house, but sent out to an external printers.
+The business was started 15 years ago, and now employs around 40 full-time lecturers, 10 authors and 20
+support staff. Freelance lecturers and authors are employed from time to time in times of peak demand.
+The shareholders of Profed mainly comprise the original founders of the business who would now like to
+realise their investment. In order to arrive at an estimate of what they believe the business to be worth,
+they have identified a long-established quoted company, City Tutors, who have a similar business,
+although they also publish texts for external sale to universities, colleges, etc.
+Summary financial statistics for the two companies for the most recent financial year are as follows.
+Issued shares (million)
+Net asset values ($m)
+Earnings per share (cents)
+Dividend per share (cents)
+Debt: equity ratio
+Share price (cents)
+Expected rate of growth in earnings/dividends
+
+Profed
+4
+7.2
+35
+20
+1:7
+
+9% p.a.
+
+City Tutors
+10
+15
+20
+18
+1:65
+362
+7.5% p.a.
+
+Notes
+
+1
+
+2
+
+The net assets of Profed are the net book values of tangible non-current assets plus net working
+capital. However:
+
+
+
+A recent valuation of the buildings was $1.5m above book value.
+
+
+
+Inventory includes past editions of textbooks which have a realisable value of $100,000
+below their cost.
+
+
+
+Due to a dispute with one of their clients, an additional allowance for bad debts of $750,000
+could prudently be made.
+
+Growth rates should be assumed to be constant per annum; Profed's earnings growth rate
+estimate was provided by the marketing manager, based on expected growth in sales adjusted by
+normal profit margins. City Tutors' growth rates were gleaned from press reports.
+
+Required
+
+360
+
+(a)
+
+Compute a range of valuations for the business of Profed, using the information available and
+stating any assumptions made.
+
+(b)
+
+Comment on the strengths and weaknesses of the methods you used in (a) and their suitability for
+valuing Profed.
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+
+Answer
+(a)
+
+The information provided allows us to value Profed on three bases: net assets, P/E ratio and
+dividend valuation.
+All three will be computed, even though their validity may be questioned in part (b) of the answer.
+Assets based
+
+$'000
+7,200
+1,500
+(850)
+7,850
+
+Net assets at book value
+Add increased valuation of buildings
+Less decreased value of inventory and receivables
+Net asset value of equity
+Value per share = $1.96
+P/E ratio
+Profed
+4
+
+Issued shares (million)
+Share price (cents)
+Market value ($m)
+Earnings per share (cents)
+P/E ratio (share price EPS)
+
+35
+
+This approach will value Profed at 18.1
+
+City Tutors
+10
+362
+36.2
+20
+18.1
+
+$0.35 = $6.34 per share, a total valuation of $25.4m.
+
+Dividend valuation model
+
+The dividend valuation method gives the share price as:
+Next year's dividend
+Cost of equity Growth rate
+which assumes dividends being paid into perpetuity, and growth at a constant rate.
+For Profed, next year's dividend = $0.20
+
+1.09 = $0.218 per share
+
+We can use the information for City Tutors to estimate a cost of equity for Profed. This is assuming
+the business risks to be similar, and ignoring the small difference in their gearing ratio.
+Again, from the DVM, cost of equity =
+For City Tutors, cost of equity =
+
+next year's dividend
++ growth rate
+market price
+
+$0.18 1.075
++ 0.075 = 12.84%
+$3.62
+
+Using, say, 13% as a cost of equity for Profed (it could be argued that this should be higher since
+Profed is unquoted so riskier than the quoted City Tutors):
+Share price =
+
+$0.218
+= $5.45
+0.13 0.09
+
+This values the whole of the share capital at $21.8m.
+Range for valuation
+
+The three methods used have thus come up with a range of value of Profed, as follows.
+
+Net assets
+Dividend valuation
+P/E ratio
+
+Value per share
+$
+1.96
+5.45
+6.34
+
+Part F
+w
+
+Business valuations
+
+Total valuation
+$m
+7.9
+21.8
+25.4
+
+17: Business valuations
+
+361
+
+(b)
+
+Comment on relative merits of the methods used, and their suitability
+Asset-based valuation
+
+Valuing a company on the basis of its asset values alone is rarely appropriate if it is to be sold on
+a going concern basis. Exceptions would include property investment companies and investment
+trusts, the market values of the assets of which will bear a close relationship to their earning
+capacities.
+Profed is typical of a lot of service companies, a large part of whose value lies in the skill,
+knowledge and reputation of its personnel. This is not reflected in the net asset values, and
+renders this method quite inappropriate. A potential purchaser of Profed will generally value its
+intangible assets, such as knowledge, expertise, customer/supplier relationships and brands, more
+highly than those that can be measured in accounting terms.
+Knowledge of the net asset value (NAV) of a company will, however, be important as a floor value
+for a company which is in financial difficulties or subject to a takeover bid. Shareholders will be
+reluctant to sell for less than the NAV even if future prospects are poor.
+P/E ratio valuation
+
+The P/E ratio measures the multiple of the current year's earnings that is reflected in the market
+price of a share. It is thus a method that reflects the earnings potential of a company from a market
+point of view. Provided the marketing is efficient, it is likely to give the most meaningful basis for
+valuation.
+One of the first things to say is that the market price of a share at any point in time is determined
+by supply and demand forces prevalent during small transactions, and will be dependent on a lot of
+factors in addition to a realistic appraisal of future prospects. A downturn in the market economies
+and political changes can all affect the day to day price of a share and thus its prevailing P/E ratio.
+It is not known whether the share price given for City Tutors was taken on one particular day, or
+was some sort of average over a period. The latter would perhaps give a sounder basis from which
+to compute an applicable P/E ratio.
+Even if the P/E ratio of City Tutors can be taken to be indicative of its true worth, using it as a
+basis to value a smaller, unquoted company in the same industry can be problematic.
+The P/E for City Tours is18.1. This will take account of such factors as marketability of shares,
+status of company and growth potential that will differ from those for Profed. However, all other
+things being equal, the P/E ratio for an unquoted company should be taken as between one-half to
+two-thirds of that of an equivalent quoted company. Being generous, in view of the possible higher
+growth prospects of Profed, we might estimate an appropriate P/E ratio of around 12, assuming
+that Profed is to remain a private company.
+Profed's growth rate has been estimated as higher than that of City Tutors, possibly because it is a
+younger, developing company, although the basis for the estimate may be questionable.
+Dividend-based valuation
+
+The dividend valuation model (DVM) is a cash flow based approach, which values the dividends
+that the shareholders expect to receive from the company by discounting them at their required
+rate of return. It is perhaps more appropriate for valuing a non-controlling shareholding where the
+holder has no influence over the level of dividends to be paid than for valuing a whole company,
+where the total cash flows will be of greater relevance.
+The practical problems with the dividend valuation model lie mainly in its assumptions. Even
+accepting that the required 'perfect capital market' assumptions may be satisfied to some extent, in
+reality the formula used in (a) assumes constant growth rates and constant required rates of return
+in perpetuity.
+Determination of an appropriate cost of equity is particularly difficult for a unquoted company, and
+the use of an 'equivalent' quoted company's data carries the same drawbacks as discussed above.
+
+362
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+Similar problems arise in estimating future growth rates, and the results from the model are highly
+sensitive to changes in both these inputs.
+It is also highly dependent on the current year's dividend being a representative base from which
+to start.
+
+5 Valuation of debt
+
+12/14, 6/15, Mar/Jun 16, 9/16
+
+In Chapter 14, we looked at how to calculate the cost of debt and other financial assets. The same
+formulae can be rearranged so that we can calculate their value.
+FAST FORWARD
+
+For irredeemable debt:
+Market price, ex interest (P0) =
+=
+
+I
+Kd
+
+i (1 T) with tax
+K dnet
+
+For redeemable debt, the market value is the discounted present value of future interest receivable, up
+to the year of redemption, plus the discounted present value of the redemption payment.
+
+5.1 Debt calculations – a few notes
+(a)
+
+Debt is always quoted in $100 nominal units, or blocks; always use $100 nominal values as the
+basis to your calculations.
+
+(b)
+
+Debt can be quoted as a percentage or as a value, eg 97% or $97. Both mean that $100 nominal
+value of debt is worth $97 market value.
+
+(c)
+
+Interest on debt is stated as a percentage of nominal value. This is known as the coupon rate. It is
+not the same as the redemption yield on debt or the cost of debt.
+
+(d)
+
+The ACCA examining team sometimes quotes an interest yield, defined as coupon/market price.
+
+(e)
+
+Always use ex-interest prices in any calculations.
+
+5.2 Irredeemable debt
+For irredeemable loan notes where the company will go on paying interest every year in perpetuity,
+without ever having to redeem the loan (ignoring taxation):
+
+Formula to
+learn
+
+P0 =
+
+i
+Kd
+
+where
+
+P0 is the market price of the loan note ex interest; that is, excluding any interest payment that
+might soon be due
+i is the annual interest payment on the loan note
+Kd is the return required by the loan note investors
+
+With taxation, we have the following:
+
+Formula to
+learn
+
+Irredeemable (undated) debt, paying annual after-tax interest i(1 – T) in perpetuity, where P0 is the
+ex-interest value:
+
+P0 =
+
+i(1 T)
+K dnet
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+363
+
+For example, if the cost of debt is 7% before tax and 5.6% after tax, and the rate of tax is 20%, the market
+value of irredeemable debt with a coupon rate of 6% will be:
+P0 = 6/0.07 = 85.71, or
+P0 = 6(1 – 0.20)/0.056 = 85.71
+Both formulae produce the same valuation.
+
+5.3 Redeemable debt
+The valuation of redeemable debt spends on future expected receipts. The market value is the discounted
+present value of future interest receivable, up to the year of redemption, plus the discounted present value
+of the redemption payment.
+
+Formula to
+learn
+
+Value of debt = (Interest earnings
+
+annuity factor) + (Redemption value
+
+Discounted cash flow factor)
+
+5.4 Example: Valuation of debt
+Furry has in issue 12% loan notes with par value $100,000 and redemption value $110,000, with interest
+payable quarterly. The cost of debt on the loan notes is 8% annually and 2% quarterly. The loan notes are
+redeemable on 30 June 20X4 and it is now 31 December 20X0.
+Required
+
+Calculate the market value of the loan notes.
+
+Solution
+You need to use the cost of debt as the discount rate, and remember to use an annuity factor for the
+interest. We are discounting over 14 periods (quarters) using the quarterly discount rate (8%/4).
+Period
+
+1–14
+14
+
+Interest
+Redemption
+
+Cash flow
+$
+3,000
+110,000
+
+Discount
+factor 2%
+12.11
+0.758
+
+Present value
+$
+36,330
+83,380
+119,710
+
+The market value is $119,710.
+
+Question
+
+Value of redeemable debt
+
+A company has issued some 9% loan notes, which are now redeemable at par in three years' time.
+Investors now require a redemption yield of 10%. What will the current market value of each $100 of loan
+note be?
+
+Answer
+Year
+
+1
+2
+3
+3
+
+Interest
+Interest
+Interest
+Redemption value
+
+Cash flow
+$
+9
+9
+9
+100
+
+Each $100 of loan note will have a market value of $97.47.
+
+364
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+Discount
+factor 10%
+
+0.909
+0.826
+0.751
+0.751
+
+Present
+value
+$
+8.18
+7.43
+6.76
+75.10
+97.47
+
+
+
+5.5 Convertible debt
+Convertible loan notes were discussed in Section 2 of Chapter 12. As a reminder, when convertible loan
+notes are traded on a stock market, its minimum market price will be the price of straight loan notes with
+the same coupon rate of interest. If the market value falls to this minimum, it follows that the market
+attaches no value to the conversion rights.
+The actual market price of convertible loan notes will depend on:
+
+
+
+
+
+The price of straight debt
+The current conversion value
+The length of time before conversion may take place
+The market's expectation as to future equity returns and the associated risk
+
+If the conversion value rises above the straight debt value then the price of convertible loan notes will
+normally reflect this increase.
+
+Formula to
+learn
+
+Conversion value = P0 (1 + g)nR
+
+where
+
+P0
+g
+n
+R
+
+is the current ex-dividend ordinary share price
+is the expected annual growth of the ordinary share price
+is the number of years to conversion
+is the number of shares received on conversion
+
+The current market value of a convertible loan note where conversion is expected is the sum of the
+present values of the future interest payments and the present value of the loan note's conversion value.
+
+5.6 Example: Valuation of convertible debt
+What is the value of a 9% convertible loan note if it can be converted in 5 years' time into 35 ordinary
+shares or redeemed at par on the same date? An investor's required return is 10% and the current market
+price of the underlying share is $2.50 which is expected to grow by 4% per annum.
+
+Solution
+Conversion value = P0 (1 + g)nR = 2.50
+
+1.045
+
+35 = $106.46
+
+Present value of $9 interest per annum for 5 years at 10% = 9
+Present value of the conversion value = 106.46
+
+3.791 = $34.12
+
+0.621 = $66.11
+
+Current market value of convertible loan note = 34.12 + 66.11 = $100.23
+
+5.7 Preference shares
+Preference shares pay a fixed-rate dividend which is not tax deductible for the company.
+
+Formula to
+learn
+
+The current ex-dividend value P0 paying a constant annual dividend d and having a cost of capital kpref:
+d
+P0 =
+kpref
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+365
+
+Chapter Roundup
+
+
+There are a number of different ways of putting a value on a business, or on shares in an unquoted
+company. It makes sense to use several methods of valuation, and to compare the values they produce.
+
+
+
+The net assets valuation method can be used as one of many valuation methods, or to provide a lower
+limit for the value of a company. By itself it is unlikely to produce the most realistic value.
+
+
+
+P/E ratios may be used to value equity shares when a large block of shares, or a whole business, is being
+valued. This method can be problematic when P/E ratios for quoted companies are used to value unquoted
+companies.
+
+
+
+Cash flow based valuation models include the dividend valuation model, the dividend growth model and
+valuation on a discounted cash flow basis.
+
+
+
+For irredeemable debt:
+Market price, ex interest (P0)
+
+=
+
+I
+Kd
+
+=
+
+i (1 T) with tax
+K dnet
+
+For redeemable debt, the market value is the discounted present value of future interest receivable, up
+to the year of redemption, plus the discounted present value of the redemption payment.
+
+366
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+
+Quick Quiz
+1
+
+Give four circumstances in which the shares of an unquoted company might need to be valued.
+
+2
+
+How is the P/E ratio related to EPS?
+
+3
+
+What is meant by 'multiples' in the context of share valuation?
+
+4
+
+Suggest two circumstances in which net assets might be used as a basis for valuation of a company.
+
+5
+
+Cum interest prices should always be used in calculations involving debt. True/False?
+
+6
+
+Fill in the blanks. For redeemable loan notes:
+Market value = ........................................ + ........................................
+
+Part F
+w
+
+Business valuations
+
+17: Business valuations
+
+367
+
+Answers to Quick Quiz
+1
+
+(a)
+(b)
+(c)
+(d)
+
+Setting an issue price if the company is floating its shares
+When shares are sold
+For tax purposes
+When shares are pledged as collateral for a loan
+
+2
+
+P/E ratio = Share price/EPS
+
+3
+
+The P/E ratio: the multiple of earnings at which a company's shares are traded
+
+4
+
+(a)
+(b)
+
+5
+
+False. Ex-interest prices should be used.
+
+6
+
+Market value
+
+As a measure of asset backing
+For comparison, in a scheme of merger
+
+= Discounted present value of future interest receivable up to year of redemption
++ Discounted present value of redemption payment
+
+Now try the questions below from the Practice Question Bank
+
+368
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q29
+
+Examination
+
+2
+
+4 mins
+
+Section B Q11–15
+
+Examination
+
+10
+
+20 mins
+
+Section B Q16–20
+
+Examination
+
+10
+
+20 mins
+
+Section C Q20
+
+Introductory
+
+N/A
+
+39 mins
+
+17: Business valuations
+
+Part F Business valuations
+w
+
+
+
+Market efficiency
+
+Topic list
+1 The efficient market hypothesis
+2 The valuation of shares
+
+Syllabus reference
+F4 (a)
+F4 (b), (c)
+
+Introduction
+This chapter deals with the determination of share prices. As we shall see, there
+are various theories which seek to provide a rationale for share price
+movement. The most important of these is the efficient market hypothesis,
+which provides theoretical underpinning for how markets take into account new
+information.
+The chapter also looks at practical issues that may affect the market valuation
+of shares.
+
+w
+
+369
+
+Study guide
+Intellectual level
+F4
+
+Efficient market hypothesis (EMH) and practical considerations in the
+valuation of shares
+
+(a)
+
+Distinguish between and discuss weak form efficiency, semi-strong form
+efficiency and strong form efficiency.
+
+2
+
+(b)
+
+Discuss practical considerations in the valuation of shares and businesses,
+including:
+
+2
+
+(i)
+
+Marketability and liquidity of shares
+
+(ii)
+
+Availability and sources of information
+
+(iii)
+
+Market imperfections and pricing anomalies
+
+(iv)
+
+Market capitalisation
+
+(c)
+
+Describe the significance of investor speculation and the explanations of
+investor decisions offered by behavioural finance.
+
+1
+
+Exam guide
+Market efficiency may need to be discussed as part of a business valuation question.
+
+1 The efficient market hypothesis
+FAST FORWARD
+
+The theory behind share price movements can be explained by the three forms of the efficient market
+hypothesis.
+–
+–
+–
+
+Key term
+
+Sep/Dec 15, 9/16, 12/16
+
+Weak form efficiency implies that prices reflect all relevant information about past price
+movements and their implications.
+Semi-strong form efficiency implies that prices reflect past price movements and publicly available
+knowledge.
+Strong form efficiency implies that prices reflect past price movements, publicly available
+knowledge and inside knowledge.
+
+The efficient market hypothesis provides a rationale for explaining how share prices react to new
+information about a company, and when any such change in share price occurs. Stock market reaction to
+new information depends on the strength of the stock market efficiency.
+
+1.1 Definition of market efficiency
+Different types of efficiency can be distinguished in the context of the operation of financial markets.
+(a)
+
+Allocative efficiency
+If financial markets allow funds to be directed towards firms which make the most productive use
+of them, then there is allocative efficiency in these markets.
+
+(b)
+
+Operational efficiency
+Transaction costs are incurred by participants in financial markets, for example commissions on
+share transactions, margins between interest rates for lending and for borrowing, and loan
+arrangement fees. Financial markets have operational efficiency if transaction costs are kept as
+low as possible. Transaction costs are kept low where there is open competition between brokers
+and other market participants.
+
+370
+
+18: Market efficiency
+
+Part F Business valuations
+w
+
+
+(c)
+
+Information processing efficiency
+The information processing efficiency of a stock market means the ability of a stock market to
+price stocks and shares fairly and quickly. An efficient market in this sense is one in which the
+market prices of all securities reflect all the available information.
+
+The efficient markets hypothesis is concerned with the information processing efficiency of stock markets.
+
+1.2 Varying degrees of efficiency
+There are three degrees or 'forms' of stock market efficiency: weak form, semi-strong form and strong
+form.
+
+1.2.1 Weak form efficiency
+If a stock market has weak form efficiency, it is not efficient at responding to events that affect companies
+and should affect share prices. It does not react to much of the information that is available about a
+company. Instead, when stock market efficiency is weak, share prices only reflect historical information
+including information about past share price movements.
+If stock markets exhibit weak-form efficiency, investors can't make excess profits by studying past share
+price movements (an approach that is sometimes called technical analysis).
+
+1.2.2 Semi-strong form efficiency
+If a stock market displays semi-strong efficiency, current share prices reflect:
+
+
+
+All relevant information about past price movements and their implications
+All publicly available knowledge about companies and market returns
+
+Share prices respond quickly to new information as it becomes available.
+This means that individuals cannot 'beat the market' by reading the newspapers or annual reports, since
+the information contained in these will already be reflected in share prices.
+Tests to prove semi-strong efficiency have concentrated on the speed and accuracy of stock market
+response to information and on the ability of the market to anticipate share price changes before new
+information is formally announced. For example, if two companies plan a merger, share prices of the two
+companies will inevitably change once the merger plans are formally announced. The market would show
+semi-strong efficiency, however, if it were able to anticipate such an announcement, so that share prices
+of the companies concerned would change in advance of the merger plans being confirmed.
+Research in both the UK and the US has suggested that market prices anticipate mergers several months
+before they are formally announced, and the conclusion drawn is that the stock markets in these countries
+do exhibit semi-strong efficiency.
+
+1.2.3 Strong form efficiency
+If a stock market displays a strong form of efficiency, share prices reflect all information, whether it is
+publicly available or not:
+
+
+
+
+From past price changes
+From public knowledge or anticipation
+From specialists' or experts' insider knowledge (eg the inside knowledge of investment managers
+about unpublished facts)
+
+If a stock market has strong form efficiency, share prices will respond to new developments and events
+before they even become public knowledge.
+
+Part F
+w
+
+Business valuations
+
+18: Market efficiency
+
+371
+
+1.3 Features of efficient markets
+Stock markets that are efficient (or semi-efficient) are therefore markets in which:
+(a)
+
+The prices of securities bought and sold reflect all the relevant information available to the buyers
+and sellers, and share prices change quickly to reflect all new information about future prospects.
+
+(b)
+
+No individual dominates the market.
+
+(c)
+
+Transaction costs of buying and selling are not so high as to discourage trading significantly.
+
+(d)
+
+Investors are rational and so make rational buying and selling decisions, and value shares in a
+rational way.
+
+(e)
+
+There are low, or no, costs of acquiring information.
+
+1.4 Impact of efficiency on share prices
+If the stock market is efficient, share prices should vary in a rational way.
+(a)
+
+If a company makes an investment with a positive net present value (NPV), shareholders will get
+to know about it and the market price of its shares will rise in anticipation of future dividend
+increases.
+
+(b)
+
+If a company makes a bad investment, shareholders will find out and so the price of its shares
+will fall.
+
+(c)
+
+If interest rates rise, shareholders will want a higher return from their investments, so market
+prices will fall.
+
+1.5 Implications of efficient market hypothesis for the financial
+manager
+If the markets are quite strongly efficient, the main consequence for financial managers will be that they
+simply need to concentrate on maximising the net present value of the company's investments in order
+to maximise the wealth of shareholders. Managers need not worry, for example, about the effect on share
+prices of financial results in the published accounts because investors will make allowances for low
+profits or dividends in the current year if higher profits or dividends are expected in the future.
+If the market is strongly efficient, there is little point in financial managers attempting strategies that will
+attempt to mislead the markets.
+(a)
+
+There is no point for example in trying to identify a correct date when shares should be issued,
+since share prices will always reflect the true worth of the company.
+
+(b)
+
+The market will identify any attempts to window dress the accounts and put an optimistic spin on
+the figures.
+
+(c)
+
+The market will decide what level of return it requires for the risk involved in making an investment
+in the company. It is pointless for the company to try to change the market's view by issuing
+different types of capital instruments.
+
+Similarly, if the company is looking to expand, the directors will be wasting their time if they seek as
+takeover targets companies whose shares are undervalued, since the market will fairly value all
+companies' shares.
+Only if the market is semi-strongly efficient, and the financial managers possess inside information that
+would significantly alter the price of the company's shares if released to the market, could they perhaps
+gain an advantage. However, attempts to take account of this inside information may breach insider
+dealing laws.
+The different characteristics of a semi-strong form and a strong form efficient market thus affect the
+timing of share price movements, in cases where the relevant information becomes available to the
+market eventually. The difference between the two forms of market efficiency concerns when the share
+prices change, not by how much prices eventually change.
+372
+
+18: Market efficiency
+
+Part F Business valuations
+w
+
+
+Exam focus
+point
+
+The point that share prices may depend to some extent on the efficiency of the markets is important when
+you discuss company valuations.
+
+2 The valuation of shares
+FAST FORWARD
+
+Fundamental analysis is based on the theory that share prices can be derived from a rational analysis of
+future dividends.
+Technical analysts or chartists work on the basis that past price patterns will be repeated, therefore
+future price movements can be predicted from historical patterns of share price movements in the past,
+and there are some patterns that continually reappear.
+Random walk theory is based on the idea that share prices will alter when new information becomes
+available.
+Share prices are also affected by marketability and liquidity of shares, availability and sources of
+information, market imperfections and pricing anomalies, market capitalisation and investor speculation.
+
+2.1 The fundamental theory of share values
+We discussed the fundamental theory of share values in the last chapter. Remember that it is based on the
+theory that the realistic market price of a share can be derived from a valuation of estimated future
+dividends. The value of a share will be the discounted present value of all future expected dividends on the
+shares, discounted at the shareholders' cost of capital. The theory therefore supports the view that
+'realistic' share prices can be determined by valuation models, such as the dividend growth model.
+If the fundamental analysis theory of share values is correct, the price of any share will be predictable,
+provided that all investors have the same information about a company's expected future profits and
+dividends, and a known cost of capital.
+
+Question
+
+Share valuation
+
+The management of Crocus is trying to decide on the dividend policy of the company.
+There are two options that are being considered.
+(a)
+
+The company could pay a constant annual dividend of 8c per share.
+
+(b)
+
+The company could pay a dividend of 6c per share this year, and use the retained earnings to
+achieve an annual growth of 3% in dividends for each year after that.
+
+The shareholders' cost of capital is thought to be 10%. Which dividend policy would maximise the wealth
+of shareholders, by maximising the share price?
+
+Answer
+(a)
+
+With a constant annual dividend
+Share price =
+
+(b)
+
+8
+= 80c
+0.1
+
+With dividend growth
+Share price
+
+6(1.03)
+(0.1 0.03)
+
+6.18
+0.07
+
+88c
+
+The dividend of 6c per share with 3% annual growth would be preferred.
+
+Part F
+w
+
+Business valuations
+
+18: Market efficiency
+
+373
+
+2.2 Charting or technical analysis
+Chartists or 'technical analysts' attempt to predict share price movements by assuming that past price
+patterns will be repeated. There is no real theoretical justification for this approach, but it can at times be
+spectacularly successful. Studies have suggested that the degree of success is greater than could be
+expected merely from chance.
+
+Chartists do not attempt to predict every price change. They are primarily interested in trend reversals, for
+example when the price of a share has been rising for several months but suddenly starts to fall.
+Moving averages help the chartist to examine overall trends. For example, they may calculate and plot
+moving averages of share prices for 20 days, 60 days and 240 days. The 20 day figures will give a
+reasonable representation of the actual movement in share prices after eliminating day to day fluctuations.
+The other two moving averages give a good idea of longer-term trends.
+One of the main problems with chartism is that it is often difficult to see a new trend until after it has
+happened. By the time the chartist has detected a signal, other chartists will have as well, and the
+resulting mass movement to buy or sell will push the price so as to eliminate any advantage.
+With the use of sophisticated computer programs to simulate the work of a chartist, academic studies
+have found that the results obtained were no better or worse than those obtained from a simple 'buy and
+hold' strategy of a well-diversified portfolio of shares.
+This may be explained by research that has found that there are no regular patterns or cycles in share
+price movements over time – they follow a random walk.
+
+2.3 Random walk theory
+
+12/16
+
+Random walk theory is consistent with the fundamental theory of share values. It accepts that a share
+should have an intrinsic price dependent on the fortunes of the company and the expectations of
+investors. One of its underlying assumptions is that all relevant information about a company is
+available to all potential investors who will act on the information in a rational manner.
+
+The key feature of random walk theory is that, although share prices will have an intrinsic or fundamental
+value, this value will be altered as new information becomes available, and that the behaviour of investors
+is such that the actual share price will fluctuate from day to day around the intrinsic value.
+
+2.4 Marketability and liquidity of shares
+In financial markets, liquidity is the ease of dealing in the shares; how easily the shares can be bought
+and sold without significantly moving the price.
+In general, large companies, with hundreds of millions of shares in issue, and high numbers of shares
+changing hands every day, have good liquidity. In contrast, small companies with few shares in issue and
+thin trading volumes can have very poor liquidity.
+The marketability of shares in a private company, particularly a minority shareholding, is generally very
+limited, a consequence being that the price can be difficult to determine.
+Shares with restricted marketability may be subject to sudden and large falls in value and companies may
+act to improve the marketability of their shares with a stock split. A stock split occurs where, for example,
+each ordinary share of $1 each is split into two shares of 50c each, thus creating cheaper shares with
+greater marketability. There is possibly an added psychological advantage in that investors may expect a
+company which splits its shares in this way to be planning for substantial earnings growth and dividend
+growth in the future.
+As a consequence, the market price of shares may benefit. For example, if one existing share of $1 has a
+market value of $6, and is then split into two shares of 50c each, the market value of the new shares might
+settle at, say, $3.10 instead of the expected $3, in anticipation of strong future growth in earnings and
+dividends.
+
+374
+
+18: Market efficiency
+
+Part F Business valuations
+w
+
+
+
+2.5 Availability and sources of information
+In Section 1 of this chapter it was stated that an efficient market is one where the prices of securities
+bought and sold reflect all the relevant information available. Efficiency relates to how quickly and how
+accurately prices adjust to new information.
+Information comes from financial statements, financial databases, the financial press and the internet.
+
+2.5.1 Dividend information
+It has been argued that shareholders see dividend decisions as passing on new information about the
+company and its prospects. A dividend increase is usually seen by markets to be good news and a
+dividend decrease to be bad news, but it may be that the market will react to the difference between the
+actual dividend payments and the market's expectations of the level of dividend. For example, the market
+may be expecting a cut in dividend but if the actual decrease is less than expected, the share price may rise.
+
+2.6 Market imperfections and pricing anomalies
+Various types of anomaly appear to support the views that irrationality often drives the stock market,
+including the following.
+(a)
+
+Seasonal month of the year effects, day of the week effects and also hour of the day effects seem
+to occur, so that share prices might tend to rise or fall at a particular time of the year, week or day.
+
+(b)
+
+There may be a short-run overreaction to recent events. For example, during the stock market
+crash in 1987, the market went into free fall, losing 20% in a few hours.
+
+(c)
+
+Individual shares or shares in small companies may be neglected.
+
+The paradox of efficient markets is that an efficient market requires people to believe that the market is
+inefficient so that they trade securities in an attempt to outperform the market.
+A noise trader is a trader who buys and sells irrationally and erratically; for example, overreacting to good
+or bad news. Noise traders can cause prices and risk levels to change from expected levels.
+
+2.7 Market capitalisation
+The market capitalisation is the market value of a company's shares multiplied by the number of issued
+shares.
+The market capitalisation or size of a company has also produced some pricing anomalies.
+The return from investing in smaller companies has been shown to be greater than the average return
+from all companies in the long run. This increased return may compensate for the greater risk associated
+with smaller companies, or it may be due to a start from a lower base.
+
+2.8 Behavioural finance
+Speculation by investors and market sentiment is a major factor in the behaviour of share prices.
+Behavioural finance is an alternative view to the efficient market hypothesis. It attempts to explain the
+market implications of the psychological factors behind investor decisions and suggests that irrational
+investor behaviour may significantly affect share price movements. These factors may explain why share
+prices appear sometimes to overreact to past price changes.
+
+Behavioural finance considers the emotional and 'illogical' factors that affect the decision-making of
+investors. These behavioural factors may explain why investors often do not act rationally. For example,
+behavioural theory may explain stock market bubbles, such as inexplicable bubbles in the share prices of
+technology stocks (in the early 2000s and the 2010s in the US) and a stock market crash, like the crashes
+of 1929 and 1987.
+
+Exam focus
+point
+
+Students may find it useful to read the short article called 'Behavioural finance' on the ACCA website.
+
+Part F
+w
+
+Business valuations
+
+18: Market efficiency
+
+375
+
+Chapter Roundup
+
+
+
+
+The theory behind share price movements can be explained by the three forms of the efficient market
+hypothesis.
+–
+
+Weak form efficiency implies that prices reflect all relevant information about past price
+movements and their implications.
+
+–
+
+Semi-strong form efficiency implies that prices reflect past price movements and publicly available
+knowledge.
+
+–
+
+Strong form efficiency implies that prices reflect past price movements, publicly available
+knowledge and inside knowledge.
+
+Fundamental analysis is based on the theory that share prices can be derived from a rational analysis of
+future dividends.
+Technical analysts or chartists work on the basis that past price patterns will be repeated, therefore
+future price movements can be predicted from historical patterns of share price movements in the past,
+and there are some patterns that continually reappear.
+Random walk theory is based on the idea that share prices will alter when new information becomes
+available.
+
+Share prices are also affected by marketability and liquidity of shares, availability and sources of
+information, market imperfections and pricing anomalies, market capitalisation and investor speculation.
+
+376
+
+18: Market efficiency
+
+Part F Business valuations
+w
+
+
+
+Quick Quiz
+1
+
+Which theory of share price behaviour does the following statement describe?
+'The analysis of external and internal influences on the operations of a company with a view to assisting in
+investment decisions.'
+
+A
+B
+C
+D
+
+Technical analysis
+Random walk theory
+Fundamental analysis theory
+Chartism
+
+2
+
+What is meant by 'efficiency' in the context of the efficient market hypothesis?
+
+3
+
+The different 'forms' of the efficient market hypothesis state that share prices reflect which types of
+information? Tick all that apply.
+Form of EMH
+Weak
+Semi-strong
+Strong
+No information
+All information in past share price record
+All other publicly available information
+Specialists' and experts' 'insider' knowledge
+
+4
+
+5
+
+Which theory makes which assertions?
+(a)
+
+Chartism
+
+(i)
+
+A share price can be expected to fluctuate around its
+'intrinsic' value.
+
+(b)
+
+Random walk theory
+
+(ii)
+
+Past share price patterns tend to be repeated.
+
+(c)
+
+Fundamental analysis theory
+
+(iii) The value of a share is the discounted present value of all
+future expected dividends on the share, discounted at the
+shareholders' cost of capital.
+
+List three factors affecting share price behaviour.
+
+Part F
+w
+
+Business valuations
+
+18: Market efficiency
+
+377
+
+Answers to Quick Quiz
+1
+
+C
+
+Fundamental analysis theory
+
+2
+
+Efficiency in processing information in the pricing of stocks and shares
+
+3
+Weak
+
+Form of EMH
+Semi-strong
+
+Strong
+
+No information
+All information in past share price record
+
+
+
+All other publicly available information
+
+
+
+
+
+
+
+
+Specialists' and experts' 'insider' knowledge
+4
+
+(a)
+(b)
+(c)
+
+5
+
+Any three of:
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+
+(ii)
+(i)
+(iii)
+
+Investor speculation
+Marketability and liquidity of shares
+Information
+Market imperfections
+Pricing anomalies
+Market capitalisation
+
+Now try the questions below from the Practice Question Bank
+
+378
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q30
+
+Examination
+
+2
+
+4 mins
+
+Section C Q21
+
+Introductory
+
+N/A
+
+39 mins
+
+18: Market efficiency
+
+Part F Business valuations
+w
+
+
+
+P
+A
+R
+T
+G
+
+Risk management
+
+w
+
+379
+
+380
+
+w
+
+
+
+Foreign
+currency risk
+
+Topic list
+
+Syllabus reference
+
+1 Exchange rates
+
+G1 (a)
+
+2 Foreign currency risk
+
+G1 (a)
+
+3 The causes of exchange rate fluctuations
+
+G2 (a), (b)
+
+4 Foreign currency risk management
+
+B3 (a)(iii),
+G3 (a), (b)
+
+5 Foreign currency derivatives
+
+G3 (c)
+
+Introduction
+In Part G, we look at various techniques for the management of risk, in
+particular foreign currency risk and interest rate risk. In this chapter, we are
+particularly concerned with risks related to exchange rate fluctuations.
+The first section contains some very important basic concepts so make sure
+you're happy with how foreign exchange rates are quoted and the causes of
+exchange rate fluctuations.
+The techniques to hedge foreign currency risk are covered in Section 4.
+Forward exchange rate calculations are straightforward, but you need to use a
+step by step approach to tackle money market hedges. Don't feel overwhelmed
+by the terminology in the derivatives section; you need to identify the main
+types of derivative and will not need to perform any calculations.
+
+w
+
+381
+
+Study guide
+Intellectual level
+B3
+
+The nature and role of money market
+
+(a)
+
+Describe the role of money markets in:
+
+(iii)
+
+Allowing an organisation to manage its exposure to foreign currency risk
+and interest rate risk
+
+G1
+
+The nature and types of risk and approaches to risk management
+
+(a)
+
+Describe and discuss different types of foreign currency risk:
+
+(i)
+
+Translation risk
+
+(ii)
+
+Transaction risk
+
+(iii)
+
+Economic risk
+
+G2
+
+Causes of exchange rate differences and interest rate fluctuations
+
+(a)
+
+Describe the causes of exchange rate fluctuations, including:
+
+(i)
+
+Balance of payments
+
+1
+
+(ii)
+
+Purchasing power parity theory
+
+2
+
+(iii)
+
+Interest rate parity theory
+
+2
+
+(iv)
+
+Four-way equivalence
+
+2
+
+(b)
+
+Forecast exchange rates using:
+
+2
+
+(i)
+
+Purchasing power parity
+
+(ii)
+
+Interest rate parity
+
+G3
+
+Hedging techniques for foreign currency risk
+
+(a)
+
+Discuss and apply traditional and basic methods of foreign currency risk
+management, including:
+
+(i)
+
+Currency of invoice
+
+1
+
+(ii)
+
+Netting and matching
+
+2
+
+(iii)
+
+Leading and lagging
+
+2
+
+(iv)
+
+Forward exchange contracts
+
+2
+
+(v)
+
+Money market hedging
+
+2
+
+(vi)
+
+Asset and liability management
+
+1
+
+(b)
+
+Compare and evaluate traditional methods of foreign currency risk
+management.
+
+2
+
+(c)
+
+Identify the main types of foreign currency derivatives used to hedge foreign
+currency risk and explain how they are used in hedging.
+
+1
+
+1
+
+2
+
+Exam guide
+This is an important chapter. You need to have a good understanding of various hedging methods, and be
+able to determine in a given situation what exposure needs hedging and how best to do it.
+ 

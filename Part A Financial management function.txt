@@ -1,0 +1,3985 @@
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+5
+
+Examples of different types of investment decision
+Decisions internal to the
+business enterprise
+
+
+
+
+
+
+Decisions involving
+external parties
+
+ Whether to carry out a takeover or a merger involving another business
+ Whether to engage in a joint venture with another enterprise
+
+Disinvestment decisions
+
+ Whether to sell off unprofitable segments of the business
+ Whether to sell old or surplus plant and machinery
+ The sale of subsidiary companies
+
+Whether to undertake new projects
+Whether to invest in new plant and machinery
+Research and development decisions
+Investment in a marketing or advertising campaign
+
+Question
+
+Disposal of surplus assets
+
+'The financial manager should identify surplus assets and dispose of them'. Why?
+
+Answer
+A surplus asset earns no return for the business. The business is likely to be paying the 'cost of capital' in
+respect of the money tied up in the asset, ie the money which it can realise by selling it.
+If surplus assets are sold, the business may be able to invest the cash released in more productive ways,
+or alternatively it may use the cash to cut its liabilities. Either way, it will enhance the return on capital
+employed for the business as a whole.
+Although selling surplus assets yields short-term benefits, the business should not jeopardise its activities
+in the medium or long term by disposing of productive capacity until the likelihood of it being required in
+the future has been fully assessed.
+
+1.5 Management accounting, financial accounting and financial
+management
+
+9/16
+
+Of course, it is not just people within an organisation who require information. Those external to the
+organisation, such as banks, shareholders, tax authorities, trade payables and government agencies, all
+desire information too.
+Management accountants provide internally used information. The financial accounting function
+provides externally used information. The management accountant is not concerned with the calculation
+of earnings per share for the statement of profit or loss and the financial accountant is not concerned with
+the variances between budgeted and actual labour expenditure.
+Management information provides a common source from which financial accounts and management
+accounts are prepared. The differences between the two types of accounts arise in the manner in which
+the common source of data is analysed.
+
+6
+
+Financial accounts
+
+Management accounts
+
+Financial accounts detail the performance of an
+organisation over a defined period and the state
+of affairs at the end of that period.
+
+Management accounts are used to aid
+management to record, plan and control activities
+and to help the decision-making process.
+
+Limited companies must, by law, prepare financial
+accounts.
+
+There is no legal requirement to prepare
+management accounts.
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+Financial accounts
+
+Management accounts
+
+The format of published financial accounts is
+determined by law and by accounting standards.
+In principle the accounts of different organisations
+can therefore be easily compared.
+
+The format of management accounts is entirely at
+management discretion: no strict rules govern the
+way they are prepared or presented.
+
+Financial accounts concentrate on the business as
+a whole, aggregating revenues and costs from
+different operations, and are an end in themselves.
+
+Management accounts can focus on specific areas
+of an organisation's activities. Information may aid
+a decision rather than be an end product of a
+decision.
+
+Most financial accounting information is of a
+monetary nature.
+
+Management accounts incorporate non-monetary
+measures.
+
+Financial accounts present an essentially historic
+picture of past operations.
+
+Management accounts are both a historical record
+and a future planning tool.
+
+As we have seen, financial management is the management of finance. Finance is used by an
+organisation just as, for example, labour is used by an organisation. Finance therefore needs management
+in a similar way to labour. The management accounting function provides information to ensure the
+effective management of labour and, in the same way, the financial management function provides
+information on, for example, projected cash flows to aid the effective management of finance.
+
+2 Financial objectives and the relationship with
+corporate strategy
+FAST FORWARD
+
+Strategy is a course of action to achieve an objective. There are three main levels of strategy in an
+organisation.
+
+
+
+
+Corporate: the general direction of the whole organisation
+Business: how the organisation or its business units tackle particular markets
+Operational/functional: specific strategies for different departments of the business
+
+2.1 Strategy
+Strategy may be defined as a course of action, including the specification of resources required, to
+achieve a specific objective.
+Strategy can be short term or long term, depending on the time horizon of the objective it is intended to
+achieve.
+This definition also indicates that since strategy depends on objectives or targets, the obvious starting
+point for a study of strategy is the identification and formulation of objectives.
+
+2.2 Corporate objectives
+FAST FORWARD
+
+Corporate objectives are relevant for the organisation as a whole, relating to key factors for business
+success.
+Corporate objectives are those which are concerned with the firm as a whole. Objectives should be
+explicit, quantifiable and capable of being achieved. The corporate objectives outline the expectations of
+the firm and the strategic planning process is concerned with the means of achieving the objectives.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+7
+
+Objectives should relate to the key factors for business success, which are typically as follows.
+
+
+
+
+
+
+
+
+
+Profitability (return on investment)
+Market share
+Growth
+Cash flow
+Customer satisfaction
+The quality of the firm's products
+Industrial relations
+Added value
+
+2.3 Financial objectives
+FAST FORWARD
+
+Financial targets may include targets for: earnings; earnings per share; dividend per share; gearing
+level; profit retention; operating profitability.
+The usual assumption in financial management for the private sector is that the primary financial objective
+of the company is to maximise shareholders' wealth.
+
+2.3.1 Shareholder wealth maximisation
+
+12/14, 6/15, 12/16
+
+If the financial objective of a company is to maximise the value of the company, and in particular the value
+of its ordinary shares, we need to be able to put values on a company and its shares. How do we do it?
+Three possible methods for the valuation of a company might occur to us.
+(a)
+
+Statement of financial position (balance sheet) valuation
+Here assets will be valued on a going concern basis. Certainly, investors will look at a company's
+statement of financial position. If retained profits rise every year, the company will be a profitable
+one. Statement of financial position values are not a measure of 'market value', although retained
+profits might give some indication of what the company could pay as dividends to shareholders.
+
+(b)
+
+Break-up basis
+This method of valuing a business is only of interest when the business is threatened with
+liquidation, or when its management is thinking about selling off individual assets to raise cash.
+
+(c)
+
+Market values
+The market value is the price at which buyers and sellers will trade stocks and shares in a company. This
+is the method of valuation which is most relevant to the financial objectives of a company.
+(i)
+
+(ii)
+
+When shares are traded on a recognised stock market, such as the stock exchange, the
+market value of a company can be measured by the price at which shares are currently
+being traded.
+When shares are in a private company, and are not traded on any stock market, there is no
+easy way to measure their market value. Even so, the financial objective of these companies
+should be to maximise the wealth of their ordinary shareholders.
+
+The wealth of the shareholders in a company comes from:
+
+
+
+
+Dividends received
+Market value of the shares
+
+A shareholder's return on investment is obtained in the form of:
+
+
+
+
+Dividends received
+Capital gains from increases in the market value of their shares
+
+If a company's shares are traded on a stock market, the wealth of shareholders is increased when the
+share price goes up. The price of a company's shares will go up when the company makes attractive
+profits, which it pays out as dividends or reinvests in the business to achieve future profit growth and
+8
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+dividend growth. However, to increase the share price the company should achieve its attractive profits
+without taking business risks and financial risks which worry shareholders.
+If there is an increase in earnings and dividends, management can hope for an increase in the share price
+too, so that shareholders benefit from both higher revenue (dividends) and also capital gains (higher
+share prices). Total shareholder return is a measure which combines the increase in share price and
+dividends paid and can be calculated as:
+(P1 P0 D1)/P0
+
+Where P0 is the share price at the beginning of the period
+P1 is the share price at the end of period
+D1 is the dividend paid
+
+Question
+
+Total shareholder return
+
+A shareholder purchased 1,000 shares in SJG Co on 1 January at a market price of $2.50 per share. On
+31 December the shares had an ex-div market value of $2.82 per share. The dividend paid during the
+period was $0.27 per share. What is the total shareholder return and what are the elements of total
+shareholder return?
+
+Answer
+The total shareholder return is:
+($2.82 – $2.50 + $0.27)/$2.50 = 0.24 or 24%
+This is made up of the capital gain (P1 – P0)/P0 = ($2.82 – $2.50)/$2.50 = 0.13 or 13%
+and the dividend yield D1/P0 = $0.27/$2.50 = 0.11 or 11%
+
+Exam focus
+point
+
+Students often forget to use P0 as the denominator when calculating the total shareholder return. The start
+of the period share price needs to be used, as the return being calculated is the return on the share price
+paid at the start of the period.
+Management should set targets for factors which they can influence directly, such as profits and dividend
+growth. A financial objective might be expressed as the aim of increasing profits, earnings per share and
+dividend per share by, say, 10% a year for each of the next five years.
+
+2.3.2 Profit maximisation
+
+12/14
+
+In much economic theory, it is assumed that the firm behaves in such a way as to maximise profits,
+where profit is viewed in an economist's sense. Unlike the accountant's concept of cost, total costs by this
+economist's definition include an element of reward for the risk-taking of the entrepreneur, called 'normal
+profit'.
+Where the entrepreneur is in full managerial control of the firm, as in the case of a small owner-managed
+company or partnership, the economist's assumption of profit maximisation would seem to be very
+reasonable. Remember though that the economist's concept of profits is broadly in terms of cash,
+whereas accounting profits may not equate to cash flows.
+Even in companies owned by shareholders but run by non-shareholding managers, if the manager is
+serving the company's (ie the shareholders') interests, we might expect that the profit maximisation
+assumption should be close to the truth.
+Although profits do matter, they are not the best measure of a company's achievements.
+(a)
+
+Accounting profits are not the same as 'economic' profits. Accounting profits can be manipulated
+to some extent by choices of accounting policies.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+9
+
+Question
+
+Manipulation of profits
+
+Can you give three examples of how accounting profits might be manipulated?
+
+Answer
+Here are some examples you might have chosen.
+(a)
+(b)
+(c)
+
+Provisions, such as provisions for depreciation or anticipated losses
+The capitalisation of various expenses, such as development costs
+Adding overhead costs to inventory valuations
+
+(b)
+
+Profit does not take account of risk. Shareholders will be very interested in the level of risk, and
+maximising profits may be achieved by increasing risk to unacceptable levels.
+
+(c)
+
+Profits on their own take no account of the volume of investment that it has taken to earn the
+profit. Profits must be related to the volume of investment to have any real meaning. Hence
+measures of financial achievement include:
+(i)
+(ii)
+(iii)
+
+(d)
+
+Accounting return on capital employed
+Earnings per share
+Yields on investment, eg dividend yield as a percentage of stock market value
+
+Profits are reported every year (with half-year interim results for quoted companies). They are
+measures of short-term performance, whereas a company's performance should ideally be judged
+over the longer term.
+
+2.3.3 Earnings per share growth
+Key term
+
+6/15
+
+Earnings per share is calculated by dividing the net profit or loss attributable to ordinary shareholders by
+the weighted average number of ordinary shares.
+Earnings per share (EPS) is widely used as a measure of a company's performance and is of particular
+importance in comparing results over a period of several years. A company must be able to sustain its
+earnings in order to pay dividends and reinvest in the business so as to achieve future growth. Investors also
+look for growth in the EPS from one year to the next.
+
+10
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+
+Question
+
+Earnings per share
+
+Walter Wall Carpets made profits before tax in 20X8 of $9,320,000. Tax amounted to $2,800,000.
+The company's share capital is as follows.
+$
+10,000,000
+2,000,000
+12,000,000
+
+Ordinary shares (10,000,000 shares of $1)
+8% preference shares
+Calculate the EPS for 20X8.
+
+Answer
+$
+9,320,000
+2,800,000
+6,520,000
+160,000
+6,360,000
+10,000,000
+63.6c
+
+Profit before tax
+Less tax
+Profits after tax
+Less preference dividend (8% of $2,000,000)
+Earnings attributable to ordinary shareholders
+Number of ordinary shares
+EPS
+
+Question
+
+Earnings per share growth
+
+Grasshopper made earnings attributable to shareholders of $8,250,000 in 20X8 and $8,880,000 in 20X9.
+The company's share capital was 12 million ordinary shares of $1 each in both years.
+Calculate the EPS for 20X8 and 20X9 and EPS growth in relative and absolute terms.
+
+Answer
+Earnings attributable to ordinary shareholders (20X8)
+Number of ordinary shares
+EPS (20X8)
+Earnings attributable to ordinary shareholders (20X9)
+Number of ordinary shares
+EPS (20X9)
+EPS growth (absolute) (74.0 – 68.8)
+EPS growth (relative) (5.2/68.8)
+
+$
+8,250,000
+12,000,000
+68.8c
+8,880,000
+12,000,000
+74.0c
+5.2c
+7.6%
+
+Note that:
+(a)
+(b)
+
+EPS is a figure based on past data, and
+It is easily manipulated by changes in accounting policies and by mergers or acquisitions.
+
+The use of the measure in calculating management bonuses makes it particularly liable to manipulation.
+For example, EPS can be increased via a share consolidation (exchanging a number of existing shares for
+one new share without altering the total value of the shareholding). The attention given to EPS as a
+performance measure by City analysts is arguably disproportionate to its true worth. Investors should be
+more concerned with future earnings, but of course estimates of these are more difficult to reach than the
+readily available figure.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+11
+
+2.3.4 Other financial targets
+In addition to targets for earnings, EPS and dividend per share, a company might set other financial
+targets, such as:
+(a)
+
+A restriction on the company's level of gearing, or debt. For example, a company's management
+might decide:
+(i)
+(ii)
+
+The ratio of long-term debt capital to equity capital should never exceed, say, 1:1.
+The cost of interest payments should never be higher than, say, 25% of total profits before
+interest and tax.
+
+(b)
+
+A target for profit retentions. For example, management might set a target that dividend cover
+(the ratio of distributable profits to dividends actually distributed) should not be less than, say, 2.5
+times.
+
+(c)
+
+A target for operating profitability. For example, management might set a target for the profit/sales
+ratio (say, a minimum of 10%) or for a return on capital employed (say, a minimum ROCE of
+20%).
+
+These financial targets are not primary financial objectives, but they can act as subsidiary targets or
+constraints which should help a company to achieve its main financial objective without incurring
+excessive risks. They are usually measured over a year rather than over the long term.
+Remember, however, that short-term measures of return can encourage a company to pursue short-term
+objectives at the expense of long-term ones, for example by deferring new capital investments, or
+spending only small amounts on research and development and on training. A major problem with setting
+a number of different financial targets, either primary targets or supporting secondary targets, is that they
+might not all be consistent with each other. When this happens, some compromises will have to be
+accepted.
+
+2.3.5 Example: Financial targets
+Lion Grange Co has recently introduced a formal scheme of long-range planning. Sales in the current year
+reached $10,000,000, and forecasts for the next five years are $10,600,000, $11,400,000, $12,400,000,
+$13,600,000 and $15,000,000. The ratio of net profit after tax to sales is 10%, and this is expected to
+continue throughout the planning period. Total assets less current liabilities will remain at around 125% of
+sales. Equity in the current year is $8,750,000.
+It was suggested at a recent board meeting that:
+(a)
+
+If profits rise, dividends should rise by at least the same percentage.
+
+(b)
+
+An earnings retention rate of 50% should be maintained ie a payment ratio of 50%.
+
+(c)
+
+The ratio of long-term borrowing to long-term funds (debt plus equity) is limited (by the market) to
+30%, which happens also to be the current gearing level of the company.
+
+You are required to prepare a financial analysis of the draft long-range plan.
+
+12
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+Solution
+The draft financial plan for profits, dividends, assets required and funding can be drawn up in a table, as
+follows.
+
+Sales
+Net profit after tax
+Dividends
+(50% of profit after tax)
+Total assets less current liabilities
+Equity (increased by
+retained earnings)
+Maximum debt
+(30% of long-term funds,
+or 3/7 equity)
+Funds available
+(Shortfalls) in funds *
+
+Current
+year
+$m
+10.00
+1.00
+
+Year 1
+$m
+10.60
+1.06
+
+Year 2
+$m
+11.40
+1.14
+
+Year 3
+$m
+12.40
+1.24
+
+Year 4
+$m
+13.60
+1.36
+
+Year 5
+$m
+15.00
+1.50
+
+0.50
+12.50
+
+0.53
+13.25
+
+0.57
+14.25
+
+0.62
+15.50
+
+0.68
+17.00
+
+0.75
+18.75
+
+8.75
+
+9.28
+
+9.85
+
+10.47
+
+11.15
+
+11.90
+
+3.75
+12.50
+
+3.98
+13.26
+
+4.22
+14.07
+
+4.49
+14.96
+
+4.78
+15.93
+
+5.10
+17.00
+
+0.00
+
+0.00
+
+(0.18)
+
+(0.54)
+
+(1.07)
+
+(1.75)
+
+* Given maximum gearing of 30% and no new issue of shares = funds available minus net assets required.
+
+Question
+
+Dividends and gearing
+
+Suggest policies on dividends, retained earnings and gearing for Lion Grange, using the data above.
+
+Answer
+The financial objectives of the company are not compatible with each other. Adjustments will have to be
+made.
+(a)
+
+Given the assumptions about sales, profits, dividends and net assets required, there will be an
+increasing shortfall of funds from year 2 onwards, unless new shares are issued or the gearing
+level rises above 30%.
+
+(b)
+
+In years 2 and 3, the shortfall can be eliminated by retaining a greater percentage of profits, but
+this may have a serious adverse effect on the share price. In years 4 and 5, the shortfall in funds
+cannot be removed even if dividend payments are reduced to nothing.
+
+(c)
+
+The net asset turnover (sales/capital employed) appears to be low. The situation would be eased if
+investments were able to generate a higher volume of sales, so that fewer non-current assets and
+less working capital would be required to support the projected level of sales.
+
+(d)
+
+If asset turnover cannot be improved, it may be possible to increase the profit to sales ratio by
+reducing costs or increasing selling prices.
+
+(e)
+
+If a new issue of shares is proposed to make up the shortfall in funds, the amount of funds
+required must be considered very carefully. Total dividends would have to be increased in order to
+pay dividends on the new shares. The company seems unable to offer prospects of suitable
+dividend payments, and so raising new equity might be difficult.
+
+(f)
+
+It is conceivable that extra funds could be raised by issuing new debt capital, so that the level of
+gearing would be over 30%. It is uncertain whether investors would be prepared to lend money so
+as to increase gearing. If more funds were borrowed, profits after interest and tax would fall so that
+the share price might also be reduced.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+13
+
+2.4 Non-financial objectives
+A company may have important non-financial objectives which must be satisfied in order to ensure the
+continuing participation of all stakeholders. Without their participation, financial objectives such as
+maximising shareholder wealth may be compromised in the future. Examples of non-financial objectives
+are as follows.
+(a)
+
+The welfare of employees
+A company might try to provide good wages and salaries, comfortable and safe working
+conditions, good training and career development, and good pensions. If redundancies are
+necessary, many companies will provide generous redundancy payments, or spend money trying
+to find alternative employment for redundant staff.
+
+(b)
+
+The welfare of management
+Managers will often take decisions to improve their own circumstances, even though their
+decisions will incur expenditure and so reduce profits. High salaries, company cars and other perks
+are all examples of managers promoting their own interests.
+
+(c)
+
+The provision of a service
+The major objectives of some companies will include fulfilment of a responsibility to provide a
+service to the public. Examples are the privatised British Telecom and British Gas. Providing a
+service is of course a key responsibility of government departments and local authorities.
+
+(d)
+
+The fulfilment of responsibilities towards customers
+Responsibilities towards customers include providing in good time a product or service of a quality
+that customers expect, and dealing honestly and fairly with customers. Reliable supply
+arrangements and after-sales service arrangements are important.
+
+(e)
+
+The fulfilment of responsibilities towards suppliers
+Responsibilities towards suppliers are expressed mainly in terms of trading relationships. A
+company's size could give it considerable power as a buyer. The company should not use its power
+unscrupulously. Suppliers might rely on receiving prompt payment, in accordance with the agreed
+terms of trade.
+
+(f)
+
+The welfare of society as a whole
+The management of some companies are aware of the role that their company has to play in
+exercising corporate social responsibility. This includes compliance with applicable laws and
+regulations but is wider than that. Companies may be aware of their responsibility to minimise
+pollution and other harmful 'externalities' (such as excessive traffic) which their activities generate.
+In delivering 'green' environmental policies, a company may improve its corporate image as well as
+reducing harmful externality effects. Companies also may consider their 'positive' responsibilities,
+for example to make a contribution to the community by local sponsorship.
+
+Other non-financial objectives are growth, diversification and leadership in research and development.
+Non-financial objectives do not negate financial objectives, but they do suggest that the simple theory of
+company finance, that the objective of a firm is to maximise the wealth of ordinary shareholders, is too
+narrow. Financial objectives may have to be compromised in order to satisfy non-financial objectives.
+
+3 Stakeholders
+FAST FORWARD
+
+14
+
+Stakeholders are individuals or groups who are affected by the activities of the firm. They can be
+classified as internal (employees and managers), connected (shareholders, customers and suppliers) and
+external (local communities, pressure groups, government).
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+Key term
+
+There is a variety of different groups or individuals whose interests are directly affected by the activities of
+a firm. These groups or individuals are referred to as stakeholders in the firms.
+The various stakeholder groups in a firm can be classified as follows.
+Stakeholder groups
+Internal
+
+Employees and pensioners
+Managers
+Directors
+
+Connected
+
+Shareholders
+Debt holders (bondholders)
+Customers
+Bankers
+Suppliers
+Competitors
+
+External
+
+Government
+Pressure groups
+Local and national communities
+Professional and regulatory bodies
+
+3.1 Objectives of stakeholder groups
+The various groups of stakeholders in a firm will have different goals which will depend in part on the
+particular situation of the enterprise. Some of the more important aspects of these different goals are as
+follows.
+(a)
+
+Ordinary (equity) shareholders
+
+(b)
+
+Ordinary (equity) shareholders are the providers of the risk capital of a company. Usually their goal
+will be to maximise the wealth which they have as a result of the ownership of the shares in the
+company.
+Trade payables (creditors)
+
+(c)
+
+Trade payables have supplied goods or services to the firm. Trade payables will generally be
+profit-maximising firms themselves and have the objective of being paid the full amount due by the
+date agreed. On the other hand, they usually wish to ensure that they continue their trading
+relationship with the firm and may sometimes be prepared to accept later payment to avoid
+jeopardising that relationship.
+Long-term payables (creditors)
+Long-term payables, which will often be banks, have the objective of receiving payments of interest
+and capital on the loan by the due date for the repayments. Where the loan is secured on assets of
+the company, the lender will be able to appoint a receiver to dispose of the company's assets if the
+company defaults on the repayments. To avoid the possibility that this may result in a loss to the
+lender if the assets are not sufficient to cover the loan, the lender will wish to minimise the risk of
+default and will not wish to lend more than is prudent.
+
+(d)
+
+Employees
+Employees will usually want to maximise their rewards paid to them in salaries and benefits,
+according to the particular skills and the rewards available in alternative employment. Most
+employees will also want continuity of employment.
+
+(e)
+
+Government
+Government has objectives which can be formulated in political terms. Government agencies
+impinge on the firm's activities in different ways including through taxation of the firm's profits, the
+provision of grants, health and safety legislation, training initiatives, and so on. Government
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+15
+
+policies will often be related to macroeconomic objectives, such as sustained economic growth and
+high levels of employment.
+(f)
+
+Management
+Management has, like other employees (and managers who are not directors will normally be
+employees), the objective of maximising its own rewards. Directors, and the managers to whom they
+delegate responsibilities, must manage the company for the benefit of shareholders. The objective
+of reward maximisation might conflict with the exercise of this duty.
+
+3.2 Stakeholder groups, strategy and objectives
+The actions of stakeholder groups in pursuit of their various goals can exert influence on strategy and
+objectives. The greater the power of the stakeholder, the greater their influence will be. Each stakeholder
+group will have different expectations about what it wants, and the expectations of the various groups
+may conflict. Each group, however, will influence strategic decision making.
+
+3.3 Shareholders and management
+
+9/16
+
+Although ordinary shareholders (equity shareholders) are the owners of the company to whom the board
+of directors are accountable, the actual powers of shareholders tend to be restricted, except in companies
+where the shareholders are also the directors. The day to day running of a company is the responsibility of
+management. Although the company's results are submitted for shareholders' approval at the annual
+general meeting (AGM), there is often apathy and acquiescence in directors' recommendations.
+Shareholders are often ignorant about their company's current situation and future prospects. They have
+no right to inspect the books of account, and their forecasts of future prospects are gleaned from the
+annual report and accounts, stockbrokers, investment journals and daily newspapers. The relationship
+between management and shareholders is sometimes referred to as an agency relationship, in which
+managers act as agents for the shareholders.
+
+Key term
+
+Agency relationship: a description of the relationship between management and shareholders expressing
+the idea that managers act as agents for the shareholder, using delegated powers to run the company in
+the shareholders' best interests.
+However, if managers hold none or very few of the equity shares of the company they work for, what is to
+stop them from working inefficiently?
+One power that shareholders possess is the right to remove the directors from office. But shareholders
+have to take the initiative to do this and, in many companies, the shareholders lack the energy and
+organisation to take such a step. Even so, directors will want the company's report and accounts, and the
+proposed final dividend, to meet with shareholders' approval at the AGM.
+Another reason why managers might do their best to improve the financial performance of their company
+is that managers' pay is often related to the size or profitability of the company. Managers in very big
+companies, or in very profitable companies, will normally expect to earn higher salaries than managers in
+smaller or less successful companies. There is also an argument for giving managers some profit-related
+pay, or providing incentives which are related to profits or share price. We will come back to this in
+Section 5 of this chapter.
+
+3.4 Shareholders, managers and the company's long-term creditors
+The relationship between long-term creditors (payables) of a company, the management and the
+shareholders of a company encompasses the following factors.
+
+16
+
+(a)
+
+Management may decide to raise finance for a company by taking out long-term or medium-term
+loans or issuing loan notes in the case of larger companies. They might well be taking risky
+investment decisions using outsiders' money to finance them.
+
+(b)
+
+Investors who provide debt finance will rely on the company's management to generate enough net
+cash inflows to make interest payments on time, and eventually to repay loans.
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+However, long-term creditors will often take security for their loan, perhaps in the form of a fixed
+charge over an asset (such as a mortgage on a building). Loan notes are also often subject to
+certain restrictive covenants, which restrict the company's rights to borrow more money until the
+loan notes have been repaid.
+If a company is unable to pay what it owes its creditors, the creditors may decide to exercise their
+security or perhaps eventually apply for the company to be wound up.
+(c)
+
+The money that is provided by long-term creditors will be invested to earn profits, and the profits
+(in excess of what is needed to pay interest on the borrowing) will provide extra dividends or
+retained profits for the shareholders of the company. In other words, shareholders will expect to
+increase their wealth using creditors' money.
+
+3.5 Shareholders, managers and government
+The government does not have a direct interest in companies (except for those in which it actually holds
+shares). However, the government does often have a strong indirect interest in companies' affairs.
+(a)
+
+Taxation
+
+(b)
+
+The government raises taxes on sales and profits and on shareholders' dividends. It also expects
+companies to act as tax collectors for income tax and sales tax (VAT). The tax structure might
+influence investors' preferences for either dividends or capital growth.
+Encouraging new investments
+The government might provide funds towards the cost of some investment projects. It might also
+encourage private investment by offering tax incentives.
+
+(c)
+
+Encouraging a wider spread of share ownership
+
+(d)
+
+In the UK, the government has made some attempts to encourage more private individuals to
+become company shareholders by means of attractive privatisation issues (such as in the
+electricity, gas and telecommunications industries) and tax incentives, such as tax-free savings
+accounts (Individual Savings Accounts or ISAs) to encourage individuals to invest in shares.
+Legislation
+
+(e)
+
+The government also influences companies, and the relationships between shareholders,
+creditors, management, employees and the general public through legislation, including the
+Companies Acts, legislation on employment, health and safety regulations, legislation on consumer
+protection and consumer rights and environmental legislation.
+Economic policy
+A government's economic policy will affect business activity. For example, exchange rate policy
+will have implications for the revenues of exporting firms and for the purchase costs of importing
+firms. Policies on economic growth, inflation, employment, interest rates, and so on are all
+relevant to business activities.
+
+4 Measuring the achievement of corporate objectives
+FAST FORWARD
+
+Performance measurement is a part of the system of financial control of an enterprise as well as being
+important to investors.
+
+4.1 Measuring financial performance
+
+6/15
+
+As part of the system of financial control in an organisation, it will be necessary to have ways of
+measuring the progress of the enterprise, so that managers know how well the company is doing. A
+common means of doing this is through ratio analysis, which is concerned with comparing and
+quantifying relationships between financial variables, such as those variables found in the statement of
+financial position and statement of profit or loss of the enterprise.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+17
+
+Exam focus
+point
+
+The ACCA examining team has said, more than once, that knowledge of how to calculate and interpret key
+ratios is a weak point for many candidates. Make sure that it is one of your strong points. In reviewing
+ratio analysis below, we are in part revising material included in previous exams.
+
+4.2 The broad categories of ratios
+Ratios can be grouped into the following four categories.
+
+
+
+
+
+Profitability and return
+Debt and gearing
+Liquidity
+Shareholders' investment ratios ('stock market ratios')
+
+The key to obtaining meaningful information from ratio analysis is comparison: comparing ratios over a
+number of periods within the same business to establish whether the business is improving or declining,
+and comparing ratios between similar businesses to see whether the company you are analysing is
+better or worse than average within its own business sector.
+
+4.3 Ratio pyramids
+The Du Pont system of ratio analysis involves constructing a pyramid of interrelated ratios as shown
+below.
+Return on equity
+×
+
+×
+
+Asset turnover
+
+Return on sales
+(profit margin)
+Net income
+Sales
+
+–
+
+÷
+
+Total assets ÷ equity
+
+Return on investment
+
+Sales
+
+Sales
+
+Total costs
+
+÷
+
+Total assets
+
+Non-current
+assets
+
++
+
+Current
+assets
+
+Such ratio pyramids help in providing for an overall management plan to achieve profitability, and allow
+the interrelationships between ratios to be checked.
+
+4.4 Profitability
+A company ought of course to be profitable if it is to maximise shareholder wealth, and obvious checks on
+profitability are:
+(a)
+(b)
+
+Whether the company has made a profit or a loss on its ordinary activities
+By how much this year's profit or loss is bigger or smaller than last year's profit or loss
+
+Profit before taxation is generally thought to be a better figure to use than profit after taxation, because
+there might be unusual variations in the tax charge from year to year which would not affect the
+underlying profitability of the company's operations.
+Another profit figure that should be considered is profit before interest and tax (PBIT). This is the amount
+of profit which the company earned before having to pay interest to the providers of loan capital. This is
+also a good measure of operating profit, the profit that the company is making from its business
+operations. By providers of loan capital, we usually mean longer-term loan capital, such as loan notes and
+medium-term bank loans.
+
+18
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+4.4.1 Profitability and return: the return on capital employed
+You cannot assess profits or profit growth properly without relating them to the amount of funds
+(the capital) employed in making the profits. The most important profitability ratio is therefore return on
+capital employed (ROCE), also called return on investment (ROI).
+
+Formulae to
+learn
+
+Return on capital employed =
+
+PBIT
+Capital employed
+
+Capital employed = Shareholders' funds plus long-term liabilities
+= Total assets less current liabilities
+
+4.4.2 Evaluating the ROCE
+What does a company's ROCE tell us? What should we be looking for? There are three comparisons that
+can be made.
+(a)
+
+The change in ROCE from one year to the next
+
+(b)
+
+The ROCE being earned by other companies, if this information is available
+
+(c)
+
+A comparison of the ROCE with current market borrowing rates (warning: this needs to be
+interpreted with care, as ROCE will often reflect higher risk than borrowing rates)
+(i)
+
+(ii)
+
+What would be the cost of extra borrowing to the company if it needed more loans, and is it
+earning a ROCE that suggests it could make high enough profits to make such borrowing
+worthwhile?
+Is the company making a ROCE which suggests that it is making profitable use of its
+current borrowing?
+
+4.4.3 Secondary ratios
+We may analyse the ROCE by looking at the kinds of interrelationships between ratios used in ratio
+pyramids, which we mentioned earlier. We can thus find out why the ROCE is high or low, or better or
+worse than last year. Profit margin and asset turnover together explain the ROCE, and if the ROCE is the
+primary profitability ratio, these other two are the secondary ratios. The relationship between the three
+ratios is as follows.
+Profit margin
+
+asset turnover = ROCE
+
+PBIT
+Sales revenue
+
+Sales revenue
+Capital employed
+
+PBIT
+Capital employed
+
+It is also worth commenting on the change in revenue (turnover) from one year to the next. Strong sales
+growth will usually indicate volume growth as well as revenue increases due to price rises, and volume
+growth is one sign of a prosperous company.
+
+Exam focus
+point
+
+Remember that capital employed is not just shareholders' funds. It is shareholders' funds plus long-term
+liabilities.
+
+4.4.4 Return on equity
+Another measure of the firm's overall performance is return on equity. This compares net profit after tax
+with the equity that shareholders have invested in the firm.
+
+Formula to
+learn
+
+Return on equity =
+
+Earnings attributable to ordinary shareholders
+Shareholders' equity
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+19
+
+This ratio shows the earning power of the shareholders' book investment and can be used to compare two
+firms in the same industry. A high return on equity could reflect the firm's good management of expenses
+and ability to invest in profitable projects. However, it could also reflect a higher level of debt finance
+(gearing) with associated higher risk (see Section 4.5).
+Note that shareholders' equity includes reserves and is not limited to the ordinary share account.
+
+4.4.5 Gross profit margin, the net profit margin and profit analysis
+Depending on the format of the statement of profit or loss, you may be able to calculate the gross profit
+margin and also the net profit margin. Looking at the two together can be quite informative.
+
+4.4.6 Example: Profit margins
+A company has the following summarised statements of profit or loss for two consecutive years.
+Year 1
+$
+70,000
+42,000
+28,000
+21,000
+7,000
+
+Sales revenue
+Less cost of sales
+Gross profit
+Less expenses
+Net profit
+
+Year 2
+$
+100,000
+55,000
+45,000
+35,000
+10,000
+
+Although the net profit margin is the same for both years at 10%, the gross profit margin is not.
+In year 1 it is:
+
+28,000
+70,000
+
+40% and in year 2 it is:
+
+45,000
+100,000
+
+45%
+
+Is this good or bad for the business? An increased profit margin must be good because this indicates a
+wider gap between selling price and cost of sales. However, given that the net profit ratio has stayed the
+same in the second year, expenses must be rising. In year 1 expenses were 30% of revenue, whereas in
+year 2 they were 35% of revenue. This indicates that administration or selling and distribution expenses
+may require tighter control.
+A percentage analysis of profit between year 1 and year 2 is as follows.
+
+Cost of sales as a % of sales
+Gross profit as a % of sales
+Expenses as a % of sales
+Net profit as a % of sales
+Gross profit as a % of sales
+
+Year 1
+%
+60
+40
+100
+
+Year 2
+%
+55
+45
+100
+
+30
+10
+40
+
+35
+10
+45
+
+4.5 Debt and gearing ratios
+Debt ratios are concerned with how much the company owes in relation to its size and whether it is getting
+into heavier debt or improving its situation. Financial gearing (often simply referred to as 'gearing') is the
+amount of debt finance a company uses relative to its equity finance.
+(a)
+
+When a company is heavily in debt, and seems to be getting even more heavily into debt, banks
+and other would-be lenders are very soon likely to refuse further borrowing.
+
+(b)
+
+When a company is earning only a modest profit before interest and tax, and has a heavy debt
+burden, there will be very little profit left over for shareholders after the interest charges have been
+paid.
+
+The main debt and gearing ratios are covered in Chapter 15.
+
+20
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+
+4.6 Liquidity ratios: cash and working capital
+Profitability is of course an important aspect of a company's performance, and debt or gearing is another.
+Neither, however, directly addresses the key issue of liquidity. A company needs liquid assets so that it
+can meet its debts when they fall due. The main liquidity ratios will be described in Chapter 4.
+
+4.7 Shareholders' investment ratios
+FAST FORWARD
+
+Indicators such as dividend yield, EPS, P/E ratio and dividend cover can be used to assess investor
+returns.
+Returns to shareholders are obtained in the form of dividends received and/or capital gains from
+increases in market value.
+
+A company will only be able to raise finance if investors think that the returns they can expect are
+satisfactory in view of the risks they are taking. We must therefore consider how investors appraise
+companies. We will concentrate on quoted companies.
+Information that is relevant to market prices and returns is available from published stock market
+information, and in particular from certain stock market ratios.
+
+Key terms
+
+Cum dividend or cum div means the purchaser of shares is entitled to receive the next dividend payment.
+Ex dividend or ex div means that the purchaser of shares is not entitled to receive the next dividend
+payment.
+The relationship between the cum-div price and the ex-div price is:
+Market price per share (ex div) = Market price per share (cum div) – forthcoming dividend per share.
+When stock market share prices are quoted, shares go from being cum div to ex div on a given day, and
+shareholders buying the shares from the time they go ex div are not entitled to the next dividend pay-out,
+which will happen soon.
+
+4.7.1 The dividend yield
+Formula to
+learn
+
+Dividend yield =
+
+Dividend per share
+Ex-divmarket priceper share
+
+The dividend yield is the return a shareholder is currently expecting on the shares of a company.
+(a)
+(b)
+
+The dividend per share is taken as the dividend for the previous year.
+Ex div means that the share price does not include the right to the most recent dividend.
+
+Shareholders look for both dividend yield and capital growth. Obviously, dividend yield is therefore an
+important aspect of a share's performance.
+
+Question
+
+Dividend yield
+
+In the year to 30 September 20X8, an advertising agency declares an interim ordinary dividend of 7.4c per
+share and a final ordinary dividend of 8.6c per share. Assuming an ex-div share price of 315 cents, what is
+the dividend yield?
+
+Answer
+The total dividend per share is (7.4 + 8.6) = 16 cents
+16
+× 100 = 5.1%
+315
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+21
+
+4.7.2 Earnings per share (EPS)
+Formula to
+learn
+
+Earnings per share =
+
+Profit distributable to ordinary shareholders
+Weighted average number of ordinary shares
+
+The use of earnings per share was discussed in Section 2.3.3 of this chapter.
+
+4.7.3 The price earnings ratio
+Formula to
+learn
+
+Price earnings ratio =
+
+Market price of share
+EPS
+
+The price earnings (P/E) ratio is a useful yardstick for assessing the relative worth of a share.
+This is the same as:
+Total market value of equity
+Total earnings
+The value of the P/E ratio reflects the market's appraisal of the share's future prospects. It is an
+important ratio because it relates two key considerations for investors, the market price of a share and its
+earnings capacity.
+
+4.7.4 Example: Price earnings ratio
+A company has recently declared a dividend of 12c per share. The share price is $3.72 cum div and
+earnings for the most recent year were 30c per share. Calculate the P/E ratio.
+
+Solution
+P/E ratio =
+
+MV ex div
+EPS
+
+$3.60
+30c
+
+12
+
+The ex-div price should be used, as this reflects the underlying value of the share.
+
+4.7.5 Changes in EPS: the P/E ratio and the share price
+An approach to assessing what share prices ought to be, which is often used in practice, is a P/E ratio
+approach.
+(a)
+
+The relationship between the EPS and the share price is measured by the P/E ratio.
+
+(b)
+
+The P/E ratio tends to change gradually and is reasonably consistent between companies operating
+in similar businesses.
+So if the EPS goes up or down, the share price should be expected to move up or down too, and
+the new share price will be the new EPS multiplied by the constant P/E ratio.
+
+(c)
+
+For example, if a company had an EPS last year of 30c and a share price of $3.60, its P/E ratio would have
+been 12. If the current year's EPS is 33c, we might expect that the P/E ratio would remain the same, 12,
+and so the share price ought to go up to 12 33c = $3.96.
+
+Exam focus
+point
+
+22
+
+The ACCA examining team has commented that students have had problems with these ratios and
+emphasised how important it is to be familiar with them.
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+
+Question
+
+Shareholder ratios
+
+The directors of X are comparing some of the company's year-end statistics with those of Y, the
+company's main competitor. X has had a fairly normal year in terms of profit but Y's latest profits have
+been severely reduced by an exceptional loss arising from the closure of an unsuccessful division. Y has a
+considerably higher level of financial gearing than X.
+The board is focusing on the figures given below.
+Share price
+Nominal value of shares
+Dividend yield
+Price/earnings ratio
+Proportion of profits earned overseas
+
+X
+450c
+50c
+5%
+15
+60%
+
+Y
+525c
+100c
+4%
+25
+0%
+
+In the course of the discussion a number of comments are made, including those given below.
+Required
+
+Discuss comments (a) to (d), making use of the above data where appropriate.
+(a)
+'There is something odd about the P/E ratios. Y has had a particularly bad year. Its P/E should
+surely be lower than ours.'
+(b)
+'One of the factors which may explain Y's high P/E is the high financial gearing.'
+(c)
+'The comparison of our own P/E ratio and dividend yield with those of Y is not really valid. The
+shares of the two companies have different nominal values.'
+(d)
+'These figures will not please our shareholders. The dividend yield is below the return an investor
+could currently obtain on risk-free government bonds.'
+
+Answer
+(a)
+
+P/E ratio
+
+The P/E ratio measures the relationship between the market price of a share and the earnings per
+share. Its calculation involves the use of the share price, which is a reflection of the market's
+expectations of the future earnings performance, and the historic level of earnings.
+If Y has just suffered an abnormally bad year's profit performance which is not expected to be
+repeated, the market will price the share on the basis of its expected future earnings. The earnings
+figure used to calculate the ratio will be the historical figure which is lower than that forecast for
+the future, and thus the ratio will appear high.
+(b)
+
+Financial gearing
+
+The financial gearing of the firm expresses the relationship between debt and equity in the capital
+structure. A high level of gearing means that there is a high ratio of debt to equity. This means that
+the company carries a high fixed interest charge, and thus the amount of earnings available to
+equity will be more variable from year to year than in a company with a lower gearing level. Thus
+the shareholders will carry a higher level of risk than in a company with lower gearing. All other
+things being equal, it is therefore likely that the share price in a highly geared company will be
+lower than that in a low geared firm.
+The historical P/E ratio is dependent on the current share price and the historical level of
+earnings. A high P/E ratio is therefore more likely to be found in a company with low gearing than
+in one with high gearing. In the case of Y, the high P/E ratio is more probably attributable to the
+depressed level of earnings than to the financial structure of the company.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+23
+
+(c)
+
+Comparison of ratios
+
+The ratios are calculated as follows.
+=
+
+Market share price
+Earnings per share
+
+Dividend yield =
+
+Dividend per share
+Market share price
+
+P/E ratio
+
+Even if the shares have a nominal value (which isn't the case in every country) this nominal value
+is irrelevant in calculating the ratios. This can be proved by calculating the effect on the ratios of a
+share split – the ratios will be unchanged. Thus if all other factors (such as accounting conventions
+used in the two firms) are equal, a direct comparison of the ratios is valid.
+
+(d)
+
+Comparison with risk-free securities
+
+As outlined in (c) above, the dividend yield is the relationship between the dividend per share and
+the current market price of the share. The market price of the share reflects investor expectations
+about the future level of earnings and growth. If the share is trading with a low dividend yield, this
+means that investors have positive growth expectations after taking the level of risk into account.
+Although government bonds carry little risk, they are unlikely to offer significant growth potential
+either, and this means that the share will still be more attractive even after the low dividend yield
+has been taken into account.
+
+5 Encouraging the achievement of stakeholder
+objectives
+
+9/16
+
+5.1 Managerial reward schemes
+FAST FORWARD
+
+It is argued that management will only make optimal decisions if they are monitored and appropriate
+incentives are given.
+The agency relationship arising from the separation of ownership from management is sometimes
+characterised as the 'agency problem'. For example, if managers hold none or very little of the equity
+shares of the company they work for, what is to stop them from working inefficiently, not bothering to
+look for profitable new investment opportunities or giving themselves high salaries and perks?
+
+Key term
+
+Goal congruence is accordance between the objectives of agents acting within an organisation and the
+objectives of the organisation as a whole.
+
+Goal congruence may be better achieved and the 'agency problem' better dealt with by offering
+organisational rewards (more pay and promotion) for the achievement of certain levels of performance.
+The conventional theory of reward structures is that if the organisation establishes procedures for formal
+measurement of performance, and rewards individuals for good performance, individuals will be more
+likely to direct their efforts towards achieving the organisation's goals.
+Examples of such remuneration incentives are:
+(a)
+
+Performance-related pay
+
+Pay or bonuses are usually related to the size of profits, but other performance indicators may be
+used.
+(b)
+
+Rewarding managers with shares
+
+This might be done when a private company 'goes public' and managers are invited to subscribe
+for shares in the company at an attractive offer price. In a management buy-out or buy-in (the
+latter involving purchase of the business by new managers; the former by existing managers),
+managers become owner-managers.
+24
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+Shares and share options are also often included as part of the remuneration package for
+employees and managers in listed businesses. Ideally these will be given in many small tranches to
+incentivise building value over time.
+(c)
+
+Executive share option plans (ESOPs)
+
+In a share option scheme, selected employees are given a number of share options, each of which
+gives the holder the right after a certain date to subscribe for shares in the company at a fixed
+price. The value of an option will increase if the company is successful and its share price goes up.
+
+5.1.1 Beneficial consequences of linking reward schemes and performance
+(a)
+
+Performance-related pay may give individuals an incentive to achieve a good performance level.
+
+(b)
+
+Effective schemes also succeed in attracting and keeping the employees that are valuable to the
+organisation.
+
+(c)
+
+By tying an organisation's key performance indicators to a scheme, it is clear to all employees what
+level of performance is expected of them and helps communicate their role in attempting to create
+organisational success.
+
+(d)
+
+By rewarding performance, an effective scheme creates an organisation focused on continuous
+improvement.
+
+(e)
+
+Schemes based on shares can motivate employees/managers to act in the long-term interests of
+the organisation by doing things to increase the organisation's market value.
+
+5.1.2 Problems associated with reward schemes
+(a)
+
+A serious problem that can arise is that performance-related pay and performance evaluation
+systems can encourage dysfunctional behaviour. Many investigations have noted the tendency of
+managers to pad their budgets either in anticipation of cuts by superiors or to make subsequent
+variances more favourable.
+
+(b)
+
+Perhaps of even more concern are the numerous examples of managers making decisions that are
+contrary to the wider purposes of the organisation.
+
+(c)
+
+Schemes designed to ensure long-term achievements (that is, to combat short-termism or
+myopic management) may not motivate since effort and reward are too distant in time from each
+other (or managers may not think they will be around that long!).
+
+(d)
+
+It is questionable whether any performance measures or set of measures can provide a
+comprehensive assessment of what a single person achieves for an organisation. There will
+always be a lack of goal congruence, employees being committed to what is measured, rather than
+the objectives of the organisation.
+
+(e)
+
+Self-interested performance may be encouraged at the expense of teamwork.
+
+(f)
+
+High levels of output (whether this is number of calls answered or production of product X) may be
+achieved at the expense of quality.
+
+(g)
+
+In order to make bonuses more accessible, standards and targets may have to be lowered, with
+knock-on effects on quality.
+
+(h)
+
+They undervalue intrinsic rewards (which reflect the satisfaction that an individual experiences
+from doing a job and the opportunity for growth that the job provides) given that they promote
+extrinsic rewards (bonuses and so on).
+
+5.2 Regulatory requirements
+FAST FORWARD
+
+The achievement of stakeholder objectives can be enforced using regulatory requirements such as
+corporate governance codes of best practice and stock exchange listing regulations.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+25
+
+5.2.1 Corporate governance
+FAST FORWARD
+
+Key term
+
+Good corporate governance involves ensuring the effectiveness of risk management and internal control,
+accountability to shareholders and other stakeholders, and conducting business in an ethical and
+effective way.
+Corporate governance is the system by which organisations are directed and controlled.
+
+There are a number of key elements in corporate governance.
+(a)
+
+The management and reduction of risk is a fundamental issue in all definitions of good
+governance, whether explicitly stated or merely implied.
+
+(b)
+
+The notion that overall performance is enhanced by good organisational structures and
+management practice within set best practice guidelines underpins most definitions.
+
+(c)
+
+Good governance provides a framework for an organisation to pursue its strategy in an ethical and
+effective way from the perspective of all stakeholder groups affected, and offers safeguards
+against misuse of resources, physical or intellectual.
+
+(d)
+
+Good governance is not just about externally established codes but also requires a willingness to
+apply the spirit as well as the letter of the law.
+
+(e)
+
+Accountability is generally a major theme in all governance frameworks.
+
+Corporate governance codes of good practice generally cover the following areas.
+
+26
+
+(a)
+
+The board should be responsible for taking major policy and strategic decisions.
+
+(b)
+
+Directors should have a mix of skills and their performance should be assessed regularly.
+
+(c)
+
+Appointments should be conducted by formal procedures administered by a nomination
+committee.
+
+(d)
+
+Division of responsibilities at the head of an organisation is most simply achieved by separating
+the roles of chairman and chief executive.
+
+(e)
+
+Independent non-executive directors have a key role in governance. Their number and status
+should mean that their views carry significant weight.
+
+(f)
+
+Directors' remuneration should be set by a remuneration committee consisting of independent
+non-executive directors.
+
+(g)
+
+Remuneration should be dependent on organisation and individual performance.
+
+(h)
+
+Accounts should disclose remuneration policy and (in detail) the packages of individual directors.
+
+(i)
+
+Boards should regularly review risk management and internal control, and carry out a wider
+review annually, the results of which should be disclosed in the accounts.
+
+(j)
+
+Audit committees of independent non-executive directors should liaise with external auditors,
+supervise internal audit, and review the annual accounts and internal controls.
+
+(k)
+
+The board should maintain a regular dialogue with shareholders, particularly institutional
+shareholders. The annual general meeting is a significant forum for communication.
+
+(l)
+
+Annual reports must convey a fair and balanced view of the organisation. This might include
+whether the organisation has complied with governance regulations and codes, and give specific
+disclosures about the board, internal control reviews, going concern status and relations with
+stakeholders.
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+5.2.2 Stock exchange listing regulations
+FAST FORWARD
+
+A stock exchange employs rules and regulations to ensure that the stock market operates fairly and
+efficiently for all parties involved.
+A stock exchange is an organisation that provides a marketplace in which to trade shares. It also sets rules
+and regulations to ensure that the stock market operates both efficiently and fairly for all parties involved.
+The stock exchange operates as two different markets.
+
+
+It is a market for issuers who wish to raise equity capital by offering shares for sale to investors
+(a primary market). Such companies are listed on the stock exchange.
+
+
+
+It is also a market for investors who can buy and sell shares at any time, without directly affecting
+the entities in which they are buying the shares (a secondary market).
+
+To be listed on a stock exchange, a stock must meet the listing requirements laid down in the listing rules
+in its approval process.
+
+6 Not for profit organisations
+FAST FORWARD
+
+Not for profit and public sector organisations have their own objectives, generally concerned with
+achieving specified objectives effectively and efficiently.
+
+6.1 Not for profit sectors
+Although most people would know one if they saw it, there is a surprising problem in clearly defining what
+counts as a not for profit (NFP) organisation. Local authority services, for example, would not be setting
+objectives in order to arrive at a profit for shareholders, but nowadays they are being increasingly required
+to apply the same disciplines and processes as companies which are oriented towards straightforward
+profit goals.
+
+Case Study
+Oxfam operates around 750 shops in Britain, and these operate at a profit. The Royal Society for the
+Protection of Birds owns and operates an internet and mail order trading company which operates
+profitably and effectively.
+
+The not for profit sector may involve a number of different kinds of organisation with, for example,
+differing legal status – charities, statutory bodies offering public transport or the provision of services
+such as leisure, health or public utilities.
+The tasks of setting objectives and developing strategies and controls for their implementation can all help
+in improving the performance of charities and NFP organisations.
+
+6.2 Objectives
+The primary objective of many NFP organisations will be the effective provision of a service, not the
+creation of profit. This has implications for reporting of results. The organisation will need to be open and
+honest in showing how it has managed its budget and allocated funds raised. Efficiency and effectiveness
+are particularly important in the use of donated funds, but there is a danger that resource efficiency
+becomes more important than service effectiveness.
+Here are some possible objectives for a NFP organisation.
+(a)
+(b)
+
+Surplus maximisation (equivalent to profit maximisation eg a charity shop)
+Revenue maximisation (as for a commercial business eg a charity shop)
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+27
+
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+
+Usage maximisation (for example, leisure centre swimming pool usage)
+Usage targeting (matching the capacity available, for example, in a government-funded hospital)
+Full/partial cost recovery (minimising subsidy)
+Budget maximisation (maximising what is offered)
+Producer satisfaction maximisation (satisfying the wants of staff and volunteers)
+Client satisfaction maximisation (the police generating the support of the public)
+
+6.3 Value for money
+FAST FORWARD
+
+12/16
+
+Value for money is getting the best possible combination of services from the least resources.
+
+It is reasonable to argue that not for profit organisations best serve society's interests when the gap
+between the benefits they provide and the cost of providing those benefits is greatest. This is commonly
+termed value for money and is not dissimilar from the concept of profit maximisation, apart from the fact
+that society's interests are being maximised rather than profit.
+
+Key term
+
+Value for money can be defined as getting the best possible combination of services from the least
+resources, which means maximising the benefits for the lowest possible cost.
+
+This is usually accepted as requiring the application of economy, effectiveness and efficiency (sometimes
+known as the 3Es).
+(a)
+(b)
+(c)
+
+Economy (spending money frugally)
+Efficiency (getting out as much as possible for what goes in)
+Effectiveness (getting done, by means of (a) and (b), what was supposed to be done)
+
+More formally, these criteria can be defined as follows.
+
+Key terms
+
+Economy is attaining the appropriate quantity and quality of inputs at the lowest cost to achieve a certain
+level of outputs.
+Efficiency is the relationship between inputs and outputs.
+Effectiveness is the extent to which declared objectives/goals are met.
+
+6.4 Example: Economy, efficiency, effectiveness
+(a)
+(b)
+(c)
+
+Economy. This dimension relates to the cost of inputs. Economy within a school could be
+measured, for example, by comparing average salaries per teacher with earlier years and budgets.
+Efficiency. The efficiency with which a school's IT laboratory is used might be measured in terms
+of the proportion of the school week for which it is used.
+Effectiveness. The effectiveness of a school's objective to produce quality teaching could be
+measured by the proportion of students going on to higher or further education.
+
+6.5 Performance measures
+Value for money as a concept assumes that there is a yardstick against which to measure the overall
+performance of an organisation. It can be difficult to determine where there is value for money, however.
+
+28
+
+(a)
+
+Not for profit organisations tend to have multiple objectives, so that even if they can all be clearly
+identified it is impossible to say which is the overriding objective.
+
+(b)
+
+Outputs can seldom be measured in a way that is generally agreed to be meaningful. (Are good
+exam results alone an adequate measure of the quality of teaching? How does one quantify the
+easing of pain following a successful operation?) For example, in a publicly funded healthcare
+system, success may be measured in terms of fewer patient deaths per hospital admission, shorter
+waiting lists for operations, average speed of patient recovery, and so on.
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+Here are a number of possible solutions to these problems.
+(a)
+
+Performance can be judged in terms of inputs. This is very common in everyday life. If somebody
+tells you that their suit cost $750, for example, you would generally conclude that it was an
+extremely well-designed and good quality suit, even if you did not think so when you first saw it.
+The drawback, of course, is that you might also conclude that the person wearing the suit had been
+cheated or was a fool, or you may think that no piece of clothing is worth $750. It is similar with
+the inputs and outputs of a non profit seeking organisation.
+
+(b)
+
+Accept that performance measurement must to some extent be subjective. Judgements can be
+made by experts.
+
+(c)
+
+Most not for profit organisations do not face competition but this does not mean that they are all
+unique. Bodies like local governments, health services, and so on can compare their performance
+against each other and against the historical results of their predecessors. Unit cost
+measurements like 'cost per patient day' or 'cost of borrowing one library book' can be established
+to allow organisations to assess whether they are doing better or worse than their counterparts.
+Care must be taken not to read too much into limited information, however.
+
+6.6 Example: Performance measures
+Although output of not for profit organisations is difficult to measure in a way that is generally agreed to
+be meaningful, it is not impossible. Outputs of a university might be measured in terms of the following.
+Broader performance measures
+
+
+
+
+
+
+
+Proportion of total undergraduate population attending the university (by subject)
+Proportion of students graduating and classes of degrees obtained
+Amount of private sector research funds attracted
+Number of students finding employment after graduation
+Number of publications/articles produced by teaching staff
+
+Operational performance measures
+
+
+
+
+
+
+
+Unit costs for each operating 'unit'
+Staff: student ratios; staff workloads
+Class sizes
+Availability of computers; good library stock
+Courses offered
+
+6.7 Example: Inputs and outputs
+Suppose that at a cost of $40,000 and 4,000 hours (inputs) in an average year, two policemen travel
+8,000 miles and are instrumental in 200 arrests (outputs). A large number of possibly meaningful
+measures can be derived from these few figures, as the table below shows.
+$40,000
+Cost ($)
+
+$40,000
+
+4,000 hours
+
+8,000 miles
+
+200 arrests
+
+$40,000/4,000 =
+$10 per hour
+
+$40,000/8,000 =
+$5 per mile
+
+$40,000/200 =
+$200 per arrest
+
+4,000/8,000 =
+½ hour to patrol
+1 mile
+
+4,000/200 =
+20 hours per
+arrest
+
+Time (hours)
+
+4,000
+
+4,000/$40,000 =
+6 minutes
+patrolling per
+$1 spent
+
+Miles
+
+8,000
+
+8,000/$40,000 =
+0.2 of a mile per
+$1
+
+8,000/4,000 =
+2 miles patrolled
+per hour
+
+200
+
+200/$40,000 =
+1 arrest per $200
+
+200/4,000 =
+1 arrest every
+20 hours
+
+Arrests
+
+8,000/200 = 40
+miles per arrest
+200/8,000 =
+1 arrest every
+40 miles
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+29
+
+These measures do not necessarily identify cause and effect or personal responsibility and accountability.
+Actual performance needs to be compared:
+
+
+
+
+
+
+
+30
+
+With standards, if there are any
+With similar external activities
+With similar internal activities
+With targets
+With indices
+Over time – as trends
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+
+Chapter Roundup
+
+
+Financial management decisions cover investment decisions, financing decisions, dividend decisions and
+risk management.
+
+
+
+Strategy is a course of action to achieve an objective. There are three main levels of strategy in an
+organisation.
+
+–
+–
+–
+
+Corporate: the general direction of the whole organisation
+Business: how the organisation or its business units tackle particular markets
+Operational/functional: specific strategies for different departments of the business
+
+
+
+Corporate objectives are relevant for the organisation as a whole, relating to key factors for business
+success.
+
+
+
+Financial targets may include targets for: earnings; earnings per share; dividend per share; gearing
+level; profit retention; operating profitability.
+The usual assumption in financial management for the private sector is that the primary financial objective
+of the company is to maximise shareholders' wealth.
+
+
+
+Stakeholders are individuals or groups who are affected by the activities of the firm. They can be
+classified as internal (employees and managers), connected (shareholders, customers and suppliers) and
+external (local communities, pressure groups, government).
+
+
+
+Performance measurement is a part of the system of financial control of an enterprise as well as being
+important to investors.
+
+
+
+Indicators such as dividend yield, EPS, P/E ratio and dividend cover can be used to assess investor
+returns.
+
+
+
+It is argued that management will only make optimal decisions if they are monitored and appropriate
+incentives are given.
+
+
+
+The achievement of stakeholder objectives can be enforced using regulatory requirements such as
+corporate governance codes of best practice and stock exchange listing regulations.
+
+
+
+Good corporate governance involves ensuring the effectiveness of risk management and internal control,
+accountability to shareholders and other stakeholders, and conducting business in an ethical and
+effective way.
+
+
+
+A stock exchange employs rules and regulations to ensure that the stock market operates fairly and
+efficiently for all parties involved.
+
+
+
+Not for profit and public sector organisations have their own objectives, generally concerned with
+achieving specified objectives effectively and efficiently.
+
+
+
+Value for money is getting the best possible combination of services from the least resources.
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+31
+
+Quick Quiz
+1
+
+Give a definition of financial management.
+
+2
+
+What three broad types of decision does financial management involve?
+
+3
+
+What main financial objective does the theory of company finance assume that a business organisation
+has?
+
+4
+
+If earnings per share fall from one year to the next, so will the level of dividends.
+True
+False
+
+5
+
+Tick which are stakeholder groups for a company.
+Employees
+Ordinary shareholders
+The Board of Directors
+Trade payables (suppliers)
+?
+?
+
+6
+
+Return on capital employed =
+
+7
+
+Which of the following are examples of financial objectives that a company might choose to pursue?
+A
+B
+C
+D
+
+8
+
+Provision of good wages and salaries
+Restricting the level of gearing to below a specified target level
+Dealing honestly and fairly with customers on all occasions
+Producing environmentally friendly products
+
+Fill in the blank.
+
+........................................ is accordance between the objectives of agents acting within an organisation.
+9
+
+What are the 'Three Es' of value for money?
+E ........................................
+E ........................................
+E ........................................
+
+10
+
+32
+
+In the context of managing performance in not for profit organisations, which of the following definitions
+is incorrect?
+A
+
+Value for money means providing a service in a way which is economical, efficient and effective.
+
+B
+
+Economy means doing things cheaply: not spending $2 when the same thing can be bought for $1.
+
+C
+
+Efficiency means doing things quickly: minimising the amount of time that is spent on a given
+activity.
+
+D
+
+Effectiveness means doing the right things: spending funds so as to achieve the organisation's
+objectives.
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+
+Answers to Quick Quiz
+1
+
+The management of the finances of an organisation in order to achieve the financial objectives of the
+organisation.
+
+2
+
+Investment decisions, financing decisions, dividend decisions
+
+3
+
+To maximise the wealth of the company's ordinary shareholders.
+
+4
+
+False. Dividends may still be maintained from payments out of profits retained in earlier periods.
+
+5
+
+You should have ticked all four boxes.
+
+6
+
+Pr ofit before int erest and tax
+Capital employed
+
+7
+
+B
+
+8
+
+Goal congruence
+
+9
+
+Efficiency. Economy. Effectiveness.
+
+10
+
+C
+
+This is a financial objective that relates to the level of risk that the company accepts.
+
+Efficiency means doing things well: getting the best use out of what money is spent on.
+
+Now try the questions below from the Practice Question Bank
+
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q1
+
+Examination
+
+2
+
+4 mins
+
+Section A Q2
+
+Examination
+
+2
+
+4 mins
+
+Section A Q3
+
+Examination
+
+2
+
+4 mins
+
+Part A Financial management function
+1: Financial management
+managemen and financial objectives
+w
+
+33
+
+34
+
+1: Financial management and financial objectives
+Part A Financial
+Financial management function
+w
+
+
+
+P
+A
+R
+T
+B
+
+Financial management
+environment
+
+w
+
+35
+
+36
+
+w
+
+
+
+The economic
+environment
+for business
+
+Topic list
+1 Outline of macroeconomic policy
+
+Syllabus reference
+B1 (a)
+
+2 Fiscal policy
+
+B1 (b), (c)
+
+3 Monetary policy
+
+B1 (b), (c)
+
+4 Exchange rates
+
+B1 (b), (c)
+
+5 Competition policy
+
+B1 (d)
+
+6 Government assistance for business
+
+B1 (d)
+
+7 Green policies
+
+B1 (d)
+
+8 Corporate governance regulation
+
+B1 (d)
+
+Introduction
+A business will strive to achieve its objectives, but it has to do so in an
+economy which the government will try to steer to achieve its own objectives.
+In this chapter we're moving away from the microeconomics of the individual
+business to the macroeconomics of the economy as a whole. The business
+(and you as an individual) will need to understand how government policies
+can impact on different aspects of the economy, and the implications for the
+business's own activities and future plans.
+The main macroeconomic policy tools we will look at are fiscal, monetary,
+interest rate, and exchange rate policy. We will also look at the impact that
+specific government policies have on businesses.
+
+w
+
+37
+
+Study guide
+Intellectual level
+B1
+
+The economic environment for business
+
+(a)
+
+Identify and explain the main macroeconomic policy targets.
+
+1
+
+(b)
+
+Define and discuss the role of fiscal, monetary, interest rate and exchange
+rate policies in achieving macroeconomic policy targets.
+
+1
+
+(c)
+
+Explain how government economic policy interacts with planning and
+decision-making in business.
+
+2
+
+(d)
+
+Explain the need for, and the interaction with, planning and decision-making
+in business of:
+
+1
+
+(i)
+
+Competition policy
+
+2
+
+(ii)
+
+Government assistance for business
+
+2
+
+(iii)
+
+Green policies
+
+2
+
+(iv)
+
+Corporate governance regulation
+
+2
+
+Exam guide
+The emphasis in the exam will be on discussing how economic conditions or policies affect particular
+businesses, for example the impact of a change in interest rates.
+
+1 Outline of macroeconomic policy
+FAST FORWARD
+
+Macroeconomic policy involves:
+
+
+
+
+Policy objectives – the ultimate aims of economic policy
+Policy targets – quantified levels or ranges which policy is intended to achieve
+Policy instruments – the tools used to achieve objectives
+
+Achievement of economic growth, low inflation, full employment and balance of payments stability are
+policy objectives.
+Policy targets might be set for economic growth or the rate of inflation, for example.
+
+1.1 Microeconomics, macroeconomics and economic policy
+Key terms
+
+Microeconomics is concerned with the economic behaviour of individual firms and consumers or
+households.
+Macroeconomics is concerned with the economy at large, and with the behaviour of large aggregates
+such as the national income, the money supply and the level of employment.
+A government is concerned with how the economy is behaving as a whole, and therefore with
+macroeconomic variables.
+Macroeconomic policy can affect planning and decision-making in various ways, for example via interest
+rate changes, which affect borrowing costs and required rates of return.
+Note also that a government might adopt policies which try to exert influence at the microeconomic level.
+Examples include policies to restrict the maximum hours an individual can work or the imposition of a
+minimum wage.
+
+38
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+
+1.2 Economic policies and objectives
+
+12/14
+
+The policies pursued by a government may serve various objectives.
+
+Economic
+growth
+
+Control inflation
+
+AIMS
+
+Balance of
+payments stability
+
+Full
+employment
+
+(a)
+
+Economic growth
+'Growth' implies an increase in national income in 'real' terms (increases caused by price inflation
+are not real increases at all). It is usually interpreted as a rising standard of living.
+
+(b)
+
+Control price inflation
+This means managing price inflation to a low, stable level. Inflation is viewed as a problem
+because, if a country has a higher rate of inflation than its major trading partners, its exports will
+become relatively expensive. It leads to a redistribution of income and wealth in ways which may
+be undesirable. In times of high inflation, substantial labour time is spent on planning and
+implementing price changes.
+
+(c)
+
+Full employment
+Full employment does not mean that everyone who wants a job has one all the time, but it does
+mean that unemployment levels are low, and involuntary unemployment is short term.
+
+(d)
+
+Balance of payments stability
+The wealth of a country relative to others, a country's creditworthiness as a borrower, and the
+goodwill between countries in international relations might all depend on the achievement of an
+external trade balance over time. Deficits in external trade, with imports exceeding exports, might
+also be damaging for the prospects of economic growth.
+
+Monetary
+
+Fiscal
+
+POLICIES
+
+External trade
+
+Part B Financial management
+management environment
+w
+
+Exchange rate
+
+2: The economic environment for business
+
+39
+
+To try to achieve its objectives, a government will use a number of different policy tools or policy
+instruments. These include the following.
+(a)
+
+Monetary policy
+Monetary policy aims to influence monetary variables such as the rate of interest and the money
+supply in order to achieve targets set for employment, inflation, economic growth and the balance
+of payments.
+
+(b)
+
+Fiscal policy
+Fiscal policy involves using government spending and taxation in order to influence aggregate
+demand in the economy.
+
+(c)
+
+Exchange rate policy
+Some economists argue that economic objectives can be achieved through management of the
+exchange rate by the government. The strength or weakness of sterling's value, for example, will
+influence the volume of UK imports and exports, the balance of payments and interest rates.
+
+(d)
+
+External trade policy
+A government might have a policy for promoting economic growth by stimulating exports; for
+example, by managing the exchange rate to make exports cheaper for foreign purchasers. Another
+argument is that there should be import controls to provide some form of protection for domestic
+manufacturing industries by making the cost of imports higher and the volume of imports lower.
+Protection could encourage domestic output to rise, stimulating the domestic economy.
+
+These policy tools are not mutually exclusive and a government might adopt a policy mix of monetary
+policy, fiscal policy and exchange rate policy and external trade policy in an attempt to achieve its
+intermediate and ultimate economic objectives.
+
+1.3 Conflicts in policy objectives and instruments
+Macroeconomic policy aims cannot necessarily all be sustained together for a long period of time;
+attempts to achieve one objective will often have adverse effects on others, sooner or later.
+(a)
+
+There may be a conflict between steady balanced growth in the economy and full employment.
+Although a growing economy should be able to provide more jobs, there is some concern that
+since an economy must be modernised to grow and modern technology is labour saving, it might
+be possible to achieve growth without creating many more jobs, and so keeping unemployment at
+a high level.
+
+(b)
+
+In the UK, problems with creating more employment and steady growth in the economy have
+been a lack of domestic and global demand following the global financial crisis, the balance of
+payments, the foreign exchange value of sterling, inflation and the money supply. The objectives of
+lower unemployment and economic growth have been difficult to achieve because of the problems
+and conflicts with secondary objectives.
+(i)
+
+To create jobs and growth, there must be an increase in aggregate demand. When demand
+picks up there will be a surge in imports, with foreign goods bought by UK manufacturers
+(eg raw materials) and consumers.
+
+(ii)
+
+For example, in the UK, the high rate of imports creates a deficit in the balance of
+payments, which in turn will weaken sterling and raise the cost of imports, thus giving
+some impetus to price rises.
+
+(iii)
+
+To maintain the value of a country's currency, interest rates might need to be kept high,
+and high interest rates appear to deter companies from investing.
+
+In practice, achieving the best mix of economic policies also involves a number of problems, such as the
+following:
+
+
+
+
+40
+
+Inadequate information
+Time lags between use of policy and effects being noticeable
+Political pressure for short-term solutions
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+
+
+
+
+Unpredictable side effects of policies
+The influence of other countries
+Conflict between policy instruments
+
+2 Fiscal policy
+FAST FORWARD
+
+Fiscal policy seeks to influence the economy by managing the amounts which the government spends
+and the amounts it collects through taxation. Fiscal policy can be used as an instrument of demand
+management.
+
+2.1 Fiscal policy and demand management
+Key term
+
+9/16
+
+Fiscal policy is action by the government to spend money, or to collect money in taxes, with the purpose
+of influencing the condition of the national economy.
+A government might intervene in the economy by:
+(a)
+
+Spending more money and financing this expenditure by borrowing
+
+(b)
+
+Collecting more in taxes without increasing public spending
+
+(c)
+
+Collecting more in taxes in order to increase public spending, thus diverting income from one
+part of the economy to another
+
+Government spending is an 'injection' into the economy, adding to total demand for goods and services in
+the economy (known as aggregate demand) and therefore national income, whereas taxes are a
+'withdrawal' from the economy. Fiscal policy can thus be used as an instrument of demand management
+ie deliberate policies to stimulate and control the level of aggregate demand in an economy. Too little
+demand creates unemployment, too much creates inflation.
+Fiscal policy appears to offer a method of managing aggregate demand in the economy.
+(a)
+
+If the government spends more – for example, on public works such as hospitals, roads and
+sewers – without raising more money in taxation (ie by borrowing more) it will increase
+expenditure in the economy, and so raise demand.
+
+(b)
+
+If the government kept its own spending at the same level but reduced the levels of taxation, it
+would also stimulate demand in the economy because firms and households would have more of
+their own money after tax for consumption or saving/investing. This is an expansionary policy.
+
+(c)
+
+In the same way, a government can reduce demand in the economy by raising taxes or reducing
+its expenditure. This is a contractionary policy.
+
+2.2 Fiscal policy and business
+Fiscal policy affects business enterprises in both service and manufacturing industries in various ways.
+For example:
+(a)
+
+By influencing the level of aggregate demand (AD) for goods and services in the economy,
+macroeconomic policy affects the environment for business. Business planning should take
+account of the likely effect of changes in AD for sales growth. For example, a drop in AD might
+mean lower demand from customers for a business's products and services. Business planning
+will be easier if government policy is relatively stable.
+
+(b)
+
+Tax changes brought about by fiscal policy affect businesses. For example, labour costs will be
+affected by changes in employment taxes. For example, if indirect taxes such as sales tax or excise
+duty rise, either the additional cost will have to be absorbed or the rise will have to be passed on to
+consumers in the form of higher prices.
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+41
+
+3 Monetary policy
+FAST FORWARD
+
+Monetary policy aims to influence monetary variables such as the rate of interest and the money supply in
+order to achieve targets set, such as targets for the rate of inflation.
+Money is important because:
+(a)
+
+It 'oils the wheels' of economic activity, providing an easy method for exchanging goods and
+services (ie buying and selling).
+
+(b)
+
+The total amount of money in a national economy may have a significant influence on economic
+activity and inflation.
+
+3.1 The role and aims of monetary policy
+Key term
+
+9/16
+
+Monetary policy is the regulation of the economy through control of the monetary system by operating on
+such variables as the money supply, the level of interest rates and the conditions for availability of credit.
+The effectiveness of monetary policy will depend on:
+(a)
+
+Whether the targets of monetary policy are achieved successfully
+
+(b)
+
+Whether the success of monetary policy leads on to the successful achievement of the
+intermediate target (eg lower inflation)
+
+(c)
+
+Whether the successful achievement of the intermediate target (eg lower inflation) leads on to
+the successful achievement of the overall objective (eg stronger economic growth)
+
+3.2 Targets of monetary policy
+Targets of monetary policy are likely to relate to the volume of national income and expenditure.
+
+
+Growth in the size of the money supply
+
+
+
+The level of interest rates
+
+
+
+The volume of credit, or growth in the volume of credit
+
+
+
+The volume of expenditure in the economy (ie national income or gross national product (GNP)
+itself)
+
+3.3 The money supply as a target of monetary policy
+To monetarist economists, the money supply is a possible intermediate target of economic policy. This is
+because they claim that an increase in the money supply will raise prices and money incomes, and this in
+turn will raise the demand for money to spend.
+
+3.4 Interest rates as a target for monetary policy
+The authorities may decide that interest rates themselves should be a target of monetary policy. This
+would be appropriate if it is considered that there is a direct relationship between interest rates and the
+level of expenditure in the economy.
+It certainly seems logical that interest rates should have a strong influence on economic activity.
+However, although empirical evidence suggests there is some connection between interest rates and
+investment (by companies) and consumer expenditure, the connection is not a stable and predictable one.
+Some economists argue that the key element affecting investment is business confidence rather than the
+level of interest rates. Interest rate changes are only likely to affect the level of expenditure after a
+considerable time lag.
+In 1997 the British government gave responsibility for setting short-term interest rates to the central bank,
+the Bank of England. The Bank sets rates at a level which it considers appropriate, given the inflation rate
+target set by the government. For example, if inflation is forecast to be excessive, increasing interest rates
+42
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+should increase saving, reduce borrowing and reduce investment, thus reducing aggregate demand in the
+economy. With lower aggregate demand, there is less pressure for suppliers to increase prices as they
+struggle to hit sales targets, so inflationary pressure is reduced. The purpose of having the central bank
+setting interest rates is to remove the risk of political influence over the decisions. In the European
+Monetary Union (where the euro is the common currency), the interest rates that prevail are effectively set
+at the European level.
+
+3.5 Interest rate policy and business
+Interest rate changes brought about by government policy affect the borrowing costs of business.
+Increases in interest rates will mean that fewer investments show positive returns, deterring companies
+from borrowing to finance expansion. Increases in interest rates will also exert a downward pressure on
+share prices, making it more difficult for companies to raise monies from new share issues. Businesses
+will also be squeezed by decreases in consumer demand that result from increases in interest rates.
+
+Question
+
+Interest rate levels
+
+Outline the effects on the economy of a policy of high interest rates to dampen demand and inflation.
+
+Answer
+An increase in interest rates is thought to reduce the money supply through demand for credit in the
+economy, thereby reducing the level of effective demand. This will, in turn, decrease inflation and improve
+the balance of payments (the latter by lowering the price of exports, increasing demand for them and
+simultaneously increasing the relative price of imports, reducing demand for them, and freeing more
+domestic output for sale abroad). Aggregate expenditure in the economy will decrease for various
+reasons.
+(a)
+
+A higher interest rate encourages savings at the expense of consumer expenditure.
+
+(b)
+
+Higher interest rates will increase mortgage payments and will thus reduce the amount of
+disposable income in the hands of home buyers for discretionary spending.
+
+(c)
+
+The higher cost of consumer credit will deter borrowing and spending on consumer durables.
+
+(d)
+
+Higher prices of goods due to higher borrowing costs for industry will also reduce some
+consumer expenditure in the economy.
+
+Investment expenditure may also decline for two reasons:
+(a)
+
+Higher interest rates deter some investment due to increased borrowing costs.
+
+(b)
+
+Higher interest rates may make the corporate sector pessimistic about future business prospects
+and the economy. This may further reduce investment in the economy.
+
+To the extent that higher domestic interest rates lead to an appreciation of the exchange rate, this should
+reduce inflation by lowering the cost of imported items. Exporters will experience pressure on their costs
+as a result of the more competitive price conditions they face, and may be less willing to concede high
+wage demands, thus wage inflation may be constrained. The desired outcomes of the authorities' interest
+rate policy noted above may be negated by the following effects of higher interest rates.
+(a)
+
+Higher interest results in greater interest income for savers, who may increase their spending due
+to this interest windfall.
+
+(b)
+
+Since mortgage payments are generally a significant part of domestic household expenditure, any
+increase in them will be reflected immediately in reported inflation. This could lead to higher wage
+demands in the economy, and may result in a wage-price spiral.
+
+(c)
+
+By encouraging capital inflows, higher interest rates will tend to lead to an appreciation of the
+currency's exchange rate. This makes exports more expensive and imports less expensive.
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+43
+
+(d)
+
+(e)
+
+A reduction in investment may decrease the pressure of demand in the economy but at the same
+time will set in motion a process which in the future could reduce the economy's potential for
+production.
+To the extent that higher interest rates squeeze demand in the economy, they will reduce
+employment, decreasing the proceeds of taxation and increasing government expenditure on the
+unemployed.
+
+Case Study
+Lift off! For the first time in ten years the US Federal Reserve has raised interest rates.
+As expected rates were increased by 0.25% to a range of 0.25% to 0.5%.
+A rate rise can be seen as a vote of confidence by the Federal Reserve in the US economy.
+US unemployment has fallen to 5% – the lowest level in seven and a half years and the annual growth
+rate is running at a robust 2.1%. But despite those healthy indicators, interest rates are at emergency
+levels. Between September 2007 and December 2008 the benchmark Federal Funds rates fell from
+5.25% to between zero and 0.25% in an effort to stave off recession.
+Economists argue it is high time rates started to head higher, to prevent excessive consumer borrowing
+and prevent bubbles emerging in the housing market and other types of assets.
+There is some concern over companies that have borrowed too.
+(Morris, 2015)
+
+4 Exchange rates
+FAST FORWARD
+
+Exchange rates are determined by supply and demand, even under fixed exchange rate systems.
+Governments can intervene to influence the exchange rate by, for example, adjusting interest rates.
+Government policies on exchange rates might be fixed or floating exchange rates as two extreme
+policies, but 'in-between' schemes have been more common.
+
+Key term
+
+An exchange rate is the rate at which one country's currency can be traded in exchange for another
+country's currency.
+Dealers in foreign exchange make their profit by buying currency at one exchange rate, and selling it at a
+different rate. This means that there is a selling rate and a buying rate for a currency.
+
+4.1 Factors influencing the exchange rate for a currency
+
+12/16
+
+The exchange rate between two currencies is determined primarily by supply and demand in the foreign
+exchange markets. Demand comes from individuals, firms and governments who want to buy a currency
+and supply comes from those who want to sell it.
+Supply and demand in turn are subject to a number of influences.
+
+
+
+
+
+
+44
+
+The rate of inflation, compared with the rate of inflation in other countries
+Interest rates, compared with interest rates in other countries
+The balance of payments
+Speculation
+Government policy on intervention to influence the exchange rate
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+Other factors influence the exchange rate through their relationship with the items identified above.
+(a)
+
+Total income and expenditure (demand) in the domestic economy determines the demand for
+goods. This includes imported goods and demand for goods produced in the country which would
+otherwise be exported if demand for them did not exist in the home markets.
+
+(b)
+
+Output capacity and the level of employment in the domestic economy might influence the
+balance of payments because, if the domestic economy has full employment already, it will be
+unable to increase its volume of production for exports.
+
+(c)
+
+The growth in the money supply influences interest rates and domestic inflation.
+
+We will look at the cause of exchange rate fluctuations in more detail in Chapter 19.
+
+4.2 Consequences of an exchange rate policy
+Reasons for a policy of controlling the exchange rate are as follows.
+(a)
+
+To rectify a balance of trade deficit, by trying to bring about a fall in the exchange rate
+
+(b)
+
+To prevent a balance of trade surplus from getting too large, by trying to bring about a limited rise
+in the exchange rate
+
+(c)
+
+To stabilise the exchange rate of the currency, as exporters and importers will then face less risk
+of exchange rate movements wiping out their profits; a stable currency increases confidence in the
+currency and promotes international trade.
+
+4.3 Fixed exchange rates
+A government may try to keep the exchange rate at a fixed level against a major currency such as the US
+dollar, or may try to keep it within a specified value range. However, if a government cannot control
+inflation, the real value of its currency would not remain fixed. If one country's rate of inflation is higher
+than others, its export prices will become uncompetitive in overseas markets and the country's trade
+deficit will grow (or its trade surplus will diminish). Devaluation of the currency would be necessary for a
+recovery. For example, a government may work to move the exchange rate from $2:£1 to $1:£1 so that
+exports become less expensive.
+If exchange rates are fixed, any changes in (real) interest rates in one country will create pressure for the
+movement of capital into or out of the country. Capital movements would put pressure on the country's
+exchange rate to change. It follows that if exchange rates are fixed and capital is allowed to move freely between
+countries (ie there are no exchange controls) all countries must have consistent policies on interest rates.
+
+4.4 Floating exchange rates
+Key term
+
+Floating exchange rates are exchange rates which are allowed to fluctuate according to demand and
+supply conditions in the foreign exchange markets.
+Floating exchange rates are at the opposite end of the spectrum to fixed rates. At this extreme, exchange
+rates are completely left to the free play of demand and supply market forces, and there is no official
+financing at all. The ruling exchange rate is, therefore, at equilibrium by definition.
+In practice, many governments seek to combine the advantages of exchange rate stability with flexibility
+and to avoid the disadvantages of both rigidly fixed exchange rates and free floating. Managed (or dirty)
+floating refers to a system whereby exchange rates are allowed to float, but from time to time the
+authorities will intervene in the foreign exchange market:
+
+
+
+To use their official reserves of foreign currencies to buy their own domestic currency
+To sell their domestic currency to buy more foreign currency for the official reserves
+
+Buying and selling in this way would be intended to influence the exchange rate of the domestic currency.
+Governments do not have official reserves large enough to dictate exchange rates to the market, and can
+only try to 'influence' market rates with intervention.
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+45
+
+Speculation in the capital markets often has a much bigger short-term impact than changes in
+fundamental supply and demand.
+
+4.5 European Economic and Monetary Union
+There are three main aspects to the European Monetary Union.
+(a)
+
+A common currency (the euro)
+
+(b)
+
+A European Central Bank. The European Central Bank has several roles:
+(i)
+(ii)
+(iii)
+(iv)
+
+(c)
+
+Issuing the common currency
+Conducting monetary policy on behalf of the central government authorities
+Acting as lender of last resort to all European banks
+Managing the exchange rate for the common currency
+
+A centralised monetary policy applies across all the countries in the union. This involves the
+surrender of control over aspects of economic policy and therefore surrender of some political
+sovereignty by the government of each member state to the central government body of the union.
+
+4.6 Exchange rates and business
+A change in the exchange rate will affect the relative prices of domestic and foreign produced goods and
+services.
+A lower exchange rate
+
+A higher exchange rate
+
+Domestic goods are cheaper in foreign markets so
+demand for exports increases.
+
+Domestic goods are more expensive in foreign
+markets so demand for exports falls.
+
+Foreign goods are more expensive so demand for
+imports falls.
+
+Foreign goods are cheaper so demand for imports
+rises.
+
+Imported raw materials are more expensive so
+costs of production rise.
+
+Imported raw materials are cheaper so costs of
+production fall.
+
+Fluctuating exchange rates create uncertainties for businesses involved in international trade. A service
+industry is less likely to be affected because it is less likely to be involved in substantial international trade.
+International trading companies can do a number of things to reduce their risk of suffering losses on
+foreign exchange transactions, including the following.
+(a)
+
+Many companies buy currencies 'forward' at a fixed and known price.
+
+(b)
+
+Dealing in a 'hard' currency may lessen the risks attached to volatile currencies.
+
+(c)
+
+Operations can be managed so that the proportion of sales in one currency are matched by an
+equal proportion of purchases in that currency.
+
+(d)
+
+Invoicing can be in the domestic currency. This means that the customer bears all the foreign
+exchange risk, however, and, in industries where customers have high bargaining power, this may
+be an unacceptable arrangement. Furthermore, there is the risk that sales will be adversely affected
+by high prices, reducing demand.
+
+(e)
+
+Activities can be outsourced to the local market. Many of the Japanese car firms which have
+invested in the UK in recent years have made efforts to obtain many of their inputs, subject to
+quality limits, from local suppliers. Promotional activities can also be sourced locally.
+
+(f)
+
+Firms can aim at segments in the market which are not particularly price sensitive. For example,
+many German car marques such as Mercedes have been marketed in the US on the basis of quality
+and exclusivity. This is a type of strategy based on differentiation focus.
+
+Foreign currency risk will be covered in more detail in Chapter 19.
+
+46
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+
+5 Competition policy
+5.1 Regulation and market failure
+FAST FORWARD
+
+Key term
+
+The government influences markets in various ways, one of which is through direct regulation (eg the
+Competition and Markets Authority in the UK).
+Market failure is said to occur when the market mechanism (the interaction of supply and demand to
+result in a market clearing price and quantity supplied/demanded) fails to result in economic efficiency,
+and therefore the outcome is sub-optimal.
+An important role of the government is the regulation of private markets where these fail to bring about
+an efficient use of resources. In response to the existence of market failure, and as an alternative to
+taxation and public provision of production, the state often resorts to regulating economic activity in a
+variety of ways. Of the various forms of market failure, the following are the cases where regulation of
+markets can often be the most appropriate policy response.
+(a)
+
+Imperfect competition
+Where one company's large share or complete domination of the market is leading to inefficiency
+or excessive profits, the state may intervene, for example through controls on prices or profits, in
+order to try to reduce the effects of this power.
+
+(b)
+
+Social costs
+A possible means of dealing with the problem of social costs or externalities is via some form of
+regulation. Regulations might include, for example, controls on emissions of pollutants, restrictions
+on car use in urban areas, the banning of smoking in public buildings, or compulsory car insurance.
+
+(c)
+
+Imperfect information
+Regulation is often the best form of government action whenever informational inadequacies are
+undermining the efficient operation of private markets. This is particularly so when consumer
+choice is being distorted.
+
+(d)
+
+Equity
+The government may also resort to regulation to improve social justice.
+
+5.2 Types of regulation
+Regulation can be defined as any form of state interference with the operation of the free market. This
+could involve regulating demand, supply, price, profit, quantity, quality, entry, exit, information,
+technology, or any other aspect of production and consumption in the market.
+In many markets the participants (especially the firms) may decide to maintain a system of voluntary
+self-regulation, possibly in order to try to avert the imposition of government controls. Areas where
+self-regulation often exists include the professions (eg the Law Society, the British Medical Association
+and other professional bodies).
+
+5.3 Monopolies and mergers
+Key term
+
+12/16
+
+In a pure monopoly, there is only one firm in the market, the sole producer of a good, which has no
+closely competing substitutes.
+A monopoly situation can have some advantages.
+(a)
+
+In certain industries arguably only by achieving a monopoly will a company be able to benefit from
+the kinds of economies of scale (benefits of conducting operations on a large scale) that can
+minimise prices.
+
+(b)
+
+Establishing a monopoly may be the best way for a business to maximise its profits.
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+47
+
+However, monopolies often have several adverse consequences.
+(a)
+
+Companies can impose higher prices on consumers.
+
+(b)
+
+The lack of incentive of competition may mean companies have no incentive to improve their
+products or offer a wider range of products.
+
+(c)
+
+There is no pressure on the company to improve the efficiency of its use of resources.
+
+In practice, government policy is concerned not just with situations where one firm has a 100% market
+share but also with other situations where an organisation has a significant market share.
+Government regulatory authorities (for example the Competition and Markets Authority in the UK) can also
+be asked to investigate what could be called 'oligopoly situations' involving explicit or implicit collusion
+between firms, who together control the market. The Authority must decide whether or not the monopoly
+is acting 'against the public interest'. If so, this may result in a number of measures, including:
+
+
+
+
+
+Price cuts
+Price and profit controls
+Removal of entry barriers
+The breaking up of the firm (rarely)
+
+Case Study
+The healthcare giant Johnson & Johnson has become the latest foreign company to be accused of
+misconduct in China.
+A ruling by a Shanghai court ordered the US company to pay $85,000 (£56,000) to a local distributor for
+violating anti-monopoly laws.
+Two subsidiaries of the company were accused of setting a minimum price for the sale of surgical
+instruments.
+Multinationals have faced increased scrutiny from the Chinese authorities.
+Last month, two foreign milk suppliers announced price cuts after the government launched an
+investigation into possible price fixing.
+(BBC, 2013)
+A prospective merger between two or more companies may be referred to the regulatory authority. In the
+UK, a referral may be made to the Competition and Markets Authority for investigation if a larger company
+will gain more than 25% market share and where a merger appears likely to lead to a substantial lessening
+of competition in one or more markets in the UK. Many other countries have similar regulatory authorities.
+If a potential merger is investigated, the Authority again has to determine whether or not the merger would
+be against the public interest. As with monopolies, it will assess the relative benefits and costs in order to
+arrive at a decision.
+
+Question
+
+Competition
+
+Look through newspapers or on the internet for a report on the activities of regulatory bodies such as the
+Competition and Markets Authority. Why is the investigation being carried out and how was it initiated?
+
+5.4 Restrictive practices
+Some countries have legislation which deals with restrictive practices that distort, restrict or prevent
+competition. A notable example of a restrictive practice would be agreements with direct competitors
+resulting in them colluding to the disadvantage of the consumer (eg price-fixing agreements). The
+
+48
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+legislation may also deal with abuse of dominant position offences, such as predatory pricing (charging
+low prices to unfairly destroy competition) or refusing to supply so as to restrict competition.
+
+5.5 Deregulation
+Deregulation or 'liberalisation' is, in general, the opposite of regulation. Deregulation can be defined as the
+removal or weakening of any form of statutory (or voluntary) regulation of free market activity.
+Deregulation allows free market forces more scope to determine the outcome.
+Deregulation, whose main aim is to introduce more competition into an industry by removing statutory or
+other entry barriers, has the following potential benefits.
+(a)
+(b)
+
+Improved incentives for internal/cost efficiency
+Greater competition compels managers to try harder to keep down costs.
+Improved allocative efficiency
+Competition keeps down prices closer to marginal cost, and firms therefore produce closer to the
+socially optimal output level.
+
+In some industries it could have certain disadvantages, including the following.
+(a)
+
+(b)
+
+(c)
+
+Loss of economies of scale
+If increased competition means that each firm produces less output on a smaller scale, unit costs
+will be higher.
+Lower quality or quantity of service
+The need to reduce costs may lead firms to reduce quality or eliminate unprofitable but socially
+valuable services.
+Need to protect competition
+It may be necessary to implement a regulatory regime to protect competition where inherent forces
+have a tendency to eliminate it, for example if there is a dominant firm already in the industry, as in
+the case of British Telecom. In this type of situation, effective 'regulation for competition' will be
+required, ie regulatory measures aimed at maintaining competitive pressures, whether existing or
+potential.
+
+5.6 Privatisation
+FAST FORWARD
+
+Privatisation is a policy of introducing private enterprise into industries which were previously state-owned
+or state-operated.
+Privatisation takes three broad forms.
+(a)
+
+(b)
+(c)
+
+The deregulation of industries, to allow private firms to compete against state-owned businesses
+where they were not allowed to compete before (for example, deregulation of bus and coach
+services; deregulation of postal services)
+Contracting out work to private firms, where the work was previously done by government
+employees – for example, refuse collection or hospital laundry work
+Transferring the ownership of assets from the state to private shareholders
+
+Privatisation can improve efficiency in one of two ways.
+(a)
+(b)
+
+If the effect of privatisation is to increase competition, the effect might be to reduce or eliminate
+allocative inefficiency.
+The effect of denationalisation might be to make the industries more cost-conscious, because they
+will be directly answerable to shareholders, and under scrutiny from stock market investors.
+
+There are other possible advantages of privatisation.
+(a)
+
+It provides an immediate source of money for the government.
+
+(b)
+
+It reduces bureaucratic and political meddling in the industries concerned.
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+49
+
+(c)
+
+It encourages wider share ownership. Denationalisation is one method of creating wider share
+ownership, as the sale of BT, British Gas and some other nationalised industries have shown in the
+UK.
+
+There are arguments against privatisation too.
+
+Exam focus
+point
+
+(a)
+
+State-owned industries are more likely to respond to the public interest, ahead of the profit motive.
+For example, state-owned industries are more likely to cross-subsidise unprofitable operations
+from profitable ones.
+
+(b)
+
+Encouraging private competition to state-run industries might be inadvisable where significant
+economies of scale can be achieved by monopoly operations.
+
+(c)
+
+There is also an argument that privatised businesses try to use their market power to create
+monopolies and to drive up prices.
+
+In the exam, you will not be tested on the detail of country-specific 'competition policy' rules but you will
+need to understand the general issues surrounding the regulation of companies with high levels of
+monopoly power.
+
+6 Government assistance for business
+6.1 Official aid schemes
+FAST FORWARD
+
+The freedom of European governments to offer cash grants and other forms of direct assistance to
+business is limited by European Union policies designed to prevent the distortion of free market
+competition.
+A government may provide finance to companies in cash grants and other forms of official direct
+assistance, as part of its policy of helping to develop the national economy, especially in high technology
+industries and in areas of high unemployment.
+Government incentives might be offered on:
+(a)
+
+A regional basis, giving help to firms that invest in an economically depressed area of the country
+
+(b)
+
+A selective national basis, giving help to firms that invest in an industry that the government
+would like to see developing more quickly, for example robotics or fibre optics
+
+In Europe, such assistance is increasingly limited by European Union policies designed to prevent the
+distortion of free market competition.
+
+7 Green policies
+FAST FORWARD
+
+There are a number of policy approaches to pollution, such as polluter pays policies, subsidies and
+direct legislation.
+The environment is increasingly seen as an important issue facing managers in both the public and private
+sectors. The problems of pollution and the environment appear to call for international co-operation
+between governments. Pollutants expelled into the atmosphere in the UK are said to cause acid rain to fall
+in Scandinavia, for example.
+
+7.1 Pollution policy
+Key term
+
+50
+
+12/16
+
+Externalities are positive or negative effects on third parties resulting from production and consumption
+activities.
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+Pollution, for example from exhaust gas emissions or the dumping of waste, is often discussed in relation
+to environmental policy. If polluters take little or no account of their actions on others, this generally
+results in the output of polluting industries being greater than is optimal.
+One solution is to levy a tax on polluters equal to the cost of removing the effect of the externality they
+generate: the polluter pays principle. This will encourage firms to cut emissions and provides an incentive
+for them to research ways of permanently reducing pollution.
+Apart from the imposition of a tax, there are a number of other measures open to the government in
+attempting to reduce pollution. One of the main measures available is the application of subsidies which
+may be used either to persuade polluters to reduce output and hence pollution, or to assist with
+expenditure on production processes, such as new machinery and air cleaning equipment, which reduce
+levels of pollution.
+
+7.2 Legislation
+An alternative approach used in the UK is to impose legislation laying down regulations governing waste
+disposal and atmospheric emissions. Waste may only be disposed of with prior consent and if none is
+given, or it is exceeded, the polluter is fined. There may also be attempts with this type of approach to
+specify standards of, for example, air and water quality with appropriate penalties for not conforming to
+the required standards.
+
+7.3 Advantages of 'environmentally friendly policies' for a business
+There may be various reasons why a business may gain from adopting a policy of strict compliance with
+environmental regulations, or of going further and taking voluntary initiatives to protect aspects of the
+environment.
+(a)
+
+If potential customers perceive the business to be environmentally friendly, some may be more
+inclined to buy its products.
+
+(b)
+
+A corporate image which embraces environmentally friendly policies may enhance relationships
+with the public in general or with local communities.
+
+(c)
+
+People may prefer to work for an environmentally friendly business.
+
+(d)
+
+'Ethical' investment funds may be more likely to buy the firm's shares.
+
+The case study below highlights the dangers for a company of not displaying environmentally friendly
+policies.
+
+Case Study
+In September 2015, the world's largest car maker, Volkswagen, made headlines when it was discovered
+that it had deceived US regulators in exhaust emissions tests. Devices were installed in test vehicles which
+gave better emissions results than would be achieved when the vehicles were actually used on the road.
+Volkswagen set aside €6.5bn to cover the costs of the scandal and the CEO resigned.
+(BBC, 2015)
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+51
+
+8 Corporate governance regulation
+FAST FORWARD
+
+Corporate governance impacts on the way companies make decisions, their financial organisation and
+their relations with investors and auditors.
+In Chapter 1, Section 5.2.1, we looked at how corporate governance is used to enforce the achievement of
+stakeholder objectives. Corporate governance has emerged as a major issue in the last 20 years in the
+light of several high profile collapses. Guidance has been given because of the lack of confidence
+perceived in financial reporting and in the ability of auditors to provide the assurances required by the
+users of financial accounts.
+
+8.1 Impact of corporate governance requirements on businesses
+The consequences of failure to obey corporate governance regulations should be considered along with
+failure to obey any other sort of legislation.
+Businesses that fail to comply with the law run the risk of financial penalties and the financial
+consequences of accompanying bad publicity.
+In regimes where corporate governance principles are guidelines rather than regulations, businesses will
+consider what the consequences might be of non-compliance, in particular the impact on share prices.
+Obedience to requirements or guidelines can also have consequences for businesses. Compliance may
+involve extra costs, including extra procedures and investment necessary to conform; for example, the
+creation of sufficiently independent board committees relating to remuneration, nomination and audit.
+
+52
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+
+Chapter Roundup
+
+
+Macroeconomic policy involves:
+–
+–
+–
+
+Policy objectives – the ultimate aims of economic policy
+Policy targets – quantified levels or ranges which policy is intended to achieve
+Policy instruments – the tools used to achieve objectives
+
+Achievement of economic growth, low inflation, full employment and balance of payments stability are
+policy objectives.
+Policy targets might be set for economic growth or the rate of inflation, for example.
+
+
+Fiscal policy seeks to influence the economy by managing the amounts which the government spends
+and the amounts it collects through taxation. Fiscal policy can be used as an instrument of demand
+management.
+
+
+
+Monetary policy aims to influence monetary variables such as the rate of interest and the money supply in
+order to achieve targets set, such as targets for the rate of inflation.
+
+
+
+Exchange rates are determined by supply and demand, even under fixed exchange rate systems.
+Governments can intervene to influence the exchange rate by, for example, adjusting interest rates.
+Government policies on exchange rates might be fixed or floating exchange rates as two extreme
+policies, but 'in-between' schemes have been more common.
+
+
+
+The government influences markets in various ways, one of which is through direct regulation (eg the
+Competition and Markets Authority in the UK).
+
+
+
+Privatisation is a policy of introducing private enterprise into industries which were previously stateowned or state-operated.
+
+
+
+The freedom of European governments to offer cash grants and other forms of direct assistance to
+business is limited by European Union policies designed to prevent the distortion of free market
+competition.
+
+
+
+There are a number of policy approaches to pollution, such as polluter pays policies, subsidies and
+direct legislation.
+
+
+
+Corporate governance impacts on the way companies make decisions, their financial organisation and
+their relations with investors and auditors.
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+53
+
+Quick Quiz
+1
+
+What are likely to be the main aims of a government's economy policy?
+
+2
+
+What is the difference between fiscal policy and monetary policy?
+
+3
+
+What effect does a high interest rate have on the exchange rate?
+
+4
+
+Name five factors that can influence the level of exchange rates.
+
+5
+
+Give four reasons for government intervention in markets.
+
+6
+
+What is the situation called when there is only one firm, the sole producer of a good, which has no closely
+competing substitutes?
+A
+B
+C
+D
+
+7
+
+Duopoly
+Oligopoly
+Monopoly
+Totopoly
+
+Fill in the blank.
+........................................ are positive or negative effects on third parties resulting from production and
+consumption activities.
+
+8
+
+Fill in the blank.
+Corporate governance is ...............................................................................................................................
+
+54
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+
+Answers to Quick Quiz
+1
+
+Main objectives include:
+(a)
+(b)
+(c)
+(d)
+
+Economic growth
+Control of price inflation
+Full employment
+Balance between imports and exports
+
+2
+
+A government's fiscal policy is concerned with taxation, borrowing and spending and their effects on the
+economy. Monetary policy is concerned with money and interest rates.
+
+3
+
+It attracts foreign investment, thus increasing the demand for the currency. The exchange rate rises as a
+result.
+
+4
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+Comparative inflation rates
+Comparative interest rates
+Balance of payments
+Speculation
+Government policy
+
+5
+
+(a)
+(b)
+(c)
+(d)
+
+Imperfect competition
+Social costs/externalities
+Imperfect information
+Equity
+
+6
+
+C
+
+Monopoly
+
+7
+
+Externalities
+
+8
+
+The system by which companies are directed and controlled
+
+Now try the question below from the Practice Question Bank
+Number
+
+Level
+
+Marks
+
+Approximate time
+
+Section A Q4
+
+Examination
+
+2
+
+4 mins
+
+Section A Q5
+
+Examination
+
+2
+
+4 mins
+
+Section A Q6
+
+Examination
+
+2
+
+4 mins
+
+Part B Financial management
+management environment
+w
+
+2: The economic environment for business
+
+55
+
+56
+
+2: The economic environment for business
+
+Part
+B Financial management environment
+w
+
+
+
+Financial markets,
+money markets and
+institutions
+
+Topic list
+
+Syllabus reference
+
+1 Financial intermediaries
+
+B2 (b)
+
+2 Financial markets
+
+B2 (a), B3 (a), (b)
+
+3 International money and capital markets
+
+B2 (a), (c)
+
+4 Rates of interest and rates of return
+
+B2 (d)
+
+5 Money market instruments
+
+B3 (c)
+
+Introduction
+Having discussed the scope of financial management and the objectives of
+firms and other organisations in Chapter 1, we now introduce the framework of
+markets and institutions through which the financing of a business takes
+place.
+
+w
+
+57
+
+Study guide
+Intellectual level
+B2
+
+The nature and role of financial markets and institutions
+
+(a)
+
+Identify the nature and role of money and capital markets, both nationally
+and internationally.
+
+2
+
+(b)
+
+Explain the role of financial intermediaries.
+
+1
+
+(c)
+
+Explain the functions of a stock market and a corporate bond market.
+
+2
+
+(d)
+
+Explain the nature and features of different securities in relation to the
+risk/return trade-off.
+
+2
+
+B3
+
+The nature and role of money markets
+
+(a)
+
+Describe the role of the money markets in:
+
+(i)
+
+Providing short-term liquidity to the private sector and the public sector
+
+(ii)
+
+Providing short-term trade finance
+
+(b)
+
+Explain the role of banks and other financial institutions in the operation of
+the money markets.
+
+2
+
+(c)
+
+Explain the characteristics and role of the principal money-market
+instruments:
+
+2
+
+(i)
+
+Interest-bearing instruments
+
+(ii)
+
+Discount instruments
+
+(iii)
+
+Derivative products
+
+1
+
+Exam guide
+You are unlikely to be asked a whole longer question on financial markets and institutions. You might,
+however, be asked a part question or Section A multiple choice question that relates to the circumstances
+of a particular company, for instance how they could raise funds using a stock market.
+
+1 Financial intermediaries
+1.1 The role of a financial intermediary
+FAST FORWARD
+
+Key term
+
+A financial intermediary links those with surplus funds (eg lenders) to those with fund deficits
+(eg potential borrowers) thus providing aggregation and economies of scale, risk pooling and maturity
+transformation.
+
+A financial intermediary is an institution bringing together providers and users of finance, either as
+broker or as principal.
+A financial intermediary links lenders with borrowers, by obtaining deposits from lenders and then
+re-lending them to borrowers.
+
+58
+
+3: Financial markets, moneyy markets and institutions
+
